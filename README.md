@@ -18,13 +18,13 @@ Users are expected to revise, adapt, expand, and simplify the Lightweight LSAT s
 
 The site's design is intentionally minimal: mostly grid-based CSS and Markdown. There are no scripts or cookies or user tracking of any kind.
 
-The site is built using [Jekyll](https://jekyllrb.com) so that it could be written and revised in Markdown instead of HTML. There is some Liquid code + YAML files that help keep the site consistent from page to page, and reduce the need to copy + paste repetitive sections. If you clone this repository, you'll need Jekyll to turn the files into a website.
+The site is built using [Jekyll](https://jekyllrb.com) so that it can be written and revised in Markdown (instead of HTML). There is some Liquid code + YAML files that help keep the site consistent from page to page, and reduce the need to copy + paste repetitive sections. If you clone this repository, you'll need Jekyll to turn the files into a website.
 
 You'll find the actual content of the site in the Markdown files contained under "pages" (and in the YAML files under _data).
 
 ## Collaboration
 
-Currently I, Graham, am the only contributor. Email feedback@lightweightlsat.com to share ideas or offer to help. Or use GitHub's issues to spot typos/mistakes/areas for improvement.
+Email feedback@lightweightlsat.com to share ideas or offer to help. Or use GitHub's issues to spot typos/mistakes/areas for improvement.
 
 ## Areas for Future Growth
 
@@ -44,11 +44,6 @@ Vocabulary use is more consistent, but certainly requires some updates.
 
 The site has not been shared widely.
 
-I have no interest in social media, so alternative publicity strategies will be required, such as:
-
-- automated social media,
-- directly contacting undergraduate pre-law advisors.
-
 ### Videos
 
 I am currently developing videos to accompany the site. The purpose of videos are:
@@ -59,7 +54,7 @@ I am currently developing videos to accompany the site. The purpose of videos ar
 
 ### Workshops
 
-To popularize and explain the site, I may offer live, pay-what-you-can workshops in the future.
+I may offer live, pay-what-you-can workshops in the future.
 
 ## Intellectual Property
 
