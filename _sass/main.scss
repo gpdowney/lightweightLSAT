@@ -1,0 +1,187 @@
+/* font import */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300');
+
+/* default grid + smaller screens */
+body {
+    display: grid;
+    grid-template-areas:
+        "header"
+        "main"
+        "nav"
+        "footer"
+    ;
+    grid-template-rows: auto 1fr auto auto;
+    grid-template-columns: 95vw;
+    min-height: 95vh;
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+header {
+    grid-area: header;
+    text-align: right;
+}
+
+main {
+    grid-area: main;
+    line-height: 1.5em;
+}
+
+nav {
+    grid-area: nav;
+    font-size: 12px;
+    text-align: center;
+}
+
+footer {
+    grid-area: footer;
+    font-size: small;
+    padding: 1em;
+    text-align: center;
+}
+
+/* make images scale to screen size */
+img{
+    max-width: 100%;
+    object-fit: scale-down;
+}
+
+/* make links green when visited */
+a:visited{
+    color: #01665f;
+}
+
+h1, h2, h3{
+    line-height: normal;
+}
+
+/* distinguish tertiary headings with italics */
+h3{
+    font-style: italic;
+}
+
+/* to indent paragraphs by default */
+p{
+    margin-left: 1em;
+}
+
+/* first sublevel in Nav */
+.toc_one{
+    margin-left: .25em;
+    margin-right: .5em;
+    font-style: italic;
+}
+
+/* second sublevel Nav */
+.toc_two{
+    margin-left: .75em;
+    margin-right: .5em;
+    font-style: italic;
+}
+
+/* custom strong and emphasis */
+strong{
+    font-weight: bold;
+}
+
+em{
+    font-style: italic;
+}
+
+/* unordered lists to simple - */
+ul{
+    list-style: "- ";
+}
+
+/* add list indent */
+ul, ol{
+    margin-left: 1em;
+}
+
+/* style quotes as boxes of cosmic latte */
+blockquote{
+    background-color: #FFF8E7;
+    border: 1px dotted black;
+    padding-right: 2em;
+}
+
+/* basic tables with alternating row color */
+table {
+    table-layout: fixed;
+    width: 100%;
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin: 1em;
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+tr.odd {
+    background: whitesmoke;
+}
+
+/* Glossary grid layout for small screens*/
+.gloss{
+    display: grid;
+    grid-template-columns: 5em 1fr;
+    column-gap: 1em;
+}
+
+/* left align glossary terms on small screens */
+.term{
+    text-align: left;
+}
+
+/* Move down definitions to align with larger headings */
+.def{
+    padding-top: .2em;
+}
+
+/* LR Species grid layout */
+.species{
+    display: grid;
+    grid-template-columns: 4em 1fr;
+    border-bottom: 2px dotted black;
+    column-gap: 1em;
+}
+
+/* changes to grid for larger screens, inherits most from above */
+@media (min-width: 40em) {
+
+    body {
+
+        grid-template-areas:
+            "nav header"
+            "nav main"
+            "nav footer"
+        ;
+
+        grid-template-columns: 8em minmax(auto, 38em);
+        grid-template-rows: auto 1fr auto;
+        column-gap: 4em;
+
+        margin-right: 2em;
+    }
+
+    nav{
+        font-size: 14px;
+        text-align: left;
+    }
+
+    /* Glossary grid layout for large screens*/
+    .gloss{
+        display: grid;
+        grid-template-columns: 8em 1fr;
+        column-gap: 2em;
+    }
+
+    /* Right align glossary terms on large screens */
+    .term{
+        text-align: end;
+    }
+}

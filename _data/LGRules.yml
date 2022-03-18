@@ -1,0 +1,92 @@
+- name: easy LIST
+  ex: Which of the following could be a complete and accurate list...?
+  know: Usually the 1st Q.
+  process: |
+    - Use each Rule, one by one, to eliminate Answers.
+    - Usually each Rule will eliminate one Answer.
+    - Sometimes you can use Connected Rules to eliminate more than one Answer.
+    - The correct Answer is a valid HYPO, write it down.
+  adv: |
+
+    - Use these Qs to practice smoothly consulting one Rule at a time.
+    - To increase smoothness, know what you're looking for in the Answer before you look.
+    - Or don't expect smoothness, and use these Qs to learn how the Rules work.
+
+- name: easy IF
+  ex: If X is in 3, then which of the following...?
+  know: Gives a clear starting point for creating a HYPO.
+  process: |
+    1. Draw a new Board with the new info.
+    1. Follow the next, overlapping Rule.
+    1. Add new info to the Board.
+    1. Repeat Steps 2 + 3 to exhaustion (of the Rules).
+    1. Ask "Who's Left?"
+  adv: When you add new info to the board, check to see if you can select or eliminate any Answers. 
+
+- name: DOMINOS
+  ex: Which of the following, if true, completely determines the position of every other element?
+  know: The correct Answer will make everything fall into place, like dominos.
+  process: |
+    - Test each Answer by making a new Board and following the overlapping Rules one by one.
+    - As soon as there's a option (something "could be" here or there), move on to the next Answer.
+  adv: Start testing with Answers that put restricted Elements in restrictive places.
+
+
+- name: hard IF
+  ex: |
+    If X is before Y, then which one of the following...
+
+    > If X is not in 3, then which one of the following...
+  know: The new info can't go on the Board or it doesn't lead to a useful HYPO.
+  process: |
+    - Mini-Splits: often the new info will limit the Game to 2-3 options, which you could Split.
+    - When the new Info is a new Rule, don't worry about putting it on the Board. Write the new Rule down, then connect other Rules...
+    - When all else fails, pretend it's a WHICH Q (but don't forget the new info).
+  adv: | 
+    Some Qs that look like RULE SUB Qs are actually hard IF Qs.
+
+    > If the rule that "A must be first" is replaced by the rule that "B must be first", then which one of the following...
+
+    For these Qs, draw a new board with the new info (here, put B in 1) and follow all the rules except the replaced rule (here, ignore "A in 1").
+
+- name: WHICH
+  ex: |
+    Which one of the following must be false?
+
+    > Which of the following could be true?
+  know:
+  process: |
+    1. Use your old HYPOS to prove or disprove answers.
+    1. Wizard: Stare at the Answers to see if any are obviously correct or incorrect. Note: Wizarding is not guessing. And you're only allowed to Wizard for 10 seconds.
+    1. Make new HYPOS to prove or disprove each remaining answer.
+  adv: | 
+    Test Answers strategically:
+    - On MUST Qs: start testing the Answers you think are wrong.
+    - On COULD Qs: start testing the Answers you think are right.
+
+- name: hard LIST
+  ex: Which of the following is a complete and accurate list of the places that X could go?
+  know: |
+    Notice the difference between easy and hard LIST Qs...
+    - easy LIST = "what could be a list" (one example)
+    - hard LIST = "list of what could be" (all the possibilities)
+  process: |
+    - Collect the relevant info from valid HYPOS (here, where X has gone).
+    - Eliminate incomplete Answers (if you've seen X in 2 and 3, you can eliminate any Answer that doesn't include both 2 and 3).
+    - Make new HYPOS to test the remaining Answers.
+
+  adv: These are advanced enough!
+
+
+- name: RULE SUB
+  ex: "Which of the following rules, if substituted for the rule that X comes before Y, would have the same effect?"
+  know:
+  process: |
+    1. Use your old HYPOS to eliminate CBF Answers.
+    1. Translate the new Rules (the Rules in the Answers) to see if any merely rephrase the old Rule.
+    1. Guess
+  adv: |
+    Disprove remaining Answers by creating a HYPO that...
+    1. Follows the new Rule and
+    1. Breaks the old Rule, but
+    1. Follows all the other Rules.

@@ -1,0 +1,14 @@
+{% for item in site.data.LRSpecies -%}
+{% if item.family == whatfam %}
+<h2 id="{{ item.species | slugify}}">{{ item.species | upcase }}</h2>
+<p><em>{{item.genus}} / {{item.family}}</em></p>
+<div class="species">
+    <h3 class="term">Clues</h3>
+    <div>{{ item.clues | markdownify }}</div>
+    <h3 class="term">Job</h3>
+    <div>{{ item.job | markdownify }}</div>
+    <h3 class="term">Tips</h3>
+    <div>{{ item.tips | markdownify }}</div>
+</div>
+{% endif %}
+{% endfor %}

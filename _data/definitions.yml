@@ -1,0 +1,401 @@
+- word: Q
+  meaning: >
+    Question. Sometimes refers to the whole Problem. 
+    Sometimes refers to the part that ends in a "?".
+  header: yes
+
+- word: Answer
+  meaning: >
+    One of the 5 choices you have for every Q, lettered A-E. 
+    They're [designed to confuse](confuse.html) you.
+
+- word: PTs
+  meaning: >
+    Practice Tests. Previously administered LSATs. 
+    Not every test is released.
+
+- word: LawHub
+  meaning: >
+    The official source of digital practice tests. 
+    It is also what you will use to take the real, at-home LSAT.
+
+- word: LSAC
+  meaning: >
+    The organization that designs and administers the LSAT.
+
+- word: "1:00"
+  meaning: 1 minute.
+
+- word: "0:30"
+  meaning: 30 seconds.
+
+- word: Points
+  meaning: Each correct Answer is worth 1 Point for your Raw Score.
+
+- word: Raw Score
+  meaning: The total number of Qs you Answer correctly.
+
+- word: Scaled Score
+  meaning: >
+    The number between 120-180 reported to Law Schools. 
+    It is a product of your Raw Score and the test-specific [Curve](scores.html).
+
+- word: Flag
+  meaning: >
+    A small Flag symbol on the upper right corner of the digital test interface. 
+    It marks the Q on the bottom so you can review it later.
+
+- word: Select
+  meaning: Click the button on the left side of the Answer to select it.
+
+- word: Eliminate
+  meaning: >
+    Click the button on the right side of the Answer to cross it out.
+    (You cannot gain points by eliminating incorrect Answers).
+
+- word: Defer
+  meaning: Click no buttons, go to the next Answer.
+
+- word: Move On
+  meaning: Go to the next Q (with or without an Answer.)
+
+- word: Strength
+  meaning: The tone or degree of a word. The LSAT tests your capacity to *match* strength.
+
+- word: Modesty
+  meaning: Modest words hem and haw and leave lots of possibilities open.
+
+- word: Strong
+  meaning: >
+    Strong words are absolute, judgmental, normative. 
+    *Must, cannot, only, should, all, none.* 
+    They narrow the possibilities.
+
+- word: Poison
+  meaning: A word or phrase that makes an Answer wrong. Eliminate Poisoned Answers.
+
+- word: Weirdo
+  meaning: >
+    An Answer you aren't sure about. 
+    Might seem more or less OK. 
+    Defer on these.
+
+- word: Cowboy
+  meaning: One who takes the LSAT without a System or [Checklists](checklists.html).
+
+- word: Wizard
+  meaning: One who stares at the LSAT and hopes the Answer will magically become obvious.
+
+- word: Knight
+  meaning: >
+    One who thinks Knowledge can protect them from the LSAT.
+    One who spends all their time learning *about* the Test, instead of learning *from* the Test.
+    It's not a Knowledge test. It's a skill test.
+
+- word: Robot
+  meaning: >
+    One who thinks methodically, step-by-step. 
+    A good thing to be in Games and on Mechanical LR Qs.
+
+- word: Reset
+  meaning: >
+    A pause to breathe and put yourself back [in control](resets.html).
+
+- word: Stress
+  meaning: >
+    Happens to all of us. Can be helpful.
+
+- word: Anxiety
+  meaning: >
+    Stress that [gets in the way](confidence.html) of doing what you need to do.
+
+- word: Flashcard
+  meaning: >
+    A useful way to memorize information. 
+    It is important to note when you can make a flashcard 
+    because most of the Test cannot be memorized. 
+    I prefer to use [Anki](resources.html#anki) to make Flashcards.
+
+- word: The 4 Stages of Competence
+  meaning: |    
+    1. Unconscious Incompetence
+    1. Conscious Incompetence
+    1. Conscious Competence
+    1. Unconscious Competence
+
+    The middle, conscious stages are the slowest and most painful. But you cannot skip to the end.  
+
+- word: Multitasking
+  meaning: >
+    You can't do it. 
+    When you think you're doing it, you're actually switching back and forth between the two tasks. 
+    Each switch consumes mental energy and degrades the quality of your work.
+
+- word: Pattern Recognition
+  meaning: >
+    Professional Baseball players don't have faster than average reaction times. 
+    They can only hit 90mph fastballs because they know the pitcher's patterns.
+
+- word: Habits
+  meaning: >
+    All that we are is mere [bundles of habit](https://psychclassics.yorku.ca/James/Principles/prin4.htm).
+
+- word: Metacognition
+  meaning: Thinking about what you're thinking while you're thinking.
+
+- word: Acronyms
+  meaning: >
+    Acronyms (and initializations) are immoral. 
+    Avoid their use, and their users, whenever possible. 
+
+- word: Latin
+  meaning: >
+    Like acronyms, Latin phrases obscure meaning and impair understanding. 
+    Latin phrases (like acronyms) are used to posture and exclude (if, perhaps, unintentionally). 
+    They signal intellectual laziness, not intelligence. 
+
+- word: Presumptions
+  meaning: >
+    Like the presumption of innocence, presumptions are rebuttable defaults. 
+    Every "fact" or "rule" about the LSAT is actually a presumption.
+
+- word: Analogies
+  meaning: >
+    To make an Analogy, replace complicated noun phrases with simple nouns. 
+    Or ask yourself, "What is this like?"
+
+- word: LG
+  meaning: >
+    Logic Games. 
+    Answer several Qs about a strange Scenario subject to certain Conditions. 
+    (To make things more confusing the LSAC calls LG "Analytic Reasoning.")
+  header: yes
+
+- word: Scenario
+  meaning: The paragraph that describes the Game.
+
+- word: Conditions
+  meaning: The list of restrictions on the Game.
+
+- word: Elements
+  meaning: The Game's moving parts.
+
+- word: Index
+  meaning: A list you make of all of the Elements.
+
+- word: Board
+  meaning: >
+    How you Draw the Scenario. 
+    For example, a number line for Order games.
+    [Here are some more examples](species.html).
+
+- word: Rules
+  meaning: How you Draw the Conditions.
+
+- word: HYPO
+  meaning: Hypothetical. A complete and valid arrangement of the Elements on the Board.
+
+- word: MBT
+  meaning: Must be True. (Disproved by CBF.)
+
+- word: MBF
+  meaning: Must be False. (Disproved by CBT.)
+
+- word: CBT
+  meaning: Could be True. (Proved by CBT.)
+
+- word: CBF
+  meaning: Could be False. (Proved by CBF.)
+
+- word: Numbers
+  meaning: >
+    Any numerical information in the Scenario or Conditions, 
+    including whether each Element must be used, 
+    how often each Element can or must be used, 
+    and the size of the Board.
+
+- word: Variable
+  meaning: >
+    An extra moving part. 
+    Like if Buddy, Fred, and Ernest can be Cats or Dogs. 
+    Then B, F, and E would be the Elements. C/D is a Variable.
+
+- word: Constant
+  meaning: >
+    An extra that doesn't change. 
+    Like if Togo and Balto are Dogs; and Simba and Nala are Cats.
+    Then T, B, S, and N are Elements. D/C is Constant.
+
+- word: Game Family
+  meaning: Order or Group.
+
+- word: Order
+  meaning: Elements one at a time (the board is 2D). Each spot is different (usually).
+
+- word: Group
+  meaning: >
+    Elements together in a few buckets (the board is 3D).
+    Sometimes each bucket is distinct, sometimes the buckets are interchangeable.
+
+- word: Game Species
+  meaning: The [8 common types](species.html) of Game.
+
+- word: Game Qs
+  meaning: There are [7 common Q types](points.html) in Games.
+
+- word: Scan
+  meaning: >
+    A [quick glance](visualize.html#scan) at the Scenario, Conditions, and 1st Q.
+    Allows you assess the Game's Family and Species.
+    And allows you to see if there's anything unusual going on.
+
+- word: Draw
+  meaning: > 
+    When you put you thinking [on paper](visualize.html#draw).
+    Always Draw the Rules, Often Draw a Board, sometimes Draw an Index.
+
+- word: Check
+  meaning: >
+    Your 3rd *and final* chance to read the Scenario and Conditions 
+    to make sure your Drawing is complete and accurate.
+
+- word: Splits
+  meaning: >
+    When a Game (or Q) can only go 2-3 ways, 
+    and you Draw [*every* possibility](splits.html).
+
+- word: Connections
+  meaning: When Rules combine to provide new Must Be information.
+
+- word: Leftovers
+  meaning: >
+    Elements not in any Rule. 
+    Find a way to visually remind yourself of them, 
+    like with an additional Rule or circling them in the Index.
+
+- word: Who's Left?
+  meaning: What to ask yourself when you feel stuck while trying to create a HYPO.
+
+- word: Overlapping Rule
+  meaning: >
+    A Rule that contains the Element you've just added to your board. 
+    Useful to check while making HYPOs.
+
+- word: Taken Care Of
+  meaning: >
+    A Rule that cannot be broken can be ignored.
+    Happens, for example, when the right side of a Conditional Rule is met.
+
+- word: Set-Off
+  meaning: When the left side of a Conditional Rule is true, the right side must also be true.
+  
+- word: RC
+  meaning: Reading Comprehension. Read a short Passage. Answer several Qs.
+  header: yes
+
+- word: Small Q
+  meaning: >
+    About a detail. 
+    The correct Answer will be in the Passage.
+    Go Back to confirm the correct Answer.
+
+- word: Large Q
+  meaning: About the whole Passage. Make a Prediction to eliminate the 4 wrong answers.
+
+- word: Medium Q
+  meaning: >
+    Can be smaller or larger. 
+    The correct Answer often goes beyond the Passage, but is always grounded in the Passage.
+    Predict and Go Back and Eliminate Strong Answers.
+
+- word: LR
+  meaning: Logical Reasoning. Short Arguments with 1 Q each.
+  header: yes
+
+- word: Understanding
+  meaning: Make sense of the words in front of you. Always required on the LSAT.
+
+- word: Facts
+  meaning: The basis for an Argument. You must accept these as true.
+
+- word: Conclusion
+  meaning: The point of an Argument. You may wonder whether the Facts actually support it.
+
+- word: Break it Down
+  meaning: Distinguish the Argument's Facts from its Conclusion.
+
+- word: Boil it Down
+  meaning: Simplify the Argument in your mind to make sense of it. (Do not add new ideas as you simplify.)
+
+- word: Job
+  meaning: >
+    What the LSAT is asking you to do on this Q. 
+    It's worth memorizing the [common Jobs](job.html).
+
+- word: Family
+  meaning: >
+    The broad category of the Q. 
+    This tells you, roughly, what your Job is. 
+    There are 3 LR Families: [Describe](describe.html), [Argue](argue.html), or [Infer](infer.html).
+
+- word: Species
+  meaning: >
+    A common Q with a more specific Job. 
+    Each Species follows the tendencies of its Family.
+
+- word: Type
+  meaning: >
+    LR Qs can be either Mechanical or Organic. 
+    A Q's Type tells you what kind of Prediction you should make.
+
+- word: Prediction
+  meaning: What you expect from the correct Answer.
+
+- word: Anchor Prediction 
+  meaning: A clear Understanding of the Argument to keep you grounded.
+
+- word: Flexible Prediction
+  meaning: A sense of the Argument's problem so you can be open to different solutions (or attacks).
+
+- word: Specific Prediction
+  meaning: An exact idea you need the Answer to give you.
+
+- word: Mechanical
+  meaning: Qs that reward Specific Predictions.
+
+- word: Organic
+  meaning: Qs that reward Flexible Predictions.
+
+- word: Conditional Logic
+  meaning: If A, Then B statements (or statements that can be put into the If, Then form)
+
+- word: Idiots
+  meaning: The view the Author is arguing against (rarely actually stupid).
+
+- word: Sub-Conclusion
+  meaning: Walks like a duck, talks like a duck, quacks like a duck, but it's not a duck.
+
+- word: Flaw
+  meaning: A [common error](flaws.html#flaws) of reasoning.
+
+- word: Gap
+  meaning: A specific missing link between the Facts and the Conclusion.
+
+- word: What-If Thinking
+  meaning: Wondering about alternative possibilities to find the Problem with the Argument.
+
+- word: Problem Thinking
+  meaning: Describing what's wrong with an Argument (as opposed to identifying one solution)
+
+- word: Abstract Answers
+  meaning: >
+    Translate abstract Answers using the Argument.
+    If you can't tie the Answer back to something in the Argument, 
+    then it didn't happen (meaning it's incorrect).
+
+- word: Relevance
+  meaning: >
+    On ARGUE Qs, correct Answers must be Relevant to the Argument. 
+    Relevance includes both Content and Direction. 
+    Irrelevant Answers are incorrect. 
+    You might be surprised by what's Relevant.

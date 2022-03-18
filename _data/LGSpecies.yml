@@ -1,0 +1,54 @@
+- name: Standard
+  family: Order
+  know: There's no funny business in a Standard Order Game. One spot per element and one element per spot.
+  set-up: Minimal Number-line. Skip drawing the line unless there's stuff to put on it.
+  complications: None. They may be more solvable during Set-Up, but because they're more straightforward you also don't need to solve them.
+  
+- name: Multi
+  family: Order
+  know: Extra Variable.
+  set-up: Write above and below the Number-line.
+  complications: Index may be useful to note number information.
+  
+- name: Unequal
+  family: Order
+  know: Too many Elements or too many Spots
+  set-up: |
+    Depends... 
+    - Too many Elements: Adapt your Number-line.
+    - Too many Spots: Adapt your Index.
+  complications: |
+    Pay careful attention to the Numbers...
+    - Does each Element/Spot need to be used?
+    - How many could go in each Spot?
+    - Which Elements will repeat and how much?
+  
+- name: Flow
+  family: Order
+  know: The Rules tie all of the Elements together.
+  set-up: A single flow-chart that connects every Element.
+  complications: You may need to make 2+ flow-charts (aka a Split) when there are either/or Rules. You can also split when there is exactly one Conditional Rule. If this gets too complicated, skip the flow-chart and play it like Standard Order.
+  
+- name: Fixed
+  family: Group
+  know: Groups are of fixed size.
+  set-up: Base below (or to the side of) lines for each space.
+  complications: It's not always clear what's the Group and what's the Element. When it's unclear, it usually doesn't matter. Why not try it both ways?
+  
+- name: Flexi
+  family: Group
+  know: Groups are of flexible size.
+  set-up: Lines for each space that must be filled. Dots for each space that could be filled.
+  complications: Since it's more open-ended, it may be more useful to force information onto the Board.
+  
+- name: Binary
+  family: Group
+  know: Exactly 2 Groups + only Conditional Rules.
+  set-up: Ledger with In vs Out.
+  complications: Binary groups can be either Fixed or Flexi.
+  
+- name: Grid
+  family: Group
+  know: Extra variable.
+  set-up: Label both the bottom and the sides.
+  complications: That's complicated enough.

@@ -1,0 +1,203 @@
+- species: all describe qs
+  family: describe 
+  genus: "-"
+  clues: asks what the argument did
+  job: |
+    Don't argue, just understand.
+
+    Match ideas (not words).
+  tips: |
+    Most Describe Qs are semi-MECHANICAL. You should make Specific Predictions, but all you need to do to make that Prediction is to Understand the Argument.
+
+    Pivot and Fact keywords will be useful, but Conclusion keywords will be untrustworthy.
+
+    Beware Sub-Conclusions. They look like a Conclusion, walk like a Conclusion, quack like a Conclusion, but they actually support another Conclusion.
+
+    Fill in pronouns, resolve double negatives, and watch out for commas.
+
+    Let it be easy when it's easy.
+
+- species: conclusion
+  family: describe 
+  genus: mechanical
+  clues: |
+    > ...describes the main point
+    >
+    > ...is the conclusion
+  job: Find the Conclusion sentence. Find the same essential ideas in the correct Answer.
+  tips: Presume that the Conclusion is *not* the last sentence, and do *not* trust Conclusion keywords.
+
+- species: role
+  family: describe 
+  genus: mechanical
+  clues: "> *blah blah blah* plays which one of the following roles/functions..."
+  job: Define the Relationship (DTR) between the Blah and the Conclusion.
+  tips: Ignore the blah blah blah, at first. Eliminate Answers that are mistaken about either (a) the Conclusion or (b) their relationship.
+
+- species: parallel
+  family: describe 
+  genus: mechanical
+  clues: |
+    > parallels the reasoning
+    >
+    > uses the same reasoning as above
+  job: Abstract the structure (ignore the content).
+  tips: |
+    The order of words does not matter.
+
+    Smell Test = if you're looking for a bad Argument, get rid of good Answers. If you're looking for a solid Argument, get rid of flawed Answers.
+
+    [Count Count](https://www.youtube.com/watch?v=fMrr6s8CSDo) = the correct Answer must have the same number and type of Facts and the same type of Conclusion. Imagine yourself saying "1 conditional, 2 conditional, a conditional Conclusion… Hahaha"
+
+
+- species: all argue qs
+  family: argue 
+  genus: "-"
+  clues: the Argument has a Problem
+  job: |
+    Identify the Problem with the Argument by finding Flaws, What Ifs or Gaps.
+
+    Eliminate Answers Irrelevant to the Problem, and Answers that Hurt when you wanted to Help (or Help when you want to Hurt).
+  tips: Pay careful attention to Genus in the Argue Fam. Help (Organic) and Justify (Mechanical) might seem similar, but they require very different approaches.
+
+- species: hurt
+  family: argue 
+  genus: organic
+  clues: |
+    > Which of the following, if true, most weakens the argument?
+    > 
+    > ...expresses a flaw in the reasoning
+    > 
+    > The argument is most vulnerable to the criticism that it...
+  job: Point out or exploit the Argument's problem. Make the Argument worse.
+  tips: |
+    The correct Answer doesn't need to be completely devastating. It only needs to have some negative effect.
+    
+    There is only one correct Answer. All of the other Answers are either irrelevant or helpful.
+    
+    Eliminate "it didn't do that" Answers. If you find a common Flaw, eliminate Answers that address a different Flaw.
+
+- species: help
+  family: argue 
+  genus: organic
+  clues: |
+    > Which of the following, if true, most strengthens the argument?
+    >
+    > Which one of the following would, if true, help most to explain the result described above?"
+  job: Address the Argument's Problem. Make the Conclusion slightly more likely. Better connect a loose Facts to the Conclusion.
+  tips: Help-Explain Qs don't give full Arguments. They give two seemingly opposed Facts. You Help by explaining why the Facts actually go together.
+
+- species: justify
+  family: argue 
+  genus: mechanical
+  clues: |
+    > Which one of the following, if true, allows the conclusion of the argument to be properly drawn?
+    >
+    > ...makes the conclusion logically valid?
+    >
+    > Which of the following principles would most help to justify the argument above?
+  job: Find the Gap. Completely connect the Facts to the Conclusion so there's no doubt.
+  tips: |
+    Know exactly what ideas need to be linked before you look at the Answers.
+    
+    A new idea in the Conclusion must be defined in the correct Answer.
+
+- species: depends
+  family: argue 
+  genus: both
+  clues: |
+    > Which one of the following is an assumption on which the argument depends?
+    >
+    > ...does the argument require?
+    >
+    > ...is an assumption necessary for the argument to be valid?
+  job: |
+    It depends... do you see a clear Gap?
+    
+    If yes, approach MECHANICALLY (like a JUSTIFY Q).
+    
+    If no, approach ORGANICALLY (like a HELP Q).
+  tips: Always Negate the Answer you like.
+
+- species: all infer qs
+  family: infer 
+  genus: "-"
+  clues: There's no Argument, just Facts.
+  job: Find connections.
+  tips: Diagram on MECHANICAL/INFER Qs, look for MODEST Answers on ORGANIC/INFER Qs.
+
+- species: most supported
+  family: infer 
+  genus: organic
+  clues: |
+    > Most supported by the information above
+    >
+    > Most logically completes the argument
+    >
+    > Can be inferred from the statements given
+  job: Pick the allowable combination of the given facts. Know what you Know and don't go beyond that.
+  tips: |
+    Modest statements are easier to prove, and therefore more likely to follow from what's been given.
+
+    Usually the correct Answer will combine information from multiple Facts (not merely restate one Fact).
+
+    You can refer back the Facts to double-check or eliminate Answers. (Although this is time intensive.)
+
+- species: disagree
+  family: infer 
+  genus: organic
+  clues: |
+    > most likely to agree about
+    >
+    > would be most likely to disagree on
+  job: Find the overlap between the two speakers.
+  tips:  |
+    The second speaker will often say what they (dis)agree with.
+    
+    The correct Answer doesn't have to be the main point, just something they both address.
+    
+    The overlap can be a slight inference, so favor Modest Answers.
+
+    Note Agree vs Disagree.
+
+    Just because there's two speakers doesn't mean it's this Q Species.
+
+- species: must be true
+  family: infer 
+  genus: mechanical
+  clues: |
+    > Which of the following must be true based on the above?
+
+    Or! It looks like a MOST SUPPORTED Q, but it features either
+    - Conditional logic, or
+    - Chained causation, or
+    - Linkable, repeated ideas.
+  job: Draw a diagram to combine the Facts.
+  tips:  |
+    Use the Contrapositives.
+    
+    If there's conditionals, ignore everything that isn't Conditional.
+
+- species: must be false
+  family: infer 
+  genus: mechanical
+  clues: "> Which of the following must be false based on the above?"
+  job: Find the absolute statement, then contradict it.
+  tips: Ignore the interesting bits. Focus only on the absolutes.
+
+- species: rule
+  family: infer 
+  genus: mechanical
+  clues: |
+    > Which of the following examples conforms to the principles stated above?
+    >
+    > Which of the following violates the principle stated above?
+  job: |
+    1. Diagram the Rules.
+    2. Eliminate unprovable Answers.
+    3. Select the Answer that follows the rules.
+  tips: |
+    Answers are only provable if they're trying to prove the [right side of the arrow](conditionals.html#rulediagram).
+
+    For "violates the principle" Qs, pick the Answer that breaks the Rules (don't pick an Irrelevant answer).
+
