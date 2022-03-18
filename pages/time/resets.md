@@ -1,7 +1,6 @@
 ---
 title: Resets
 cat: time
-layout: default
 permalink: resets.html
 
 ---

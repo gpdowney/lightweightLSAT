@@ -1,7 +1,6 @@
 ---
 title: Tools to Boil Arguments Down
 cat: reason
-layout: default
 permalink: boil
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Always Find the Verb
 cat: resources
-layout: default
 permalink: verbs
 ---
 

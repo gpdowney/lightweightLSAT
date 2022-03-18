@@ -1,7 +1,6 @@
 ---
 title: How to Argue (on the LSAT)
 cat: reason
-layout: default
 permalink: flaws
 ---
 

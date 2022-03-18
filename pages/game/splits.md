@@ -1,7 +1,6 @@
 ---
 title: Splits
 cat: game
-layout: default
 permalink: splits.html
 ---
 

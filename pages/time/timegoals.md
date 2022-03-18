@@ -1,7 +1,6 @@
 ---
 title: Timing Goals
 cat: time
-layout: default
 permalink: timegoals.html
 
 ---

@@ -1,7 +1,6 @@
 ---
 title: Read for the Nuanced Conflict
 cat: read
-layout: default
 permalink: conflict
 ---
 

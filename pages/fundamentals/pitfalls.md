@@ -1,7 +1,6 @@
 ---
 title: 7 Pitfalls, and How to Avoid Them
 cat: fundamentals
-layout: default
 permalink: pitfalls
 ---
 

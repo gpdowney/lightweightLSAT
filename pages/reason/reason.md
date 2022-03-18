@@ -1,7 +1,6 @@
 ---
 title: Logical Reasoning
 cat: reason
-layout: default
 permalink: reason
 ---
 

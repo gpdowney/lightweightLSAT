@@ -1,7 +1,6 @@
 ---
 title: How to Set-Up Logic Games
 cat: game
-layout: default
 permalink: visualize.html
 ---
 

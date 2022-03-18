@@ -1,7 +1,6 @@
 ---
 title: Timing Strategy
 cat: time
-layout: default
 permalink: time.html
 
 ---

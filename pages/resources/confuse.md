@@ -1,7 +1,6 @@
 ---
 title: How LR and RC Can Confuse You
 cat: resources
-layout: default
 permalink: confuse
 ---
 

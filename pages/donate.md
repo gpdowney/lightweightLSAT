@@ -1,7 +1,6 @@
 ---
 title: How to Support this Project
 cat: none
-layout: default
 permalink: donate
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Conditional Logic
 cat: reason
-layout: default
 permalink: conditionals
 ---
 

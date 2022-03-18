@@ -1,7 +1,6 @@
 ---
 title: Get Points
 cat: game
-layout: default
 permalink: points.html
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: The DESCRIBE Family
 cat: reason
-layout: default
 permalink: describe
 ---
 {% assign whatfam = "describe" %}

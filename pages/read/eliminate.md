@@ -1,7 +1,6 @@
 ---
 title: Crush the Answers
 cat: read
-layout: default
 permalink: eliminate
 ---
 

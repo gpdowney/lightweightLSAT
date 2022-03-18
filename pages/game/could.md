@@ -1,7 +1,6 @@
 ---
 title: Could Must True False
 cat: game
-layout: default
 permalink: could.html
 ---
 

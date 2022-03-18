@@ -1,7 +1,6 @@
 ---
 title: Black Swans
 cat: game
-layout: default
 permalink: swan
 ---
 

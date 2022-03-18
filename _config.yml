@@ -1,3 +1,13 @@
 url: "https://lightweightlsat.com" 
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Lightweight LSAT"
+
+
+exclude: [".gitignore", "gemfile", "gemfile.lock", "readme.md", "license.txt"]
+
+defaults:
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: "default"

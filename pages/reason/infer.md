@@ -1,7 +1,6 @@
 ---
 title: The INFER Family
 cat: reason
-layout: default
 permalink: infer
 ---
 

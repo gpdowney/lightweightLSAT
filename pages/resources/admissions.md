@@ -1,7 +1,6 @@
 ---
 title: Law School Admissions
 cat: resources
-layout: default
 permalink: admissions
 ---
 

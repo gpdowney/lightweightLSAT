@@ -1,7 +1,6 @@
 ---
 title: Confidence and Anxiety
 cat: time
-layout: default
 permalink: confidence.html
 ---
 

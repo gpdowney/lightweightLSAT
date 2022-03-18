@@ -1,7 +1,6 @@
 ---
 title: Three Ways to Break Down Arguments
 cat: reason
-layout: default
 permalink: break
 ---
     

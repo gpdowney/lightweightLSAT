@@ -1,7 +1,6 @@
 ---
 title: Some Resources
 cat: resources
-layout: default
 permalink: resources
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: The ARGUE Family
 cat: reason
-layout: default
 permalink: argue
 ---
 {% assign whatfam = "argue" %}

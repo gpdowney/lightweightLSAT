@@ -1,7 +1,6 @@
 ---
 title: The 7 Common Game Species
 cat: game
-layout: default
 permalink: species.html
 ---
 

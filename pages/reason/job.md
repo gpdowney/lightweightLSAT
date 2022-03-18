@@ -1,7 +1,6 @@
 ---
 title: What's your JOB?
 cat: reason
-layout: default
 permalink: job
 ---
 

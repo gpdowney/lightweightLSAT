@@ -1,7 +1,6 @@
 ---
 title: Sprint
 cat: time
-layout: default
 permalink: sprint.html
 
 ---

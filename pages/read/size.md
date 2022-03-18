@@ -1,7 +1,6 @@
 ---
 title: Large, Medium, and Small Qs
 cat: read
-layout: default
 permalink: size
 ---
 

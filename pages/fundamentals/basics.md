@@ -1,7 +1,6 @@
 ---
 title: LSAT Basics
 cat: fundamentals
-layout: default
 permalink: basics
 ---
 

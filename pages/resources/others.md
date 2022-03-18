@@ -1,7 +1,6 @@
 ---
 title: All Test Advice suffers from Hindsight Bias
 cat: resources
-layout: default
 permalink: others
 ---
 

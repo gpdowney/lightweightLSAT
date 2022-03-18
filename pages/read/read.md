@@ -1,7 +1,6 @@
 ---
 title: 4 Myths of Reading Comp
 cat: read
-layout: default
 permalink: read
 ---
 

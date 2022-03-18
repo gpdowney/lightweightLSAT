@@ -1,7 +1,6 @@
 ---
 title: Eliminate, Defer, Select
 cat: reason
-layout: default
 permalink: answers
 ---
 

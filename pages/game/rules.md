@@ -1,7 +1,6 @@
 ---
 title: How to Draw the Common Rules
 cat: game
-layout: default
 permalink: rules.html
 ---
 

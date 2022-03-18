@@ -1,7 +1,6 @@
 ---
 title: Your Score
 cat: resources
-layout: default
 permalink: scores
 ---
 

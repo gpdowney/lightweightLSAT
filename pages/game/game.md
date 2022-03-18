@@ -1,7 +1,6 @@
 ---
 title: Logic Games
 cat: game
-layout: default
 permalink: game.html
 ---
 

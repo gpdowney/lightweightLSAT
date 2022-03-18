@@ -1,7 +1,6 @@
 ---
 title: The Value and Use of Checklists
 cat: resources
-layout: default
 permalink: checklists
 ---
 

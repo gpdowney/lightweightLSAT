@@ -1,7 +1,6 @@
 ---
 title: Read at the Pace of Your Understanding
 cat: read
-layout: default
 permalink: pace
 ---
 

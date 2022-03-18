@@ -1,7 +1,6 @@
 ---
 title: Anchor, Flexible, and Specific Predictions
 cat: reason
-layout: default
 permalink: predict
 ---
 

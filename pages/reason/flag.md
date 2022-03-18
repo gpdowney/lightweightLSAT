@@ -1,7 +1,6 @@
 ---
 title: Move On or Revise
 cat: reason
-layout: default
 permalink: flag
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: The 3 Types of Practice--Skill, Puzzle, and Race.
 cat: fundamentals
-layout: default
 permalink: practice
 ---
 

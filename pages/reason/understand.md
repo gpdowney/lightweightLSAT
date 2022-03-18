@@ -1,7 +1,6 @@
 ---
 title: Understand
 cat: reason
-layout: default
 permalink: understand
 ---
 

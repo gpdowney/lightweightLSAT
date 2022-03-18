@@ -1,7 +1,6 @@
 ---
 title: Further Reading
 cat: resources
-layout: default
 permalink: syllabus
 ---
 
