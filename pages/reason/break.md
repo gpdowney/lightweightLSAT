@@ -55,7 +55,7 @@ For many test-takers, conclusion words are obvious. Because many people will not
 
 If the conclusion words seem obvious to you, you might not need to memorize them. Still, you should practice consciously looking for them. So that you can, later, notice them unconsciously with even less effort.
 
-### Fact words
+### Fact words {#fact-words}
 
 Fact words introduce the Facts.
 
