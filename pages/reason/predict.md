@@ -19,7 +19,7 @@ To be clear: you don't need a perfect Understanding. Your Prediction doesn't nee
 1. Write down your Prediction before you look at the Answers.
 1. Then Answer.
 1. Before you check your Answer, ask yourself: "Was my Prediction useful?"
-1. After you check, compare your Prediction to the correct Answer. Ask yourself: "Did I Predict enough or too much" The Q Type tells you what kind of Prediction was appropriate and, thus, what you could have expected yourself to see in advance of the Answers.
+1. After you check, compare your Prediction to the correct Answer. Ask yourself: "Did I Predict enough or too much" (The Q Genus tells you what kind of Prediction was appropriate and, thus, what you could have expected yourself to see in advance of the Answers.)
 
 ## ANCHOR in Understanding
 

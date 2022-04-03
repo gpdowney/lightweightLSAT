@@ -20,10 +20,45 @@ permalink: reason
 
 Read the Q first. The Q tells you what you need to do.
 
-Every Q has a Family and a Type. The Family tells you what you need to Understand about the Argument. The Type tells you what kind of Prediction you can expect to make. Some Qs are special (and common) enough to have their own name, these Qs have a Species.
+Every Q has a Family and a Genus. Many Qs also have a Species.
 
-Memorize the keywords that tell you which Q is which. Memorize your Job on each.
-Understand the Argument.
+The Family tells you what you need to Understand about the Argument. 
+
+The Genus tells you what kind of Prediction you can expect to make. 
+
+And some common Qs have an even more specific task, so these Qs also have a Species.
+
+For example, consider this Q:
+
+> Which of the following assumptions, if true, makes the argument logically valid?
+
+### Species
+
+I know that it's a JUSTIFY Q because I've memorized that this string of keywords--"assumption", "if true", "valid"--indicates a JUSTIFY Q. 
+
+I strongly recommend making *flashcards* to help you recognize Qs automatically. To be smooth on Test Day, you want to make Q Recognition as automatic as possible. Memorizing will save you time and help you get clear about what exactly you need to do on each Q. 
+
+Some Qs don't fit into the normal categories, but knowing the normal categories will help you more quickly process these unusual Qs.
+
+Of course, you can always figure out what a Q is asking on Test Day, but ***thinking is expensive***. 
+
+### Family
+
+JUSTIFY Qs are in the ARGUE Family. We can tell because the Q tells us there's an "argument" and that the argument has a problem. We know the argument has a missing assumption, which the correct answer will provide. 
+
+In the ARGUE Fam, we're always looking for the Problem in the argument. We read to find a Problem, even on these JUSTIFY Qs when we're ultimately trying to help the Argument. You have to diagnose the Problem before you can prescribe a solution.
+
+### Genus
+
+And JUSTIFY Qs are of the MECHANICAL Genus. On MECHANICAL Qs we can expect to make Specific Predictions. That is, we can expect to know almost exactly what the correct Answer will be, before we look at the Answers.
+
+On a JUSTIFY Q, we know there will be a Gap between the Facts and the Conclusion. Since we know both sides of the Gap, we can Predict exactly what ideas the correct Answer will connect.
+
+### A Quiz
+
+When you feel confident in your ability to recognize Q's, [try this Quiz][2].
+
+## Understand the Argument.
 
 Understanding is foundational. You cannot succeed on an LR Q without Understanding.
 
@@ -62,3 +97,4 @@ You have two options:
 1. Revise your analysis of the Argument or the Answers.
 
 [1]: assets/images/LRanatomy.png
+[2]: https://forms.gle/guG7HsDZXvEaydJ36
