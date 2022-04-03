@@ -24,7 +24,7 @@ You'll find the actual content of the site in the Markdown files contained under
 
 ## Collaboration
 
-Email feedback@lightweightlsat.com to share ideas or offer to help. Or use GitHub's issues to spot typos/mistakes/areas for improvement.
+Email feedback@lightweightlsat.com to share ideas or volunteer@lightweightlsat.com to offer to help. Or use GitHub's issues to spot typos/mistakes/areas for improvement.
 
 ## Areas for Future Growth
 
