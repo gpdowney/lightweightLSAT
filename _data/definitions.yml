@@ -207,9 +207,9 @@
 - word: CBF
   meaning: Could be False. (Proved by CBF.)
 
-- word: Numbers
+- word: Numeric
   meaning: >
-    Any numerical information in the Scenario or Conditions, 
+    Any number information in the Scenario or Conditions, 
     including whether each Element must be used, 
     how often each Element can or must be used, 
     and the size of the Board.

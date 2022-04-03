@@ -105,7 +105,7 @@ When you miss a Connection that feels obvious later, make a Flashcard to help yo
 [1]: assets/images/setup.png
 [2]: species.html
 [3]: glossary.html#variable
-[4]: glossary.html#numbers
+[4]: glossary.html#numeric
 [5]: rules.html
 [6]: species.html
 [7]: glossary.html#leftovers

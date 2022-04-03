@@ -8,7 +8,7 @@
   family: Order
   know: Extra Variable.
   set-up: Write above and below the Number-line.
-  complications: Index may be useful to note number information.
+  complications: Index may be useful to note [numeric](glossary.html/#numeric) information.
   
 - name: Unequal
   family: Order
@@ -18,7 +18,7 @@
     - Too many Elements: Adapt your Number-line.
     - Too many Spots: Adapt your Index.
   complications: |
-    Pay careful attention to the Numbers...
+    Pay careful attention to the [numeric](glossary.html/#numeric) information...
     - Does each Element/Spot need to be used?
     - How many could go in each Spot?
     - Which Elements will repeat and how much?

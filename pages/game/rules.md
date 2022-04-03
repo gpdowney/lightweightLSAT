@@ -6,14 +6,15 @@ permalink: rules.html
 
 You could make many Flashcards from this page.
 
-But also, there are many fine ways to Draw Rules. As always, experiment to figure out what works for you.
+And there are many fine ways to Draw Rules. As always, experiment to figure out what works for you.
+
+In general, useful Rules visually match your board. For example, don't copy my vertical Stack if you draw Group games horizontally.
 
 If you encounter a weird or unique rule...
 
 - adapt or combine common Drawings,
 - use a Split to take care of it upfront, or
-- Draw it as best you can.
-
+- Draw it as best you can and Move On.
 
 ## Placements
 
@@ -161,7 +162,7 @@ W is accompanied by at least one other element.
 
 ![More Stack Drawing][12]
 
-## Numbers
+## Numeric
 
 ### Exact
 
@@ -169,7 +170,7 @@ L appears exactly twice.
 
 The are 4 presentations: half by Zebras, one by Walruses, and the rest by Yaks.
 
-![Exact Numbers Drawing][13]
+![Exact Numeric Drawing][13]
 
 ### Min
 
@@ -183,7 +184,7 @@ T cannot repeat.
 
 M cannot go more than twice.
 
-![Min and Max Drawing][14]
+![Min and Max Numeric Drawing][14]
 
 ### MinMax
 
@@ -201,7 +202,7 @@ There are fewer Walruses than Yaks.
 
 There are an equal number of Zebras and Yaks.
 
-![Compared Number Drawing][15]
+![Compared Numeric Drawing][15]
 
 [1]: assets/images/rules/placements.png
 [2]: assets/images/rules/equality.png
