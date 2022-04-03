@@ -1,7 +1,7 @@
 ---
 title: Logic Games
-cat: Game
-permalink: Game.html
+cat: game
+permalink: Game
 ---
 
 ## Anatomy of a Logic Game
