@@ -107,6 +107,14 @@ blockquote{
     padding-right: 2em;
 }
 
+// style details tag
+details {
+    border-bottom: black 1px dotted;
+    padding: 1px;
+    background-color: rgb(218, 235, 246);
+    margin-bottom: 10px;
+}
+
 /* basic tables with alternating row color */
 table {
     table-layout: fixed;
