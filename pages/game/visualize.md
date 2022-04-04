@@ -22,14 +22,14 @@ It's a Scan, not a deep read.
 
 It's useful to have a Checklist for your Scan. Here's my Scan checklist:
 
-1. Is the Game more Ordered or Grouped? Or does it include some of both?
+1. Order or Group? Or does it include some of both?
 2. Is it a common [Species][2] of Game?
 3. What are the [Variables][3] and [Numbers][4]?
 4. Is there anything novel or weird?
 
 ## Draw
 
-In the Draw, you put your pencil on your paper. You need to visualize everything the Test gives you (and nothing else).
+In the Draw, you put your pencil on your paper. You Draw in order to visualize everything the Test gives you (and nothing else).
 
 Your Drawing should be complete and accurate and neat. It does not need to be perfectly elegant or look the same as anyone else's. 
 

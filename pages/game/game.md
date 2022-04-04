@@ -39,13 +39,15 @@ Know the 2 Game [families][5], 8 Game [species][5], and the many [common rules][
 
 Know how to automatically recognize them and how to quickly draw them.
 
-Don't be Cowboy without a system, dependent only on your intuitions, reinventing the wheel every time.
+Don't be Cowboy without a System. If you depend only on intuitions, you'll have to reinvent the wheel every time you play a game.
+
+Gain speed and confidence by knowing the normal stuff. Don't sweat the hard and weird stuff, it'll make more sense after you take care of the easy stuff.
 
 ## Slow is smooth. Smooth is fast
 
-Be a Robot. Robots are mechanical and consistent.
+Be like a Robot. Robots are mechanical and consistent.
 
-You don't need to be a Wizard. Wizards depend on unreliable magic. If the magic happens, go with it, but don't depend on it.
+You don't need to be like a Wizard. Wizards glance at a Game and completely understand it. But Wizards' magic is unreliable. When the magic happens, go with it, but don't depend on it.
 
 [1]: assets/images/LGanatomy.png
 [2]: visualize.html

@@ -96,6 +96,12 @@
   link: could.html
   num: 1.2.2
   level: two
+  
+- name: Hypos
+  cat: game
+  link: hypos.html
+  num: 1.2.3
+  level: two
 
 - name: Reading Comprehension
   cat: read
