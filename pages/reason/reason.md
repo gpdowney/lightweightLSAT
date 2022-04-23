@@ -32,25 +32,25 @@ For example, consider this Q:
 
 > Which of the following assumptions, if true, makes the argument logically valid?
 
-### Species
+### Species = JUSTIFY
 
-I know that it's a JUSTIFY Q because I've memorized that this string of keywords--"assumption", "if true", "valid"--indicates a JUSTIFY Q. 
+I know that it's a JUSTIFY Q because I've memorized the keywords--"assumption", "if true", "valid"--that indicate a JUSTIFY Q. 
 
-I strongly recommend making *flashcards* to help you recognize Qs automatically. To be smooth on Test Day, you want to make Q Recognition as automatic as possible. Memorizing will save you time and help you get clear about what exactly you need to do on each Q. 
+Make *flashcards* to help you recognize Qs automatically. To be smooth on Test Day, you want to make Q-Recognition as automatic as possible. Memorizing will save you time and help you get clear about what exactly you need to do on each Q. 
 
 Some Qs don't fit into the normal categories, but knowing the normal categories will help you more quickly process these unusual Qs.
 
 Of course, you can always figure out what a Q is asking on Test Day, but ***thinking is expensive***. 
 
-### Family
+### Family = ARGUE
 
-JUSTIFY Qs are in the ARGUE Family. We can tell because the Q tells us there's an "argument" and that the argument has a problem. We know the argument has a missing assumption, which the correct answer will provide. 
+JUSTIFY Qs are in the ARGUE Family. We can tell because the Q tells us there's an "argument" and that the argument has a problem.
 
-In the ARGUE Fam, we're always looking for the Problem in the argument. We read to find a Problem, even on these JUSTIFY Qs when we're ultimately trying to help the Argument. You have to diagnose the Problem before you can prescribe a solution.
+In the ARGUE Fam, we're always looking for the Problem in the argument. We read to find a Problem, even on these JUSTIFY Qs when we're ultimately trying to help the Argument. We have to diagnose the Problem before we can prescribe a solution.
 
-### Genus
+### Genus = MECHANICAL
 
-And JUSTIFY Qs are of the MECHANICAL Genus. On MECHANICAL Qs we can expect to make Specific Predictions. That is, we can expect to know almost exactly what the correct Answer will be, before we look at the Answers.
+JUSTIFY Qs are of the MECHANICAL Genus. On MECHANICAL Qs we can expect to make Specific Predictions. That is, before we look at the Answers, we can expect to know almost exactly what the correct Answer will be.
 
 On a JUSTIFY Q, we know there will be a Gap between the Facts and the Conclusion. Since we know both sides of the Gap, we can Predict exactly what ideas the correct Answer will connect.
 

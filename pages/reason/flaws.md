@@ -97,7 +97,7 @@ Lists of all known logical errors and their Latin names are available elsewhere.
 
 1. [Fresh Ideas in the Conclusion][1]
 1. [Conditional Errors][2]
-1. [Correlation isn't Causation][3]
+1. [Association isn't Causation][3]
 1. [Bad Samples][4]
 1. [Bad Comparisons][5]
 
@@ -173,13 +173,13 @@ Our "obvious" is vulnerable to three objections: (1) random chance, (2) a 3rd ca
 2. Sia independently invites both Ash and Bee.
 3. Bee asked out Ash.
 
-### Weak Samples {#sample}
+### Bad Samples {#sample}
 
 To spot this error in the wild: look for studies and numbers.
 
 The more the LSAT describes a study, the more suspicious you should be. Unlike real life, if the LSAT says "Research shows that Dogs are smarter than Cats" that's a Fact you should accept.
 
-Weak samples are (1) small, (2) unrepresentative, and/or are studied with (3) suspect methods.
+Bad samples are (1) small, (2) unrepresentative, and/or are studied with (3) suspect methods.
 
 Consider these three:
 

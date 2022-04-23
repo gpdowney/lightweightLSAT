@@ -4,86 +4,63 @@ cat: read
 permalink: pace
 ---
 
-**Re-reading** and **Pausing** are the 2 most valuable skills for RC (and maybe even for the whole LSAT)
+**Re-reads** and **Pauses** help you move at your own pace.
 
-Re-reads and Pauses help you move at your own pace.
+## Read Unevenly
 
-## Re-read often
+Don't read at a uniform pace. You should neither dawdle nor rush.
 
-Try reading the first paragraph twice.
+Instead, read at an uneven pace: slow down when *you* need to, and speed up when *you* can.
 
-Try reading the whole passage twice.
+For example, you could...
+- Spend more time on opinionated and strong statements. Spend less time on lists.
+- Slow down at the beginning, to get oriented. Then use your understanding to move confidently through the middle.
+- Speed up when you see what you expected to see. Slow down when you're surprised.
 
-Or try re-reading in small bursts
+## Use Feedback Loops
 
-Re-read without judgment. Judgment is a distraction. And remember, you're supposed to re-read.
+Ask yourself questions as you read in order to both check and enhance your understand. Questions like...
 
-### Re-read important ideas
+- "How does that idea fit with the thesis?"
+- "What/who is the author against?"
+- "Who's opinion is this?" and
+- "Why is this important?"
 
-Trust your own sense of importance. If you think it's important, you're probably right.
+Remember, the author, no matter how bad of a writer, included every word for some reason.
 
-### Re-read when you're confused.
+## Trust your Confusion
 
-Trust your confusion. If you think you're confused, you're definitely right.
+You may be tempted to run away from your confusion, because confusion feels unpleasant. Instead stick with it, make your confusion into a question. Let that question guide how you read.
 
-Confusion feels unpleasant, so you will be tempted to run away from it. Resist the temptation to flee from difficulty. Stick with your confusion. 
+For example, when you're confused, ask yourself:
 
-Use your confusion as a guide. When you're confused, ask yourself:
+- What am I confused about? (Sometimes just articulating your confusion clears it up.)
+- Is this worth trying to understand? (If not, move on.)
+- Should I read the sentence again or should I look for context elsewhere? (Perhaps looking back at the topic sentence of the paragraph will help. Maybe there's a clarifying example or definition coming up next.)
 
-- What am I confused about? Sometimes just articulating your confusion clears it up.
-- Is this worth trying to understand? If not, move on.
-- Should you read the sentence again?
-- Or should you look for context elsewhere? Perhaps the topic sentence of the paragraph will help. Maybe there's a clarifying example or definition coming up.
+## Pause and re-read often, intentionally, and without judgment.
+
+In RC, you cannot merely look at the words on the page. You must also synthesize meaning. You must assess the claims being made. 
+
+But your brain cannot do all of this at the same time. [You can't multitask][multitask]. You can't read and synthesize and assess simultaneously. You need to stop from time to time to reflect and digest.
+
+Don't judge yourself for re-reading or pausing. That judgement isn't helping you; self-judgement is just another distraction. Know that everyone, especially top scorers, needs to pause and re-read.
+
+If you don't slow down intentionally, then you will slow down unintentionally. You'll miss the meaning of a paragraph because you're still thinking about the last one. When you ignore your confusion, it will only multiply as you keep reading.
 
 ### Don't get stuck
 
-A re-read or two is always appropriate. Four or more re-reads is sign that:
+Re-reads shouldn't be elaborate or endless. 
 
-- You aren't focused and need to [reset][reset], or
-- whatever it is, it's not clicking and you should move on for now.
+When you re-read, go back to extract the information you need and move on. 
 
-## Each re-read has its own purpose and pace.
+And if 2 re-reads don't help, move on. You can come back when you need to, or never if there's not a Q about it.
 
-When you re-read, you should have a goal. Some question you want to answer. Or a nuance to understand more deeply.
+### Don't linger
 
-And when you re-read, it shouldn't happen at the same pace as your first read:
+Pauses don't need to be long. You might only need to pause for a second.
 
-- Your re-read can be a skim, when you just want to confirm or extract a detail.
-- Or your re-read might need to be slower, when you were confused the first time.
-
-For example:
-
-1. A first read might be speedy and relaxed. Get oriented. Look for the overall WHY of the Passage.
-1. A second read digs deeper. It slows down, but only in targeted places. You look for nuance and understand how the WHATs fit together.
-
-You could also reverse the order of those reads. As always, experiment to learn what works for your brain.
-
-## Pause often.
-
-Pauses allow you to think while you read.
-
-In RC, you cannot merely look at the words on the page. You must also synthesize meaning. You must assess the claims being made.
-
- But [your brain cannot read and synthesize and assess simultaneously][multitask]. So stop from time to time to reflect and digest. 
-
-It doesn't have to be a long stop.
-
-### Good times to Pause:
-
-- Between paragraphs;
-- At the end; and
-- Anytime you would re-read.
-
-
-{% capture summary %}
-*Do you remember when to re-read?*
-{% endcapture %}
-{% capture details %}
-> When you notice importance.
->
-> When you notice confusion.
-{% endcapture %}
-{% include details.html %}
+If you feel overwhelmed or bewildered, you need more than a pause, you need a [Reset][reset].
 
 [multitask]: glossary.html#multitask
 [reset]: resets.html

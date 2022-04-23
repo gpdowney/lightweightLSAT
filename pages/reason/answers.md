@@ -38,6 +38,23 @@ Not merely "like" but "like like." You're marrying this Answer. Choosing it will
 
 If you don't love it, notice that you like it and Defer. When there's nothing better you can choose it and move on.
 
+## Exercise Idea: Rank the Answers
+
+Give each Answer a rank from 1-6.
+1. Love it
+2. Like it
+3. Unsure-Positive
+4. Unsure-Negative
+5. Dislike it
+6. Hate it
+
+Then pick the highest ranking Answer.
+
+As you practice, try to figure out what it would take to have more 1/2s and 5/6s rather than 3/4s: 
+- Do you just need to be more confident? 
+- Do you need more useful (either more flexible or more specific) predictions? 
+- Do you need to read the Answers for understanding?
+
 [1]: confuse.html#ruthless
 [2]: confuse.html#skeptical
 [3]: resets.html
