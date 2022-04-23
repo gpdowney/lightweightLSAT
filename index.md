@@ -4,31 +4,25 @@ title: "Welcome!"
 cat: fundamentals
 ---
 
-*The Lightweight LSAT* is a free guide to the Law School Admissions Test.
+*The Lightweight LSAT* is a complete and completely free guide to the Law School Admissions Test.
 
-It's lightweight because it describes only the essential skills. 
+This site offers a minimalist system for mastering the LSAT.
 
-(That means you'll need to teach yourself more, which is a good thing.)
+Unlike other guides, which overload you with knowledge about the Test, *the Lightweight LSAT* emphasizes intentional and iterative skill-building.
 
-## I'm qualified to write this guide because...
+This guide purposefully leaves out many nuances in order to (a) focus on the most essential skills and (b) encourage you teach yourself.
 
-I graduated from Yale Law School in 2016.
+This site expects you to revise, adapt, expand, and simplify *the Lightweight LSAT* system based on your experience on actual LSAT Qs. (Actual Qs are not provided here, as they are available [directly from LSAC](https://lawhub.lsac.org).)
 
-I taught the LSAT with Manhattan Prep for 4 years.
+It's not for everyone. Everyone's brain is differently. Everyone learns differently.
 
-In October 2011, on the old paper test, I scored 173.
+## My Bona Fides
 
-In May 2020, on the new at-home digital test, I scored 180.
+In May 2020, I scored **180** on the LSAT (a perfect score). That was my second official test. The first time, in October 2010, I scored 173 (a top 1% score).
 
-## This guide proposes one System for mastering the LSAT
+I've taught the LSAT for 5 years, formerly with Manhattan Prep and now with the [Test Prep Collective](https://testprepcollective.com).
 
-**A useful System productively channels your good intuitions and corrects your bad intuitions.**
-
-A really useful System might make studying fun.
-
-There is no System that can guarantee you the right Answers.
-
-And everyone's brain is different. The important question is: What helps you be smoother?
+In 2016, I graduated from Yale Law School.
 
 ## This is version 0.3 of the guide
 
@@ -42,34 +36,34 @@ You can help improve it. Send complaints and compliments to feedback@lightweight
 
 If you're new to the Test, [LSAT Basics](basics.html) provides an overview.
 
+Try out one or two of my [Favorite Skills](skills.html).
+
 Learn the [Pitfalls](pitfalls.html) so you can avoid them.
 
-When you're ready to go, dive in with one of the [3 Types of Practice](practice.html).
+When you're ready to dig deeper, learn the [3 Types of Practice](practice.html).
 
 ### 2. Explore
 
-You can read this guide top to bottom, or you can take just the pieces you need.
+Read this guide top to bottom, or take just the pieces you need.
 
 If you don't know what you need, [take a Practice Test](https://lawhub.lsac.org/). Don't be afraid to fail. Failure is the very best teacher.
+
+And re-read. As your skill improves, the meaning of my words might become clearer or change.
 
 ### 3. Experiment
 
 Don't reject or accept my ideas until you've tried them out on a real Q.
 
-*Beware: At first, learning any System (even a lightweight one) will make the Test feel harder and slower.*
+Always calibrate your system against the Test. If my suggestion doesn't help you be smoother and more confident on real LSAT Qs, it's not helpful.
+
+*Beware: At first, learning any system (even a lightweight one) will make the Test feel harder and slower.*
 
 Stick with me, but not mindlessly. There could be many reasons something isn't working. You might be applying the right skill, but in the wrong place. Or you might be applying it correctly, but it's just not right for you.
 
-Scrap whatever you don't need. And whatever you do keep, make it your own. Rephrase, adapt, amend, and recombine my ideas for your own purposes.
-
-Make your own System. And always calibrate your System against the Test. If it doesn't help you on a real LSAT Q, it's not helpful.
+Scrap whatever you don't need. And whatever you do keep, make it your own. Rephrase, adapt, amend, and recombine my ideas for your own purposes. 
 
 ## Questions?
 
 Strange Capitalized Words may be defined in the [Glossary](glossary.html).
 
-Find peers.
-Start or join a Lightweight LSAT [study group](https://docs.google.com/spreadsheets/d/13khCAVjUfZpWrfVVB8Y6NZ1wOAxrthD7Xqcgb-QqoJ0/edit?usp=sharing).
-
-To request 1-on-1 help from me, Graham, email tutoring@lightweightlsat.com.
-(Note: My rate is $500/hr and I am booked until the April 2022 test.)
+I'm not currently available for tutoring, but [here's a list of other resources and teachers I trust](recommendations.html).
