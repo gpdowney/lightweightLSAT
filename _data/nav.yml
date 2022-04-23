@@ -21,6 +21,12 @@
   num: 0.3
   level: one
 
+- name: Favorite Skills
+  cat: fundamentals
+  link: skills.html
+  num: 0.4
+  level: one
+
 - name: Timing and Stress
   cat: time
   link: time.html
@@ -108,7 +114,7 @@
   link: read.html
   level: zero
 
-- name: Move at the Pace of Understanding
+- name: Move at the Pace of Your Understanding
   cat: read
   link: pace.html
   num: 2.1
@@ -238,22 +244,34 @@
   num: 4.4
   level: one
 
+- name: Be Curious
+  cat: resources
+  link: curious.html
+  num: 4.5
+  level: one
+
 - name: Your Score
   cat: resources
   link: scores.html
-  num: 4.5
+  num: 4.6
   level: one
 
 - name: Law School Admissions
   cat: resources
   link: admissions.html
-  num: 4.6
+  num: 4.7
   level: one
 
 - name: Further Reading
   cat: resources
   link: syllabus.html
-  num: 4.7
+  num: 4.8
+  level: one
+
+- name: Other Useful Guides and Trusted Teachers
+  cat: resources
+  link: recommendations.html
+  num: 4.9
   level: one
 
 - name: Support This Project
