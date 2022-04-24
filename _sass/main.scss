@@ -156,6 +156,23 @@ tr.odd {
     grid-template-columns: 4em 1fr;
     border-bottom: 2px dotted black;
     column-gap: 1em;
+
+}
+
+// return to top button fixed in bottom right
+#return{
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    background-color: white;
+    font-size: 18px;
+}
+
+// sticky div
+.sticky{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 1em;
 }
 
 /* changes to grid for larger screens, inherits most from above */

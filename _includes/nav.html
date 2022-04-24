@@ -1,4 +1,5 @@
 <nav>
+<div class="sticky">
     {% for item in site.data.nav -%}
         {% if item.level == "zero" -%}
         <h2><a href="{{ item.link }}">
@@ -9,4 +10,6 @@
             {{ item.num }}. {{ item.name }}</a></p>
         {% endif -%}
     {% endfor -%}
+</div>
+<div id="return"><a href="#top">^</a></div>
 </nav>
