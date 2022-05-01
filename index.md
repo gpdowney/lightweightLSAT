@@ -10,7 +10,7 @@ This site offers a minimalist system for mastering the LSAT.
 
 Unlike other guides, which overload you with knowledge about the Test, *the Lightweight LSAT* emphasizes intentional and iterative skill-building.
 
-This guide purposefully leaves out many nuances in order to (a) focus on the most essential skills and (b) encourage you teach yourself.
+This guide purposefully leaves out many nuances in order to (a) focus on the most essential skills and (b) encourage you to teach yourself.
 
 This site expects you to revise, adapt, expand, and simplify *the Lightweight LSAT* system based on your experience on actual LSAT Qs. (Actual Qs are not provided here, as they are available [directly from LSAC](https://lawhub.lsac.org).)
 
@@ -18,7 +18,7 @@ It's not for everyone. Everyone's brain is differently. Everyone learns differen
 
 ## My Bona Fides
 
-In May 2020, I scored **180** on the LSAT (a perfect score). That was my second official test. The first time, in October 2010, I scored 173 (a top 1% score).
+In March 2020, I scored **180** on the LSAT (a perfect score). That was my second official test. The first time, in October 2010, I scored 173 (a top 1% score).
 
 I've taught the LSAT for 5 years, formerly with Manhattan Prep and now with the [Test Prep Collective](https://testprepcollective.com).
 
@@ -48,13 +48,13 @@ Read this guide top to bottom, or take just the pieces you need.
 
 If you don't know what you need, [take a Practice Test](https://lawhub.lsac.org/). Don't be afraid to fail. Failure is the very best teacher.
 
-And re-read. As your skill improves, the meaning of my words might become clearer or change.
+Jump around to the topics that interest you. And re-read, too. As your skill improves, the meaning of my words might become clearer or change.
 
 ### 3. Experiment
 
 Don't reject or accept my ideas until you've tried them out on a real Q.
 
-Always calibrate your system against the Test. If my suggestion doesn't help you be smoother and more confident on real LSAT Qs, it's not helpful.
+Always calibrate your system against the Test. If my method doesn't make *you* smoother and more confident on real LSAT Qs, it's not helpful for *you*, so you should try a different approach.
 
 *Beware: At first, learning any system (even a lightweight one) will make the Test feel harder and slower.*
 
