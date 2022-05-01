@@ -1,5 +1,9 @@
-/* font import */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300');
+// font import
+@font-face {
+    font-family: 'Open Sans';
+    src: url("/assets/fonts/OpenSans.ttf");
+    font-weight: 300;
+  } 
 
 /* default grid + smaller screens */
 body {
@@ -16,7 +20,6 @@ body {
     
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
-    font-weight: 300;
 }
 
 header {
@@ -81,13 +84,9 @@ p{
     font-style: italic;
 }
 
-/* custom strong and emphasis */
+// restore strong
 strong{
     font-weight: bold;
-}
-
-em{
-    font-style: italic;
 }
 
 /* unordered lists to simple - */
@@ -159,7 +158,7 @@ tr.odd {
 
 }
 
-// return to top button fixed in bottom right
+// return to top button fixed position in bottom right
 #return{
     position: fixed;
     bottom: 20px;
