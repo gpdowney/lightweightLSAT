@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Lightweight LSAT"
 
 
-exclude: [".gitignore", "gemfile", "gemfile.lock", "readme.md", "license.txt"]
+exclude: [".gitignore", "Gemfile", "Gemfile.lock", "README.md", "LICENSE.txt"]
 
 defaults:
   -
