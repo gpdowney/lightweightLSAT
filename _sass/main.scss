@@ -163,8 +163,11 @@ tr.odd {
     position: fixed;
     bottom: 20px;
     right: 30px;
-    background-color: white;
-    font-size: 18px;
+    border-radius: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 28px;
+    opacity: 0.4;
 }
 
 // sticky div
@@ -178,7 +181,6 @@ tr.odd {
 @media (min-width: 40em) {
 
     body {
-
         grid-template-areas:
             "nav header"
             "nav main"
