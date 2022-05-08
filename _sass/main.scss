@@ -51,9 +51,13 @@ img{
     object-fit: scale-down;
 }
 
-/* make links green when visited */
-a:visited{
+/* make unvisited links green */
+a{
     color: #01665f;
+}
+/* make visited links black */
+a{
+    color: black;
 }
 
 h1, h2, h3{
