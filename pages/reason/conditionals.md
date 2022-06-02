@@ -1,12 +1,12 @@
 ---
 title: Conditional Logic
 cat: reason
-permalink: conditionals
+permalink: reason/conditionals
 ---
 
 Conditional logic was invented in the 20th Century by mathematician-philosophers who wanted to be able to say things so precisely that they couldn't be rebutted. These philosophers didn't succeed in finding THE TRUTH of THE UNIVERSE. But they did invent a language game that the LSAT loves to play.
 
-Conditional logic often appears on MECHANICAL Qs. Including [JUSTIFY][1], [MUST BE TRUE][2], [PARALLEL][3], and [RULE][4] Qs.
+Conditional logic often appears on MECHANICAL questions. Including [JUSTIFY][1], [MUST BE TRUE][2], [PARALLEL][3], and [RULE][4] questions.
 
 *Practice Idea:* Diagram every Conditional you find. Don't worry about getting Points, just practice the diagramming muscle. Later, once you reliably get the diagram correct on paper, you can try to (sometimes) diagram in your head.
 
@@ -182,13 +182,13 @@ How'd we get that...
 {% endcapture %}
 {% include details.html %}
 
-## How you use your Diagram changes depending on the Q Species.
+## How you use your Diagram changes depending on the question Species.
 
-### JUSTIFY Qs {#justifydiagram}
+### JUSTIFY Questions {#justifydiagram}
 
-In a JUSTIFY Q, diagram to find the Gap.
+In a JUSTIFY question, diagram to find the Gap.
 
-This strategy also works on DEPENDS Qs with Conditional logic.
+This strategy also works on DEPENDS questions with Conditional logic.
 
 There are two types of Gaps.
 
@@ -222,7 +222,7 @@ Y --> W
 {% endcapture %}
 {% include details.html %}
 
-### MUST BE TRUE Qs {#mbtdiagram}
+### MUST BE TRUE questions {#mbtdiagram}
 
 Your Job is to combine the Facts. Contrapositives may be useful.
 
@@ -262,7 +262,7 @@ See the combo now?
 {% endcapture %}
 {% include details.html %}
 
-### PARALLEL Qs {#paralleldiagram}
+### PARALLEL Questions {#paralleldiagram}
 
 Your Job is to extract the Argument's Structure and find the same Structure in the Answers.
 
@@ -290,9 +290,9 @@ and the same as:
 >
 > *Conclusion:* not-U
 
-### RULE Qs {#rulediagram}
+### RULE Questions {#rulediagram}
 
-On RULE Qs, you diagram the Rules given in the Facts. (As an INFER Family Q, there's not actually an Argument.)
+On RULE questions, you diagram the Rules given in the Facts. (As an INFER Family question, there's not actually an Argument.)
 
 Diagraming the Rule lets you know what you can prove and how you can prove it.
 

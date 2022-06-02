@@ -1,7 +1,7 @@
 ---
 title: Your Score
 cat: resources
-permalink: scores
+permalink: resources/scores
 ---
 
 ## Don't pay so much attention to your score
@@ -18,7 +18,7 @@ When you pay attention to your behavior you put yourself in control.
 
 ## The Curve
 
-Your Raw Score is the number of Qs you got correct. Each Q is worth 1 point. There's no penalty for getting a Q wrong.
+Your Raw Score is the number of questions you got correct. Each question is worth 1 point. There's no penalty for getting a question wrong.
 
 Your Scaled Score is the measure of how well you did compared to other Test-Takers.
 
@@ -37,15 +37,15 @@ A 165 is supposed to mean you outperformed 90% of all Test-Takers, whether they 
 
 But the Tests are inconsistent. Some are easier and some are harder. So the LSAC uses a very complicated formula to transform Raw Scores into Scaled Scores.
 
-To convert your Raw Score into a Scaled Score, you must use a score conversion chart specific to that Test. Most of the [conversion charts are available here](https://lsac.zendesk.com/hc/en-us/sections/360008008073-PrepTest-Conversion-Charts-).
+To convert your Raw Score into a Scaled Score, you must use a score conversion chart specific to that Test. Most of the [conversion charts are available here][1].
 
 ## The Test Serves the Curve
 
-Every Q is meant to sort Test-Takers along the Curve.
+Every question is meant to sort Test-Takers along the Curve.
 
-That easy Q might have been designed to separate the 134 scorer from the 135 scorer. If that's not you, let it be easy.
+That easy question might have been designed to separate the 134 scorer from the 135 scorer. If that's not you, let it be easy.
 
-Conversely, that crazy Q might be been designed to distinguish a 180 scorer from a 179 scorer. If that's not you, you don't need that point.
+Conversely, that crazy question might be been designed to distinguish a 180 scorer from a 179 scorer. If that's not you, you don't need that point.
 
 ## Easier Tests are Actually Harder
 
@@ -77,3 +77,5 @@ This means:
 
 - You can celebrate a 1 point increase (your range went up to 159.5 to 164.5).
 - But don't sweat small swings (they might be meaningless).
+
+[1]: https://lsac.zendesk.com/hc/en-us/sections/360008008073-PrepTest-Conversion-Charts-

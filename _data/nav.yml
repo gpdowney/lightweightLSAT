@@ -21,10 +21,16 @@
   num: 0.3
   level: one
 
-- name: Favorite Skills
+- name: Study Timeline
+  cat: fundamentals
+  link: schedule.html
+  num: 0.4
+  level: one
+
+- name: Selected Skills
   cat: fundamentals
   link: skills.html
-  num: 0.4
+  num: 0.5
   level: one
 
 - name: Timing and Stress
@@ -35,110 +41,140 @@
 - name: Confidence and Anxiety
   cat: time
   link: confidence.html
-  num: 0.4
+  num: 0.6
   level: one
   
 - name: Timing Goals
   cat: time
-  link: timegoals.html
-  num: 0.5
+  link: goals.html
+  num: 0.7
   level: one
 
 - name: Resets
   cat: time
   link: resets.html
-  num: 0.6
+  num: 0.8
   level: one
   
 - name: Sprints
   cat: time
   link: sprint.html
-  num: 0.7
+  num: 0.9
   level: one
 
-- name: Logic Games
+- name: Games
   cat: game
   link: game.html
   level: zero
 
-- name: Visualize the Game
+- name: Draw the Game
   cat: game
-  link: visualize.html
+  link: draw.html
   num: 1.1
   level: one
-  
-- name: Species
+
+- name: Wizards vs. Robots
   cat: game
-  link: species.html
+  link: wizards.html
+  num: 1.1.0
+  level: two
+    
+- name: Common Types
+  cat: game
+  link: types.html
   num: 1.1.1
   level: two
   
-- name: Rules
+- name: Common Rules
   cat: game
   link: rules.html
   num: 1.1.2
   level: two
-  
+
 - name: Splits
   cat: game
   link: splits.html
   num: 1.1.3
   level: two
   
-- name: Get Points
+- name: Connections
+  cat: game
+  link: connect.html
+  num: 1.1.4
+  level: two
+
+- name: Prove & Disprove Answers
   cat: game
   link: points.html
   num: 1.2
   level: one
-  
+
 - name: Black Swans
   cat: game
   link: swan.html
-  num: 1.2.1
-  level: two
-  
-- name: Could Must True False
-  cat: game
-  link: could.html
-  num: 1.2.2
-  level: two
-  
-- name: Hypos
-  cat: game
-  link: hypos.html
-  num: 1.2.3
+  num: 1.2.0
   level: two
 
-- name: Reading Comprehension
+- name: Hypo Walkthrough
+  cat: game
+  link: hypo.html
+  num: 1.2.1
+  level: two
+
+- name: Common Questions
+  cat: game
+  link: questions.html
+  num: 1.2.2
+  level: two
+
+- name: Reading
   cat: read
   link: read.html
   level: zero
 
-- name: Move at the Pace of Your Understanding
+- name: Four Myths about Reading
+  cat: read
+  link: myths.html
+  num: 2.0
+  level: one
+
+- name: Adaptive Speed
   cat: read
   link: pace.html
   num: 2.1
   level: one
   
-- name: Read for Nuanced Conflict
+- name: Nuanced Conflict
   cat: read
   link: conflict.html
   num: 2.2
   level: one
   
-- name: Large, Medium, and Small Qs
+- name: Big, Medium, and Small Questions
   cat: read
   link: size.html
   num: 2.3
   level: one
   
-- name: Eliminate, Defer, or Select
+- name: Crush the Answers
   cat: read
-  link: eliminate.html
+  link: crush.html
   num: 2.4
   level: one
+  
+- name: Swipe Left
+  cat: read
+  link: swipe.html
+  num: 2.4.1
+  level: two
+  
+- name: "I Don't Remember That"
+  cat: read
+  link: remember.html
+  num: 2.4.2
+  level: two
 
-- name: Logical Reasoning
+- name: Reasoning
   cat: reason
   link: reason.html
   level: zero
@@ -149,25 +185,25 @@
   num: 3.1
   level: one
 
-- name: Describe Fam
+- name: Describe Family
   cat: reason
   link: describe.html
   num: 3.1.1
   level: two
 
-- name: Argue Fam
+- name: Argue Family
   cat: reason
   link: argue.html
   num: 3.1.2
   level: two
 
-- name: Infer Fam
+- name: Infer Family
   cat: reason
   link: infer.html
   num: 3.1.3
   level: two
 
-- name: Understand
+- name: Understand the Argument
   cat: reason
   link: understand.html
   num: 3.2
@@ -191,13 +227,13 @@
   num: 3.3
   level: one
 
-- name: How to Argue
+- name: Issue Spotting
   cat: reason
   link: flaws.html
   num: 3.3.1
   level: two
 
-- name: Conditionals
+- name: Conditional Logic
   cat: reason
   link: conditionals.html
   num: 3.3.2
@@ -220,64 +256,64 @@
   link: resources.html
   level: zero
 
-- name: The Problem with All Test Prep
+- name: The Problem with Test Prep
   cat: resources
   link: others.html
   num: 4.1
   level: one
 
-- name: Checklists
+- name: Pattern Recognition
   cat: resources
-  link: checklists.html
+  link: patterns.html
   num: 4.2
-  level: one
-
-- name: How the Test Confuses You
-  cat: resources
-  link: confuse.html
-  num: 4.3
-  level: one
-
-- name: Verbs
-  cat: resources
-  link: verbs.html
-  num: 4.4
   level: one
 
 - name: Be Curious
   cat: resources
   link: curious.html
+  num: 4.3
+  level: one
+
+- name: Checklists
+  cat: resources
+  link: checklists.html
+  num: 4.4
+  level: one
+
+- name: How the Test Confuses You
+  cat: resources
+  link: confuse.html
   num: 4.5
+  level: one
+
+- name: Verbs
+  cat: resources
+  link: verbs.html
+  num: 4.6
   level: one
 
 - name: Your Score
   cat: resources
   link: scores.html
-  num: 4.6
+  num: 4.7
   level: one
 
 - name: Law School Admissions
   cat: resources
   link: admissions.html
-  num: 4.7
+  num: 4.8
   level: one
 
 - name: Further Reading
   cat: resources
   link: syllabus.html
-  num: 4.8
-  level: one
-
-- name: Other Useful Guides and Trusted Teachers
-  cat: resources
-  link: recommendations.html
   num: 4.9
   level: one
 
-- name: Support This Project
-  link: donate.html
-  level: zero
-
 - name: Glossary
   link: glossary.html
+  level: zero
+
+- name: Support This Project
+  link: donate.html
   level: zero

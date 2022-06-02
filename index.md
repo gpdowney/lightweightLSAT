@@ -4,66 +4,52 @@ title: "Welcome!"
 cat: fundamentals
 ---
 
-*The Lightweight LSAT* is a complete and completely free guide to the Law School Admissions Test.
+*The Lightweight LSAT* outlines a proven and simple system for mastering the Law School Admissions Test.
 
-This site offers a minimalist system for mastering the LSAT.
+## The LSAT is a learnable test of skill
 
-Unlike other guides, which overload you with knowledge about the Test, *the Lightweight LSAT* emphasizes intentional and iterative skill-building.
+Let's be clear, the LSAT sucks. And, unfortunately, most other guides make things worse by overloading you with knowledge *about* the test.
 
-This guide purposefully leaves out many nuances in order to (a) focus on the most essential skills and (b) encourage you to teach yourself.
+To be fair, memorizing the LSAT's common patterns is useful. But, unlike most other tests you've taken, the LSAT does not really test your knowledge. Nor does it test your intelligence or your worth as a human being. 
 
-This site expects you to revise, adapt, expand, and simplify *the Lightweight LSAT* system based on your experience on actual LSAT Qs. (Actual Qs are not provided here, as they are available [directly from LSAC](https://lawhub.lsac.org).)
+Rather, the LSAT tests a specific set of **learnable skills**.
 
-It's not for everyone. Everyone's brain is differently. Everyone learns differently.
+For example:
 
-## My Bona Fides
+- The Games section primarily tests your ability to methodically follow rules one-by-one. 
+- The Reading section primarily tests your capacity to identify what the author of a short passage is for and against.
+- The Reasoning section primarily tests your ability to break down arguments, clarifying fact from conclusion.
 
-In March 2020, I scored **180** on the LSAT (a perfect score). That was my second official test. The first time, in October 2010, I scored 173 (a top 1% score).
+*The Lightweight LSAT* teaches you how to hone these and the other skills essential to success.
 
-I've taught the LSAT for 5 years, formerly with Manhattan Prep and now with the [Test Prep Collective](https://testprepcollective.com).
+## *The Lightweight LSAT* is minimalist
 
-In 2016, I graduated from Yale Law School.
+This guide focuses on the essentials.
 
-## This is version 0.3 of the guide
+For example:
 
-In other words, it's the third draft. There's room to improve.
+- The guide describes how to draw the 8 types of games.
+- The guide outlines how to approach the 3 types of reading questions.
+- The guide lists how to recognize 5 types of reasoning flaws.
 
-You can help improve it. Send complaints and compliments to feedback@lightweightlsat.com.
+Each of these lists are intentionally incomplete. There are certainly more than 5 flaws. The 8 game types can hybridize, and combine into new forms. And the 3 reading question "types" are actually more like a spectrum.
 
-## To get the most from this guide...
+But by keeping things simple, *the Lightweight LSAT* gives you a set of knowledge you can actually use on test day.
 
-### 1. Begin with the Fundamentals
+It trusts you to figure out the complications, additions, nuances, and exceptions as you practice.
 
-If you're new to the Test, [LSAT Basics](basics.html) provides an overview.
+## *The Lightweight LSAT* works
 
-Try out one or two of my [Favorite Skills](skills.html).
+This site describes the actual system I used to score a 180 on the March 2020 LSAT. And it reflects my more than 5 years experience teaching the LSAT for a luxury test prep company.
 
-Learn the [Pitfalls](pitfalls.html) so you can avoid them.
+But your brain is unique. So you should adapt my ideas to your needs. 
+- Learn how the system works--and what works for you--by experimenting on real LSAT questions. 
+- Start small. Try out new methods one question at a time, without a timer. Make your process perfect on easy questions. Then add in difficulty gradually.
+- Don't expect perfection or ease, especially at first. Do expect to get smoother, more confident, and more reliable.
+- Discard anything that doesn't help you.
 
-When you're ready to dig deeper, learn the [3 Types of Practice](practice.html).
+## This is version 0.5 of the guide
 
-### 2. Explore
+In other words, this is the fifth draft. There's room to improve. You can help improve it. 
 
-Read this guide top to bottom, or take just the pieces you need.
-
-If you don't know what you need, [take a Practice Test](https://lawhub.lsac.org/). Don't be afraid to fail. Failure is the very best teacher.
-
-Jump around to the topics that interest you. And re-read, too. As your skill improves, the meaning of my words might become clearer or change.
-
-### 3. Experiment
-
-Don't reject or accept my ideas until you've tried them out on a real Q.
-
-Always calibrate your system against the Test. If my method doesn't make *you* smoother and more confident on real LSAT Qs, it's not helpful for *you*, so you should try a different approach.
-
-*Beware: At first, learning any system (even a lightweight one) will make the Test feel harder and slower.*
-
-Stick with me, but not mindlessly. There could be many reasons something isn't working. You might be applying the right skill, but in the wrong place. Or you might be applying it correctly, but it's just not right for you.
-
-Scrap whatever you don't need. And whatever you do keep, make it your own. Rephrase, adapt, amend, and recombine my ideas for your own purposes. 
-
-## Questions?
-
-Strange Capitalized Words may be defined in the [Glossary](glossary.html).
-
-I'm not currently available for tutoring, but [here's a list of other resources and teachers I trust](recommendations.html).
+Send complaints and compliments to <feedback@lightweightlsat.com>.

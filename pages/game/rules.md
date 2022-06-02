@@ -1,20 +1,46 @@
 ---
-title: How to Draw the Common Rules
+title: How To Draw The Common Rules
 cat: game
-permalink: rules.html
+permalink: game/rules
 ---
 
-You could make many Flashcards from this page.
+Major Rule Type | Minor Rule Types
+-- | --
+[Placements](#placements) | Option-Placement, Anti-Placement, Equality, Anti-Equality
+[Relatives](#relatives) | Link, Chip, Sammie
+[Clouds](#clouds) | Block, Anti-Cloud, Spaced-Cloud
+[Variables](#variables) | Variable-Option, Anti-Variable, Variable-Placement
+[Conditionals](#conditionals) | Bi-Conditional, Chain
+[Stacks](#stacks) | Option-Stack, Conditional-Stack, Push-Out, Push-In, Fixed-Stack, Flexi-Stack
+[Numbers](#numbers) | Exact, Min, Max, MinMax, More, Less, Same
 
-And there are many fine ways to Draw Rules. As always, experiment to figure out what works for you.
+## Sense + Value
 
-In general, useful Rules visually match your board. For example, don't copy my vertical Stack if you draw Group games horizontally.
+Try to draw rules in a way that *makes visual sense* to **you** and *creates *visual value* for **you**.
 
-If you encounter a weird or unique rule...
+Generally, "visual sense" means:
 
-- adapt or combine common Drawings,
-- use a Split to take care of it upfront, or
-- Draw it as best you can and Move On.
+- Draw rules like they'll look on board. 
+- Draw a board that makes it easy to write the rules.
+- Put the rules and elements into the board whenever possible.
+
+"Visual value" could mean:
+
+- Skip formalities... maybe you don't need an index.
+- Redundancy is OK... write rules on the board and on the side.
+- Be neat so you can read your work.
+
+## Weird Rules
+
+As often as the common game rules repeat, every game is unique. So drawing is about flexibility as much as it's about memorization.
+
+Type of Practice | How to approach to weird rules
+-- | --
+Skill | Use the tools you have as best you can. Think about what it's most similar to and start your drawing there.
+Puzzle | Experiment! Try many different ways of drawing it. See what works for you.
+Race | Hack it. It doesn't need to be elegant, just get it on paper.
+
+After reviewing weird stuff, make a flashcard based on what made the most sense to you.
 
 ## Placements
 
@@ -76,7 +102,7 @@ O is immediately after P.
 
 ### Anti-Cloud
 
-Q and R cannot occupy consecutive spaces.
+question and R cannot occupy consecutive spaces.
 
 ### Spaced-Cloud
 
@@ -146,9 +172,9 @@ O and M cannot both be included.
 
 ### Push-In
 
-If P is not in a group, then Q must be.
+If P is not in a group, then question must be.
 
-At least one of P or Q, or both, must be included.
+At least one of P or question, or both, must be included.
 
 ![Push Drawing][11]
 
@@ -162,7 +188,7 @@ W is accompanied by at least one other element.
 
 ![More Stack Drawing][12]
 
-## Numeric
+## Numbers
 
 ### Exact
 
@@ -204,19 +230,19 @@ There are an equal number of Zebras and Yaks.
 
 ![Compared Numeric Drawing][15]
 
-[1]: assets/images/rules/placements.png
-[2]: assets/images/rules/equality.png
-[3]: assets/images/rules/chip.png
-[4]: assets/images/rules/sammie.png
-[5]: assets/images/rules/clouds.png
-[6]: assets/images/rules/variables.png
-[7]: assets/images/rules/conditional.png
-[8]: assets/images/rules/biconditional.png
-[9]: assets/images/rules/chains.png
-[10]: assets/images/rules/stacks.png
-[11]: assets/images/rules/push.png
-[12]: assets/images/rules/emptystack.png
-[13]: assets/images/rules/exact.png
-[14]: assets/images/rules/minmax.png
-[15]: assets/images/rules/moreless.png
-[16]: assets/images/rules/relative.png
+[1]: ../assets/images/rules/placements.png
+[2]: ../assets/images/rules/equality.png
+[3]: ../assets/images/rules/chip.png
+[4]: ../assets/images/rules/sammie.png
+[5]: ../assets/images/rules/clouds.png
+[6]: ../assets/images/rules/variables.png
+[7]: ../assets/images/rules/conditional.png
+[8]: ../assets/images/rules/biconditional.png
+[9]: ../assets/images/rules/chains.png
+[10]: ../assets/images/rules/stacks.png
+[11]: ../assets/images/rules/push.png
+[12]: ../assets/images/rules/emptystack.png
+[13]: ../assets/images/rules/exact.png
+[14]: ../assets/images/rules/minmax.png
+[15]: ../assets/images/rules/moreless.png
+[16]: ../assets/images/rules/relative.png

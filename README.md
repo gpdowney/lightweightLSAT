@@ -2,7 +2,7 @@
 
 The Complete Lightweight LSAT in HTML form.
 
-## This is Version 0.3
+## This is Version 0.5
 
 Currently, the Lightweight LSAT provides a basic System for mastering the LSAT.
 
@@ -12,13 +12,13 @@ Since the LSAT is not a knowledge test, but a skills test, the Lightweight Syste
 
 The site purposefully leaves out many details and nuances in order to (a) focus on the essentials and (b) encourage users to teach themselves.
 
-Users are expected to revise, adapt, expand, and simplify the Lightweight LSAT system based on their experience on actual Qs. Actual Qs are not provided, as they are available from the LSAC directly.
+Users are expected to revise, adapt, expand, and simplify the Lightweight LSAT system based on their experience on actual questions. Actual questions are not provided, as they are available from the LSAC directly.
 
 ## Design
 
 The site's design is intentionally minimal: mostly grid-based CSS and Markdown. There are no scripts or cookies or user tracking of any kind.
 
-The site is built using [Jekyll](https://jekyllrb.com) so that it can be written and revised in Markdown (instead of HTML). There is some Liquid code + YAML files that help keep the site consistent from page to page, and reduce the need to copy + paste repetitive sections. If you clone this repository, you'll need Jekyll to turn the files into a website.
+The site is built using [Jekyll](https://jekyllrb.com) so that it can be written and revised in Markdown (instead of HTML). There is some Liquid code + YAML files that help keep the site consistent from page to page, and reduce the need to copy + paste repetitive sections. If you clone this repository, you can use Jekyll to turn the files into a website.
 
 You'll find the actual content of the site in the Markdown files contained under "pages" (and in the YAML files under _data).
 
@@ -30,7 +30,7 @@ Email feedback@lightweightlsat.com to share ideas or volunteer@lightweightlsat.c
 
 ### Interactivity
 
-With v3 the site now uses the HTML details tag to selectively hide information to encourage students to think as they read.
+Since v3 the site now uses the HTML details tag to selectively hide information to encourage students to think as they read.
 
 This strategy could be expanded to more pages, and more interactive strategies (such as automatically graded quizzes) may be added.
 
@@ -46,11 +46,7 @@ The site has not been shared widely.
 
 ### Videos
 
-I am currently developing videos to accompany the site. The purpose of videos are:
-
-1. To provide an alternative learning environment.
-2. To demonstrate how to apply the ideas.
-3. To cover more complex aspects of the Test.
+I may develop videos to accompany the site and provide more walk-throughs.
 
 ### Workshops
 

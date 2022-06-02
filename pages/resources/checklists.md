@@ -1,7 +1,7 @@
 ---
 title: The Value and Use of Checklists
 cat: resources
-permalink: checklists
+permalink: resources/checklists
 ---
 
 In [*The Checklist Manifesto*][1], Atul Gawande relates a story about modern airplanes, which is also true about the LSAT.
@@ -42,7 +42,7 @@ There are many possible Checklists contained in these materials.
 
 Here are a few examples:
 
-Logic Games EASY IF Qs.
+Logic Games EASY IF questions.
 
 1. Draw a new Board with the new info.
 1. Follow the Overlapping Rules.
@@ -56,7 +56,7 @@ Logic Games: Visualize.
 1. Draw.
 1. Check.
 
-Reading Comprehension: MEDIUM Qs.
+Reading Comprehension: MEDIUM questions.
 
 1. Anchor yourself in the Author's claim.
 1. Eliminate confused Answers.
@@ -64,9 +64,9 @@ Reading Comprehension: MEDIUM Qs.
 1. If 1 Answer remains, select it and move on.
 1. If 2+ Answers remain, Go Back to support the Answer you like.
 
-Logical Reasoning: every Q.
+Logical Reasoning: every question.
 
-1. Identify Q Type + Family + Species.
+1. Identify question Type + Family + Species.
 1. Understand the Argument.
 1. Pause to Predict.
 1. Eliminate bad Answers. Defer on weirdo Answers. Select good Answers.

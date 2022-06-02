@@ -1,7 +1,7 @@
 ---
 title: Eliminate, Defer, Select
 cat: reason
-permalink: answers
+permalink: reason/answers
 ---
 
 Read exactly what the Answer says. Don't add or subtract anything. Understand what it means.
@@ -12,7 +12,7 @@ When you find an Answer you like, you can be extra [skeptical][2] of the rest. (
 
 When you get turned around by the Answers (this will happen), take a second to [Reset][3]. Remind yourself of your Job, Understanding, and/or Prediction.
 
-Generally, on LR, you should Eliminate, Defer, and then Select.
+Generally, on Reasoning, you should Eliminate, Defer, and then Select.
 
 ## Eliminate answers you know are wrong.
 
@@ -55,6 +55,6 @@ As you practice, try to figure out what it would take to have more 1/2s and 5/6s
 - Do you need more useful (either more flexible or more specific) predictions? 
 - Do you need to read the Answers for understanding?
 
-[1]: confuse.html#ruthless
-[2]: confuse.html#skeptical
-[3]: resets.html
+[1]: ../resources/confuse.html#ruthless
+[2]: ../resources/confuse.html#skeptical
+[3]: ../time/resets.html

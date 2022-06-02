@@ -1,7 +1,7 @@
 ---
 title: Confidence and Anxiety
 cat: time
-permalink: confidence.html
+permalink: time/confidence
 ---
 
 ## Confidence is the key to speed
@@ -12,7 +12,7 @@ Staring takes up the rest. (Staring indicates over-confidence.)
 
 If you don't feel at all confident, then fake it till you make it.
 
-Remember, there's no cost to missing a practice Q.
+Remember, there's no cost to missing a practice question.
 
 In fact, that's useful information.
 
@@ -22,16 +22,16 @@ Trust yourself to learn when, specifically, you can't trust yourself.
 
 ### Arrogance is…
 
-- When you only do RACE practice: As soon as you learn something, you try to do it at full speed on the hardest Qs.
+- When you only do RACE practice: As soon as you learn something, you try to do it at full speed on the hardest questions.
 - When you blame luck or the test or "stupidity" for your mistakes. And then don't learn from them.
-- When you expect every Q to be easy, so you don't notice when the Test is hard.
+- When you expect every question to be easy, so you don't notice when the Test is hard.
 - When you don't let the Test show you when you don't understand something.
 
 ### Agonizing is when you only do PUZZLE practice
 
 Puzzling is useful, but if you only practice this way, it will become a bad habit.
 
-When you agonize over every Q, you don't give yourself a chance to fail or to succeed. You don't let yourself see what you're really good at and what you actually do need to work on.
+When you agonize over every question, you don't give yourself a chance to fail or to succeed. You don't let yourself see what you're really good at and what you actually do need to work on.
 
 If you agonize over the last 2 Answers in practice, then you'll do that on Test Day too.
 
@@ -52,7 +52,7 @@ Anxiety has as many causes and manifestations as there are human beings. But it 
 1. Anxiety distracts you.
 2. Anxiety disrupts your game-plan.
 
-Anxiety impairs test performance when it takes you away from solving the Q in front of you.
+Anxiety impairs test performance when it takes you away from solving the question in front of you.
 
 And anxiety makes the test harder when it encourages reactive, rather than proactive, behavior.
 
@@ -73,7 +73,7 @@ When you're too anxious (or tired, or whatever) to practice right, don't practic
 
 Instead, exercise, drink water, nap, eat, meditate, or take care of business.
 
-Try again when you can approach the Qs with confidence and integrity.
+Try again when you can approach the questions with confidence and integrity.
 
 That said, don't give up too fast or postpone studying just because you "don't feel like it". Sometimes you need to warm up to get in the mood.
 

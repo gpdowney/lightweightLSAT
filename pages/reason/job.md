@@ -1,73 +1,63 @@
 ---
-title: What's your JOB?
+title: What's Your Job?
 cat: reason
-permalink: job
+permalink: reason/job
 ---
 
-## Every Q gives you a specific task to do
+## Every Question Gives You A Specific Task To Do
 
-Read the Q before you look at the Argument. Know what the Test is asking you to do before you try to do it.
+Read the question before you look at the Argument. Know what the Test is asking you to do before you try to do it.
 
-The Q always gives clear instructions. Still it is useful to know, in advance, what they're likely to ask you to do.
+The question always gives clear instructions. Still it is useful to know, in advance, what they're likely to ask you to do.
 
 ## Family
 
-A LR Q can ask you to do one of 3 things with the Argument: Describe it, Argue with it, or Infer from it.
+A Reasoning question can ask you to do one of 3 things with the Argument: Describe it, Argue with it, or Infer from it.
 
-*All* LR Qs fit into one of these 3 Families:
+*All* Reasoning questions fit into one of these 3 Families:
 
-1. [DESCRIBE](describe.html)
-1. [ARGUE](argue.html)
-1. [INFER](infer.html)
+1. [DESCRIBE][describe]
+1. [ARGUE][argue]
+1. [INFER][infer]
 
-A Q's Family tells you how you should try to Understand the Argument.
+A question's Family tells you how you should try to Understand the Argument.
 
-For an ARGUE Q, you need to read critically, looking for problems so that you can HELP or HURT the Argument.
+For an ARGUE question, you need to read critically, looking for problems so that you can HELP or HURT the Argument.
 
-But you needn't argue with a DESCRIBE Q.
+But you needn't argue with a DESCRIBE question.
 
-And INFER Qs don't even have complete Arguments, they merely offer some Facts. On INFER Qs, the correct Answer *follows from* those Facts.
+And INFER questions don't even have complete Arguments, they merely offer some Facts. On INFER questions, the correct Answer *follows from* those Facts.
 
 ## Genus
 
-In addition to a Family, *all* LR Qs have a Genus.
+In addition to a Family, *all* Reasoning questions have a Genus.
 
 There are 2 Genera:
 
 1. MECHANICAL
 1. ORGANIC
 
-A Q's Genus tells you how to Predict.
+A question's Genus tells you how to Predict.
 
-On MECHANICAL Qs, you should make [Specific Predictions](predict.html#specific). In contrast, ORGANIC Qs tend to reward [Flexible Predictions](predict.html#flexible).
+On MECHANICAL questions, you should make [Specific Predictions][specific]. In contrast, ORGANIC questions tend to reward [Flexible Predictions][flex].
 
-As a result, MECHANICAL Qs reward very close, word-for-word readings. While ORGANIC Qs benefit from a more holistic read.
+As a result, MECHANICAL questions reward very close, word-for-word readings. While ORGANIC questions benefit from a more holistic read.
 
 ## Species
 
-Many Qs also have a Species (aka a specific name). Each Species inherits the general task and tendencies of its Family and Genus.
+Many questions also have a Species (aka a specific name). Each Species inherits the general task and tendencies of its Family and Genus.
 
-Qs without a Species are defined well-enough by their Family and Genus. They do not require more specific classification.
+Questions without a Species are defined well-enough by their Family and Genus. They do not require more specific classification.
 
 Here's a chart of all the Species (that matter):
 
-<table>
-    <caption>LR Qs by Family, Species, and Genus</caption>
-    <tr>
-        <th>Family</th>
-        <th>Species</th>
-        <th>Genus</th>
-    </tr>
-    {% for item in site.data.LRSpecies -%}
-    <tr>
-    <td>{{ item.family | upcase }}</td>
-    <td><a href="{{ item.family }}.html#{{ item.species | slugify }}">{{ item.species }}</a></td>
-    <td>{{ item.genus | upcase }}</td>
-    </tr>
-    {% endfor %} 
-</table>
+Family | Species | Genus
+-- | -- | --
+{% for item in site.data.LRSpecies -%}
+{{ item.family | upcase }} | [{{ item.species }}]({{ item.family }}.html#{{ item.species | slugify }}) | {{ item.genus | upcase }}
+{% endfor %} 
 
-## Q recognition should be easy and automatic, so memorize two aspects of every Species
+## Question Recognition Should Be Easy And Automatic, So Memorize Two Aspects Of Every Species
 
 1. The keywords that indicate what Species it is.
 1. It's Family, Genus, and your specific Job.
@@ -78,4 +68,11 @@ Make many flashcards for this, but remember, flashcards aren't a way to understa
 
 Keep it simple. Simplicity is a sign of understanding.
 
-[Here's another cheat-sheet](https://docs.google.com/spreadsheets/d/1dxE_s49LAc6jxx_5zh-Av18kcTMO1BKtWPZGblT_vrQ/edit?usp=sharing).
+[Here's another cheat-sheet][cheat].
+
+[describe]: describe.html
+[argue]: argue.html
+[infer]: infer.html
+[specific]: predict.html#specific
+[flex]: predict.html#flexible
+[cheat]: https://docs.google.com/spreadsheets/d/1dxE_s49LAc6jxx_5zh-Av18kcTMO1BKtWPZGblT_vrQ/edit?usp=sharing

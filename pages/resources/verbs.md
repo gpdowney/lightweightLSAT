@@ -1,7 +1,7 @@
 ---
 title: Always Find the Verb
 cat: resources
-permalink: verbs
+permalink: resources/verbs
 ---
 
 Verbs are, literally, the action of a sentence. But verbs are often hidden on the LSAT, as they are hidden in much of legal writing.
@@ -30,7 +30,7 @@ The true evil is…
 
 A nominalization is a verb that has been turned into a noun.
 
-Lawyers' have many bad writing habits. Nominalizations are the worst. Or, rather, the only thing worse than a nominalization is an [acronym](glossary.html#acronyms).
+Lawyers' have many bad writing habits. Nominalizations are the worst. Or, rather, the only thing worse than a nominalization is an [acronym][acronym].
 
 Compare:
 
@@ -47,3 +47,5 @@ And:
 vs.
 
 > You nominalize when you turn a verb into a noun.
+
+[acronym]: ../glossary.html#acronyms

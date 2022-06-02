@@ -1,24 +1,24 @@
 ---
-title: How LR and RC Can Confuse You
+title: How Reasoning and Reading Can Confuse You
 cat: resources
-permalink: confuse
+permalink: resources/confuse
 ---
 
-There are 3 parts to every LR and RC Q (the Q itself, the Argument/Passage, and the Answers). This gives them 3 chances to befuddle you.
+There are 3 parts to every Reasoning and Reading question (the question itself, the Argument/Passage, and the Answers). This gives them 3 chances to befuddle you.
 
-## The LSAT never allows itself to be confusing in the Q
+## The LSAT never allows itself to be confusing in the question
 
 If these instructions had any ambiguity, then multiple Answers might be correct. The LSAT could never allow that.
 
 The primary virtue of the LSAT is that there is exactly one correct Answer. Answers are never better or worse. They're either right or wrong.
 
-To be fair, the Q can be complicated. But a complicated Q gives you more specific instructions. If you follow those instructions, the Q should actually be easier.
+To be fair, the question can be complicated. But a complicated question gives you more specific instructions. If you follow those instructions, the question should actually be easier.
 
 ## Arguments and Passages can confuse you with bad writing.
 
 Nominalizations, passive voice, pronouns, opposing points, double negatives, confusing commas, conditional logic, etc...
 
-Rushing through the Argument or the Read makes you vulnerable. Don't underestimate the value of [ Understanding](understand.html) and [Reading at the Pace of your Understanding](pace.html).
+Rushing through the Argument or the Read makes you vulnerable. Don't underestimate the value of [Understanding][understand] and [Reading at the Pace of your Understanding][pace].
 
 Still, there are limits to how confusing the Argument/Passage can get. A too ambiguous Argument/Passage might make one than one Answer correct. And again, that would be a diaster for the Test.
 
@@ -28,11 +28,11 @@ There is *no limit to how confusing the Wrong Answers can be*. And there's 4 of 
 
 The Test-Makers know how your brain works better than you do. And with each Test they learn more. They have experimented with thousands of Answer choices on thousands of Test-Takers.
 
-The Answers are not your friend. Unlike other standardized tests (or the LG section), you cannot use them to hack the Q.
+The Answers are not your friend. Unlike other standardized tests (or the Games section), you cannot use them to hack the question.
 
 ### Be Prepared for the Answers
 
-[Predictions protect you](predict.html) from the dangerous Answers. They allow you to check your Understanding and ruthlessly eliminate Wrong Answers.
+[Predictions protect you][predict] from the dangerous Answers. They allow you to check your Understanding and ruthlessly eliminate Wrong Answers.
 
 ### Be RUTHLESS with the Answers. {#ruthless}
 
@@ -63,6 +63,11 @@ When you clear away the wrong Answers, you might be left with an Answer
 
 In either case, pick it and move on.
 
-If two Answers seem correct, pick the better one. You should review this Q later (even if you get the Point) because **eliminating 3 is not good enough**. 
+If two Answers seem correct, pick the better one. You should review this question later (even if you get the Point) because **eliminating 3 is not good enough**. 
 
-It's better to make 5 eliminations than 3. Making 5 eliminations lets you know that you need to [Move On or Revise](flag.html).
+It's better to make 5 eliminations than 3. Making 5 eliminations lets you know that you need to [Move On or Revise][flag].
+
+[understand]: ../reason/understand.html
+[pace]: ../read/pace.html
+[predict]: ../reason/predict.html
+[flag]: flag.html

@@ -1,7 +1,7 @@
 ---
 title: Resets
 cat: time
-permalink: resets.html
+permalink: time/resets
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: How to Argue (on the LSAT)
 cat: reason
-permalink: flaws
+permalink: reason/flaws
 ---
 
 All ARGUE Family Arguments have at least one Problem. Just knowing that they have a Problem is not enough. To make a Flexible (ORGANIC) or Specific (MECHANICAL) Prediction, you must be able to say what the Problem is. 
@@ -36,7 +36,7 @@ Better to listen carefully until the real problem is revealed.
 
 Even better to let them propose some solutions. Then, you can weed out the solutions that don't actually address the problem.
 
-This is also how you should approach ORGANIC Qs: find the real Problem, don't get tied to one solution, and then Eliminate Answers that are IRRELEVANT to the Problem.
+This is also how you should approach ORGANIC questions: find the real Problem, don't get tied to one solution, and then Eliminate Answers that are IRRELEVANT to the Problem.
 
 ## 3 Types of Problems
 
@@ -50,7 +50,7 @@ These types overlap.
 - Some Flaws, like [Fresh Ideas in the Conclusion][1] and [Conditional Errors][2] feel more like Gaps. 
 - Other Flaws, like the [Causation][3], [Sampling][4] and [Comparison][5] Flaws are more likely to raise What Ifs.
 
-Gaps tend to be most useful on JUSTIFY Qs. What If thinking helps on ORGANIC Qs. Both help on DEPENDS Qs.
+Gaps tend to be most useful on JUSTIFY questions. What If thinking helps on ORGANIC questions. Both help on DEPENDS questions.
 
 Consider this argument:
 
@@ -89,7 +89,7 @@ Here's some:
 {% endcapture %}
 {% include details.html %}
 
-Notice: What are the chances your exact What If appears in the Correct Answer? Not nothing, but not high. Theres a vast range of possible objections; that's why you need to stay Flexible on ORGANIC Qs.
+Notice: What are the chances your exact What If appears in the Correct Answer? Not nothing, but not high. Theres a vast range of possible objections; that's why you need to stay Flexible on ORGANIC questions.
 
 ## The Common Flaws {#flaws}
 

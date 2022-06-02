@@ -1,7 +1,7 @@
 ---
 title: Three Ways to Break Down Arguments
 cat: reason
-permalink: break
+permalink: reason/break
 ---
     
 1. FEEL
@@ -88,7 +88,7 @@ Most test-takers are not looking for Fact words. (Which could change if this gui
 
 Pivots introduce the Argument's IDIOTS. In other words, Pivot words separate the Point and the OPPOSING point.
 
-(This makes Pivots especially valuable on RC.)
+(This makes Pivots especially valuable on Reading.)
 
 Pivot words include:
 

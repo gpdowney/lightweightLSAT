@@ -1,87 +1,84 @@
 ---
-title: 4 Myths of Reading Comp
+title: The Reading Section
 cat: read
 permalink: read
 ---
 
-## Myth 1: You can't improve your RC score
+The optimal way to approach the Reading section is to...
 
-Maybe you've heard from someone that RC isn't improvable. That someone couldn't improve their own score or they couldn't help you improve. This belief only proves that they don't understand the RC section.
+1. invest in understanding the text, so that you can
+2. crush the questions.
 
-Maybe you're doing pretty well on RC and figure: "eh, good enough." But why? Why tolerate lost points here but not elsewhere? RC is fully 1/3rd of your score.
+## Invest In The Text
 
-Or maybe you're having a bad time with RC but think: "how could I get better at reading?" Well, that's why you're here.
+Investing in the text means moving at the pace of your understanding. 
 
-RC requires a different kind of reading.
+That doesn't mean you need to read slowly. Instead, you should read at an adaptive speed. Slow down when you need to, speed up when you can.
 
-- It's not the same as reading journalism or fiction.
-- It's not the same as reading for most college courses.
-- It's not even the same as reading for other standardized tests.
+[Learn how to pace yourself adaptively][pace].
 
-### You can get better at RC if you read differently, if you read for the nuanced conflict
+You invest time in the text in order to grasp what the author is for and against. This conflict may be summed up in a single thesis sentence, or it may be more subtle. 
 
-Understanding conflict is, thankfully, very relevant for law school.
+The conflict will be nuanced. It's not enough to see that author is against something; you must also understand **why** they're opposed.
 
-More on how to [find conflict, here](conflict.html).
+[Learn how to find the nuanced conflict][conflict].
 
----
+## Crush The Questions
 
-## Myth 2: You should read faster
+After investing time to understand the text, you can gain time by crushing the questions.
 
-The LSAT is a terrible place to start speed-reading.
+You crush the questions by
 
-If you want to learn how to speed-read, practice speed-reading on something else, something easier than the LSAT.
+1. using your understanding and 
+2. moving confidently through the answers.
 
-And don't skim either. You cannot skim on RC because every word matters. (Although not every word matters equally.)
+### Use Your Understanding
 
-### Instead: Read at the pace of your understanding
+How you use your understanding changes depending on the question's size. 
 
-Speed on RC comes from CRUSHING the Qs, which you can only do if you INVEST in the READ
+In the Reading section, questions range from **big**, which ask about the main conflict, to **small**, which ask about specific points.
+
+Size | Method
+-- | --
+[Big][big]: <br>asks about the main conflict. | **Eliminate** answers that are inconsistent with the main point.
+[Small][small]: <br> asks about specific points. | Know where to go back in the text to **prove** the correct answer.
+[Medium][medium]: <br> goes beyond the text. | Do both: predict to eliminate *and* go back to prove.
+
+### Move Confidently Through The Answers
+
+In order to move quickly, you must trust your understanding. You cannot trust the answers because the answers are designed to [confuse][confuse] you.
+
+To avoid getting turned around by the answers, be decisive. For each answer, decide to either eliminate, defer, or select it.
+
+[Eliminate] **poisoned** answers | Find the one poisonous word that makes it wrong.
+[Defer] on **weirdo** answers | Don't spend time on confusing answers or answers you aren't sure about until you need to.
+[Select] the **best** answer | You might love the best answer, or it might just be the least bad option.
+
+## Timing
 
 You will finish with time to spare if you spend:
 
-3:00 on the read (+/- 0:30); and
+- 3:00 on the text (+/- 0:30); and
+- 0:45 per question (+/- 0:15).
+- (3:00 x 4 texts) + (0:45 x 27 questions) = 32:15
 
-0:45 per Q (+/- 0:15).
+## Useful Reading Skills
 
-(3:00 x 4 passages) + (0:45 x 27 Qs) = 32:15
+Primary Skills | Secondary Skills
+-- | --
+[Adaptive speed][pace] | Move at your own pace<br> Use feedback loops<br> Trust your confusion<br> Pause<br> Reread
+[Read for the nuanced conflict][conflict] | Find the thesis sentence<br> Notice pivot words<br> Ask "Why?" instead of "What?"<br> Be sensitive to tone
+Predict to eliminate on [big] questions]<br> Go back to prove on [small] questions<br> Do both on [medium] questions | Pause to predict<br> Scan answers before going back<br> Eliminate too strong answers
+Confidently [crush] answers | Find specific poison<br> Extract the essence of the answer<br> Pick the least bad answer<br> Don't agonize<br>  Let easy stuff be easy
 
-More on [pacing your read, here](pace.html).
-And more on [crushing the questions, here](eliminate.html)
-
----
-
-## Myth 3: You must memorize the passage
-
-You want to memorize and speed-read at the same time?? Woah, no wonder you're having a hard time.
-
-Memorizing a bunch of boring, random facts is impossible, or at least very time consuming.
-
-### Better to find the WHY of the passage
-
-Rather than trying to memorize a bunch of discrete WHATs, look for the WHY behind the passage. 
-
-The WHY connects the WHATs together. The connections you make trying to understand the WHY will help you remember all the WHATs you need.
-
-And RC Qs are more likely to ask about the WHY of the Passage, anyways.
-
-Only a few of the WHATs will be tested, and when that happens you can go back to the Passage.
-
----
-
-## Myth 4: You need a complicated system of notes
-
-Notes have three major disadvantages:
-
-1. Note-taking consumes precious time.
-1. Underlining/highlighting replaces understanding. You note that something was important, instead of thinking about WHY it's important.
-1. Taking notes, especially while reading, distracts you with detail. You get caught up in the WHATs.
-
-### Try taking no notes instead
-
-Whenever you would take a note, pause to synthesize instead.
-
-If, after trying no-notes, you decide you must take notes, then your notes should:
-
-- Happen after you understand; and
-- Be minimalist (just a few words).
+[pace]: read/pace.html
+[conflict]: read/conflict.html
+[size]: read/size.html
+[crush]: read/crush.html
+[confuse]: read/confuse.html
+[big]: read/size.html#big
+[small]: read/size.html#small
+[medium]: read/size.html#medium
+[Eliminate]: read/crush.html#eliminate
+[Defer]: read/crush.html#defer
+[Select]: read/crush.html#select

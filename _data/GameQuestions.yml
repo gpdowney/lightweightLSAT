@@ -1,0 +1,103 @@
+- name: LIST
+  ex: Which of the following could be a complete and accurate list...?
+  ask: Which of the answers doesn't break any rule?
+  know: Usually the 1st question.
+  short: Go rule-by-rule. Use each rule to eliminate one answer.
+  process: |
+    - Use each rule, one by one, to eliminate answers.
+    - Usually each rule will eliminate one answer.
+    - The correct answer is a valid hypo, write it down.
+  adv: |
+
+    - Use these questions to practice smoothly consulting one rule at a time.
+    - To increase smoothness, know what you're looking for in the answer before you look.
+    - Or don't expect smoothness, and use these questions to learn how the rules work.
+  importance: major
+
+- name: IF
+  ex: If X is in 3, then which of the following...?
+  ask: In this specific situation, what do the rules require (or allow)?
+  know: Gives a starting point for creating a hypo.
+  short: Add the new information to a new board, then follow the rules to make a new hypo.
+  process: |
+
+    1. Draw a new board with the new info.
+    1. Follow the next, overlapping rule.
+    1. Add new info to the board.
+    1. Repeat steps 2 + 3 to exhaustion (of the rules).
+    1. Ask "who's left?"
+  adv: |
+
+    - When you add new info to the board, check to see if you can select or eliminate any answers. 
+    - Alternatively: finish the hypo, even if you don't need to in order to make it more useful for future questions. Use clouds to get all the elements on the board.
+  importance: major
+
+- name: WHICH
+  ex: Which of the following must be false?
+  ask: Across all possible situations, what could (or must) happen?
+  know:
+  short: Reuse old hypos. Make new hypos to test remaining answers, if needed.
+  process: |
+    1. Reuse your hypos to prove or disprove answers.
+    1. Wizard: Stare at the answers to see if any are obviously correct or incorrect. Note: Wizarding is not guessing. And you're only allowed to Wizard for 10 seconds.
+    1. Make new hypos to prove or disprove each remaining answer.
+  adv: | 
+    Test answers strategically...
+    - For *must be*: start testing the answers you think are wrong.
+    - For *could be*: start testing the answers you think are right.
+  importance: major
+
+- name: DOMINOS
+  ex: Which of the following, if true, completely determines the position of every other element?
+  know: The correct answer will make everything fall into place, like dominos.
+  short: Test until one answer makes every element fall into place.
+  process: |
+    1. Test each answer by making a new board and following the overlapping rules one by one.
+    1. As soon as there's a option (something "could be" here or there), move on to the next answer.
+  adv: Start testing with answers that put restricted elements in restrictive places.
+  importance: minor
+
+- name: hard IF
+  ex: If X is before Y, then which one of the following...
+  know: The new info can't go on the board or it doesn't lead to a useful hypo.
+  short: Make mini-splits based on the new information.
+  process: |
+    - Mini-splits: often the new info will limit the Game to 2-3 options, which you could split.
+    - When the new Info is a new rule, don't worry about putting it on the board. Write the new rule down, then connect other rules...
+    - When all else fails, pretend it's a WHICH question (but don't forget the new info).
+  adv: | 
+    Some questions that look like SUBSTITUTE questions are actually hard IF questions.
+
+    > If the rule that "A must be first" is replaced by the rule that "B must be first", then which one of the following...
+
+    For these questions, draw a new board with the new info (here, put B in 1) and follow all the rules except the replaced rule (here, ignore "A in 1").
+  importance: minor
+
+- name: hard LIST
+  ex: Which of the following is a complete and accurate list of the places that X could go?
+  know: |
+    Notice the difference between LIST and hard LIST questions...
+    - LIST = "what could be a list" (one example)
+    - hard LIST = "list of what could be" (all the possibilities)
+  short: Reuse old hypos to eliminate incomplete answers.
+  process: |
+    1. Collect the relevant info from valid hypos (here, where X has gone).
+    1. Eliminate incomplete answers (if you've seen X in 2 and 3, you can eliminate any answer that doesn't include both 2 and 3).
+    1. Make new hypos to test the remaining answers.
+  adv: These are advanced enough!
+  importance: minor
+
+- name: SUBSTITUTE
+  ex: "Which of the following rules, if substituted for the rule that X comes before Y, would have the same effect?"
+  know:
+  short: Skip.
+  process: |
+    1. Use your old hypos to eliminate answers that *could be false*.
+    1. Translate the new rules (the rules in the answers) to see if any merely rephrase the old rule.
+    1. Guess
+  adv: |
+    Disprove remaining answers by creating a hypo that...
+    1. Follows the new rule and
+    1. Breaks the old rule, but
+    1. Follows all the other rules.
+  importance: minor

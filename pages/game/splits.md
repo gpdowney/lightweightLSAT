@@ -1,56 +1,75 @@
 ---
 title: Splits
 cat: game
-permalink: splits.html
+permalink: game/splits
 ---
 
-## Splits are when a Game can only go a few ways.
+## Splits Happen When A Game Can Only Go A Few Ways
 
-Splits must be **exhaustive**. Splits map out *every* possibility.
-
-(Beware: A [hypo][hypo] is when you draw out some of the possibilities.)
-
-[Options][option] often create Splits:
-
-For example, the Rule 
+For example, an option rule, like
 
 >"A must go in 2 or 4" 
 
-gives a 2-way Split:
+gives a 2-way split:
 
-> "A in 2." vs. "A in 4."
+> 1. _ A _ _
+>
+> 2. _ _ _ A
 
-And so do [Bi-Conditionals][bic]:
+## Splits Are Exhaustive 
 
-For example, in a Binary Game, the Rule: 
+> This means splits are different than hypos. Hypos only represent *some* of the possibilities.
+
+Splits map out *every* possibility.
+
+{% capture summary %} 
+Split Tip: Outline first
+{% endcapture %}
+{% capture details %}
+Create new boards with each possibility before you add-in other rules or elements.
+
+This will help make sure your splits are exhaustive and you don't forget where they started.
+{% endcapture %}
+{% include details.html %}
+
+## Splits Are Time Investments
+
+Splits tend to be worthwhile when it's only a 2-way or 3-way split and...
+
+- There are other rules connected to the split, or
+- the split takes care of a tricky rule, or
+- the game is hard.
+
+For example, biconditional rules can be intimidating, but they nearly always create useful splits:
 
 > "Either X or Y must be included, but not both" 
 
-also gives a 2-way Split:
+gives a 2-way split:
 
-> "X in + Y out." vs. "X out + Y in."
+> 1. Yes X / No Y
+>
+> 2. Yes Y / No X
 
-### Tip: Map all of the Splits before you add-in other Rules or Elements.
+{% capture summary %} 
+Puzzle practice idea: Split Every Game
+{% endcapture %}
+{% capture details %}
+In puzzle mode, try to find multiple ways to split every game you see. Maybe even if it seems like an unproductive 8-way split.
 
-Make sure you've outlined all of the possibilities before you start filling in each Split.
+Learning what splits aren't helpful is the best way to learn how to identify helpful splits.
 
-## A Split is a time investment.
+When you're done, record what makes splits worthwhile and the specific clues that suggest a split.
+{% endcapture %}
+{% include details.html %}
 
-Splits tend to be worthwhile when...
+## When To Split
 
-- There are other Rules connected to the Split.
-- The Split takes care of a tricky Rule.
-- The Game is hard.
-- It is only a 2-way or 3-way Split.
+If you notice a promising split during your scan, then you can use the split to make your drawing more efficient. If the split takes care of one or more rules, you don't need to draw those rules.
 
-## Puzzle Practice Idea: Split every Game.
+If you notice splits later, you can still rework your drawing around the split.
 
-Even if it seems like a 8-way Split.
+And some questions create mini-splits, particularly hard IF questions.
 
-And try Splitting each Game many different ways.
+[You can learn more about hard IF questions here.][hardIF]
 
-When you're done, record what makes Splits worthwhile (or not) and the specific clues that suggest a Split.
-
-[hypo]: glossary.html#hypo
-[option]: rules.html#option-placement
-[bic]: rules.html#bi-conditional
+[hardIF]: questions.html#hard-IF

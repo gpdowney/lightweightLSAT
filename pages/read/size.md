@@ -1,73 +1,93 @@
 ---
-title: Large, Medium, and Small Qs
+title: Big, Medium, And Small Questions
 cat: read
-permalink: size
+permalink: read/size
 ---
 
-The Qs in Reading Comprehension fall on a spectrum from Large to Small. 
+The questions in the Reading section fall on a spectrum from big to small. 
 
-How you approach a Q depends on its size.
+How you approach a question depends on its size.
 
-[Large Qs](#large-qs) are about the whole passage. On Large Qs, you should make a prediction. You should ground yourself in your understanding of the Passage's nuanced conflict. Your prediction should help you *eliminate* 4 confused Answers.
+[Big questions](#big) are about the whole text. On big questions, ground yourself in your understanding of the text before you look at the answers. This anchor prediction should help you *eliminate* the 4 confused answers.
 
-[Small Qs](#small-qs) are about details. On Small Qs, you should Go Back to the Passage to prove the correct Answer. You Go Back in order to select the 1 right Answer.
+[Small questions](#small) are about details. On small questions, quickly scan the answers and then go back to the text to *prove* the 1 correct answer.
 
-[Medium Qs](#medium-qs) are everything in between. On Medium Qs, you Predict *and* Go Back. 
+[Medium questions](#medium) ask you to go beyond the text. Medium questions are sometimes bigger and sometimes smaller. Approach medium-big questions more like big questions, and medium-small questions more like small questions.
 
-Medium Qs are sometimes larger, more about the big picture. On larger Medium Qs, you should make 3-4 eliminations. 
+## Big Questions
 
-Sometimes Medium Qs are smaller, more about a detail, in which case you might only be able to make 1-2 eliminations before Going Back to prove the Answer you like.
+Big questions are about the entire text.
 
-## Large Qs
-
-These are about the entire passage.
-
-> Which of the following most accurately expresses the main point of the passage?
+> Which of the following most accurately expresses the main point of the text?
 
 or
 
 > What is the purpose of the third paragraph?
 
-You should always have a prediction for these. Your prediction should allow you to confidently eliminate the 4 wrong Answers.
+You should always have a prediction for big questions. Your prediction should allow you to confidently eliminate the 4 wrong answers.
 
-If you don't have a strong prediction (or your prediction was wrong), then you didn't do a solid enough read.
+You may or may not like the correct answer. 
+- If you like one answer, then you can be more skeptical with the rest, but you should still read them. 
+- If you don't like any answer, you can't be picky, choose the **least bad** answer.
 
-You may or may not like the correct Answer. If you like it, then you can afford to be more skeptical with the rest. If you don't like any Answer, choose the LEAST WRONG Answer.
+{% capture summary %}
+Review Tip...
+{% endcapture %}
 
-## Small Qs
+{% capture details %}
+If your prediction wasn't useful on a Big question, then you either...
+1. Didn't understand the text's nuanced conflict; or
+1. Didn't approach the answers with enough skepticism/confidence.
+{% endcapture %}
 
-These are about specific details. The correct Answer will be a quote from the passage.
+{% include details.html %}
 
-> According to the passage, which of the following is true of Wittgenstein's philosophy?
+## Small Questions {#small}
+
+Small questions are about specific details. The correct answer will be supported by a quote from the text.
+
+> According to the text, which of the following is true of Wittgenstein's philosophy?
 
 or
 
-> The passage contains information sufficient to answer which of the following questions?
+> The text contains information sufficient to answer which of the following questions?
 
-Always Go Back to the Passage on Small Qs.
+On small questions, scan the answers first. Then go back to the text to find support for the answer you like. 
 
-Option: Before you Go Back, scan the Answers to know what to look for.
+Once you confirm an answer in the text, choose it and move on.
 
-Once you confirm an Answer in the Passage, choose it and move on.
+{% capture summary %}
+Review Tip...
+{% endcapture %}
 
-If you don't know *where* to Go Back, then your read was too high-level, you didn't use the WHY to understand the WHATs. You didn't integrate the details into the main point.
+{% capture details %}
+If you didn't know *where* to go back, then your read of the text was too abstract or high-level.
 
-If you didn't need to Go Back, you might have been reading too much for detail (or you got lucky or you have a very good memory).
+If you didn't need to go back, you might have been reading the text too much for detail (or you got lucky, or you have a very good memory).
+{% endcapture %}
 
-## Medium Qs.
+{% include details.html %}
 
-Medium Qs are special because they often go beyond the Passage. Correct Answers may include new ideas, but they will always be grounded in the text.
+## Medium Questions {#medium}
 
-Medium Qs can be difficult. You can make them easier by eliminating overly strong answers. Very strong answers are unlikely to be supported by the text.
+Medium questions take you beyond the text. Correct answers will include new ideas and words, but they will always be grounded in the text.
 
-*Practice Tips:*
+Medium questions tend to be the hardest questions in the section. You can make them easier by eliminating strong answers. Strong answers are unlikely to be supported by the text.
 
-- Deliberately look for strength in the Passage and every single Answer.
-- Only use strength to make eliminations (don't even read the Passage).
+{% capture summary %}
+Practice Ideas...
+{% endcapture %}
 
-### Medium Qs can be larger or smaller.
+{% capture details %}
+1. Deliberately look for strength in the text and answers.
+1. *Only* use strength to make eliminations (maybe don't even read the text).
+{% endcapture %}
 
-Large-Medium Qs go to the author's core belief.
+{% include details.html %}
+
+### Medium-Big Questions
+
+Medium-big questions go to the author's core belief.
 
 > Which of the following would the author be least likely to agree with?
 
@@ -75,30 +95,16 @@ or
 
 > Which of the following would most strengthen the author's position?
 
-Small-Medium Qs might be about the purposes of a detail or otherwise require a re-read before predicting.
+**On medium-large questions...first eliminate based on your overall understanding of the text, then go back to prove the answer you like.**
+
+### Medium-Small Questions
+
+Medium-small questions might be about the purposes of a detail or make an analogy to a specific example.
 
 > Why did the author mention the Teapot Dome Scandal?
 
 or
 
-> Which of the following is most analogous to the relationship between European and African sparrows as described in the passage?
+> Which of the following is most analogous to the relationship between European and African sparrows as described in the text?
 
-### Here's a 3-Step Process for approaching any Medium Q
-
-#### Step 1: Predict for 2-4 eliminations.
-
-Stay grounded in what the author believes. Your Prediction doesn't need to be specific. Use your Prediction primarily to eliminate confused Answers.
-
-If you don't have a Prediction (say, because the Q is about a small detail) you can Go Back in order to make a Prediction.
-
-#### Step 2: Eliminate strong Answers.
-
-Answers will go beyond the text, but we don't want to go too far beyond.
-
-The LSAT likes to make tempting traps by saying the right kind of ideas too extremely.
-
-In RC, in general, extreme Answers are unlikely to be supported by the text.
-
-#### Step 3: Go Back for support for the Answer you like.
-
-Confirm the correct Answer and move on.
+**On medium-small questions, first go back in order to make a specific prediction, and then eliminate answers that don't match.**

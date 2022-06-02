@@ -1,7 +1,7 @@
 ---
-title: Read at the Pace of Your Understanding
+title: Adaptive Speed
 cat: read
-permalink: pace
+permalink: read/pace
 ---
 
 **Re-reads** and **Pauses** help you move at your own pace.
@@ -28,7 +28,7 @@ Ask yourself questions as you read in order to both check and enhance your under
 
 Remember, the author, no matter how bad of a writer, included every word for some reason.
 
-## Trust your Confusion
+## Trust Your Confusion
 
 You may be tempted to run away from your confusion, because confusion feels unpleasant. Instead stick with it, make your confusion into a question. Let that question guide how you read.
 
@@ -38,29 +38,30 @@ For example, when you're confused, ask yourself:
 - Is this worth trying to understand? (If not, move on.)
 - Should I read the sentence again or should I look for context elsewhere? (Perhaps looking back at the topic sentence of the paragraph will help. Maybe there's a clarifying example or definition coming up next.)
 
-## Pause and re-read often, intentionally, and without judgment.
+## Pause And Re-Read Often, Intentionally, And Without Judgment
 
-In RC, you cannot merely look at the words on the page. You must also synthesize meaning. You must assess the claims being made. 
+In Reading, you cannot merely look at the words on the page. You must also synthesize meaning. You must assess the claims being made. 
 
-But your brain cannot do all of this at the same time. [You can't multitask][multitask]. You can't read and synthesize and assess simultaneously. You need to stop from time to time to reflect and digest.
+But your brain cannot do all of this at the same time. You can't multitask. You can't read and synthesize and assess simultaneously. You need to stop from time to time to reflect and digest.
 
 Don't judge yourself for re-reading or pausing. That judgement isn't helping you; self-judgement is just another distraction. Know that everyone, especially top scorers, needs to pause and re-read.
 
 If you don't slow down intentionally, then you will slow down unintentionally. You'll miss the meaning of a paragraph because you're still thinking about the last one. When you ignore your confusion, it will only multiply as you keep reading.
 
-### Don't get stuck
+### Don't Get Stuck
 
 Re-reads shouldn't be elaborate or endless. 
 
 When you re-read, go back to extract the information you need and move on. 
 
-And if 2 re-reads don't help, move on. You can come back when you need to, or never if there's not a Q about it.
+And if 2 re-reads don't help, move on. You can come back when you need to, or never if there's not a question about it.
 
-### Don't linger
+### Don't Linger
 
 Pauses don't need to be long. You might only need to pause for a second.
 
-If you feel overwhelmed or bewildered, you need more than a pause, you need a [Reset][reset].
+If you feel overwhelmed or bewildered, you need more than a pause, you need a reset.
 
-[multitask]: glossary.html#multitask
-[reset]: resets.html
+[More on resets here.][reset]
+
+[reset]: ../time/resets.html

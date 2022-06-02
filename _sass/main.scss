@@ -41,8 +41,8 @@ nav {
 footer {
     grid-area: footer;
     font-size: small;
-    padding: 1em;
     text-align: center;
+    line-height: 1em;
 }
 
 /* make images scale to screen size */
@@ -55,10 +55,11 @@ img{
 a{
     color: #01665f;
 }
-/* make visited links black */
-a:visited{
-    color: black;
-}
+
+// make visited links black
+// a:visited{
+//     color: black;
+// }
 
 h1, h2, h3{
     line-height: normal;
@@ -77,13 +78,15 @@ p{
 /* first sublevel in Nav */
 .toc_one{
     margin-left: .25em;
-    margin-right: .5em;
-    font-style: italic;
 }
 
 /* second sublevel Nav */
 .toc_two{
     margin-left: .75em;
+}
+
+// nav sublevel general style
+.toc_one, .toc_two{
     margin-right: .5em;
     font-style: italic;
 }
@@ -93,14 +96,19 @@ strong{
     font-weight: bold;
 }
 
-/* unordered lists to simple - */
+/* unordered lists to simple dot */
 ul{
-    list-style: "- ";
+    list-style: "\25E6 \0020 \0020";
 }
 
-/* add list indent */
+/* align lists with text */
 ul, ol{
     margin-left: 1em;
+}
+
+// make second indent shorter
+ul ul, ol ol, ul ol, ol ul{
+    padding-left: 10px;
 }
 
 /* style quotes as boxes of cosmic latte */
@@ -110,30 +118,46 @@ blockquote{
     padding-right: 2em;
 }
 
-// style details tag
+// style and align details box
 details {
+    margin-left: 1em;
+    padding: 5px;
     border-bottom: black 1px dotted;
-    padding: 1px;
     background-color: rgb(218, 235, 246);
-    margin-bottom: 10px;
 }
 
-/* basic tables with alternating row color */
+// change arrow for closed details box
+details > summary {
+    list-style: "\21BB \0020 \0020";
+    list-style-position: inside;
+}
+
+// change arrow for open details box
+details[open] > summary {
+    list-style: "\21BA \0020 \0020";
+    list-style-position: inside;
+}
+
+/* basic table */
 table {
     table-layout: fixed;
-    width: 100%;
-    border: 3px solid black;
+    width: 95%;
+    border: 2px solid black;
     border-collapse: collapse;
     margin: 1em;
+    background-color: white;
 }
 
+// internal borders + spacing
 td{
     border: 1px solid black;
     text-align: center;
+    padding: 8px;
 }
 
-tr.odd {
-    background: whitesmoke;
+// give headings row space
+th{
+    padding: 10px;
 }
 
 /* Glossary grid layout for small screens*/
@@ -153,25 +177,12 @@ tr.odd {
     padding-top: .2em;
 }
 
-/* LR Species grid layout */
+/* Reasoning and Games Species grid layout */
 .species{
     display: grid;
     grid-template-columns: 4em 1fr;
     border-bottom: 2px dotted black;
     column-gap: 1em;
-
-}
-
-// return to top button fixed position in bottom right
-#return{
-    position: fixed;
-    bottom: 20px;
-    right: 30px;
-    border-radius: 10px;
-    padding-left: 4px;
-    padding-right: 4px;
-    font-size: 28px;
-    opacity: 0.4;
 }
 
 // sticky div
@@ -191,10 +202,9 @@ tr.odd {
             "nav footer"
         ;
 
-        grid-template-columns: 8em minmax(auto, 38em);
+        grid-template-columns: 10em minmax(auto, 38em);
         grid-template-rows: auto 1fr auto;
-        column-gap: 4em;
-
+        column-gap: 5em;
         margin-right: 2em;
     }
 

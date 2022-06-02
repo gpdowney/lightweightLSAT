@@ -1,7 +1,7 @@
 ---
 title: Move On or Revise
 cat: reason
-permalink: flag
+permalink: reason/flag
 ---
 
 When you make 4 eliminations or 1 selection, you can skip this step.
@@ -12,13 +12,13 @@ This step is for when you make 5 or 3 (or fewer) eliminations.
 
 Moving On is usually the best option.
 
-Making 5 or 3 eliminations reveals that this is a [hard Q][1]. Investing time here could come at the expense of easier points later.
+Making 5 or 3 eliminations reveals that this is a [hard question][1]. Investing time here could come at the expense of easier points later.
 
 It might be out of your reach entirely. Or maybe it will be more obvious when you come back later. In either case, you should Move On for now.
 
 ## Option 2: Revise.
 
-If have the time, or think it will be a quick fix, you can stick with a hard Q. If you stay, however, you must change your approach. Whatever you did the first time didn't work.
+If have the time, or think it will be a quick fix, you can stick with a hard question. If you stay, however, you must change your approach. Whatever you did the first time didn't work.
 
 Generally, one of two things has happened: you misread an Answer, or you inadequately Predicted.
 
@@ -31,7 +31,7 @@ Most Test-Takers will agonize over the Answers. Beat [the Curve][3] by acting di
 Try to re-read the Argument with Fresh Eyes.
 
 - Forget how you Understood it last time (because that didn't help.)
-- Don't skim (this is a difficult Q), instead read more carefully.
+- Don't skim (this is a difficult question), instead read more carefully.
 
 Often, re-Anchoring yourself in the Conclusion will be enough. (Then eliminate Irrelevant Answers.)
 
@@ -45,17 +45,17 @@ When you make 3 (or fewer) Eliminations: Remain skeptical and increase your ruth
 
 Apply the same level of Skepticism to all the answers. Don't be overly harsh on a decent answer and too easy on the bad ones.
 
-## Flag Hard Qs
+## Flag Hard Questions
 
-During the Test: these are the Qs to revisit if you have extra time.
+During the Test: these are the questions to revisit if you have extra time.
 
 During Practice: Flag so you don't get stuck, especially if you're doing RACE practice. And Flag to let yourself know what you want to review.
 
-Make sure to review all Flagged Qs. Even if you got it right there's something you need to learn from it.
+Make sure to review all Flagged questions. Even if you got it right there's something you need to learn from it.
 
 ## [Reset][2] after Flagging
 
-If you decide to Move On, Reset so you don't carry this mistake into the next Q.
+If you decide to Move On, Reset so you don't carry this mistake into the next question.
 
 If you decide to Revise, Reset to give yourself fresh eyes and let go of whatever confused you the first time.
 
@@ -68,6 +68,6 @@ Or it shows that you didn't [trust yourself][4].
 It's better to make 5 eliminations than 3. At least then you're practicing trusting yourself. When you make 5 eliminations, at least you know something: you know that you don't know.
 
 [1]: time.html#subjective
-[2]: resets.html
-[3]: scores.html#average
-[4]: confidence.html
+[2]: ../time/resets.html
+[3]: ../resources/scores.html#average
+[4]: ../time/confidence.html

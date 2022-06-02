@@ -1,20 +1,20 @@
 ---
 title: The ARGUE Family
 cat: reason
-permalink: argue
+permalink: reason/argue
 ---
 {% assign whatfam = "argue" %}
 {% include ApproachLR.html %}
 
-## Bonus: How to Negate on DEPENDS Qs. {#negate}
+## Bonus: How to Negate on DEPENDS questions. {#negate}
 
-You should only Negate on DEPENDS Qs.
+You should only Negate on DEPENDS questions.
 
 When you Negate the correct Answer, the Argument will fall apart.
 
 > If a wall is load-bearing, then the house depends on it. And there's a easy way to tell if a wall is load-bearing: knock it down.
 > 
-> [If the roof falls on you, then it was load-bearing](https://www.youtube.com/watch?v=doeQ4yA3BO8).
+> [If the roof falls on you, then it was load-bearing][1].
 
 When you Negate the correct Answer, you should feel a "Woah! That's bad for the Argument"
 
@@ -46,3 +46,5 @@ All             | 	Some not
 None            | 	Some
 Some            | 	None
 Most            | 	Most not
+
+[1]: https://www.youtube.com/watch?v=doeQ4yA3BO8

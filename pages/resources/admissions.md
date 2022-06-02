@@ -1,7 +1,7 @@
 ---
 title: Law School Admissions
 cat: resources
-permalink: admissions
+permalink: resources/admissions
 ---
 
 *Caveat: I am not an admissions expert. The following is based only on my very partial and biased experience.*

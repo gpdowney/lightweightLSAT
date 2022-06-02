@@ -1,7 +1,7 @@
 ---
 title: Tools to Boil Arguments Down
 cat: reason
-permalink: boil
+permalink: reason/boil
 ---
 
 After you have divided an Argument into the Facts and the Conclusion, it can be helpful to simplify the Argument to its essential Point.
@@ -38,7 +38,7 @@ Commas can change the direction of sentences and Arguments.
 
 Verbs drive meaning. They tell you who is doing what. But verbs are often hidden on the LSAT.
 
-[Find the verbs](verbs.html).
+[Find the verbs][verb].
 
 ## An Example:
 
@@ -68,3 +68,4 @@ Be careful not to Over-Boil and lose important meaning:
 {% endcapture %}
 {% include details.html %}
 
+[verb]: ../resources/verbs.html

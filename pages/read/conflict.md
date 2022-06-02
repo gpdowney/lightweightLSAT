@@ -1,52 +1,57 @@
 ---
-title: Read for the Nuanced Conflict
+title: Read For The Nuanced Conflict
 cat: read
-permalink: conflict
+permalink: read/conflict
 ---
 
-## Every passage has a conflict
+## Every Text Has A Conflict
 
 If you don't think there's a conflict, look again.
 
-Obviously, there are exceptions to this rule, but they are rare.
+## The Conflict Will Not Be A Simple Binary
 
-> Life hack: When someone says something is "obvious" it rarely is. When someone says "clearly" they're trying to hide an argument.
-
-## The conflict will not be a simple binary
-
-Not A vs B:
+A simple binary is A vs B.
 
 - Dogs are better than cats.
-- The Proletariat must resist the oppression of the Capitalists.
+- The proletariat must resist the oppression of the capitalists.
 
-Rather, nuance:
+The LSAT favors nuance.
 
 - You cannot understand the evolution of anti-trust law without understanding neoliberalism.
 - Torts and Contracts are functionally the same area of law.
 - Although judges claim to be neutral, ideology predicts the outcome of cases more reliably than precedent.
 
-To understand the conflict, you should understand both the *content* and the *degree* of the disagreement. Know what the author believes, know what they're against, and know how strongly they're against it.
+To understand the conflict, you should understand both 
 
-## Find the author's purpose
+1. the *content* and
+2. the *degree* of the disagreement.
 
-Many Passages come from academic or journalistic sources. Academics and journalists write because they believe they have some brilliant insight on the topic—an unusual or novel take. And every word is there for a reason.
+Know what the author believes, know what they're against, and know how strongly they're against it.
 
-So, as you read, ask yourself: WHY did they write this?
+## Read For The *Why*
 
-Or, similarly, ask yourself: What *work* is this word/sentence/paragraph doing for the author?
+Most LSAT texts come from academia and high-end journalism. Academics and high-end journalists write because they believe they have some new and brilliant insight. 
 
-## Whenever possible, identify the thesis sentence
+There's always a reason they wrote this text. 
 
-The thesis sentence is a single line that summarizes the main point.
+As you read, pause to ask yourself: "**Why** did they write this?"
 
-You can often find the thesis near the beginning, often at the end of the first paragraph. In rare cases, the thesis appears at the end.
+Every word was included for a reason.
 
-## Other clues worth noticing:
+Use your understanding of the author's purpose to contextualize the details. In other words, use the *why* to understand the *whats*.
 
-- Topic sentences
-- Pivot words (but, yet, however, although)
-- Strong language (must, no, cannot, should, etc...)
-- Repetition
-- Roadmap Sentences ("first we will show X, second we prove Y...")
-- Questions
-- Characters (they can be people or theories)
+## Some Useful Clues
+
+Clue | How to Find it | What it Indicates
+-- | -- | --
+Thesis sentence | End of paragraph 1 / beginning of paragraph 2. | The author's overall purpose
+Pivots | "but", "yet", "however", "although" | Conflict / Thesis
+Topic sentences | First (or second) sentence in a paragraph | The purpose of that paragraph
+Strong language | "must," "no," "cannot," "should," "always" | Importance / Opinion
+Repetition | similar words or ideas | Importance
+Questions | "?" | Conflict
+Roadmap sentences | "first we will show X, second we prove Y..." | Structure
+
+[Learn how pivots can also help in the Reasoning section.][pivot]
+
+[pivot]: ../reason/break.html#pivot-words
