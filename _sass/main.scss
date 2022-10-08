@@ -51,21 +51,21 @@ img{
     object-fit: scale-down;
 }
 
-/* make unvisited links green */
+// make links black, but hover green
 a{
-    color: #01665f;
+    color: black;
 }
 
-// make visited links black
-// a:visited{
-//     color: black;
-// }
+a:hover{
+    color: #0a9d93;
+}
 
+// remove default heading line-height
 h1, h2, h3{
     line-height: normal;
 }
 
-/* distinguish tertiary headings with italics */
+// distinguish tertiary headings with italics
 h3{
     font-style: italic;
 }
