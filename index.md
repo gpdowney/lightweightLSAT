@@ -6,50 +6,81 @@ cat: fundamentals
 
 *The Lightweight LSAT* outlines a proven and simple system for mastering the Law School Admissions Test.
 
-## The LSAT is a learnable test of skill
+## The LSAT is different
 
-Let's be clear, the LSAT sucks. And, unfortunately, most other guides make things worse by overloading you with knowledge *about* the test.
+Studying for the LSAT can really suck. 
 
-To be fair, memorizing the LSAT's common patterns is useful. But, unlike most other tests you've taken, the LSAT does not really test your knowledge. Nor does it test your intelligence or your worth as a human being. 
+One reason it sucks is that the LSAT is unlike most other tests that you've taken. Most other standardized tests and exams in school are *tests of knowledge*. In contrast, the LSAT is a *test of skill*.
 
-Rather, the LSAT tests a specific set of **learnable skills**.
+If you study for the LSAT in the same way you studied for those other tests, you're going to have a bad time.
 
-For example:
+And, unfortunately, most other guides to the LSAT make things worse by overloading you with knowledge about the test.
 
-- The Games section primarily tests your ability to methodically follow rules one-by-one. 
-- The Reading section primarily tests your capacity to identify what the author of a short passage is for and against.
-- The Reasoning section primarily tests your ability to break down arguments, clarifying fact from conclusion.
+That's why I wrote this guide. *The Lightweight LSAT* takes a different approach to preparing for the LSAT.
 
-*The Lightweight LSAT* teaches you how to hone these and the other skills essential to success.
+*The Lightweight LSAT* provides only the most essential knowledge, so that you can instead focus on building the fundamental skills you need to master the test.
+
+If you're used to studying for knowledge tests, my skill-focused method may feel uncomfortable or incomplete. But I hope you can stick with me, and in practicing this method, find a more productive and even enjoyable way to study for the LSAT.
+
+## The LSAT is learnable
+
+The LSAT tests a specific set of learnable skills.
+
+There are three fundamental skills to mastering the LSAT, one for each of the three sections:
+
+Test Section | Primarily tests your ability to...
+-- | --
+Games | *methodically follow a set of rules <br> one-by-one*
+Reading | *identify what the author of a short passage is for and against*
+Reasoning | *break down arguments by clarifying fact from conclusion*
+
+If you can master these three major tasks, then you can correctly answer every question on the test within the time constraints.
+
+Most of remainder of this guide offers a set of minor skills that help you accomplish these major tasks.
+
+And, more importantly, *the Lightweight LSAT* offers an iterative and intentional method for effectively practicing skills.
 
 ## *The Lightweight LSAT* is minimalist
 
-This guide focuses on the essentials.
+This guide focuses on only the essential knowledge.
 
-For example:
+For example, it describes how to...
 
-- The guide describes how to draw the 8 types of games.
-- The guide outlines how to approach the 3 types of reading questions.
-- The guide lists how to recognize 5 types of reasoning flaws.
+- draw the 8 types of games
+- approach the 3 types of reading questions
+- recognize the 5 types of reasoning flaws
 
-Each of these lists are intentionally incomplete. There are certainly more than 5 flaws. The 8 game types can hybridize, and combine into new forms. And the 3 reading question "types" are actually more like a spectrum.
+Each of these lists is intentionally incomplete. There are certainly more than 5 flaws. The 3 reading question "types" are actually more like a spectrum. And the 8 game types can hybridize, combining into new forms.
 
-But by keeping things simple, *the Lightweight LSAT* gives you a set of knowledge you can actually use on test day.
+By keeping things simple, however, *the Lightweight LSAT* gives you a set of knowledge you can *actually use* on test day. 
 
 It trusts you to figure out the complications, additions, nuances, and exceptions as you practice.
 
+Rather than offering inflexible rules that guide you through every possible situation (which is both impossible and burdensome), *the Lightweight LSAT* offers simple heuristics that can help you adapt to any situation.
+
 ## *The Lightweight LSAT* works
 
-This site describes the actual system I used to score a 180 on the March 2020 LSAT. And it reflects my more than 5 years experience teaching the LSAT for a luxury test prep company.
+Together, the knowledge and skills described in this guide compose a complete system for approaching the LSAT. 
 
-But your brain is unique. So you should adapt my ideas to your needs. 
-- Learn how the system works--and what works for you--by experimenting on real LSAT questions. 
-- Start small. Try out new methods one question at a time, without a timer. Make your process perfect on easy questions. Then add in difficulty gradually.
-- Don't expect perfection or ease, especially at first. Do expect to get smoother, more confident, and more reliable.
+This system reflects my more than 5 years of experience teaching the LSAT for a luxury test prep company. And it describes the actual system I used to score a 180 (a perfect score) on the March 2020 LSAT.
+
+But your brain is unique. So you should adapt my system for your needs.
+
+Here are some tips for making the *The Lightweight LSAT* work for you:
+- Test out my ideas. Experiment with them on real LSAT questions. 
+- Start small. Try out new skills one question at a time and without a timer.
+- Pay attention to what you can control: your *process*, meaning how you approach each question.
+- Don't expect ease or perfect results at first. Do expect to get smoother, more confident, and more reliable.
+- Try to make your process perfect on easy questions. Then gradually add in difficulty.
+- Treat your results (aka whether you got the question right or wrong, and how long it took you) as information about whether your process is working, rather than making your results into a judgement about your worth as a human being.
+- Jump ahead. Explore the parts of the guide that most interest you.
+- Circle back. Revisit sections of the guide you already read to see if there's any nuance you missed the first time.
 - Discard anything that doesn't help you.
 
-## This is version 0.5 of the guide
+## This is version 0.5 of the guide.
 
-In other words, this is the fifth draft. There's room to improve. You can help improve it. 
+In other words, this is the fifth draft. There's room to improve. 
 
-Send complaints and compliments to <feedback@lightweightlsat.com>.
+And *you* can help improve it! 
+
+Send questions, complaints, or compliments to <feedback@lightweightlsat.com>.
