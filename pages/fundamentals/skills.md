@@ -43,6 +43,6 @@ When you feel rushed or stressed out, stop for a second to regain control.
 [Read more about effective resets here.][reset]
 
 [qs]: ../game/questions.html
-[strong]: ../glossary.html#strength
+[strong]: ../read/crush.html#extreme-answers
 [boil]: ../reason/boil.html
 [reset]: ../time/resets.html
