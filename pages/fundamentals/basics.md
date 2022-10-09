@@ -4,7 +4,7 @@ cat: fundamentals
 permalink: fundamentals/basics
 ---
 
-*(Last Updated 14 May 2022)*
+*(Last Updated October 2022)*
 
 ## The LSAT Consists Of 3 Graded Sections
 
