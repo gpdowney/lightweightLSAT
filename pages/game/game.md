@@ -96,7 +96,7 @@ There are pros and cons to each approach, which are [outlined at greater length 
 [wiz]: game/wizards.html
 [questions]: game/questions.html
 [swan]: game/swan.html
-[countup]: time.html#splits
+[countup]: time/laps.html
 [visualize]: game/visualize.html
 [points]: game/points.html
 [types]: game/types.html

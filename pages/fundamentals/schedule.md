@@ -120,6 +120,6 @@ If the LSAT feels like a foreign language... If you're frequently befuddled even
 [curve]: ../resources/scores.html#the-curve
 [novice]: https://www.youtube.com/watch?v=a9-a_8hC17M
 [quantity]: pitfalls.html#grind
-[timer]: ../time.html#splits
+[timer]: ../time/laps.md
 [error-log]: https://docs.google.com/spreadsheets/d/1VBhXPtwHjHgDDWN45Q-tLcxIShE0buY_qryx5V6ioOQ/edit?usp=sharing
 [lawhub]: https://lawhub.lsac.org/
