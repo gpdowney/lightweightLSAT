@@ -10,7 +10,7 @@ If you want to preview *the Lightweight LSAT* system, here a few techniques to t
 
 Do the IF questions before the WHICH questions.
 
-(Or actually, do the LIST question] first, then the IFs.)
+(Or actually, do the LIST question first, then the IFs.)
 
 *Why it works:* the IFs (and easy LIST) will give you valid hypos that you can use to prove or disprove answers on the WHICHes.
 
@@ -28,7 +28,7 @@ Eliminate strong answers.
 
 Anchor yourself in a basic understanding of the argument before you read the answers.
 
-*Why it works:* You don't always need to see through the argument. You must always understand what the argument said.
+*Why it works:* You don't always need to spot the problem with the argument. You must always understand what the argument said.
 
 [Learn how to boil arguments down here.][boil]
 

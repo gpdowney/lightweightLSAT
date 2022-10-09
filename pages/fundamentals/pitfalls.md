@@ -4,138 +4,206 @@ cat: fundamentals
 permalink: fundamentals/pitfalls
 ---
 
-The LSAT is not a test of your Knowledge.
+This page describes most common mistakes that students make when studying for the LSAT. Most of these pitfalls are caused by one fundamental mistake: *treating the LSAT like a knowledge test.* 
 
-The LSAT is unlike the SAT/ACT, college exams, and the Bar Exam. All of these test Knowledge.
+This is an understandable mistake because most other tests, including the SAT, ACT, college exams, law school exams, and the Bar, all test your knowledge.
 
-Learning the LSAT is more like learning to play an instrument or a sport. It is a Skills test.
+In contrast, the LSAT is a test of skill. Learning the LSAT is more like learning to play an instrument or a sport. Since the LSAT is a different kind of test, you have to study for it differently.
 
-Since the LSAT is a different kind of test, here's how to study differently:
+## Summary Table
 
-## Quality > Quantity {#quality}
+Pitfall | What It Looks Like | What To Do Instead
+-- | --
+#1: [Grinding](#grind) | You do as many questions as you can, hoping to magically absorb how the test works. | Do every question intentionally. Use each question to practice a specific skill.
+#2: [Lazy Takeaways](#lazy) | When you make mistakes, you make takeaways that are too specific or too general to be useful. | Make takeaways with clear triggers and actions: "Next time I see X, I will do Y."
+#3a: [No System](#system) | You rely only on your intuitions, you have to reinvent the wheel on every question. | Memorize common patterns.
+#3b: [Complex System](#system) | You spend all your time learning *about* the test, this knowledge weighs you down when you attempt real test questions | When you learn something that seems useful, try to apply it on a real question.
+#4: [Fearing the Timer](#time-fear) | You always practice at full speed. Or you never time yourself. | Treat the timer like a teacher instead of a judge.
+#5: [Deferring to Experts](#experts) | You think you need an expensive course or that the biggest books are the best. | Trust yourself. Learn from your own struggle.
+#6: [Expecting Linear Growth](#non-linear) | You obsess over your score, which you can't control. | Attend to your process, which you can control.
+#7: [Cramming](#cramming) | You do marathon study sessions. You study until the last minute. | Rest.
 
-*Pitfall #1: You do as many questions as you can, hoping to magically absorb how the Test works.*
+## Pitfall #1: Grinding {#grind}
 
-This is an understandable mistake, because it works on Knowledge tests. And it is a tempting mistake, because it might work at first.
+On knowledge tests, grinding works. You study for a knowledge test by reading and doing practice questions. The more you do, the more you learn.
 
-Actually mastering a skill requires focused and intentional practice. 
+On skill tests, however, quality is far more important than quantity.
 
-[Learn more about intentional skill practice here.][1]
+Now, at first, just doing practice questions will make your LSAT score go up. And maybe, if you're already pretty good at the underlying skills the LSAT is testing, then doing practice tests is all you'll need to do. But if you're struggling with the test, or you want to achieve a top 1% score, then you need to do more.
 
-You will be happier and more productive if you do fewer questions with more focus.
+To master the skills required for LSAT excellence, you must do focused and intentional practice. This kind of practice will take far more energy per question, and so you'll likely need to do *fewer* questions.
 
-When you do fewer questions, you allow yourself to objectively notice what you're doing while you're doing it. Then you can use those observations to change your behavior. And changing your behavior is the only way to change your score.
+Intentional practice is an iterative loop:
 
-## Make Helpful (Not Lazy) Takeaways
+1. Pick a skill you want to work on.
+2. Try that skill on one question.
+3. Reflect on how it went.
+4. Revise your intention.
+5. Try another question.
 
-*Pitfall #2: You avoid your mistakes.*
+[Read this page of the guide to learn more about intentional skill practice.][1]
 
-You practice without reviewing. Or you check the answer right away and say "oh, duh!" and learn nothing.
+## Pitfall #2: Lazy Takeaways {#lazy} 
 
-You haven't needed to deeply review before. On knowledge tests, the correct answer immediately teaches you the right lesson. Like: "Oh, the U.S. Constitution took effect in 1789 not 1776, duh!" But the LSAT doesn't repeat in the same way. The test you actually take will have all brand new questions.
+On knowledge tests, when you get a question wrong, the correct answer teaches you what you should have known. 
 
-Reviewing mistakes might be painful. But avoiding this pain will lead to lazy takeaways, meaning takeaways that won't help you later.
+For example, on a history test you can say to yourself:
 
-For example, this is a lazy takeaway:
+> "Oh, the U.S. Constitution was written in 1789 not 1776, duh!" 
 
-> Pay attention to what "electromagnetism" means.
+Getting a question wrong on a knowledge test is slightly painful, but that pain is offset by an immediate reward.
 
-That's a Knowledge takeaway, and not a very useful one.
+On the LSAT, the right and wrong answers also contain important lessons. But those lessons are much harder to discover. 
 
-And here's another, common, lazy takeaway:
+As a result, mistakes on the LSAT do not offer an immediate reward; they're simply painful. Lazy takeaways are a very natural attempt to avoid that pain. But lazy takeaways don't help you get the next question right.
 
-> Read more carefully.
+There are two types of lazy takeaways:
 
-But were you trying to read recklessly?
+1. Too specific
+1. Too general
 
-When you make these lazy takeaways you're being unkind to yourself. You'd never give a friend such unhelpful and judgmental advice.
+### Lazy-Specific Takeaways
+
+Too specific takeaways stay at the level of content. For example:
+
+> "Oh, there's a difference between "alternating current" and "direct current," duh!"
+
+This too specific takeaway is unhelpful because, unlike a knowledge test, the content of the LSAT doesn't repeat. This distinction will not matter on the actual test you take.
+
+This too specific takeaways is *lazy* because it avoids the work of figuring out *why* the distinction mattered.
+
+### Lazy-General Takeaways
+
+Too general takeaways tend to be abstract and moralized. For example, here's the most common takeaway I heard from new students:
+
+> "I should have read more carefully."
+
+This is lazy because, unless you were intending to read recklessly, it won't actually change your behavior. 
+
+Worse, it's counterproductive. Rather than helping you focus, remembering the judgement "Oh I'm a lazy reader" is more likely to distract you.
+
+These too general takeaways are often *unkind*. If you wouldn't tell it to a friend, then it's probably a lazy takeaway.
+
+### Helpful Takeaways
 
 In contrast, a helpful takeaway is kind because it is concrete. A helpful takeaway tells you exactly how to behave and when to behave that way. A helpful takeaway changes your behavior.
 
-## Memorize Everything You Can
+Helpful takeaways often take the form:
 
-*Pitfall #3: You have no system or, worse, a jumbled system.*
+> When I see X, I will do Y.
 
-On a knowledge test, everything needs to be memorized. But that doesn't work on the LSAT.
+There is both a trigger ("X") and an action ("Y")
 
-You can't memorize most of the LSAT. You can learn how to draw common games, but you can't know which ones will show up on your actual test. You can learn the flaws, but you also need to be able to spot those flaws in unfamiliar contexts.
+Too specific takeaways can be improved by making them more general:
 
-Some studiers react to this difficulty by abandoning any hope of developing a system. Let's call these studiers *Cowboys* because they rely on guts and intuition. Cowboys inefficiently reinvent the wheel every time.
+> When a noun is given with different adjectives in front, decide whether they are two different ideas or just one idea.
+>
+> For example: "alternating current" and "direct current" are different ideas; but "high-speed internet" and "broadband internet" are roughly the same idea.
+
+This takeaway is more helpful than the example above because it gets down to the structure, so it's more likely to apply to future situations.
+
+Too general takeaways can be improved by making them more specific:
+
+> When I notice my attention drift, I will pause to take a breath and re-read the last sentence."
+
+This takeaway is more helpful than the example above because it gives you something specific to look out for and then something concrete to do about it.
+
+In sum, helpful takeaways don't appear magically. As you practice, you'll need to constantly revise and refine your takeaways to make them helpful.
+
+## Pitfall #3: Bad System {#system}
+
+Knowledge tests cover a limited set of material, which you can entirely memorize.
+
+The LSAT, in contrast, cannot be memorized in advance.
+
+You can learn how to draw common games, but you can't know which game types will show up on your actual test. You can learn the flaws, but you also need to be able to spot those flaws in unfamiliar contexts.
+
+Some studiers react to this difficulty by abandoning any hope of developing a system. Let's call them *Cowboys* because they rely on guts and intuition. Cowboys inefficiently reinvent the wheel every time. Cowboys have no system.
 
 [Read more about Cowboys and checklists here.][2]
 
-Other studiers react by doubling-down. Let's call them *knights*. Knights hope to protect themselves from the whims of the Test by accumulating more and more knowledge about the Test. They study endlessly, reading all the books, but never asking whether any of that knowledge actually helps them. As this knowledge accumulates, it weighs the Knight down like a heavy suit of armor.
+Other studiers react by doubling-down. Let's call them *knights*. Knights hope to protect themselves from the whims of the LSAT by accumulating more and more knowledge about it. They study endlessly, reading all the books, but never asking whether any of that knowledge actually helps them. As this knowledge accumulates, it weighs the Knight down like a heavy suit of armor. Knights have an overly complex system.
 
-Strong test takers find a balance between these two extremes. A useful system channels your good intuitions and corrects your bad intuitions. 
+[Read more about Knights, specifically in the Games context, here.][3]
+
+Strong test takers find a balance between these two extremes to make a useful system. 
+
+A useful system channels your good intuitions and corrects your bad intuitions. 
 
 Here are four suggestions to find the balance:
 
-1. Memorize knowledge, but practice skills. For example, memorize the common conclusion keywords. And then practice spotting them in the wild.
-1. Make a flashcard for everything that feels obvious so that it stays obvious.
-1. Keep it simple. If you can't simplify what you learned, then perhaps you haven't fully understood it. Plus simple ideas are easier to memorize.
-1. Test your knowledge against the test. Revise or discard any knowledge that does not help you.
+- Memorize knowledge, but practice skills. For example, memorize the common conclusion keywords. And then practice spotting them in the wild.
+- Make a flashcard for everything that feels obvious so that it stays obvious.
+- Keep it simple. If you can't simplify what you learned, then perhaps you haven't fully understood it. Plus simple ideas are easier to memorize.
+- Test your knowledge against the test. Revise or discard any knowledge that does not help you.
 
-## The Timer Is A Teacher, Not A Judge
+## Pitfall #4: Fearing the Timer {#time-fear}
 
-*Pitfall #4: You fear the timer's judgment.*
+Timing is one of the most challenging aspects of the LSAT. Students who become fixated on the timer tend to make one of two extreme mistakes:
 
-You always practice at full speed. Or you never time yourself.
-
-Ironically, these are both symptoms of the same mistaken belief: that being able to finish an LSAT section in time is an accurate reflection of your intelligence or worth.
+1. You always practice at full speed.
+1. You never time yourself.
 
 When you only practice at full speed, you let the test control you. Sometimes you need to slow down in order to learn new things. Sometimes, you need to slow down for hard questions.
 
-When you never practice at speed, you avoid failure but you also avoid testing your approach.
+When you never practice at speed, you can avoid failure, but you also avoid testing your approach.
 
-When you do set a timer, use the time to gather information:
+Instead of treating the timer as a judge, try to treat it as a teacher. Use the timer to gather information about yourself:
 
-- Use the objectivity of a count-up timer to see where you spend time.
-- Use the pressure of a count-down timer to reveal what's not automatic (or necessary) in your process.
+- Use the objectivity of a *count-up* timer to see where you spend time.
+- Use the pressure of a *count-down* timer to reveal what part of your process isn't yet automatic.
 
 [Learn more about timing here.][4]
 
-## Learn From The Test And Yourself, Not Experts
+## Pitfall #5: Deferring to Experts {#experts}
 
-*Pitfall #5: You defer to the experts, you don't trust yourself.*
+Because the LSAT is weird and new, it's scary. This fear leads students to seek out the most comprehensive guides and highest-scoring tutors.
 
-You think you need an expensive course or that the biggest books are the best. But those teachers don't have access to secret knowledge. They learned about the test by taking the test. Their techniques are based on their own struggles.
+[Read more about the problem with test prep experts here][5]
 
-[Read more about the problem with test prep experts here][6]
+Those guides don't have access to secret knowledge. They learned how the LSAT works mostly by taking the test. Their techniques and suggestions are based on their own struggles.
 
-Try to figure things out for yourself before you turn to the experts.
+When you defer to experts, you substitute their knowledge for your learning. The best way to learn is to struggle and fail. Struggle engages you actively, leading to deeper learning.
 
-The best way to learn is to struggle and fail. Struggle engages you actively, leading to deeper learning. And the failures of *your* practice show *you* what *you* need to look out for.
+And you deny yourself the opportunity to learn what you need to learn. Only the failures of *your* practice can reveal what *you* need to look out for.
 
-[Learn more about puzzle practice, the practice of sticking with problems, here.][7]
+When you immediately look up the explanation, mostly what you learn is how to look up explanations, which you obviously can't do on test day. When you force yourself to struggle with difficult problems, you learn how to overcome difficulty.
 
-## Growth Happens Non-Linearly
+[Learn more about puzzle practice, the practice of sticking with problems, here.][6]
 
-*Pitfall #6: You're frustrated. Your failures and successes feel out of control.*
+Worst of all, when you practice deferring to experts, you're learning to not trust yourself.
 
-A knowledge test provides linear rewards: the more you study, the more you know. The more you know, the better you do.
+This isn't to say that you shouldn't seek out help. But asking for help should come after you've made some attempt to figure it out for yourself.
 
-Learning a skill is less linear. More effort will not always lead to better results. You will not hit your personal record every lap. You may leap forward, slip backwards, or stagnate on a plateau.
+## Pitfall #6: Expecting Linear Growth {#non-linear}
 
-The remedy, paradoxically, is to attend less to your score and more to your *process*. You cannot directly control your score, but you can control your process. Pay more attention to what you can control.
+A knowledge test provides linear rewards: the more you study, the more you know. The more you know, the better you do. This means your results (i.e., whether you get questions right, whether you finish in time) accurately measures your competence.
 
-## Rest
+In contrast, learning a skill tends to be non-linear. More effort will not always lead to better performance. You may leap forward, slip backwards, or stagnate on a plateau. You will not hit your personal record on every attempt. This means your results are *not* an accurate measure of your competence or growth.
 
-*Pitfall #7: You grind and cram.*
+Since results are an unreliable measure of growth, attending too much to your results is a recipe for frustration. When you pay too much attention to your score, your failures and successes will feel out of your control.
 
-You drive yourself crazy studying all weekend. You study the same way for months or years. You learn to hate the test. You begin to avoid the test because studying sucks. Then, as test day approaches, you panic. You cram.
+The remedy, paradoxically, is to attend less to your score and more to your *process*. This helps because you can't control the results, but you can control your process.
 
-But you cannot cram or grind a skill. It would be better, on the LSAT, to be unprepared but rested and relaxed.
+## Pitfall #7: Cramming. {#cramming}
 
-Growth and inspiration happen while you rest. Weightlifters and poets don't work more than 4.5 hours a day and neither should you.
+You drive yourself crazy studying every night and all weekend. You learn to hate the test. Then you begin to avoid the test because studying is miserable. Then, as test day approaches, you panic and try to cram last minute.
 
-Within those 4.5 hours, I favor 90 minute chunks of work. Others like 25 minute pomodoros. Experiment to find what works for you.
+Since knowledge tests reward regurgitation, there's a lot of benefit to cramming the night before. Moving more facts to the top of your mind can easily outweigh the lost sleep.
 
-Make sure your rest is actually restful. I like taking 2 non-consecutive rest days, one on a workday, one on a weekend. I also prioritize sleep, eating vegetables, and exercise (in that order). But do whatever you need.
+The opposite is true of skill tests.
+
+But you cannot cram a skill. It would be better, on the LSAT, to be unprepared but rested and relaxed.
+
+Rest is crucial to success on the LSAT, and not just the night before. 
+
+Weightlifters and poets don't work more than 4.5 hours a day and neither should you. Growth and inspiration largely happen while you rest.
+
+Also make sure your rest is actually restful. I like taking 2 non-consecutive rest days, one on a workday, one on a weekend. I also prioritize sleep, vegetables, and exercise (in that order). And I find that screen time is usually not restful. But do whatever you need.
 
 [1]: ../fundamentals/practice.html#skill-work
 [2]: ../resources/checklists.html
-[3]: ../resources.html#anki
+[3]: ../game/wizards.html
 [4]: ../time.html
-[6]: ../resources/others.html
-[7]: ../fundamentals/practice.html#puzzle-mode
-[9]: ../reason/break.html#fact-words
+[5]: ../resources/others.html
+[6]: ../fundamentals/practice.html#puzzle-mode

@@ -4,7 +4,7 @@ cat: fundamentals
 permalink: fundamentals/schedule
 ---
 
-This page outlines, in some depth, one possible way of laying out your study schedule.
+This page outlines one possible way of scheduling your studying.
 
 ## Before You Begin
 
@@ -16,7 +16,7 @@ Take a diagnostic test to see where you're at. Do it timed, but without pressure
 
 You need learn how to approach the parts of the test that don't already make intuitive sense to you.
 
-You can discover some of this through puzzle practice. In other words, you can figure out how the test works through trial and error.
+You can discover some of this through puzzle practice. In other words, you can figure out how the test works by figuring out why the wrong answers were wrong and the right answer was right.
 
 You can also learn from the experience of others. That means reading about the test. When reading about the test, here or elsewhere, you can make that time more valuable by reading actively, meaning:
 - Stopping frequently to try to apply what you've learned; and
@@ -24,11 +24,11 @@ You can also learn from the experience of others. That means reading about the t
 
 Your skill practice, in these early stages, should be slow and deliberate. 
 
-When you practice new skills, do questions 1 at a time. Doing individual questions will allow you to observe yourself more accurately, and to iterate more frequently. 
+When you practice new skills, do questions 1 at a time. Doing individual questions will allow you to observe yourself more accurately, and to iterate more frequently.
 
 And don't be afraid to write down instructions to yourself. Referring to instructions as you go will help ensure you build good habits. And having those intentions written down will help you stay accountable to your initial goals.
 
-If you do timed practice, try a count-up timer instead of a count-down timer. 
+If you do race practice, try a count-up timer instead of a count-down timer. 
 
 [Read more about working with a count-up timer.][timer]
 
@@ -79,7 +79,7 @@ Weeks Until Test Day | Number of Tests Per Week
 2 | 3
 1 | 1
 
-You can adjust this, generally you want to follow the pattern of peaking intensity in the lead up to test day, and then tapering (but not going to 0) at the end.
+Adjust this to your needs, but generally follow the pattern of peak intensity in the lead up to test day, and then a taper at the end.
 
 Useful heuristic: Don't take more tests than you can review. Quality > quantity. 
 
@@ -113,13 +113,13 @@ For example, going from a 150 to 151 is easier than going from 160 to 161.
 
 ### 3. Your Background
 
-If you grew up talking like the LSAT... If your brain works like the LSAT works... If you studied formal logic... then you may be able to achieve your goals quickly by tweaking your approach. 
+If you grew up talking like the LSAT... If your brain works like the LSAT works... If you studied formal logic... then you may be able to achieve your goals more quickly. 
 
-If the LSAT feels like a foreign language... If you're frequently befuddled even when you know what the right and wrong answers are... If you want a 7+ point increase, then you might need to do some fundamental brain re-wiring as you study, and that will take more time.
+If the LSAT feels like a foreign language... If you're frequently befuddled even when you know what the right and wrong answers are... If you want a 7+ point increase... then you might need to do some fundamental brain re-wiring as you study, and that will take more time.
 
 [curve]: ../resources/scores.html#the-curve
 [novice]: https://www.youtube.com/watch?v=a9-a_8hC17M
-[quantity]: pitfalls.html#quality
+[quantity]: pitfalls.html#grind
 [timer]: ../time.html#splits
 [error-log]: https://docs.google.com/spreadsheets/d/1VBhXPtwHjHgDDWN45Q-tLcxIShE0buY_qryx5V6ioOQ/edit?usp=sharing
 [lawhub]: https://lawhub.lsac.org/

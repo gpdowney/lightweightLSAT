@@ -314,6 +314,6 @@
   link: glossary.html
   level: zero
 
-- name: Support This Project
-  link: donate.html
-  level: zero
+# - name: Support This Project
+#   link: donate.html
+#   level: zero
