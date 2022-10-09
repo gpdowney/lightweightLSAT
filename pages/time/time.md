@@ -2,94 +2,44 @@
 title: Timing Strategy
 cat: time
 permalink: time
-
 ---
 
-## If you don't drive, the LSAT will
+Managing your time is one of the biggest challenges of the LSAT.
 
-And the LSAT is a terrible driver.
+You only have 35 minutes to complete each of the sections. 
 
-Take charge of how you spend your time.
+- In the Games section, that gives you about 8:30 for each of the 4 games.
+- In the Reading section, that also gives you about 8:30 for each of the 4 texts.
+- In the Reasoning section, that gives you about 1:20 for each of the ~25 questions.
 
-## Spend different amounts of time on different types of questions
+[Find more detailed timing benchmarks here.][1]
 
-## Difficulty is *SUBJECTIVE* on the LSAT {#subjective}
+Benchmarks can be useful. But they're also somewhat misleading, because difficulty can vary dramatically from question to question.
 
-It doesn't matter what question it is.
+{% capture summary %}
+Note: Difficulty is *subjective*.
+{% endcapture %}
+{% capture details %}
+If you thought something on the LSAT was hard, then it was hard. 
 
-If you think it's hard, then it's hard.
+If you thought it was easy, then it was easy.
+{% endcapture %}
+{% include details.html %}
 
-Don't ignore these feelings, practice noticing them. If you can notice when the test is more and less difficult for you, then you can invest your time more strategically. You can slow down for hard questions and speed up for easy questions.
+This variable difficulty means that sometimes you'll need to go much slower and sometimes you'll need to go much faster. So the key to mastering timing is **knowing when to speed up and when to slow down.**
 
-### Maybe skip the hardest questions
+Often, when we think of timing, we only think of practicing the first aspect, learning how to speed up. But the second aspect, learning how to slow down, can be even more important.
 
-Each question is worth 1 point.
+Primary Skills | Secondary Skills | Practice Ideas
+-- | --
+[Speed Up][2] | Memorization; <br>Timer as Teacher; <br>Confidence. | Skip Hard Questions; <br>Crush Easy Questions; <br>[Laps]; <br>[Sprints].
+[Slow Down][3] | Invest in Understanding; Trust Your Confusion; Adapt to Silly Mistakes. | [Resets].
 
-Don't get sucked into the hardest questions if you're just going to guess at the end.
+Mastering both skills allows you to remain in the driver's seat as you take the LSAT. This is important because if you don't drive, the LSAT will, and the LSAT is a terrible driver.
 
-Decide what questions you want to skip, instead of letting the Test decide for you. Always aim to get to the end of the section.
-
-### Trust yourself to crush the easy questions
-
-If you like 1 Answer or hate 4 Answers, then move on with confidence.
-
-Don't overthink it. If you get it wrong, you can review it later.
-
-When you crush easy questions, you earn extra time to invest on hard questions.
-
-## Selected Drills
-
-As with everything in this guide, adapt these drills to your needs.
-
-Adjust as you go. Set incrementally higher expectations when you're successful. Or make your expectations more reasonable, if you struggle to meet them.
-
-### Splits
-
-Practice normally, but track your splits.
-
-A count-up timer can be a nice alternative to the pressure of a count-down timer.
-
-You can split more or less often. You could, for example, split
-
-- Every 5 questions
-- Every question
-- Each step within a single question.
-
-The more often you split, the more information you get, but the more you interrupt your flow.
-
-Splits are descriptive and objective: they show you where you're investing your time. You can then use this information to identify problem areas and decide if you're investing time wisely.
-
-### Plan to Flag
-
-Practice with a plan to Flag X questions:
-
-X depends on your current score...
-
-- If you're new or scoring below 150: plan to flag 10+ questions per section.
-- 151-157: flag 8.
-- 157-163: flag 6.
-- 163-167: flag 4.
-- above 167: flag 2.
-
-### Practice Speed on Easier questions
-
-Generally, earlier questions tend to be easier.
-
-If you are <160...
-
-- Reading/Games: first passage/game in 7:30 min / first two passages/games in 15:00.
-- Reasoning: first 5 questions in 5:00 / 10 in 10:00.
-
-If you are >160...
-
-- Reading/Games: first passage/game in 6:00 / first two in 12:00.
-- Reasoning: first 5 questions in 4:00 / 12 questions in 10:00.
-
-### An Games drill
-
-Spend the minimum time possible on Set-Up (ideally around 0:30).
-Get into the questions and start making Hypos to prove and disprove Answers.
-
-### An Reading drill
-
-Unlimited Reading time. Then 0:30 (or 0:45) per question.
+[1]: time/benchmarks.html
+[2]: time/speed_up.html
+[3]: time/slow_down.html
+[Resets]: time/resets.html
+[Laps]: time/laps.html
+[Sprints]: time/sprints.html
