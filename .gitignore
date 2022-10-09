@@ -3,3 +3,4 @@
 /gemfile
 /gemfile.lock
 /.htaccess
+/*.sh
