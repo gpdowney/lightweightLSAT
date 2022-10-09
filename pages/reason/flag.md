@@ -63,11 +63,10 @@ If you decide to Revise, Reset to give yourself fresh eyes and let go of whateve
 
 That doesn't mean you had an OK Understanding. It shows you had an incomplete Understanding and unhelpful Prediction. 
 
-Or it shows that you didn't [trust yourself][4].
+Or it shows that you didn't trust yourself.
 
 It's better to make 5 eliminations than 3. At least then you're practicing trusting yourself. When you make 5 eliminations, at least you know something: you know that you don't know.
 
 [1]: time.html#subjective
 [2]: ../time/resets.html
 [3]: ../resources/scores.html#average
-[4]: ../time/confidence.html
