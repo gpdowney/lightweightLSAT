@@ -1,18 +1,24 @@
 ---
-title: The INFER Family
+title: The Infer Family
 cat: reason
 permalink: reason/infer
 ---
 
-## Tip: How to tell the difference between INFER and ARGUE questions
+Infer questions only give you facts. In other words, on Infer questions, the "argument" isn't really an argument, because it's missing a conclusion.
 
-On ARGUE questions, correct Answers are Assumptions. An Assumption is a missing Fact you add back to the Argument.
+On Infer questions, it's (usually) your job to *combine* the facts and choose the answer that is an allowable conclusion.
 
-On INFER questions, correct Answers are Inferences. An Inference is a missing Conclusion that follows from the Facts.
+{% capture summary %}
+Tip: The difference between the inferences and assumptions.
+{% endcapture %}
+{% capture details %}
+For the Argue family, the correct answers is an **assumption**. An assumption is a fact that's missing from the argument.
 
-This means that INFER questions only give you Facts. (In contrast, ARGUE and DESCRIBE questions usually give a whole Argument—Facts + Conclusion.)
+For the Infer family, correct answers are **inferences**. An inference is a missing conclusion that follows from the facts.
+{% endcapture %}
+{% include details.html %}
 
-## There are 5 question Species in the INFER Family:
+## There are 5 question types in the Infer Family:
 
 1. [Most Supported](#most-supported)
 1. [(Dis)Agree](#disagree)
@@ -20,13 +26,13 @@ This means that INFER questions only give you Facts. (In contrast, ARGUE and DES
 1. [Must be False](#must-be-false)
 1. [Rule](#rule)
 
-MOST SUPPORTED and (DIS)AGREE questions are ORGANIC because a Flexible Prediction will be most useful. And for both, favor MODEST Answers.
+Organic-Infer questions (Most Supported and (Dis)agree), can be hard to predict. Your flexible prediction will often be simply: know what you know and what you don't know. Also, they both favor **modest** answers.
 
-Make Specific Predictions and Diagrams on the MECHANICAL INFER questions: Must be True, Must be False, and Rule.
+Mechanical-Infer questions (Must be True, Must be False, and Rule) often feature conditional logic and benefit from drawing a diagram.
 
-*Caution: Do Not Confuse the Reasoning process with the Games process for MBT/MBF. You cannot use the lessons you learn here on Games (or vice versa).*
+*Bonus: You can apply the lessons you learn for Most Supported questions in the Reasoning section to Medium questions in the Reading section (and vice versa).*
 
-*Bonus: You can apply the lessons you learn for Reasoning Most Supported questions to Reading Medium questions (and vice versa).*
+*Caution: Do not confuse the Reasoning process for Must be questions, with the Games process. You cannot use the lessons you learn here on Games (or vice versa).*
 
 {% assign whatfam = "infer" %}
 {% include ApproachLR.html %}

@@ -9,7 +9,7 @@ When you feel like you can't get any faster, it may be useful to attempt a radic
 
 > Note: Sprints are a specific kind of race practice. 
 >
-> [Read more about race practice here.][race]
+> [Read more about race practice.][race]
 
 The idea is this: when you've been riding a bicycle at 10mph, 30mph feels recklessly fast. In contrast, after driving at 60mph on the highway, a 30mph speed limit feels painfully slow.
 

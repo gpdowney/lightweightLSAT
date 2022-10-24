@@ -88,11 +88,11 @@ For example...
 >
 > If it's missing Ice Cream or Fudge, then it's not a Sundae.
 
-## Conditional Keywords:
+## Conditional Words:
 
 If, All, Only If, Must, Without, Unless, None + any absolute word (whenever, always, never, no, requires, etc..)
 
-Memorize these keywords and how to diagram them. Fill in the letters with ideas to make it stick.
+Memorize these words and how to diagram them. Fill in the letters with ideas to make it stick.
 
 ### If A, then B
 
@@ -134,7 +134,7 @@ Diagram:
 
 > not-F --> G
 
-No T are V
+### No T are V
 
 Diagram:
 
@@ -182,7 +182,7 @@ How'd we get that...
 {% endcapture %}
 {% include details.html %}
 
-## How you use your Diagram changes depending on the question Species.
+## How you use your Diagram changes depending on the question type.
 
 ### JUSTIFY Questions {#justifydiagram}
 

@@ -120,11 +120,11 @@ You can learn how to draw common games, but you can't know which game types will
 
 Some studiers react to this difficulty by abandoning any hope of developing a system. Let's call them *Cowboys* because they rely on guts and intuition. Cowboys inefficiently reinvent the wheel every time. Cowboys have no system.
 
-[Read more about Cowboys and checklists here.][2]
+[Read more about Cowboys and checklists.][2]
 
 Other studiers react by doubling-down. Let's call them *knights*. Knights hope to protect themselves from the whims of the LSAT by accumulating more and more knowledge about it. They study endlessly, reading all the books, but never asking whether any of that knowledge actually helps them. As this knowledge accumulates, it weighs the Knight down like a heavy suit of armor. Knights have an overly complex system.
 
-[Read more about Knights, specifically in the Games context, here.][3]
+[Read more about Knights, specifically in the Games context.][3]
 
 Strong test takers find a balance between these two extremes to make a useful system. 
 
@@ -132,7 +132,7 @@ A useful system channels your good intuitions and corrects your bad intuitions.
 
 Here are four suggestions to find the balance:
 
-- Memorize knowledge, but practice skills. For example, memorize the common conclusion keywords. And then practice spotting them in the wild.
+- Memorize knowledge, but practice skills. For example, memorize the common fact words. And then practice spotting them in the wild.
 - Make a flashcard for everything that feels obvious so that it stays obvious.
 - Keep it simple. If you can't simplify what you learned, then perhaps you haven't fully understood it. Plus simple ideas are easier to memorize.
 - Test your knowledge against the test. Revise or discard any knowledge that does not help you.
@@ -153,13 +153,13 @@ Instead of treating the timer as a judge, try to treat it as a teacher. Use the 
 - Use the objectivity of a *count-up* timer to see where you spend time.
 - Use the pressure of a *count-down* timer to reveal what part of your process isn't yet automatic.
 
-[Learn more about timing here.][4]
+[Learn more about timing.][4]
 
 ## Pitfall #5: Deferring to Experts {#experts}
 
 Because the LSAT is weird and new, it's scary. This fear leads students to seek out the most comprehensive guides and highest-scoring tutors.
 
-[Read more about the problem with test prep experts here][5]
+[Read more about the problem with test prep experts][5]
 
 Those guides don't have access to secret knowledge. They learned how the LSAT works mostly by taking the test. Their techniques and suggestions are based on their own struggles.
 
@@ -169,7 +169,7 @@ And you deny yourself the opportunity to learn what you need to learn. Only the 
 
 When you immediately look up the explanation, mostly what you learn is how to look up explanations, which you obviously can't do on test day. When you force yourself to struggle with difficult problems, you learn how to overcome difficulty.
 
-[Learn more about puzzle practice, the practice of sticking with problems, here.][6]
+[Learn more about puzzle practice, the practice of sticking with problems.][6]
 
 Worst of all, when you practice deferring to experts, you're learning to not trust yourself.
 

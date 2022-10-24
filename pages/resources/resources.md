@@ -8,7 +8,7 @@ permalink: resources
 
 To memorize the memorizable.
 
-Here's a [good explanation][2] of how spaced repetition systems, like ANKI, help you memorize better.
+[This webcomic is the best explanation][2] of how spaced repetition systems, like ANKI, help you memorize better.
 
 [This video][3] can help you figure out what the settings do and how to adjust them.
 

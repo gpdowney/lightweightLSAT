@@ -4,75 +4,100 @@ cat: reason
 permalink: reason/job
 ---
 
-## Every Question Gives You A Specific Task To Do
+This page describes the first step of approaching a Reasoning question: figuring out what the question is asking you to do.
 
-Read the question before you look at the Argument. Know what the Test is asking you to do before you try to do it.
+Each question provides precise instructions, so you can always figure out what a question is asking on test day, but *thinking is expensive*.
 
-The question always gives clear instructions. Still it is useful to know, in advance, what they're likely to ask you to do.
+Thankfully, the LSAT repeats itself, so you can anticipate what questions they're likely to ask you.
+- *Most* of the questions in the Reasoning section will be one of the 12 common **types**, 
+- *Every* question will fit into one of the 3 **families**, and 
+- *Every* question will have one of 2 **styles**. 
+
+By learning the tendencies of these common types, families, and styles, you can quickly and easily figure out how to approach every question in the Reasoning section.
+
+{% capture summary %}
+Note: Read the question before you look at the argument.
+{% endcapture %}
+{% capture details %}
+There's some debate on whether reading the question first is a good idea. (As always, experiment with my suggestions and do what works best for you.)
+
+The advantage of reading the question first is that it will help you properly focus your attention when you turn to the argument.
+
+Reading the question first will be less useful if you do not memorize the common question families, styles, and types.
+{% endcapture %}
+{% include details.html %}
 
 ## Family
 
-A Reasoning question can ask you to do one of 3 things with the Argument: Describe it, Argue with it, or Infer from it.
+Broadly, a question will ask you to do one of 3 things to the argument:
 
-*All* Reasoning questions fit into one of these 3 Families:
+1. **Describe** it, 
+2. **Argue** with it, or 
+3. **Infer** from it.
 
-1. [DESCRIBE][describe]
-1. [ARGUE][argue]
-1. [INFER][infer]
+Every question fits into one of these 3 *families*. Recognizing a question's family tells you how to read the argument.
 
-A question's Family tells you how you should try to Understand the Argument.
+Family | Read For...
+-- | --
+[Describe][describe] | The structure of the argument
+[Argue][argue] | The problem with the argument (but not the solution)
+[Infer][infer] | Just the facts (there's no conclusion)
 
-For an ARGUE question, you need to read critically, looking for problems so that you can HELP or HURT the Argument.
+## Style
 
-But you needn't argue with a DESCRIBE question.
+In addition to a family, every question also has one of two *styles*:
 
-And INFER questions don't even have complete Arguments, they merely offer some Facts. On INFER questions, the correct Answer *follows from* those Facts.
+1. **Mechanical**, or
+2. **Organic**
 
-## Genus
+Style determines the type of ***attention*** you need to pay to the argument. 
 
-In addition to a Family, *all* Reasoning questions have a Genus.
+Mechanical and Organic questions use different parts of your brain, which, if you don't know what's going on, can make the Reasoning section feel bewildering, exhausting, and even unfair.
 
-There are 2 Genera:
+Style | Type of Attention | Brain Hemisphere
+-- | --
+Mechanical | Pedantic. Robotic. <br>No new ideas. | Left
+Organic | Holistic. Creative. <br>"What if"s are welcome. | Right
 
-1. MECHANICAL
-1. ORGANIC
+A question's style also determines the level of prediction you can make. [Learn how style shapes predictions.][predict]
 
-A question's Genus tells you how to Predict.
+## Type
 
-On MECHANICAL questions, you should make [Specific Predictions][specific]. In contrast, ORGANIC questions tend to reward [Flexible Predictions][flex].
+There 12 common Reasoning question *types*. Each type inherits the general tendencies of its family and style, but knowing a question's specific type gives you more detailed instructions about what to look out for in the argument and answers.
 
-As a result, MECHANICAL questions reward very close, word-for-word readings. While ORGANIC questions benefit from a more holistic read.
+{% capture summary %}
+Caution: Learning too much about each question type can get in your way.
+{% endcapture %}
+{% capture details %}
+If you try to learn all the nuances of every slightly different question type that's ever appeared on the LSAT, you'll waste precious time and energy on test day thinking about what you're *supposed* to be doing, instead of just doing it.
 
-## Species
+Simplify your knowledge by learning the more general patterns of the families and styles, rather than focusing on the types.
 
-Many questions also have a Species (aka a specific name). Each Species inherits the general task and tendencies of its Family and Genus.
+> For example: *Justify* type questions are in the *Argue* family and of *Mechanical* style. 
+> - Arguably, if you understand the tendencies of both the Argue family and the Mechanical style, you don't need to learn many specifics about the Justify type. 
+> - Conversely, by working through Justify questions, you can learn lessons that you can apply to other Argue family or Mechanical style questions.
 
-Questions without a Species are defined well-enough by their Family and Genus. They do not require more specific classification.
+Hone your knowledge by making mistakes -- learn what question families/styles/types you need a more structured approach on vs. what questions you can trust your intuitions on.
+{% endcapture %}
+{% include details.html %}
 
-Here's a chart of all the Species (that matter):
+This table summarizes the 12 most common Reasoning question types:
 
-Family | Species | Genus
--- | -- | --
-{% for item in site.data.LRSpecies -%}
-{{ item.family | upcase }} | [{{ item.species }}]({{ item.family }}.html#{{ item.species | slugify }}) | {{ item.genus | upcase }}
-{% endfor %} 
+Type | Family | Style | Basic Job
+{% for item in site.data.LRType -%}
+{% if item.family != "family" -%}
+[{{item.type}}]({{item.family}}.html#{{item.type | slugify}}) | {{item.style}} | {{item.family}} | {{item.basics}}
+{% endif -%}
+{% endfor %}
 
-## Question Recognition Should Be Easy And Automatic, So Memorize Two Aspects Of Every Species
+The links in the table above provide more details about how to recognize and approach each of the common question types. Detailed descriptions of individual question are formatted using this structure:
 
-1. The keywords that indicate what Species it is.
-1. It's Family, Genus, and your specific Job.
-
-You don't have to use my words. Use words that make sense to you.
-
-Make many flashcards for this, but remember, flashcards aren't a way to understand new ideas they're a way to lock-in what you already understand.
-
-Keep it simple. Simplicity is a sign of understanding.
-
-[Here's another cheat-sheet][cheat].
+{% assign whatfam = "family" %}
+{% include ApproachLR.html %}
 
 [describe]: describe.html
 [argue]: argue.html
 [infer]: infer.html
 [specific]: predict.html#specific
 [flex]: predict.html#flexible
-[cheat]: https://docs.google.com/spreadsheets/d/1dxE_s49LAc6jxx_5zh-Av18kcTMO1BKtWPZGblT_vrQ/edit?usp=sharing
+[predict]: predict.html

@@ -50,7 +50,7 @@
   num: 1.1.1
   level: two
     
-- name: Common Types
+- name: Game Types
   cat: game
   link: types.html
   num: 1.1.2
@@ -92,7 +92,7 @@
   num: 1.2.2
   level: two
 
-- name: Common Questions
+- name: Question Types
   cat: game
   link: questions.html
   num: 1.2.3
@@ -180,16 +180,22 @@
   num: 3.2
   level: one
 
-- name: Break it Down
+- name: Argument Structure
   cat: reason
   link: break.html
   num: 3.2.1
   level: two
 
-- name: Boil it Down
+- name: Argument Content
   cat: reason
   link: boil.html
   num: 3.2.2
+  level: two
+
+- name: Verbs
+  cat: reason
+  link: verbs.html
+  num: 3.2.3
   level: two
 
 - name: Predict
@@ -298,34 +304,28 @@
   num: 5.5
   level: one
 
-- name: Verbs
-  cat: resources
-  link: verbs.html
-  num: 5.6
-  level: one
-
 - name: Your Score
   cat: resources
   link: scores.html
-  num: 5.7
+  num: 5.6
   level: one
 
 - name: Test Anxiety
   cat: resources
   link: anxiety.html
-  num: 5.8
+  num: 5.7
   level: one
 
 - name: Law School Admissions
   cat: resources
   link: admissions.html
-  num: 5.9
+  num: 5.8
   level: one
 
 - name: Further Reading
   cat: resources
   link: syllabus.html
-  num: 5.10
+  num: 5.9
   level: one
 
 - name: Glossary

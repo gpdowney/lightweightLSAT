@@ -30,7 +30,7 @@ For Reasoning, this gives you an average of **1:20** per question.
 
 Do not always aim for the average. 
 
-[Read (lots) more about timing here.][2]
+[Read more about timing.][2]
 
 ### Breaks
 
@@ -42,7 +42,7 @@ If you finish a section early, you can review flagged questions within that sect
 
 If you qualify for an accommodation you may receive more time per section. 
 
-[Click here to request an accommodation from the LSAC.][3]
+[Request an accommodation directly from the LSAC.][3]
 
 ## You Will Take The Test Digitally And At Home
 
@@ -50,7 +50,7 @@ On test day, the interface will be almost exactly the same as LawHub. This is on
 
 The LSAC offers several free practice tests on LawHub you can try out. You can use these to get a baseline score and try out the interface. [You can access LawHub here.][1] 
 
-If you can't afford to pay $100 for LawHub, [you can request free access from the LSAC here][waiver].
+If you can't afford to pay $100 for LawHub, [you can request free access from the LSAC][waiver].
 
 For test day, there will be many security-theater-type-requirements like what can be in the room, special software you need to install, the size of your earbuds, your camera angle, how many pieces of paper you can have, etc... To protect yourself and prevent disruptions, [read the official list of rules on the LSAC's site][4].
 
@@ -68,7 +68,7 @@ Your scaled score can range from 120 to 180.
 - A 150 means you did better than 50% of test takers and worse than 50%.
 - A 180 means you did *better than* 99.9% of test takers.
 
-[Learn more about the curve and your score here.][score]
+[Learn more about the curve and your score.][score]
 
 ## The LSAT Writing
 
@@ -84,7 +84,7 @@ Write a normal 5 paragraph essay:
 
 Practice once or twice before you do it for real. Otherwise, don't worry about it much.
 
-If you want more information, [go here to read what the LSAC has to say about the writing sample][7].
+If you want more information, [read what the LSAC has to say about the writing sample][7].
 
 [1]: https://lawhub.lsac.org/
 [2]: ../time.html

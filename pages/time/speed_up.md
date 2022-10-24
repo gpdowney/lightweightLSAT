@@ -16,11 +16,11 @@ Knowledge of the test can slow you down.
 
 You don't want to waste time, for example, trying to remember what a question's type is, or rediscovering how to draw a rule.
 
-To make your knowledge useful you need to make it automatic. The best way to make knowledge automatic is a spaced repetition system, like Anki. [Learn about spaced repetition and Anki here.][anki]
+To make your knowledge useful you need to make it automatic. The best way to make knowledge automatic is a spaced repetition system, like Anki. [Learn about spaced repetition and Anki.][anki]
 
 In addition to memorization, you must practice *applying* your knowledge. Repetition is what turns abstract knowledge into automatic habits.
 
-Checklists can help you build the right habits. [Learn more about checklists here.][checklist]
+Checklists can help guide your practice so you build the right habits. [Learn more about checklists.][checklist]
 
 {% capture summary %}
 Practice Idea: Rapid Fire Drills
@@ -28,7 +28,7 @@ Practice Idea: Rapid Fire Drills
 {% capture details %}
 You can improve the speed and reliability of minor skills with rapid fire practice. 
 
-For example, choose a old Reasoning section and try to name each question's type as fast as possible. Review the questions that took you more than 2 seconds to recognize. Make a flashcard with the keywords that indicated the question type. Repeat until you can do it seamlessly.
+For example, choose a old Reasoning section and try to name each question's type as fast as possible. Review the questions that took you more than 2 seconds to recognize. Make a flashcard with the words that indicated the question type. Repeat until you can do it seamlessly.
 
 Similar drills could work for...
 - Game types
@@ -79,7 +79,7 @@ Or if you know that a certain question type befuddles you, automatically skip th
 
 Each question is worth the same: 1 point. By strategically skipping the hardest questions, you can give yourself time to earn more points by answering all of the easier questions.
 
-[Read more here about when to move on vs. when to stick with a question.][flag]
+[Read more about when to move on vs. when to stick with a question.][flag]
 
 ### Crush the Easiest Ones
 
@@ -91,9 +91,9 @@ For example, when you love 1 answer and hate the other 4, choose the answer you 
 
 The only way to have enough time to get the hardest questions right is to crush the easy ones.
 
-[Read more about crushing answers here.][crush]
+[Read more about crushing answers.][crush]
 
-For an extreme version of this skill, try doing sprints. [Read about sprints here.][sprints]
+For an extreme version of this skill, try doing sprints. [Read about sprints.][sprints]
 
 [crush]: ../read/crush.html
 [practice]: ../fundamentals/practice.html

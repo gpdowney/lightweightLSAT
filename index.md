@@ -4,7 +4,9 @@ title: "Welcome!"
 cat: fundamentals
 ---
 
-*The Lightweight LSAT* outlines a proven and simple system for mastering the Law School Admissions Test.
+*The Lightweight LSAT* outlines a proven and simple system for mastering the Law School Admissions Test. 
+
+*The Lightweight LSAT* is completely free. I hope you find it useful.
 
 ## The LSAT is different
 
@@ -16,9 +18,9 @@ If you study for the LSAT in the same way you studied for those other tests, you
 
 And, unfortunately, most other guides to the LSAT make things worse by overloading you with knowledge about the test.
 
-That's why I wrote this guide. *The Lightweight LSAT* takes a different approach to preparing for the LSAT.
+That's why I wrote this guide. *The Lightweight LSAT* offers a different approach to preparing for the LSAT.
 
-*The Lightweight LSAT* provides only the most essential knowledge, so that you can instead focus on building the fundamental skills you need to master the test.
+*The Lightweight LSAT* provides only the most essential knowledge, so that you can focus instead on building the fundamental skills you need to master the test.
 
 If you're used to studying for knowledge tests, my skill-focused method may feel uncomfortable or incomplete. But I hope you can stick with me, and in practicing this method, find a more productive and even enjoyable way to study for the LSAT.
 
@@ -30,7 +32,7 @@ There are three fundamental skills to mastering the LSAT, one for each of the th
 
 Test Section | Primarily tests your ability to...
 -- | --
-Games | *methodically follow a set of rules <br> one-by-one*
+Games | *methodically follow a set of rules one-by-one*
 Reading | *identify what the author of a short passage is for and against*
 Reasoning | *break down arguments by clarifying fact from conclusion*
 
@@ -70,16 +72,16 @@ Here are some tips for making the *The Lightweight LSAT* work for you:
 - Test out my ideas. Experiment with them on real LSAT questions. 
 - Start small. Try out new skills one question at a time and without a timer.
 - Pay attention to what you can control: your *process*, meaning how you approach each question.
-- Don't expect ease or perfect results at first. Do expect to get smoother, more confident, and more reliable.
-- Try to make your process perfect on easy questions. Then gradually add in difficulty.
-- Treat your results (aka whether you got the question right or wrong, and how long it took you) as information about whether your process is working, rather than making your results into a judgement about your worth as a human being.
+- Don't expect ease or perfect *results* at first. Do expect to get smoother, more confident, and more reliable.
+- Try to make your process perfect on easy questions. Then gradually add in difficulty and time pressure.
+- Treat your results as information about whether your process is working, rather than making your results into a judgment about your worth as a human being.
 - Jump ahead. Explore the parts of the guide that most interest you.
-- Circle back. Revisit sections of the guide you already read to see if there's any nuance you missed the first time.
+- Circle back. Revisit pages you already read to see if there's any nuance you missed the first time.
 - Discard anything that doesn't help you.
 
 ## This is version 0.5 of the guide.
 
-In other words, this is the fifth draft. There's room to improve. 
+In other words, this is the fifth draft. There's plenty of room to improve. 
 
 And *you* can help improve it! 
 

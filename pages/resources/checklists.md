@@ -66,7 +66,7 @@ Reading Comprehension: MEDIUM questions.
 
 Logical Reasoning: every question.
 
-1. Identify question Type + Family + Species.
+1. Identify question Type + Family + Style.
 1. Understand the Argument.
 1. Pause to Predict.
 1. Eliminate bad Answers. Defer on weirdo Answers. Select good Answers.

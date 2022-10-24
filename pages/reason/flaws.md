@@ -137,7 +137,7 @@ Woah, right now? That's very strong. So "right now" and "must" are suspect.
 
 Conditional errors read the arrow backwards or flip the direction of the arrow.
 
-To spot these errors in the wild: Look for conditional logic keywords (especially "only if").
+To spot these errors in the wild: Look for conditional logic words (especially "only if").
 
 Consider this true conditional:
 

@@ -26,15 +26,15 @@ When you scan, you quickly glance at everything given on the first page of the g
 
 Basically, ask yourself: *"Is this more ordered or more grouped?"*
 
-Type | How to Recognize | How to Draw
+Game Family | How to Recognize | How to Draw
 Order | one element at a time <br> more 2D <br> rules order / rank the elements <br> first question says "acceptable order" | number line ![order drawing][order]
 Group | multiple elements go with / in each group <br> more 3D <br> rules put elements together or keep them apart <br> *it's not ordered* | buckets ![group drawing][group]
 
 This basic scan is all you need to do.
 
-As you learn more about games, you can also ask: *"Which sub-type of game does this most resemble?"*
+As you learn more about games, you can also ask: *"Which specific type of game does this most resemble?"*
 
-[Learn how to recognize and draw the 8 common sub-types here.][types]
+[Learn how to recognize and draw the 8 common types.][types]
 
 When you're ready to add yet another layer of complexity, you can start to look for more detailed clues during your scan:
 
@@ -49,7 +49,7 @@ Noticing these details can help you shape your drawing correctly from the start.
 Practice idea: Rapid Recognition
 {% endcapture %}
 {% capture details %}
-Try to recognize the type of all 4 games in a section as fast as possible (like 0:05 each).
+Try to recognize the family and/or type of all 4 games in a section as fast as possible (like 0:05 each).
 
 To review, actually play the games and see if your guesses were useful.
 {% endcapture %}
@@ -67,9 +67,9 @@ Board | the number line / buckets
 Index | all of the elements
 Rules | using simplified symbols
 
-[Learn how to draw the boards and indexes for the common types of games here.][types]
+[Learn how to draw the boards and indexes for the common types of games.][types]
 
-[Learn how to draw the common rules here.][rules]
+[Learn how to draw the common rules.][rules]
 
 > Note: if my drawings don't work for you, invent your own or steal ideas from another guide. But don't waste your brainpower figuring out how to draw the basics every time.
 
@@ -102,7 +102,7 @@ Splits are exhaustive, they don't represent some possibilities, they represent *
 
 Drawing splits can be time intensive, but it can also reduce the complexity of a game by taking care of one or more rules.
 
-[Learn more about splits here.][splits]
+[Learn more about splits.][splits]
 
 ### Connections
 
@@ -115,7 +115,7 @@ If you happen to see a connection, you can...
 1. Add it to your drawing, if it adds new information.
 2. Combine two rules into one, as long as that combination doesn't destroy any information.
 
-[Learn more about connections here.][connect]
+[Learn more about connections.][connect]
 
 ## Check
 
@@ -164,7 +164,7 @@ Short Scan:
 Long Scan:
 
 1. Orders or groups?
-1. Sub-type?
+1. Common type?
 1. Variables?
 1. Numbers?
 1. Splits?

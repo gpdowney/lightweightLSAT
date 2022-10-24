@@ -4,12 +4,12 @@ cat: game
 permalink: game/types
 ---
 
-## Fundamentally, There Are Only 2 Types Of Games
+## Fundamentally, There Are Only 2 Families Of Games
 
 1. Order
 2. Group
 
-### Each Type Has 4 Common Sub-Types
+### Each Family Contains 4 Common Types
 
 Type | How To Recognize
 -- | --
@@ -30,7 +30,7 @@ The above list is intentionally incomplete.
 
 In some games, elements are both ordered and grouped. Some order games aren't ordered. Some group games are ordered. Some games are one-of-a-kind. 
 
-Do not waste your time learning how to approach unusual games until you're close to perfect on the 8 common sub-types.
+Do not waste your time learning how to approach unusual games until you're close to perfect on the 8 common types.
 
 Learning the common types will give you general purpose tools that you can use on the unusual games. And knowing what's normal will help you see more clearly what's unusual.
 

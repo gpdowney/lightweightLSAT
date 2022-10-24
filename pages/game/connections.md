@@ -56,7 +56,7 @@ There are three risks for looking for connections upfront:
 
 Connections are like magic. When it happens it's wonderful, but it can't be forced. Hence, those who look for connections are Wizards.
 
-[Learn more about the pros and cons of being a Wizard here.][wiz]
+[Learn more about the pros and cons of being a Wizard.][wiz]
 
 Personally, I see connections more easily once I start playing the game. Once I start following the rules one by one, I notice that some of the rules tend to go together or that some limit the game more than others.
 

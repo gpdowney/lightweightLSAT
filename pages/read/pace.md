@@ -62,6 +62,6 @@ Pauses don't need to be long. You might only need to pause for a second.
 
 If you feel overwhelmed or bewildered, you need more than a pause, you need a reset.
 
-[More on resets here.][reset]
+[More on resets.][reset]
 
 [reset]: ../time/resets.html

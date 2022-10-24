@@ -70,6 +70,6 @@ If you notice splits later, you can still rework your drawing around the split.
 
 And some questions create mini-splits, particularly hard IF questions.
 
-[You can learn more about hard IF questions here.][hardIF]
+[You can learn more about hard IF questions.][hardIF]
 
 [hardIF]: questions.html#hard-IF

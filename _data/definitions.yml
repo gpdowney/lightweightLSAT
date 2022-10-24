@@ -181,7 +181,7 @@
     For example: if Togo and Balto are Dogs; and Simba and Nala are Cats.
     Then T, B, S, and N are the elements. D/C is a constant.
 
-- word: Game Type
+- word: Game Family
   meaning: Order or group.
 
 - word: Order
@@ -192,7 +192,7 @@
     Elements together in a few buckets (the board is 3D).
     Sometimes each bucket is distinct, sometimes the buckets are interchangeable.
 
-- word: Game Sub-Type
+- word: Game Type
   meaning: The 8 common game variations.
 
 - word: Scan
@@ -278,15 +278,15 @@
     This tells you, roughly, what your job is. 
     There are 3 Reasoning families: DESCRIBE, ARGUE, and INFER.
 
-- word: Species
-  meaning: >
-    A common question with a more specific Job. 
-    Each species follows the tendencies of its Family.
-
 - word: Type
   meaning: >
+    A common question with a more specific Job. 
+    Each type follows the tendencies of its Family.
+
+- word: Style
+  meaning: >
     Reasoning questions can be either Mechanical or Organic. 
-    A question's type tells you what kind of prediction you should make.
+    A question's style tells you what kind of prediction you should make.
 
 - word: Prediction
   meaning: What you expect from the correct answer.

@@ -14,7 +14,7 @@ To be clear, this doesn't mean you should go *slow* on test day. Instead, it mea
 
 The best tool for staying in control is taking deliberate **resets**. 
 
-[Read about resets here.][reset]
+[Read about resets.][reset]
 
 What follows here are more ideas about when and why you should slow down.
 
@@ -24,11 +24,11 @@ In both the Reading and Reasoning sections, slowing down to understand the text/
 
 > The 4 wrong answers were designed in a top-secret lab by "psychometricians" (that's really their job title) after extensive testing on students like you. The LSAT *wants* you to rush through the argument so you'll get confused by the answers.
 >
-> [More on how the LSAT is designed to confuse you, here.][confuse]
+> [More on how the LSAT is designed to confuse you.][confuse]
 
 In the Reading section, this is why speed-reading the text doesn't help with timing. If you don't actually understand the text, you'll end up wasting far more time in the answers.
 
-[Read more here about moving at the pace of your understanding in the Reading section][pace]
+[Learn how to move at the pace of your understanding in the Reading section][pace]
 
 In the Reasoning section, this is why pausing to predict is so important. Predictions grounds you in your understanding before the answers have a chance to turn you around.
 
@@ -55,7 +55,7 @@ Confusion is not only a sign that you did something wrong (although it often is)
 - When an argument seems hard to follow, that might be because you've identified the gap in the reasoning. 
 - When you find an answer choice to be confusing, there's a good chance it's confused (aka wrong).
 
-[Read more here about the advantages of trusting your confusion.][2]
+[Learn why to trust your confusion.][2]
 
 [Read more here][3] and [here][4] about how to deal with confusing answer choices.
 

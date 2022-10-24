@@ -49,8 +49,8 @@ Parentheticals | Pivot words
 When you get it | When you don't get it
 In the questions | In the text
 
-More on [pacing your read, here][pace].
-And more on [crushing the questions, here][crush]
+More on [pacing your read][pace].
+And more on [crushing the questions][crush]
 
 ***
 

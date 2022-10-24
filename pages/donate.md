@@ -11,7 +11,7 @@ But if you wish to support this project, you can donate a few dollars.
 
 ## Pay what you can
 
-Buy me a [coffee][coffee] ($5) or a [pizza][pizza] ($25) or many pizzas to show your love for the site!
+Buy me a [coffee][coffee] ($5) or a [pizza][pizza] ($25) or many coffees or pizzas to show your love for the site!
 
 ## Patronage
 

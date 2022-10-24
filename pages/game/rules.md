@@ -16,7 +16,7 @@ Major Rule Type | Minor Rule Types
 
 ## Sense + Value
 
-Try to draw rules in a way that *makes visual sense* to **you** and *creates *visual value* for **you**.
+Try to draw rules in a way that *makes visual sense* to **you** and *creates visual value* for **you**.
 
 Generally, "visual sense" means:
 
@@ -27,7 +27,7 @@ Generally, "visual sense" means:
 "Visual value" could mean:
 
 - Skip formalities... maybe you don't need an index.
-- Redundancy is OK... write rules on the board and on the side.
+- Redundancy is OK... write rules both on the board and on the side.
 - Be neat so you can read your work.
 
 ## Weird Rules
@@ -102,7 +102,7 @@ O is immediately after P.
 
 ### Anti-Cloud
 
-question and R cannot occupy consecutive spaces.
+Q and R cannot occupy consecutive spaces.
 
 ### Spaced-Cloud
 
@@ -172,9 +172,9 @@ O and M cannot both be included.
 
 ### Push-In
 
-If P is not in a group, then question must be.
+If P is not in a group, then Q must be.
 
-At least one of P or question, or both, must be included.
+At least one of P or Q, or both, must be included.
 
 ![Push Drawing][11]
 
@@ -214,7 +214,7 @@ M cannot go more than twice.
 
 ### MinMax
 
-A, B, and C must each be included at least once and more more than 3 times.
+A, B, and C must each be included at least once and not more than 3 times.
 
 ### More
 

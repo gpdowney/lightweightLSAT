@@ -4,19 +4,32 @@ cat: fundamentals
 permalink: fundamentals/schedule
 ---
 
-This page outlines one possible way of scheduling your studying.
+This page suggests one possible way of scheduling your studying.
+
+**Stages:**
+1. [Before You Begin](#before-you-begin)
+1. [Beginning](#beginning)
+1. [Middle](#middle)
+1. [End](#end)
+
+**Tips:**
+- [Sample Schedule For Practice Tests](#sample-schedule-for-practice-tests)
+- [How Long To Study For The LSAT](#how-long-to-study-for-the-lsat)
+- [Factors That Can Effect How Long It Will Take To Reach Your Goals](#factors-that-can-effect-how-long-it-will-take-to-reach-your-goals)
 
 ## Before You Begin
 
 Take a diagnostic test to see where you're at. Do it timed, but without pressure or expectations.
 
-[You can find a few free, official practice tests here on LawHub.][lawhub]
+[You can find a few free, official practice tests on LawHub.][lawhub]
 
 ## Beginning
 
 You need learn how to approach the parts of the test that don't already make intuitive sense to you.
 
 You can discover some of this through puzzle practice. In other words, you can figure out how the test works by figuring out why the wrong answers were wrong and the right answer was right.
+
+[Learn more about puzzle practice.][puzzle]
 
 You can also learn from the experience of others. That means reading about the test. When reading about the test, here or elsewhere, you can make that time more valuable by reading actively, meaning:
 - Stopping frequently to try to apply what you've learned; and
@@ -28,7 +41,9 @@ When you practice new skills, do questions 1 at a time. Doing individual questio
 
 And don't be afraid to write down instructions to yourself. Referring to instructions as you go will help ensure you build good habits. And having those intentions written down will help you stay accountable to your initial goals.
 
-If you do race practice, try a count-up timer instead of a count-down timer. 
+[Learn more about skill practice.][skill]
+
+If you do any race practice, try a count-up timer instead of a count-down timer. 
 
 [Read more about working with a count-up timer.][timer]
 
@@ -50,20 +65,23 @@ It can be tempting, in this middle phase, to focus exclusively on your weak area
 
 As you get closer to test day, your practice should become mostly race practice.
 
+[Learn more about race practice.][race]
+
 As you begin to do full practice tests, you'll need to pick goals that can work on a full test. I like to pick 1 skill and 1 timing benchmark per section. For example:
 
 Section | Skill Goal | Timing Goal
 -- | -- | --
-Games | Keep pencil moving | First 2 games in 15:00
-Reading | Re-read when needed | ~3:00 per Read
-Reasoning | Anchor on hard questions | First 12 questions in 10:00
+Games | [Keep pencil moving](../game/points.html#be-smooth) | First 2 games in 15:00
+Reading | [Re-read when needed](../read/pace.html) | ~3:00 per Read
+Reasoning | [Anchor predictions for hard questions](../reason/predict.html#anchor) | First 12 questions in 10:00
 
-It can also be useful, to do resistance training. That is, make your practice even harder than the test will. Try, for example...
+It can also be useful, to do **resistance training**. That is, make your practice harder than the actual test. Try, for example...
 
-- 30 (or 25) minute sections
-- 5 (or 6) section practice tests
+- 30 minute sections (or even 25 minutes) 
+- 5 section practice tests (or even 6 sections)
+- [Sprints](../time/sprint.html)
 
-But the most useful way to gain points, especially as you get within 2 weeks of test day, will be to solidify your strengths. The closer you get to the test, the less you should worry about what you're bad at. Focus instead on your strengths to ensure you get the points you've earned.
+But the most useful way to gain points, especially as you get within 3 weeks of test day, will be to solidify your *strengths*. The closer you get to the test, the less you should worry about what you're bad at. Focus instead on your strengths to ensure you get the points you've earned.
 
 ## Sample Schedule For Practice Tests 
 
@@ -85,11 +103,11 @@ Useful heuristic: Don't take more tests than you can review. Quality > quantity.
 
 [Read about why quantity of practice is overrated][quantity].
 
-## How Long To Study For The Lsat
+## How Long To Study For The LSAT
 
-How long you need to study for will depend on how much growth you want. The chart below gives very rough estimates.
+How long you need to study for will depend on how much growth you want. This chart gives very rough estimates:
 
-Score Growth | Time Required
+Score Growth | Estimated Time
 --|--
 +1 to +3 | 6 weeks
 +4 to +6 | 12 weeks
@@ -101,7 +119,17 @@ Score Growth | Time Required
 
 You may get (relatively) easy gains at first, just by getting familiar with the test.
 
-As [Mark Rippetoe teaches][novice]: "For a completely untrained person, riding a bicycle will make your bench press go up, at first."
+As Mark Rippetoe teaches ([youtube link][novice]):
+
+> "The novice effect fools a lot of people.
+>
+> Anything that constitutes a stress is going to make you adapt a little bit.
+> 
+> For a completely untrained person, riding a bicycle will make your bench press go up, at first.
+> 
+> If you get up off your absolutely dead ass and do something, then anything you do is going to get the blame for the improvement."
+
+Celebrate your early gains, but be mindful that just because one way of studying works at first doesn't mean it's the best way to study.
 
 ### 2. The Curve
 
@@ -113,9 +141,15 @@ For example, going from a 150 to 151 is easier than going from 160 to 161.
 
 ### 3. Your Background
 
-If you grew up talking like the LSAT... If your brain works like the LSAT works... If you studied formal logic... then you may be able to achieve your goals more quickly. 
+You might be able to achieve your goals more quickly with small tweaks if you...
+- grew up talking like the LSAT talks;
+- have a brain that works like the LSAT works; or
+- already studied formal logic.
 
-If the LSAT feels like a foreign language... If you're frequently befuddled even when you know what the right and wrong answers are... If you want a 7+ point increase... then you might need to do some fundamental brain re-wiring as you study, and that will take more time.
+Your might need more time to rewire your brain if...
+- the LSAT seems to be speaking a foreign language;
+- after you check the answer, you can't tell why the wrong answers are wrong; or 
+- you want a big, 7+ score increase.
 
 [curve]: ../resources/scores.html#the-curve
 [novice]: https://www.youtube.com/watch?v=a9-a_8hC17M
@@ -123,3 +157,6 @@ If the LSAT feels like a foreign language... If you're frequently befuddled even
 [timer]: ../time/laps.md
 [error-log]: https://docs.google.com/spreadsheets/d/1VBhXPtwHjHgDDWN45Q-tLcxIShE0buY_qryx5V6ioOQ/edit?usp=sharing
 [lawhub]: https://lawhub.lsac.org/
+[puzzle]: practice.html#puzzle-practice
+[skill]: practice.html#skill-practice
+[race]: practice.html#race-practice
