@@ -121,13 +121,13 @@ You may get (relatively) easy gains at first, just by getting familiar with the 
 
 As Mark Rippetoe teaches ([youtube link][novice]):
 
-> "The novice effect fools a lot of people.
->
-> Anything that constitutes a stress is going to make you adapt a little bit.
-> 
-> For a completely untrained person, riding a bicycle will make your bench press go up, at first.
-> 
-> If you get up off your absolutely dead ass and do something, then anything you do is going to get the blame for the improvement."
+    "The novice effect fools a lot of people.
+
+    Anything that constitutes a stress is going to make you adapt a little bit.
+
+    For a completely untrained person, riding a bicycle will make your bench press go up, at first.
+    
+    If you get up off your absolutely dead ass and do something, then anything you do is going to get the blame for the improvement."
 
 Celebrate your early gains, but be mindful that just because one way of studying works at first doesn't mean it's the best way to study.
 
