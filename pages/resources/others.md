@@ -8,7 +8,7 @@ permalink: resources/others
 
 And you expect yourself to see all that on Test Day? That's a ridiculous standard; it's unrealistic and it's unhelpful.
 
-Sure, take time to learn how the Test works. Dig into the nuances during when you need to. And learn the Test's patterns when you do [Puzzle Practice][puzzle]. But...
+Sure, take time to learn how the Test works. Dig into the nuances when you need to. And learn the Test's patterns when you do [Puzzle Practice][puzzle]. But...
 
 ## Perfection is a risky plan for Test Day
 
