@@ -70,11 +70,6 @@ h3{
     font-style: italic;
 }
 
-/* to indent paragraphs by default */
-p{
-    margin-left: 1em;
-}
-
 /* first sublevel in Nav */
 .toc_one{
     margin-left: .25em;
@@ -99,11 +94,6 @@ strong{
 /* unordered lists to simple dot */
 ul{
     list-style: "\25E6 \0020 \0020";
-}
-
-/* align lists with text */
-ul, ol{
-    margin-left: 1em;
 }
 
 // make second indent shorter
@@ -144,7 +134,6 @@ table {
     width: 95%;
     border: 2px solid black;
     border-collapse: collapse;
-    margin: 1em;
     background-color: white;
 }
 
