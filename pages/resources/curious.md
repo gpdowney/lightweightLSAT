@@ -17,15 +17,15 @@ When you're uncurious, the test becomes something that happens *to* you. When yo
 
 [Dan Kahan's research][kahan] has shown that people tend to use new data to confirm their old beliefs. 
 
-> For example, when you give a climate change denier research that shows humans are causing climate change, they tend to deny climate change more forcefully after. 
-> 
-> This tendency is not an effect of stupidity, it's an effect of intelligence. The tendency is correlated with scientific literacy. Perhaps the smarter you are, the more able you are to twist the data to fit your narrative. 
-> 
-> This effect, called "politically biased information processing," is one aspect of our brain's broader tendency towards confirmation bias -- we tend to see what we look for.
-> 
-> Before you give up all hope, Kahan's research has also shown that some people are able to resist this tendency. Some people are more able to read new information and change their mind. 
-> 
-> What makes these folks different is that they're more curious.
+    For example, when you give a climate change denier research that shows humans are causing climate change, they tend to deny climate change more forcefully after. 
+    
+This is not caused by stupidity, but rather by intelligence. The tendency to seek out confirmation is correlated with scientific literacy. The smarter you are, the more you're able you to twist the data to fit your narrative. 
+
+This effect, called "politically biased information processing," is one aspect of our brain's broader tendency towards confirmation bias -- we tend to see what we look for.
+
+Before you give up all hope, Kahan's research has also shown that some people are able to resist this tendency. Some people are more able to read new information and change their mind. 
+
+What makes these folks different is that they're more *curious*.
 
 ## Confirmation Bias on the LSAT
 

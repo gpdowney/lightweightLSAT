@@ -40,7 +40,7 @@ More details on each type below...
 
 ### {{ item.name }} {#{{ item.name | slugify }}}
 
-> {{ item.ex }}
+        {{ item.ex }}
 
 {{ item.know }}
 

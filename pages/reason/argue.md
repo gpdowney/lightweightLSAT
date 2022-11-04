@@ -39,15 +39,15 @@ On Mechanical-Argue questions, the correct answer will not include any new ideas
 
 For example, if an argument claimed:
 
-> We need to help residents move around the city as quickly as possible. So the government should fund highways instead of public transportation.
+    We need to help residents move around the city as quickly as possible. So the government should fund highways instead of public transportation.
 
 It would be relevant to know:
 
-> More than 25% of residents can't afford a car.
+    More than 25% of residents can't afford a car.
 
 In contrast, even though it uses similar words, it would not matter if:
 
-> Residents believe public transportation is smelly.
+    Residents believe public transportation is smelly.
 
 {% endcapture %}
 {% include details.html %}
@@ -77,15 +77,15 @@ The negation of a statement is defined as the minimum required to disprove that 
 
 Example:
 
-> You never say anything nice.
+    You never say anything nice.
 
 Opposite:
 
-> You only say nice things.
+    You only say nice things.
 
 Negation:
 
-> You said a nice thing once.
+    You said a nice thing once.
 {% endcapture %}
 {% include details.html %}
 

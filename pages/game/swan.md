@@ -12,7 +12,7 @@ Every day, the Duke looks over their estate. When they get to the lagoon they st
 
 This morning, based on their observations, the Duke has formulated a new law of nature:
 
-> Swans must be white.
+    Swans must be white.
 
 The Duke comes to you, their trusty advisor, and asks: "Should I reveal my discovery to the world?"
 
@@ -39,8 +39,8 @@ To be *agreeable*, you'd need to definitively prove that all swans are white. To
 It would have been more efficient if you'd went looking for a black swan (or a grey or blue or pink swan or any non-white swan). You should have been *critical*. 
 
 Later that afternoon, chastened by your wise disproof of their absolute claim about swans, the Duke proposes a new law of nature based on their lagoon observations:
-
-> Ducks can be green.
+    
+    Ducks can be green.
 
 {% capture summary %}
 Again, think fast! Should you be *critical* or *agreeable*?

@@ -48,23 +48,23 @@ Of these three, structural words are the most efficient and reliable strategy. U
 
 Consider, for example, this argument:
 
-> Read my book for I am the greatest writer of all time.
+    Read my book for I am the greatest writer of all time.
 
 {% capture summary %}
 Which part is the fact and which part is the conclusion?
 {% endcapture %}
 {% capture details %}
-The fact is: "I am the greatest writer of all time."
+The fact is: `I am the greatest writer of all time.`
 
-The conclusion is: "Read my book."
+The conclusion is: `Read my book.`
 
-Feeling is unreliable here because "greatest of all time" is a huge claim, while "read" is a modest ask. There's no guarantee on the LSAT that facts will feel fact-y and conclusions will feel conclusion-y.
+Feeling is unreliable here because `greatest of all time` is a huge claim, while `read` is a modest ask. There's no guarantee on the LSAT that facts will feel fact-y and conclusions will feel conclusion-y.
 
 Flow is unreliable here because the conclusion comes first. The LSAT often reorders words to disrupt the flow of an argument.
 
 If you were able to see past those confusions using feel or flow, congrats! Perhaps you can rely on your intuition to break down arguments on test day. But notice how much energy it took and if you were able to be 100% confident.
 
-The fastest, most reliable, and lowest-brain-power method is to spot the *fact word* "for." "For" introduces the idea "greatest writer..." which means that's the fact, and the remaining part ("read my book") must be the conclusion.
+The fastest, most reliable, and lowest-brain-power method is to spot the *fact word* `for`. `For` introduces the idea `greatest writer...` which means that's the fact, and the remaining part `read my book` must be the conclusion.
 {% endcapture %}
 {% include details.html %}
 
@@ -83,7 +83,7 @@ There are 3 keys to simplifying arguments:
 1. Identify the essential terms.
 1. Don't change the meaning.
 
-*Bonus: Lawyers, judges, and legal academics are, in general, bad writers. So this skill is relevant to law school and the practice of law.*
+> Bonus: Lawyers, judges, and legal academics are, in general, bad writers. So this skill is relevant to law school and the practice of law.
 
 [Learn how to boil down arguments.][boil]
 

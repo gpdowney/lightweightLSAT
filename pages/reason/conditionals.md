@@ -14,18 +14,18 @@ Conditional logic often appears on MECHANICAL questions. Including [JUSTIFY][1],
 
 Consider an example:
 
-> If you eat kale, then you will be healthy.
+    If you eat kale, then you will be healthy.
 
 {% capture summary %}
 What do we know from this statement?
 {% endcapture %}
 {% capture details %}
-The rule means that everyone who eats kale must be healthy.
+The rule means that everyone who `eats kale` must be `healthy`.
 {% endcapture %}
 {% include details.html %}
 
 {% capture summary %}
-Suppose we see Jay eating kale, do we know that they're healthy?
+Suppose we see Jay `eating kale`, do we know that they're `healthy`?
 {% endcapture %}
 {% capture details %}
 Yes!
@@ -33,7 +33,7 @@ Yes!
 {% include details.html %}
 
 {% capture summary %}
-Suppose we know that Kay is healthy, do we know that they eat kale?
+Suppose we know that Kay is `healthy`, do we know that they `eat kale`?
 {% endcapture %}
 {% capture details %}
 No!
@@ -42,7 +42,7 @@ No!
 
 Conditional logic is absolute, but also limited. There's lots we don't know.
 
-We don't know that kale is the only way to be healthy. And we don't even know that anyone actually eats kale.
+We don't know that `kale` is the only way to be `healthy`. And we don't even know that anyone actually eats `kale`.
 
 ## Conditionals are rules.
 
@@ -54,19 +54,19 @@ The right side (sometimes called the *necessary condition*) is the output.
 
 The machine activates when the input is true. When the input is true, we know the output is also true.
 
-> Lee takes a bite of kale, we know they're healthy. 
+    Lee takes a bite of kale, we know they're healthy. 
 
 *Note:* The bite of kale doesn't *cause* Lee to be healthy, but we still *know* Lee is healthy because our rule tells us that everyone who eats kale is healthy.
 
 And the machine also activates when the output is false. When the output is false, the input must also be false.
 
-> Mo is unhealthy, so we know Mo doesn't eat kale.
+    Mo is unhealthy, so we know Mo doesn't eat kale.
 
 The machine always activates under these two conditions. It does not activate under any other conditions, or on its own.
 
-> Neha eats spinach, we know nothing else.
+    Neha eats spinach, we know nothing else.
 
-> Ori is a healthy person, we know nothing else.
+    Ori is a healthy person, we know nothing else.
 
 Conditionals are about *knowledge*. We know every time the input is true, that the output is also true.
 
@@ -84,9 +84,9 @@ The statement and it's contrapositive are logically identical That means: If a s
 
 For example...
 
-> Sundaes require both Ice Cream and Fudge
->
-> If it's missing Ice Cream or Fudge, then it's not a Sundae.
+    Sundaes require both Ice Cream and Fudge
+
+    If it's missing either Ice Cream or Fudge, then it's not a Sundae.
 
 ## Conditional Words:
 
@@ -104,7 +104,7 @@ If introduces the left side (the sufficient condition). This is the same as:
 
 Diagram:
 
-> A --> B
+    A --> B
 
 ### Only if X, then Y
 
@@ -117,7 +117,7 @@ This is the same as:
 
 Diagram:
 
-> Y --> X
+    Y --> X
 
 (Caution: "Only" isn't the same as "Only If". "Only" tends to mean "All.")
 
@@ -132,42 +132,40 @@ This is the same as:
 
 Diagram:
 
-> not-F --> G
+    not-F --> G
 
 ### No T are V
 
 Diagram:
 
-> T --> not-V
+    T --> not-V
 
 Misc. Diagramming Skills:
 
-1. Keep the Same Ideas the Same when making the diagram.
+1. Keep the same ideas the same when making the diagram.
 1. Remove or qualify constants.
 1. Use short words instead of letters/acronyms.
-1. Keep the Facts and the Conclusion separate.
+1. Keep the facts and the conclusion separate.
 
 For example:
 
-> If you truly love me, prove it. To prove that you love me, you must buy me a horse. So don't ask me out, unless you've bought me a horse.
+    If you truly love me, prove it. To prove that you love me, you must buy me a horse. So don't ask me out, unless you've bought me a horse.
 
 {% capture summary %}
-*This is a bad argument, do you what's missing (the Gap)?*
+*This is a bad argument, do you what's missing? In other words, do you see the gap?*
 {% endcapture %}
 {% capture details %}
-"if you don't truly love me, then don't ask me out"
+    if you don't truly love me, then don't ask me out
 {% endcapture %}
 {% include details.html %}
 
 {% capture summary %}
-Not seeing the gap, try to diagram it...
+Not seeing the gap? Try to diagram it...
 {% endcapture %}
 {% capture details %}
- > *Fact:* True Love --> Prove Love
- >
- > *Fact:* Prove Love--> Horse
- > 
- > *Conclusion:* No Horse --> No Ask Out
+    Fact:               True Love --> Prove Love
+    Fact:               Prove Love --> Horse
+    Conclusion:     No Horse --> No Ask Out
 {% endcapture %}
 {% include details.html %}
 
@@ -175,50 +173,45 @@ Not seeing the gap, try to diagram it...
 How'd we get that...
 {% endcapture %}
 {% capture details %}
-1. "Prove that you love me" and "prove it" are the same idea. Same for horse buying.
-1. "Love" and "me" are constants that appear in several different ideas.
-1. Simplifying to "L -> P, P -> H, no-H --> no-O" might save space, but you'll have to constantly re-translate it.
-1. Everything before the "so" is a Fact you must accept, no matter how strange. But you don't have to accept the Conclusion.
+1. `Prove that you love me` and `prove it` are the same idea.
+1. `Love` and `me` are constants that appear in several different ideas.
+1. Simplifying to `L -> P, P -> H, no-H --> no-O` might save space, but you'll have to constantly re-translate it.
 {% endcapture %}
 {% include details.html %}
 
-## How you use your Diagram changes depending on the question type.
+## How you use your diagram changes depending on the question type.
 
-### JUSTIFY Questions {#justifydiagram}
+### Justify Questions {#justifydiagram}
 
-In a JUSTIFY question, diagram to find the Gap.
+In a Justify question, diagram to find the gap.
 
-This strategy also works on DEPENDS questions with Conditional logic.
+This strategy also works on Depends questions with conditional logic.
 
-There are two types of Gaps.
+There are two types of gaps.
 
 Gap Type 1:
-> *Fact:* A --> B
->
-> *Fact:* B --> C
->
-> *Conclusion:* A --> D
+    *Fact:* A --> B
+    *Fact:* B --> C
+    *Conclusion:* A --> D
 
 {% capture summary %}
 What's the Gap?
 {% endcapture %}
 {% capture details %}
-C --> D
+    C --> D
 {% endcapture %}
 {% include details.html %}
 
 Gap Type 2:
-> *Fact:* X --> Y
->
-> *Fact:* W --> Z
->
-> *Conclusion:* X --> Z
+    *Fact:* X --> Y
+    *Fact:* W --> Z
+    *Conclusion:* X --> Z
 
 {% capture summary %}
 What's the Gap?
 {% endcapture %}
 {% capture details %}
-Y --> W
+    Y --> W
 {% endcapture %}
 {% include details.html %}
 
@@ -228,17 +221,15 @@ Your Job is to combine the Facts. Contrapositives may be useful.
 
 For example, suppose we know:
 
-> All monkeys are primates.
->
-> Birds are not primates.
+    All monkeys are primates.
+    Birds are not primates.
 
 {% capture summary %}
 Diagram:
 {% endcapture %}
 {% capture details %}
-> Monkey --> Primate
->
-> Bird --> not-Primate
+    Monkey --> Primate
+    Bird --> not-Primate
 {% endcapture %}
 {% include details.html %}
 
@@ -248,9 +239,8 @@ Can you combine it?
 If you're struggling, try starting by doing one contrapositive:
 {% endcapture %}
 {% capture details %}
-> Monkey --> Primate
-> 
-> Primate --> not-Bird
+    Monkey --> Primate
+    Primate --> not-Bird
 {% endcapture %}
 {% include details.html %}
 
@@ -258,56 +248,52 @@ If you're struggling, try starting by doing one contrapositive:
 See the combo now?
 {% endcapture %}
 {% capture details %}
-> Monkey --> not-Bird
+    Monkey --> not-Bird
 {% endcapture %}
 {% include details.html %}
 
-### PARALLEL Questions {#paralleldiagram}
+### Parallel Questions {#paralleldiagram}
 
-Your Job is to extract the Argument's Structure and find the same Structure in the Answers.
+Your job is to extract the argument's structure and find the same structure in the answers.
 
 For example:
 
-> *Fact:* R
->
-> *Fact:* R --> S
->
-> *Conclusion:* S
+    Fact: R
+    Fact: R --> S
+    Conclusion: S
 
 is the same structure as:
 
-> Water is a liquid. All liquids flow. Therefore, water flows.
+    Water is a liquid. All liquids flow. Therefore, water flows.
 
 and, even though the order and keywords differ it's also the same as:
 
-> I feel good since I drank coffee today. Every day I drink coffee, I feel good.
+    I feel good since I drank coffee today. Every day I drink coffee, I feel good.
 
 and the same as:
 
-> *Fact:* not-T
->
-> *Fact:* not-T --> not-U
->
-> *Conclusion:* not-U
+    *Fact:* not-T
+    *Fact:* not-T --> not-U
+    *Conclusion:* not-U
 
-### RULE Questions {#rulediagram}
+### Rule Questions {#rulediagram}
 
-On RULE questions, you diagram the Rules given in the Facts. (As an INFER Family question, there's not actually an Argument.)
+On rule questions, you diagram the rules given in the facts. (as an Infer family question, there's not actually an argument.)
 
-Diagraming the Rule lets you know what you can prove and how you can prove it.
+Diagraming the rule lets you know what you can prove and how you can prove it.
 
 1. We can only prove the idea on the right side (the output).
 1. We can prove it when the left side (the input) happens.
 
 For example, consider this rule:
 
-> Entering private property is a trespass if you don't have permission.
+    Entering private property is a trespass if you don't have permission.
 
 {% capture summary %}
 Diagram:
 {% endcapture %}
 {% capture details %}
-> Enter private property & not-permission --> Trespass
+    Enter private property & not-permission --> Trespass
 {% endcapture %}
 {% include details.html %}
 
@@ -315,7 +301,9 @@ Diagram:
 What can we prove? What can we not prove?
 {% endcapture %}
 {% capture details %}
-We can prove trespass. But we cannot prove that anyone didn't trespass.
+We can prove someone guilty of trespass. We have a rule that tells us when someone is trespassing.
+
+We *cannot* prove someone is innocent of trespass. We don't have a rule that proves that someone didn't trespass.
 {% endcapture %}
 {% include details.html %}
 

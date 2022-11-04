@@ -96,23 +96,49 @@ ul{
     list-style: "\25E6 \0020 \0020";
 }
 
-// make second indent shorter
+// reduce second list indent
 ul ul, ol ol, ul ol, ol ul{
     padding-left: 10px;
 }
 
 /* style quotes as boxes of cosmic latte */
 blockquote{
-    background-color: #FFF8E7;
+    background-color: #f4e7ff;
     border: 1px dotted black;
     padding-right: 1em;
     padding-left: 1em;
+    text-align: right;
+}
+
+// style code blocks to not look like code
+code {
+    font-family: inherit;
+    background-color: #FFF8E7;
+    border: .5px black solid;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+pre {
+    font-family: inherit;
+    white-space: pre-wrap;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: .5em;
+    background-color: #FFF8E7;
+    border: .5px black solid;
+}
+
+pre code {
+    border: none;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 // style and align details box
 details {
     padding: 5px;
-    border-bottom: black 1px dotted;
+    border-bottom: black .5px solid;
     background-color: rgb(218, 235, 246);
 }
 

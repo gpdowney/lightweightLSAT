@@ -68,7 +68,7 @@
   adv: | 
     Some questions that look like SUBSTITUTE questions are actually hard IF questions.
 
-    > If the rule that "A must be first" is replaced by the rule that "B must be first", then which one of the following...
+        If the rule that "A must be first" is replaced by the rule that "B must be first", then which one of the following...
 
     For these questions, draw a new board with the new info (here, put B in 1) and follow all the rules except the replaced rule (here, ignore "A in 1").
   importance: minor

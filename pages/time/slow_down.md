@@ -46,9 +46,9 @@ One useful clue is: if you confidently eliminated all 4 wrong answers, then your
 
 When you ignore your confusion in order to rush ahead, you risk compounding that confusion and wasting even more time.
 
-> Example: When a game's rule doesn't make sense, you may have misread it. 
->
-> If you play that game with that wrong rule, you're likely to get many questions wrong.
+    Example: When a game's rule doesn't make sense, you may have misread it. 
+    
+    If you play that game with that wrong rule, you're likely to get many questions wrong.
 
 Confusion is not only a sign that you did something wrong (although it often is), confusion can also reveal the LSAT's secrets and traps. For example:
 

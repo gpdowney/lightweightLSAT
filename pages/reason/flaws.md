@@ -16,17 +16,17 @@ In real life, you (hopefully) evaluate arguments based on their Truth.
 
 If Chicken Little says to you:
 
-> Run! The sky is falling.
+    Run! The sky is falling.
 
 You're likely to question their Fact. You'll say:
 
-> It doesn't seem like the sky is falling to me.
+    It doesn't seem like the sky is falling to me.
 
 But on the LSAT, you can't raise this objection. You must accept the Truth of Chicken Little's Fact.
 
 Instead, you must challenge the connection between their Fact and their Conclusion:
 
-> Okay, the sky is falling. But how will running help us?
+    Okay, the sky is falling. But how will running help us?
 
 ## Problems vs. Solutions. {#solutions}
 
@@ -53,109 +53,109 @@ These types overlap.
 Gaps tend to be most useful on JUSTIFY questions. What If thinking helps on ORGANIC questions. Both help on DEPENDS questions.
 
 Consider this argument:
-
-> The t-shirt is on sale. So you should buy it.
+    
+    The t-shirt is on sale. So you should buy it.
 
 {% capture summary %}
-Do you see a Gap?
+Do you see a gap?
 {% endcapture %}
 {% capture details %}
 Here's one (not the only one):
-> "On sale" is not connected to "should buy"?
+    
+    `On sale` is not connected to `should buy`?
 {% endcapture %}
 {% include details.html %}
 
 {% capture summary %}
-How about a Flaw?
+How about a flaw?
 {% endcapture %}
 {% capture details %}
 Here's one (not the only one):
-> "Should" is a strong Fresh Idea in the Conclusion.
+    
+    `Should` is a *fresh idea* in the conclusion.
 {% endcapture %}
 {% include details.html %}
 
 {% capture summary %}
-Any What-Ifs come to mind?
+Any *what-ifs* come to mind?
 {% endcapture %}
 {% capture details %}
 Here's some:
-> You don't like t-shirts.
->
-> They're sold out.
->
-> You're a freegan who never buys anything.
->
-> It's a cotton t-shirt and you're a carnivore who only wears leather and wool.
+    
+- `You don't like t-shirts.`
+- `They're sold out.`
+- `You're a freegan who never buys anything.`
+- `It's a cotton t-shirt and you're a carnivore who only wears leather and wool.`
 {% endcapture %}
 {% include details.html %}
 
-Notice: What are the chances your exact What If appears in the Correct Answer? Not nothing, but not high. Theres a vast range of possible objections; that's why you need to stay Flexible on ORGANIC questions.
+> Notice: What are the chances your exact *what if* appears in the correct answer? Theres a vast range of possible objections; that's why you need to stay flexible on Organic questions.
 
 ## The Common Flaws {#flaws}
 
 Lists of all known logical errors and their Latin names are available elsewhere. Here are the 5 errors worth memorizing:
 
-1. [Fresh Ideas in the Conclusion][1]
-1. [Conditional Errors][2]
-1. [Association isn't Causation][3]
-1. [Bad Samples][4]
-1. [Bad Comparisons][5]
+1. [Fresh ideas in the conclusion][1]
+1. [Conditional errors][2]
+1. [Association isn't causation][3]
+1. [Bad samples][4]
+1. [Bad comparisons][5]
 
 ### Fresh Ideas in the Conclusion {#poptart}
 
-Charlatans love this move: They begin with obvious Facts to make themselves seem commonsensical, then they leap to their grand, unsupported Conclusions.
+Charlatans love this move: They begin with obvious facts to make themselves seem commonsensical, then they leap to their grand, unsupported conclusions.
 
-To spot this error in the wild: Look for big or shiny words in the Conclusion.
+To spot this error in the wild: Look for big or shiny words in the conclusion.
 
-See if you can spot the Fresh Ideas in the Conclusion of these three bad Arguments:
+See if you can spot the *fresh ideas in the conclusion* of these three bad arguments:
 
 {% capture summary %}
-*We all want to be rich. So we need to shrink big government.*
+`We all want to be rich. So we need to shrink big government.`
 {% endcapture %}
 {% capture details %}
-Where did "Big Government" come from? Why is "shrink" the solution?
+Where did `big government` come from? Why is `shrink` the solution?
 {% endcapture %}
 {% include details.html %}
 
 {% capture summary %}
-*Only 5 employees voted yes. Therefore a majority opposed the measure.*
+`Only 5 employees voted yes. Therefore a majority opposed the measure.`
 {% endcapture %}
 {% capture details %}
-5 is an absolute number. Majority is a relative number, so "Majority" is a new idea.
+`5` is an absolute number. `Majority` is a relative number, so `Majority` is a new idea.
 {% endcapture %}
 {% include details.html %}
 
 {% capture summary %}
-*We all liked the movie trailer. So we must go see the movie right now.*
+`We all liked the movie trailer. So we must go see the movie right now.`
 {% endcapture %}
 {% capture details %}
-Woah, right now? That's very strong. So "right now" and "must" are suspect.
+Woah, `right now`? That's very strong. So `right now` and `must` are suspect.
 {% endcapture %}
 {% include details.html %}
 
 ### Conditional Errors {#conditionalerror}
 
-Conditional errors read the arrow backwards or flip the direction of the arrow.
+Conditional errors read the arrow backwards, or flip the direction of the arrow.
 
 To spot these errors in the wild: Look for conditional logic words (especially "only if").
 
 Consider this true conditional:
 
-> All squares are rectangles.
+    All squares are rectangles.
 
-It is legal to flip it and negate it; that gives us the Contrapositive:
+It is legal to flip it and negate it; that gives us the contrapositive:
 
-> If it's not rectangle, then it can't be square.
+    If it's not rectangle, then it can't be square.
 
 But it is illegal to just negate it:
 
-> If it's not a square, then it can't be a rectangle.
+    If it's not a square, then it can't be a rectangle.
 
 And it is illegal to just flip it:
 
-> If it's a rectangle, it must be a square.
+    If it's a rectangle, it must be a square.
 
-Note: the LSAT describes these two illegal moves as "confusing a necessary for a sufficient condition."
+> Note: the LSAT describes these two illegal moves as "confusing a necessary for a sufficient condition."
 
 ### Association isn't Causation {#cause}
 
@@ -165,13 +165,16 @@ To spot this error in the wild: Look for association words in the Facts and caus
 
 Humans brains like the neatness of causation too much. We rush to conclude causation from association.
 
-> Whenever we see Ash at a party, we also see Bee. Obviously, we conclude, Ash has asked Bee out.
+    Whenever we see Ash at a party, we also see Bee. Obviously, we conclude, Ash has asked Bee out.
 
-Our "obvious" is vulnerable to three objections: (1) random chance, (2) a 3rd cause, and (3) reversed causation.
+This `obvious` is vulnerable to three objections:
+1. random chance, 
+2. a 3rd cause, and
+3. reversed causation.
 
-1. We haven't been invited to that many parties. Maybe someone else often spots Ash at parties without Bee, or Bee without Ash.
-2. Sia independently invites both Ash and Bee.
-3. Bee asked out Ash.
+1. `We haven't been invited to that many parties. Maybe someone else often spots Ash at parties without Bee, or Bee without Ash.`
+2. `Sia independently invites both Ash and Bee.`
+3. `Bee asked out Ash.`
 
 ### Bad Samples {#sample}
 
@@ -183,16 +186,16 @@ Bad samples are (1) small, (2) unrepresentative, and/or are studied with (3) sus
 
 Consider these three:
 
-1. Observations of 30 Americans revealed that Americans rarely wear deodorant.
-1. Observations of 10,000 children revealed that people rarely wear deodorant.
-1. A telephone survey of 10,000 Americans revealed that Americans rarely wear deodorant.
+1. `Observations of 30 Americans revealed that Americans rarely wear deodorant.`
+1. `Observations of 10,000 children revealed that people rarely wear deodorant.`
+1. `A telephone survey of 10,000 Americans revealed that Americans rarely wear deodorant.`
 
 {% capture summary %}
-What's the Problem?
+What's the problem with each?
 {% endcapture %}
 {% capture details %}
-1. 30 people is too small a group to conclude anything about hundreds of millions of people.
-1. Children might not act like adults. Maybe they have another reason for not wearing deodorant.
+1. `30` people is too small a group to conclude anything about hundreds of millions of people.
+1. `Children` might not act like adults. Maybe they have another reason for not wearing deodorant.
 1. The sample seems OK, but maybe people lie on the phone.
 {% endcapture %}
 {% include details.html %}
@@ -206,8 +209,9 @@ The comparison error takes two forms:
 
 For example:
 
-- Elephants and Mice are both grey mammals. Elephants are large. So mice are also large.
-- This apple is red and sweet. That fruit is green and tart, so it is not an apple.
+    Elephants and Mice are both grey mammals. Elephants are large. So mice are also large.
+    
+    This apple is red and sweet. That fruit is green and tart, so it is not an apple.
 
 [1]: #poptart
 [2]: #conditionalerror

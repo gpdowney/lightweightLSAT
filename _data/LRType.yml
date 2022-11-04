@@ -2,9 +2,9 @@
   family: describe 
   style: mechanical
   clues: |
-    > ...describes the main point
-    >
-    > ...is the conclusion
+    ...describes the main point
+    
+    ...is the conclusion
   basics: Find the conclusion sentence.
   job: Find the conclusion sentence. Find the same essential ideas in the correct answer.
   tips: Presume that the conclusion is *not* the last sentence, and do *not* trust conclusion words.
@@ -12,7 +12,7 @@
 - type: role
   family: describe 
   style: mechanical
-  clues: "> *blah blah blah* plays which one of the following roles/functions..."
+  clues: "*blah blah blah* plays which one of the following roles/functions..."
   basics: Define the relationship between the conclusion and the target sentence.
   job: Define the relationship between the "blah blah blah" and the conclusion.
   tips: |
@@ -24,9 +24,9 @@
   family: describe 
   style: mechanical
   clues: |
-    > parallels the reasoning
-    >
-    > uses the same reasoning as above
+    parallels the reasoning
+    
+    uses the same reasoning as above
   basics: Map the argument's abstract structure.
   job: Abstract the structure (ignore the content).
   tips: |
@@ -40,11 +40,11 @@
   family: argue 
   style: organic
   clues: |
-    > Which of the following, if true, most weakens the argument?
-    > 
-    > ...expresses a flaw in the reasoning
-    > 
-    > The argument is most vulnerable to the criticism that it...
+    Which of the following, if true, most weakens the argument?
+    
+    ...expresses a flaw in the reasoning
+    
+    The argument is most vulnerable to the criticism that it...
   basics: Hurt the argument.
   job: Point out or exploit the argument's problem. Make the argument worse.
   tips: |
@@ -58,9 +58,9 @@
   family: argue 
   style: organic
   clues: |
-    > Which of the following, if true, most strengthens the argument?
-    >
-    > Which one of the following would, if true, help most to explain the result described above?"
+    "Which of the following, if true, most strengthens the argument?"
+    
+    "Which one of the following would, if true, help most to explain the result described above?"
   basics: Help the argument.
   job: Address the argument's problem. Make the conclusion slightly more likely.
   tips: Help-explain questions are a special sub-type. They don't give full arguments. They give two seemingly opposed facts. You help by explaining why the facts actually go together.
@@ -69,11 +69,11 @@
   family: argue 
   style: mechanical
   clues: |
-    > Which one of the following, if true, allows the conclusion of the argument to be properly drawn?
-    >
-    > ...makes the conclusion logically valid?
-    >
-    > Which of the following principles would most help to justify the argument above?
+    "Which one of the following, if true, allows the conclusion of the argument to be properly drawn?"
+  
+    ...makes the conclusion logically valid?
+  
+    Which of the following principles would most help to justify the argument above?
   basics: Close the gap in the argument.
   job: Find the gap. Completely connect the facts to the conclusion so there's no doubt.
   tips: |
@@ -85,11 +85,11 @@
   family: argue 
   style: both
   clues: |
-    > Which one of the following is an assumption on which the argument depends?
-    >
-    > ...does the argument require?
-    >
-    > ...is an assumption necessary for the argument to be valid?
+    "Which one of the following is an assumption on which the argument depends?"
+  
+    ...does the argument require?
+  
+    ...is an assumption necessary for the argument to be valid?
   basics: Find the answer that the argument depends on.
   job: |
     It depends... do you see a clear gap? 
@@ -103,11 +103,11 @@
   family: infer 
   style: organic
   clues: |
-    > Most supported by the information above
-    >
-    > Most logically completes the argument
-    >
-    > Can be inferred from the statements given
+    Most supported by the information above
+  
+    Most logically completes the argument
+  
+    Can be inferred from the statements given
   basics: Find the answer that combines the facts.
   job: Pick the allowable combination of the given facts. Know what you know and don't go beyond that.
   tips: |
@@ -119,9 +119,9 @@
   family: infer 
   style: organic
   clues: |
-    > most likely to agree about
-    >
-    > would be most likely to disagree on
+    most likely to agree about
+  
+    would be most likely to disagree on
   basics: Find the overlap between the two speakers.
   job: Find the overlap between the two speakers.
   tips:  |
@@ -137,9 +137,9 @@
   family: infer 
   style: mechanical
   clues: |
-    > Which of the following must be true based on the above?
+    "Which of the following must be true based on the above?"
 
-    Or! It looks like a Most Supported question, but it features either
+    Or, it looks like a Most Supported question, but it features either
     - conditional logic, or
     - chained causation, or
     - repeated phrases.
@@ -153,7 +153,7 @@
 - type: must be false
   family: infer 
   style: mechanical
-  clues: "> Which of the following must be false based on the above?"
+  clues: "Which of the following must be false based on the above?"
   basics: Find an absolute fact that can be contradicted.
   job: Find the absolute statement, then contradict it.
   tips: Ignore the interesting bits. Focus only on the absolutes.
@@ -162,9 +162,9 @@
   family: infer 
   style: mechanical
   clues: |
-    > Which of the following examples conforms to the principles stated above?
-    >
-    > Which of the following violates the principle stated above?
+    "Which of the following examples conforms to the principles stated above?"
+    
+    "Which of the following violates the principle stated above?"
   basics: Diagram the rule(s). Find an answer that follows them.
   job: |
     1. Diagram the rules. 
@@ -179,9 +179,9 @@
   family: family
   style: style
   clues: |
-    > What this question might look like in full?
-    >
-    > Or key words that indicate the question is of this type
+    "What this question might look like in full?"
+    
+    Or key words that indicate the question is of this type
   job: |
     1. Simple
     2. Instructions

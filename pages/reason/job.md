@@ -73,9 +73,12 @@ If you try to learn all the nuances of every slightly different question type th
 
 Simplify your knowledge by learning the more general patterns of the families and styles, rather than focusing on the types.
 
-> For example: *Justify* type questions are in the *Argue* family and of *Mechanical* style. 
-> - Arguably, if you understand the tendencies of both the Argue family and the Mechanical style, you don't need to learn many specifics about the Justify type. 
-> - Conversely, by working through Justify questions, you can learn lessons that you can apply to other Argue family or Mechanical style questions.
+For example: 
+
+    *Justify* type questions are in the *Argue* family and of *Mechanical* style. 
+
+- Arguably, if you understand the tendencies of both the Argue family and the Mechanical style, you don't need to learn many specifics about the Justify type. 
+- Conversely, by working through Justify questions, you can learn lessons that you can apply to other Argue family or Mechanical style questions.
 
 Hone your knowledge by making mistakes -- learn what question families/styles/types you need a more structured approach on vs. what questions you can trust your intuitions on.
 {% endcapture %}

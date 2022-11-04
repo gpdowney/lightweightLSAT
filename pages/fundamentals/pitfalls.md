@@ -49,7 +49,7 @@ On knowledge tests, when you get a question wrong, the correct answer teaches yo
 
 For example, on a history test you can say to yourself:
 
-> "Oh, the U.S. Constitution was written in 1789 not 1776, duh!" 
+    "Oh, the U.S. Constitution was written in 1789 not 1776, duh!" 
 
 Getting a question wrong on a knowledge test is slightly painful, but that pain is offset by an immediate reward.
 
@@ -66,7 +66,7 @@ There are two types of lazy takeaways:
 
 Too specific takeaways stay at the level of content. For example:
 
-> "Oh, there's a difference between "alternating current" and "direct current," duh!"
+    "Oh, there's a difference between "alternating current" and "direct current," duh!"
 
 This too specific takeaway is unhelpful because, unlike a knowledge test, the content of the LSAT doesn't repeat. This distinction will not matter on the actual test you take.
 
@@ -76,7 +76,7 @@ This too specific takeaways is *lazy* because it avoids the work of figuring out
 
 Too general takeaways tend to be abstract and moralized. For example, here's the most common takeaway I heard from new students:
 
-> "I should have read more carefully."
+    "I should have read more carefully."
 
 This is lazy because, unless you were intending to read recklessly, it won't actually change your behavior. 
 
@@ -90,21 +90,21 @@ In contrast, a helpful takeaway is kind because it is concrete. A helpful takeaw
 
 Helpful takeaways often take the form:
 
-> When I see X, I will do Y.
+    When I see X, I will do Y.
 
 There is both a trigger ("X") and an action ("Y")
 
 Too specific takeaways can be improved by making them more general:
 
-> When a noun is given with different adjectives in front, decide whether they are two different ideas or just one idea.
->
-> For example: "alternating current" and "direct current" are different ideas; but "high-speed internet" and "broadband internet" are roughly the same idea.
+    When a noun is given with different adjectives in front, decide whether they are two different ideas or just one idea.
+    
+    "Alternating current" and "direct current" are different ideas; but "high-speed internet" and "broadband internet" are roughly the same idea.
 
 This takeaway is more helpful than the example above because it gets down to the structure, so it's more likely to apply to future situations.
 
 Too general takeaways can be improved by making them more specific:
 
-> When I notice my attention drift, I will pause to take a breath and re-read the last sentence."
+    When I notice my attention drift, I will pause to take a breath and re-read the last sentence."
 
 This takeaway is more helpful than the example above because it gives you something specific to look out for and then something concrete to do about it.
 

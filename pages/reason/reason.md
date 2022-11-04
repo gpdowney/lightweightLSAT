@@ -11,7 +11,7 @@ To answer each question, you'll do 5 basic steps:
 1. [Know Your Job](#step-1-know-your-job)
 1. [Understand the Argument](#step-2-understand-the-argument)
 1. [Pause to Predict](#step-3-pause-to-predict)
-1. [Eliminate, Defer, or Select Each Answer](#step-4-eliminate-defer-or-select)
+1. [Eliminate, Defer, or Select each Answer](#step-4-eliminate-defer-or-select)
 1. [Move On or Revise](#step-5-move-on-or-revise)
 
 Here's an example of what that looks like:
@@ -22,7 +22,7 @@ This page provides an overview of each step, with some ideas for practice and li
 
 ## Step 1: Know Your Job
 
-Read the question (the part that ends in a "?") first. The question gives you a job to do. And it's useful to know what your job is, before you start doing it.
+Read the question first. (That's the part that ends in a "?"). The question gives you a job to do. And it's useful to know what your job is, before you start doing it.
 
 Every question fits into one of 3 **families**. Most questions also have a specific **type**. The family tells you generally how to read the argument. The type provides more specifics about what you can expect from the argument and answers.
 
@@ -43,8 +43,8 @@ Questions fall into 3 **families**. Questions will ask you to either:
 3. **Infer** from the argument.
 
 Recognizing a question's family helps you know what to expect from the argument.
-
-> For example, when you're in the *Argue* family, you can be confident that the argument has at least one problem. Your job is to find that problem.
+    
+    For example, when you're in the *Argue* family, you can be confident that the argument has at least one problem. Your job is to find that problem.
 
 [Learn more about each of the question families.][family]
 
@@ -59,8 +59,8 @@ Question Type | Family
 {% endfor %}
 
 Recognizing the question's type gives you a specific task.
-
-> For example, on *Conclusion* questions, the correct answer will paraphrase the argument's conclusion. So your job is to find the argument's conclusion and then figure out which answer means the same thing.
+    
+    For example, on *Conclusion* questions, the correct answer will paraphrase the argument's conclusion. So your job is to find the argument's conclusion and then figure out which answer means the same thing.
 
 {% capture summary %}
 Caution: Every question has a family, but some questions lack a type.

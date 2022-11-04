@@ -58,7 +58,7 @@ Write your hypos down. Drawing your hypos will help you be methodical, and you c
 
 Go one rule at a time. Or better yet, go one **overlapping** rule at a time.
 
-> For example, after you put X to spot 3, look first at any rules that include element X or spot 3.
+    For example, after you put X to spot 3, look first at any rules that include element X or spot 3.
 
 When you've exhausted the rules, ask: **"Who's left?"**
 
@@ -96,15 +96,15 @@ Must be False | the answer is **wrong** if it happened in any hypo
 
 Suppose we knew this was a valid hypo:
 
-> Shirt 1: red and blue
->
-> Shirt 2: red and yellow
+    Shirt 1: red and blue
+    
+    Shirt 2: red and yellow
 
 And we have these statements to evaluate:
 
-> A. Both shirts contains yellow.
-> 
-> B. Both shirts contain red.
+    A. Both shirts contains yellow.
+    
+    B. Both shirts contain red.
 
 {% capture summary %}
 What do we know about these statements, based on our single hypo?

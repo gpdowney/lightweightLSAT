@@ -10,19 +10,16 @@ Connections happen either (a) when two rules can be combined into one, or (b) wh
 
 For example, these two rules are connectable:
 
-> A is next to B == (A B)
-> 
-> B is before C == B -- C
+    A is next to B == (A B)
 
-We could write them as one rule:
+    B is before C == B -- C
 
-> (A B) -- C
+We could write them as one rule: `(A B) -- C`
 
 And then we also know:
 
-> C can't go first or second
-> 
-> A and B can't go last
+1. C can't go first or second, and
+2. A and B can't go last.
 
 Connections often happen when...
 - the same element appears in multiple rules, or
@@ -32,13 +29,11 @@ Connections often happen when...
 
 These two rules are not connectable:
 
-> A is exactly one space away from B == (A_B)
->
-> B is before C == B -- C
+    A is exactly one space away from B == (A_B)
 
-We could try to connect them like before:
+    B is before C == B -- C
 
-> (A_B) -- C
+We could try to connect them like before: `(A_B) -- C`
 
 But this drawing destroys important information, it wrongly makes it seem like C can't come in between A and B.
 

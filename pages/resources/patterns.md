@@ -6,11 +6,11 @@ permalink: resources/patterns
 
 First, a quick sports aside (via [David Epstein's *Sports Gene*][epstein]):
 
-> It turns out that professional baseball players don't have faster than average reaction times. In fact, no human being has reflexes fast enough to respond to a 90 mph fastball. 
-> 
-> So how does anyone hit the ball? By predicting where it's going to go. Every time a baseball player swings, they're making a guess.
-> 
-> Better hitters make more educated guesses. The top players (1) see through the pitcher's attempts at disguise to (2) notice the tiny clues that actually matter, and (3) immediately know what those clues mean about where the ball is going. 
+    It turns out that professional baseball players don't have faster than average reaction times. In fact, no human being has reflexes fast enough to respond to a 90 mph fastball. 
+    
+    So how does anyone hit the ball? By predicting where it's going to go. Every time a baseball player swings, they're making a guess.
+    
+    Better hitters make more educated guesses. The top players (1) see through the pitcher's attempts at disguise to (2) notice the tiny clues that actually matter, and (3) immediately know what those clues mean about where the ball is going. 
 
 This is pattern recognition, and it's also the key to success on the LSAT:
 

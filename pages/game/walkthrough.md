@@ -14,25 +14,25 @@ The key takeaways are [here for part 1](#takeaways-for-making-hypos) and [here f
 
 ## Part 1: Making Hypos with Overlap
 
-Suppose our game has 5 elements: t w x y z. 
+Suppose our game has 5 elements: `t w x y z`. 
 
 And 2 rules:
 
-1. w must be next to x
-2. t goes before y 
+1. `w must be next to x`
+2. `t goes before y`
 
 Here's question 1:
 
-> If t is in 3, what could be true?
+    If t is in 3, what could be true?
 
 {% capture summary %}
 What's the first thing you do?
 {% endcapture %}
 
 {% capture details %}
-Make a new number line and put t in 3, because this is [an IF question](questions.html#if).
+Make a new number line and put `t` in `3`, because this is [an IF question](questions.html#if).
 
-> _ _ t _ _
+    _ _ t _ _
 {% endcapture %}
 {% include details.html %}
 
@@ -43,11 +43,11 @@ You need to follow all the rules, but which rule would be better to follow first
 {% capture details %}
 You'd be better off if you followed rule 2. 
 
-Rule 2 overlaps with t, and you have t on the board. 
+Rule 2 overlaps with `t,` and you have `t` on the board. 
 
-So you can add y in a cloud after t:
+So you can add `y` in a cloud after `t`:
 
-> _ _ t ( _ y )
+    _ _ t ( _ y )
 {% endcapture %}
 {% include details.html %}
 
@@ -58,9 +58,9 @@ What's next?
 {% capture details %}
 Now you can follow rule 1.
 
-There's not enough space for (w x) after t, so they must go before, also in a cloud since they could go in either order.
+There's not enough space for `(w x)` after `t`, so they must go before, also in a cloud since they could go in either order.
 
-> ( w x ) t ( _ y )
+    ( w x ) t ( _ y )
 {% endcapture %}
 {% include details.html %}
 
@@ -71,9 +71,9 @@ Now you've taken care of all the rules. What could you do next?
 {% capture details %}
 Ask yourself: Who's Left?
 
-You've taken care of t w x and y. So z is the only leftover. There's only room after t, in the cloud with y. So you can add it there.
+You've taken care of `t w x` and `y`. So `z` is the only leftover. There's only room after `t`, in the cloud with `y`. So you can add it there.
 
-> ( w x ) t ( z y )
+    ( w x ) t ( z y )
 {% endcapture %}
 {% include details.html %}
 
@@ -90,32 +90,32 @@ Now you've got every element on the board, and you took care of all the rules. Y
 
 Reminder, we're playing a standard order game.
 
-Elements: t w x y z
+Elements: `t w x y z`
 
 Rules: 
 
-1. w must be next to x
-2. t goes before y
+1. `w must be next to x` and
+2. `t goes before y`
 
 Valid Hypo:
 
-> ( w x ) t ( z y )
+    ( w x ) t ( z y )
 
-*Recall: (w x) is a cloud, which means w and x can switch positions. Same for (z y).*
+> Recall: `(w x)` is a cloud, which means `w` and `x` can switch positions. Same for `(z y)`.
 
-Here's question 2:
+Here's the next question:
 
-> Which of the following must be true?
->
-> (A) t is before z
->
-> (B) t is not last.
->
-> (C) w is before x
->
-> (D) x is not first
->
-> (E) y is before z
+    2. Which of the following must be true?
+
+    (A) t is before z
+
+    (B) t is not last.
+
+    (C) w is before x.
+
+    (D) x is not first.
+
+    (E) y is before z.
 
 We can reuse the old hypo to disprove 3 of the answers for free.
 
@@ -123,7 +123,7 @@ We can reuse the old hypo to disprove 3 of the answers for free.
 (A) t is before z
 {% endcapture %}
 {% capture details %}
-In the hypo, t is before z. So (A) could be true. Whether it must *always* be true, we don't know.
+In the hypo, `t` is before `z`. So (A) could be true. Whether it must *always* be true, we don't know.
 
 Defer on (A).
 {% endcapture %}
@@ -133,7 +133,7 @@ Defer on (A).
 (B) t is not last.
 {% endcapture %}
 {% capture details %}
-In the hypo, T is not last. That proves that (B) *could* be true.
+In the hypo, `t` is not last. That proves that (B) *could* be true.
 
 Defer on (B) also. *But don't be discouraged!*
 {% endcapture %}
@@ -143,7 +143,7 @@ Defer on (B) also. *But don't be discouraged!*
 (C) w is before x
 {% endcapture %}
 {% capture details %}
-In the hypo, w could be before or after x. That proves that (C) *could be true* and that it *could be false*. Because it could be false, it doesn't need to be true. 
+In the hypo, `w` could be before or after `x`. That proves that (C) *could be true* and that it *could be false*. Because it could be false, it doesn't need to be true. 
 
 Eliminate (C).
 {% endcapture %}
@@ -153,7 +153,7 @@ Eliminate (C).
 (D) x is not first
 {% endcapture %}
 {% capture details %}
-In the hypo, x can go first. That proves (D) could be false.
+In the hypo, `x` can go in `1`. That proves (D) could be false.
 
 Eliminate (D).
 {% endcapture %}
@@ -163,7 +163,7 @@ Eliminate (D).
 (E) y is before z
 {% endcapture %}
 {% capture details %}
-In the hypo, y can come after z. That proves (E) is not always true.
+In the hypo, `y` can come after `z`. That proves (E) is not always true.
 
 Eliminate (E).
 {% endcapture %}
@@ -181,9 +181,9 @@ Since this is a *must be* question, we want to make hypos that disprove the wron
 What would disprove (A)?
 {% endcapture %}
 {% capture details %}
-To disprove (A) show that t doesn't need to go before z. In other words, put t after z.
+To disprove (A) show that `t` doesn't need to go before `z`. In other words, put `t` after `z`.
 
-*Note: on test day, I actually say this (silently) to myself. I want to be sure of what I'm trying to do and why I'm trying to do it before I start making my hypo.*
+> Note: on test day, I actually say this (silently) to myself. I want to be sure of what I'm trying to do and why I'm trying to do it before I start making my hypo.*
 {% endcapture %}
 {% include details.html %}
 
@@ -199,7 +199,7 @@ Trick question: unlike the last hypo, there's no place you *must* start.
 You could easily get hung up here. To help yourself keep moving: know your options.
 {% endcapture %}
 {% capture details %}
-*Option 1:* Dive in. Put z somewhere before t. And remember that you started from a random place. If it breaks, consider making a new hypo with a different starting point OR go on to the next answer.
+*Option 1:* Dive in. Put `z` somewhere before `t`. And remember that you started from a random place. If it breaks, consider making a new hypo with a different starting point OR go on to the next answer.
 
 *Option 2:* Make a smart first move. A smart first move increases the chance that you'll be able to follow all the rules and make a valid hypo.
 
@@ -213,9 +213,9 @@ Here's how I'd do it:
 {% capture details %}
 step | reason
 -- | --
-z _ _ _ _ | put z first to take care of z -- t
-z (w x) _ _ | take care of (w x) because it takes up space
-z (w x) t y | take care of t -- y
+`z _ _ _ _` | put `z` first to take care of `z -- t`
+`z (w x) _ _` | take care of `(w x)` because it takes up space
+`z (w x) t y` | take care of `t -- y`
 
 Since I took care of all the rules, this is a valid hypo that disproves (A). 
 
@@ -236,10 +236,10 @@ When we're making a hypo to test an answer, we can more safely make arbitrary mo
 {% include details.html %}
 
 {% capture summary %}
-Could we have reversed order and used the hypo from (A) on the IF question: "If T is in 3, what could be true?"?
+Could we have reversed order and used the hypo from (A) on the IF question: "If t is in 3, what could be true?"?
 {% endcapture %}
 {% capture details %}
-No. Unless the hypo meets the "IF" requirement, we can't reuse hypos on IF questions. In this case, that question asked about the specific situation in which T is in 3; and, in my hypo, T was in 4.
+No. Unless the hypo meets the "IF" requirement, we can't reuse hypos on IF questions. In this case, that question asked about the specific situation in which `t` is in `3`; and, in my hypo, `t` was in `4`.
 
 In contrast, we can (and did) reuse work from an IF question on a WHICH question. The WHICH questions ask about every possible situation, and that includes the limited situation of the IF question.
 

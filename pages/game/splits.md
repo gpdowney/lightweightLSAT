@@ -8,17 +8,18 @@ permalink: game/splits
 
 For example, an option rule, like
 
->"A must go in 2 or 4" 
+    "A must go in 2 or 4" 
 
 gives a 2-way split:
-
-> 1. _ A _ _
->
-> 2. _ _ _ A
+    
+1. `_ A _ _` or
+2. `_ _ _ A`
 
 ## Splits Are Exhaustive 
 
-> This means splits are different than hypos. Hypos only represent *some* of the possibilities.
+> This means splits are different than hypos. 
+>
+> Hypos only represent *some* of the possibilities.
 
 Splits map out *every* possibility.
 
@@ -42,13 +43,12 @@ Splits tend to be worthwhile when it's only a 2-way or 3-way split and...
 
 For example, biconditional rules can be intimidating, but they nearly always create useful splits:
 
-> "Either X or Y must be included, but not both" 
+    "Either X or Y must be included, but not both" 
 
 gives a 2-way split:
 
-> 1. Yes X / No Y
->
-> 2. Yes Y / No X
+1. `Yes X / No Y`
+2. `Yes Y / No X`
 
 {% capture summary %} 
 Puzzle practice idea: Split Every Game

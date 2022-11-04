@@ -112,15 +112,15 @@ Common structures:
 
 ### Example 1: Fruit
 
-> Bananas are the worst fruit. After all, every other fruit is better.
+    Bananas are the worst fruit. After all, every other fruit is better.
 
 {% capture summary %}
 What's the conclusion? How can you tell?
 {% endcapture %}
 {% capture details %}
-Conclusion: Bananas are the worst.
+Conclusion: `Bananas are the worst.`
 
-The fact word "after all" shows that the second sentence is a fact, so the first must be the conclusion.
+The fact word `after all` shows that the second sentence is a fact, so the first must be the conclusion.
 
 Note: This is a circular argument. The fact and the conclusion sentences both mean the exact same thing.
 {% endcapture %}
@@ -128,35 +128,35 @@ Note: This is a circular argument. The fact and the conclusion sentences both me
 
 ### Example 2: Intellectual Property
 
-> Software companies argue that strong intellectual property protections are necessary to promote innovation. But there's plenty of innovation in clothing fashions even though fashion designs can't be patented or copyrighted. We don't need patent and copyright protections for software.
+    Software companies argue that strong intellectual property protections are necessary to promote innovation. But there's plenty of innovation in clothing fashions even though fashion designs can't be patented or copyrighted. We don't need patent and copyright protections for software.
 
 {% capture summary %}
 What's the conclusion? How can you tell?
 {% endcapture %}
 {% capture details %}
-Conclusion: We don't need patent or copyright for software.
+Conclusion: `We don't need patent or copyright for software.`
 
-The *pivot* word "but" typically comes after the antithesis. Since "but" is at the beginning of the second sentence that indicates that the first sentence is an *antithesis*.
+The *pivot* word `but` typically comes after the antithesis. Since `but` is at the beginning of the second sentence that indicates that the first sentence is an *antithesis*.
 
-As soon as you read that "but," you can guess that the conclusion will be the opposite of whatever the software companies believe. The last sentence is opposite of the first, so that's our conclusion.
+As soon as you read that `but`, you can guess that the conclusion will be the opposite of whatever the software companies believe. The last sentence is opposite of the first, so that's our conclusion.
 
 Reading for flow, you might also also notice that the second sentence supports the last.
 
-Note: If we left the "but" in place, we could otherwise swap the order of the second and last sentence, and the meaning wouldn't change.
+Note: If we left the `but` in place, we could otherwise swap the order of the second and last sentence, and the meaning wouldn't change.
 {% endcapture %}
 {% include details.html %}
 
 ### Example 3: A Thief
 
-> Although my client is a convicted thief, they didn't kill anyone.
+    Although my client is a convicted thief, they didn't kill anyone.
 
 {% capture summary %}
 What's the conclusion? How can you tell?
 {% endcapture %}
 {% capture details %}
-Conclusion: They didn't kill anyone.
+Conclusion: `They didn't kill anyone.`
 
-The pivot word "although" typically comes before the antithesis. In this case, the antithesis is less of an argument than an inconvenient fact. The lawyer is using the word "although" to shift our attention away from that fact that their client has stolen in the past, and towards what they care about proving, that their client isn't a murderer.
+The pivot word `although` typically comes before the antithesis. In this case, the antithesis is less of an argument than an inconvenient fact. The lawyer is using the word `although` to shift our attention away from that fact that their client has stolen in the past, and towards what they care about proving, that their client isn't a murderer.
 
 Note: This isn't really an argument because there's no facts. It's more like an assertion.
 {% endcapture %}
@@ -164,7 +164,7 @@ Note: This isn't really an argument because there's no facts. It's more like an 
 
 ### Example 4: Gift Cards
 
-> If you spend $100 at our store, we'll give you a $20 gift card.
+    If you spend $100 at our store, we'll give you a $20 gift card.
 
 {% capture summary %}
 What's the conclusion? How can you tell?
@@ -183,19 +183,19 @@ On the LSAT "If, Then"s are *conditional statements* not arguments.
 
 ### Example 5: Fred's Freedom
 
-> If you care about freedom, then you'll vote for Fred. You didn't vote for Fred, so you don't care about freedom.
+    If you care about freedom, then you'll vote for Fred. You didn't vote for Fred, so you don't care about freedom.
 
 {% capture summary %}
 What's the conclusion? How can you tell?
 {% endcapture %}
 {% capture details %}
-Conclusion: You don't care about freedom
+Conclusion: `You don't care about freedom`
 
-Fact 1: Care about freedom → vote Fred
+Fact 1: `Care about freedom → vote Fred`
 
-Fact 2: No vote Fred
+Fact 2: `No vote Fred`
 
-The conclusion word "so" indicates that the very last phrase is the conclusion.
+The conclusion word `so` indicates that the very last phrase is the conclusion.
 
 One of the facts here is a conditional statement. The other is a statement about the world that then sets off that conditional statement.
 

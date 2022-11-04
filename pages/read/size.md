@@ -18,11 +18,11 @@ How you approach a question depends on its size.
 
 Big questions are about the entire text.
 
-> Which of the following most accurately expresses the main point of the text?
+    "Which of the following most accurately expresses the main point of the text?"
 
 or
 
-> What is the purpose of the third paragraph?
+    "What is the purpose of the third paragraph?"
 
 You should always have a prediction for big questions. Your prediction should allow you to confidently eliminate the 4 wrong answers.
 
@@ -46,11 +46,11 @@ If your prediction wasn't useful on a Big question, then you either...
 
 Small questions are about specific details. The correct answer will be supported by a quote from the text.
 
-> According to the text, which of the following is true of Wittgenstein's philosophy?
+    "According to the text, which of the following is true of Wittgenstein's philosophy?"
 
 or
 
-> The text contains information sufficient to answer which of the following questions?
+    "The text contains information sufficient to answer which of the following questions?"
 
 On small questions, scan the answers first. Then go back to the text to find support for the answer you like. 
 
@@ -89,11 +89,11 @@ Practice Ideas...
 
 Medium-big questions go to the author's core belief.
 
-> Which of the following would the author be least likely to agree with?
+    "Which of the following would the author be least likely to agree with?"
 
 or
 
-> Which of the following would most strengthen the author's position?
+    "Which of the following would most strengthen the author's position?"
 
 **On medium-large questions...first eliminate based on your overall understanding of the text, then go back to prove the answer you like.**
 
@@ -101,10 +101,10 @@ or
 
 Medium-small questions might be about the purposes of a detail or make an analogy to a specific example.
 
-> Why did the author mention the Teapot Dome Scandal?
+    "Why did the author mention the Teapot Dome Scandal?"
 
 or
 
-> Which of the following is most analogous to the relationship between European and African sparrows as described in the text?
+    "Which of the following is most analogous to the relationship between European and African sparrows as described in the text?"
 
 **On medium-small questions, first go back in order to make a specific prediction, and then eliminate answers that don't match.**

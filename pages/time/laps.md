@@ -20,9 +20,8 @@ The more often you lap, the more information you get, but the more you interrupt
 
 Laps help improve our sometimes unreliable sense of time.
 
-> 1. You might feel like you're moving blazing fast because your brain was working like crazy to figure out a game. But in reality, you spent 2 minutes just staring at the page.
-> 
-> 2. Or you might feel like you're moving painfully slowly while making a hypothetical to disprove an answer. But in reality it only took you 30 seconds and it allowed you to eliminate 3 answers.
+1. You might feel like you're moving blazing fast because your brain was working like crazy to figure out a game. But in reality, you spent 2 minutes just staring at the page.
+2. Or you might feel like you're moving painfully slowly while making a hypothetical to disprove an answer. But in reality it only took you 30 seconds and it allowed you to eliminate 3 answers.
 
 Laps provide a more objective perspective on how you spend you time.
 
