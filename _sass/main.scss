@@ -1,242 +1,242 @@
 // font import
 @font-face {
-    font-family: 'Open Sans';
-    src: url("/assets/fonts/OpenSans.ttf");
-    font-weight: 300;
-  } 
+  font-family: 'Open Sans';
+  src: url("/assets/fonts/OpenSans.ttf");
+  font-weight: 300;
+  }
 
 /* default grid + smaller screens */
 body {
-    display: grid;
-    grid-template-areas:
-        "header"
-        "main"
-        "nav"
-        "footer"
-    ;
-    grid-template-rows: auto 1fr auto auto;
-    grid-template-columns: 95vw;
-    min-height: 95vh;
-    
-    font-family: 'Open Sans', sans-serif;
-    font-size: 18px;
+  display: grid;
+  grid-template-areas:
+    "header"
+    "main"
+    "nav"
+    "footer"
+  ;
+  grid-template-rows: auto 1fr auto auto;
+  grid-template-columns: 95vw;
+  min-height: 95vh;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
 }
 
 header {
-    grid-area: header;
-    text-align: right;
+  grid-area: header;
+  text-align: right;
 }
 
 main {
-    grid-area: main;
-    line-height: 1.5em;
+  grid-area: main;
+  line-height: 1.5em;
 }
 
 nav {
-    grid-area: nav;
-    font-size: 12px;
-    text-align: center;
+  grid-area: nav;
+  font-size: 12px;
+  text-align: center;
 }
 
 footer {
-    grid-area: footer;
-    font-size: small;
-    text-align: center;
-    line-height: 1em;
+  grid-area: footer;
+  font-size: small;
+  text-align: center;
+  line-height: 1em;
 }
 
 /* make images scale to screen size */
 img{
-    max-width: 100%;
-    object-fit: scale-down;
+  max-width: 100%;
+  object-fit: scale-down;
 }
 
 // make links dark green and hover slightly lighter
 a{
-    color: #07635d;
+  color: #07635d;
 }
 
 a:hover{
-    color: #0a9d93;
+  color: #0a9d93;
 }
 
 // remove default heading line-height
 h1, h2, h3{
-    line-height: normal;
+  line-height: normal;
 }
 
 // distinguish tertiary headings with italics
 h3{
-    font-style: italic;
+  font-style: italic;
 }
 
 /* first sublevel in Nav */
 .toc_one{
-    margin-left: .25em;
+  margin-left: .25em;
 }
 
 /* second sublevel Nav */
 .toc_two{
-    margin-left: .75em;
+  margin-left: .75em;
 }
 
 // nav sublevel general style
 .toc_one, .toc_two{
-    margin-right: .5em;
-    font-style: italic;
+  margin-right: .5em;
+  font-style: italic;
 }
 
 // restore strong
 strong{
-    font-weight: bold;
+  font-weight: bold;
 }
 
 /* unordered lists to simple dot */
 ul{
-    list-style: "\25E6 \0020 \0020";
+  list-style: "\25E6 \0020 \0020";
 }
 
 // reduce second list indent
 ul ul, ol ol, ul ol, ol ul{
-    padding-left: 10px;
+  padding-left: 10px;
 }
 
 /* style quotes as boxes of cosmic latte */
 blockquote{
-    background-color: #f4e7ff;
-    border: 1px dotted black;
-    padding-right: 1em;
-    padding-left: 1em;
-    margin-left: 1em;
+  background-color: #f4e7ff;
+  border: 1px dotted black;
+  padding-right: 1em;
+  padding-left: 1em;
+  margin-left: 1em;
 }
 
 // style code blocks to not look like code
 code {
-    font-family: inherit;
-    background-color: #FFF8E7;
-    border: .5px black solid;
-    padding-left: 3px;
-    padding-right: 3px;
+  font-family: inherit;
+  background-color: #FFF8E7;
+  border: .5px black solid;
+  padding-left: 3px;
+  padding-right: 3px;
 }
 
 pre {
-    font-family: inherit;
-    white-space: pre-wrap;
-    margin-left: 1em;
-    margin-right: 1em;
-    padding: .5em;
-    background-color: #FFF8E7;
-    border: .5px black solid;
+  font-family: inherit;
+  white-space: pre-wrap;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding: .5em;
+  background-color: #FFF8E7;
+  border: .5px black solid;
 }
 
 pre code {
-    border: none;
-    padding-left: 0px;
-    padding-right: 0px;
+  border: none;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 // style and align details box
 details {
-    padding: 5px;
-    border-bottom: black .5px solid;
-    background-color: rgb(218, 235, 246);
+  padding: 5px;
+  border-bottom: black .5px solid;
+  background-color: rgb(218, 235, 246);
 }
 
 // change arrow for closed details box
 details > summary {
-    list-style: "\21BB \0020 \0020";
-    list-style-position: inside;
+  list-style: "\21BB \0020 \0020";
+  list-style-position: inside;
 }
 
 // change arrow for open details box
 details[open] > summary {
-    list-style: "\21BA \0020 \0020";
-    list-style-position: inside;
+  list-style: "\21BA \0020 \0020";
+  list-style-position: inside;
 }
 
 /* basic table */
 table {
-    table-layout: fixed;
-    width: 95%;
-    border: 2px solid black;
-    border-collapse: collapse;
-    background-color: white;
+  table-layout: fixed;
+  width: 95%;
+  border: 2px solid black;
+  border-collapse: collapse;
+  background-color: white;
 }
 
 // internal borders + spacing
 td{
-    border: 1px solid black;
-    text-align: center;
-    padding: 8px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 8px;
 }
 
 // give headings row space
 th{
-    padding: 10px;
+  padding: 10px;
 }
 
 /* Glossary grid layout for small screens*/
 .gloss{
-    display: grid;
-    grid-template-columns: 5em 1fr;
-    column-gap: 1em;
+  display: grid;
+  grid-template-columns: 5em 1fr;
+  column-gap: 1em;
 }
 
 /* left align glossary terms on small screens */
 .term{
-    text-align: left;
+  text-align: left;
 }
 
 /* Move down definitions to align with larger headings */
 .def{
-    padding-top: .2em;
+  padding-top: .2em;
 }
 
 /* Reasoning and Games Species grid layout */
 .species{
-    display: grid;
-    grid-template-columns: 4em 1fr;
-    border-bottom: 2px dotted black;
-    column-gap: 1em;
+  display: grid;
+  grid-template-columns: 4em 1fr;
+  border-bottom: 2px dotted black;
+  column-gap: 1em;
 }
 
 // sticky div
 .sticky{
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 1em;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 1em;
 }
 
 /* changes to grid for larger screens, inherits most from above */
 @media (min-width: 40em) {
 
-    body {
-        grid-template-areas:
-            "nav header"
-            "nav main"
-            "nav footer"
-        ;
+  body {
+    grid-template-areas:
+      "nav header"
+      "nav main"
+      "nav footer"
+    ;
 
-        grid-template-columns: 10em minmax(auto, 38em);
-        grid-template-rows: auto 1fr auto;
-        column-gap: 5em;
-        margin-right: 2em;
-    }
+    grid-template-columns: 10em minmax(auto, 38em);
+    grid-template-rows: auto 1fr auto;
+    column-gap: 5em;
+    margin-right: 2em;
+  }
 
-    nav{
-        font-size: 14px;
-        text-align: left;
-    }
+  nav{
+    font-size: 14px;
+    text-align: left;
+  }
 
-    /* Glossary grid layout for large screens*/
-    .gloss{
-        display: grid;
-        grid-template-columns: 8em 1fr;
-        column-gap: 2em;
-    }
+  /* Glossary grid layout for large screens*/
+  .gloss{
+    display: grid;
+    grid-template-columns: 8em 1fr;
+    column-gap: 2em;
+  }
 
-    /* Right align glossary terms on large screens */
-    .term{
-        text-align: end;
-    }
+  /* Right align glossary terms on large screens */
+  .term{
+    text-align: end;
+  }
 }

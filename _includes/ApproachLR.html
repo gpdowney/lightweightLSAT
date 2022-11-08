@@ -3,12 +3,12 @@
 <h2 id="{{ item.type | slugify}}">{{ item.type | upcase }}</h2>
 <p><em> {{item.family}} / {{item.style}}</em></p>
 <div class="species">
-    <h3 class="term">Clues</h3>
-    <div><pre>{{ item.clues | markdownify }}</pre></div>
-    <h3 class="term">Job</h3>
-    <div>{{ item.job | markdownify }}</div>
-    <h3 class="term">Tips</h3>
-    <div>{{ item.tips | markdownify }}</div>
+  <h3 class="term">Clues</h3>
+  <div><pre>{{ item.clues | markdownify }}</pre></div>
+  <h3 class="term">Job</h3>
+  <div>{{ item.job | markdownify }}</div>
+  <h3 class="term">Tips</h3>
+  <div>{{ item.tips | markdownify }}</div>
 </div>
 {% endif %}
 {% endfor %}

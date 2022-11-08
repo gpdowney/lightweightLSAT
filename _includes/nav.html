@@ -1,14 +1,14 @@
 <nav>
 <div class="sticky">
-    {% for item in site.data.nav -%}
-        {% if item.level == "zero" -%}
-        <h2><a href="../{{ item.link }}">
-            {{ item.name }}
-        </a></h2>
-        {% elsif item.cat == page.cat -%}
-        <p class="toc_{{ item.level }}"><a href="../{{ item.cat }}/{{ item.link }}">
-            {{ item.num }}. {{ item.name }}</a></p>
-        {% endif -%}
-    {% endfor -%}
+  {% for item in site.data.nav -%}
+    {% if item.level == "zero" -%}
+    <h2><a href="../{{ item.link }}">
+      {{ item.name }}
+    </a></h2>
+    {% elsif item.cat == page.cat -%}
+    <p class="toc_{{ item.level }}"><a href="../{{ item.cat }}/{{ item.link }}">
+      {{ item.num }}. {{ item.name }}</a></p>
+    {% endif -%}
+  {% endfor -%}
 </div>
 </nav>
