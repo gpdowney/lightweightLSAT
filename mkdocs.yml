@@ -23,6 +23,7 @@ theme:
     - navigation.indexes
     - navigation.tabs
     - content.action.view
+    - content.action.edit
 
 plugins:
   - git-revision-date-localized:
