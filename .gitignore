@@ -1,4 +1,2 @@
-/.jekyll-cache
-/_site
-/.htaccess
-/*.sh
+*.sh
+site/

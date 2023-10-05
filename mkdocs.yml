@@ -1,0 +1,23 @@
+site_name: the lightweight lsat
+site_url: https://lightweightlsat.com
+repo_url: https://github.com/gpdowney/lightweightLSAT
+
+theme:
+  name: material
+  font: 
+    text: 'B612'
+  icon:
+    logo: material/hiking
+    repo: fontawesome/brands/git-alt
+  palette:
+      scheme: default
+      primary: white
+      accent: teal
+  features:
+    - toc.integrate
+    - toc.follow
+    - navigation.top
+
+copyright: >
+  This website is open source. All original material licensed as CC BY-SA 4.0. <br>
+  The LSAC does not approve of this website. And I do not approve of the LSAC.

@@ -19,7 +19,8 @@ Users are expected to revise, adapt, expand, and simplify the Lightweight LSAT s
 The site's design is intentionally minimal: mostly grid-based CSS and Markdown. There are no scripts or cookies or user tracking of any kind.
 
 The site is built using [MkDocs](https://www.mkdocs.org/) so that it can be written and revised in Markdown.
-You'll find the actual content of the site in the Markdown files contained under "pages" (and in the YAML files under _data).
+
+You'll find the actual content of the site in the Markdown files contained under "pages."
 
 ## Collaboration
 

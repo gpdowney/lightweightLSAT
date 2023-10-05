@@ -1,9 +1,3 @@
----
-layout: default
-title: "Welcome!"
-cat: fundamentals
----
-
 *The Lightweight LSAT* outlines a proven and simple system for mastering the Law School Admissions Test. 
 
 *The Lightweight LSAT* is completely free. I hope you find it useful.
@@ -79,9 +73,9 @@ Here are some tips for making the *The Lightweight LSAT* work for you:
 - Circle back. Revisit pages you already read to see if there's any nuance you missed the first time.
 - Discard anything that doesn't help you.
 
-## This is version 0.5 of the guide.
+## This is version 0.6 of the guide.
 
-In other words, this is the fifth draft. There's plenty of room to improve. 
+In other words, this is the sixth draft. There's plenty of room to improve. 
 
 And *you* can help improve it! 
 
