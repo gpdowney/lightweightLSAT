@@ -2,7 +2,7 @@
 
 The Complete Lightweight LSAT in HTML form.
 
-## This is Version 0.5
+## This is Version 0.6
 
 Currently, the Lightweight LSAT provides a basic System for mastering the LSAT.
 
@@ -18,8 +18,7 @@ Users are expected to revise, adapt, expand, and simplify the Lightweight LSAT s
 
 The site's design is intentionally minimal: mostly grid-based CSS and Markdown. There are no scripts or cookies or user tracking of any kind.
 
-The site is built using [Jekyll](https://jekyllrb.com) so that it can be written and revised in Markdown (instead of HTML). There is some Liquid code + YAML files that help keep the site consistent from page to page, and reduce the need to copy + paste repetitive sections. If you clone this repository, you can use Jekyll to turn the files into a website.
-
+The site is built using [MkDocs](https://www.mkdocs.org/) so that it can be written and revised in Markdown.
 You'll find the actual content of the site in the Markdown files contained under "pages" (and in the YAML files under _data).
 
 ## Collaboration
