@@ -1,9 +1,12 @@
-site_name: the lightweight lsat
+site_name: the lightweight LSAT
 site_url: https://lightweightlsat.com
 repo_url: https://github.com/gpdowney/lightweightLSAT
+repo_name: lightweightLSAT
+edit_uri: edit/mkdocs/docs/
 
 theme:
   name: material
+  custom_dir: overrides
   font: 
     text: 'B612'
   icon:
@@ -17,7 +20,108 @@ theme:
     - toc.integrate
     - toc.follow
     - navigation.top
+    - navigation.indexes
+    - navigation.tabs
+    - content.action.view
+
+plugins:
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+      enable_creation_date: false
+      enabled: false
+  - search
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+      permalink_title: Link to this section
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.smartsymbols:
+      trademark: true
+      copyright: false
+      registered: true
+      care_of: true
+      plusminus: true
+      arrows: true
+      notequal: true
+      fractions: true
+      ordinal_numbers: true
+  - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: >
   This website is open source. All original material licensed as CC BY-SA 4.0. <br>
   The LSAC does not approve of this website. And I do not approve of the LSAC.
+
+site_description: A minimalist guide to the LSAT.
+
+nav:
+  - Home: index.md
+  - Fundamentals: 
+    - fundamentals/index.md
+    - Pitfalls: fundamentals/pitfalls.md
+    - 3 Types of Practice: fundamentals/practice.md
+    - Study Timeline: fundamentals/schedule.md
+    - Selected Skills: fundamentals/skills.md
+  - Games: 
+    - game/index.md
+    - Draw the Game: game/visualize.md
+    - Wizards vs. Robots: game/wizards.md
+    - Game Types: game/types.md
+    - Common Rules: game/rules.md
+    - Splits: game/splits.md
+    - Connections: game/connections.md
+    - Prove & Disprove Answers: game/points.md
+    - Black Swans: game/swan.md
+    - Hypo Walkthrough: game/walkthrough.md
+    - Question Types: game/questions.md
+  - Reading: 
+    - read/index.md
+    - Four Myths about Reading: read/myths.md
+    - Adaptive Speed: read/pace.md
+    - Nuanced Conflict: read/conflict.md
+    - Big, Medium, and Small Questions: read/size.md
+    - Crush the Answers: read/crush.md
+    - Swipe Left: read/swipe.md
+    - "I Don't Remember That": read/remember.md
+  - Reasoning: 
+    - reason/index.md
+    - Know Your Job: reason/job.md
+    - Describe Family: reason/describe.md
+    - Argue Family: reason/argue.md
+    - Infer Family: reason/infer.md
+    - Understand the Argument: reason/understand.md
+    - Argument Structure: reason/break.md
+    - Argument Content: reason/boil.md
+    - Verbs: reason/verbs.md
+    - Predict: reason/predict.md
+    - Issue Spotting: reason/flaws.md
+    - Conditional Logic: reason/conditionals.md
+    - Eliminate, Defer, or Select: reason/answers.md
+    - Move On or Revise: reason/flag.md
+  - Timing: 
+    - time/index.md
+    - Benchmarks: time/benchmarks.md
+    - Speed Up: time/speed_up.md
+    - Laps: time/laps.md
+    - Sprints: time/sprint.md
+    - Slow Down: time/slow_down.md
+    - Resets: time/resets.md
+  - Resources and Rants: 
+    - resources/index.md
+    - The Problem with Test Prep: resources/others.md
+    - Pattern Recognition: resources/patterns.md
+    - Be Curious: resources/curious.md
+    - Checklists: resources/checklists.md
+    - How the Test Confuses You: resources/confuse.md
+    - Your Score: resources/scores.md
+    - Test Anxiety: resources/anxiety.md
+    - Law School Admissions: resources/admissions.md
+    - Further Reading: resources/syllabus.md
+  - Support This Project: donate.md
+  - Contributors: contributors.md

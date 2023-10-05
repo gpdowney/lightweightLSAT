@@ -1,3 +1,9 @@
+---
+comments: false
+---
+
+# Welcome to the Lightweight LSAT
+
 *The Lightweight LSAT* outlines a proven and simple system for mastering the Law School Admissions Test. 
 
 *The Lightweight LSAT* is completely free. I hope you find it useful.
@@ -63,6 +69,7 @@ This system reflects my more than 5 years of experience teaching the LSAT for a 
 But your brain is unique. So you should adapt my system for your needs.
 
 Here are some tips for making the *The Lightweight LSAT* work for you:
+
 - Test out my ideas. Experiment with them on real LSAT questions. 
 - Start small. Try out new skills one question at a time and without a timer.
 - Pay attention to what you can control: your *process*, meaning how you approach each question.
@@ -77,6 +84,10 @@ Here are some tips for making the *The Lightweight LSAT* work for you:
 
 In other words, this is the sixth draft. There's plenty of room to improve. 
 
-And *you* can help improve it! 
+And *you* can help improve it!
 
-Send questions, complaints, or compliments to <feedback@lightweightlsat.com>.
+Share your reactions, questions, success stories, or criticisms at the bottom of each page.
+
+!!! note 
+
+    You'll need a GitHub account to comment.

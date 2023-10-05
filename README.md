@@ -16,29 +16,20 @@ Users are expected to revise, adapt, expand, and simplify the Lightweight LSAT s
 
 ## Design
 
-The site's design is intentionally minimal: mostly grid-based CSS and Markdown. There are no scripts or cookies or user tracking of any kind.
+The site's design is intentionally minimal. 
+It is built using MkDocs using the Material theme to take advatange of built-in features like search, comments, and navigation.
 
-The site is built using [MkDocs](https://www.mkdocs.org/) so that it can be written and revised in Markdown.
+Outside of comments, (via github discussions), and donations (via stripe), the site collects no user data.
 
-You'll find the actual content of the site in the Markdown files contained under "pages."
+Here on GitHub, you'll find the actual content of the site in the markdown files under "docs."
 
 ## Collaboration
 
-Email feedback@lightweightlsat.com to share ideas or volunteer@lightweightlsat.com to offer to help. Or use GitHub's issues to spot typos/mistakes/areas for improvement.
+Email feedback@lightweightlsat.com to share ideas or volunteer@lightweightlsat.com to offer to help. 
+
+Or use GitHub's discussions to note mistakes, confusing language, or other areas for improvement.
 
 ## Areas for Future Growth
-
-### Interactivity
-
-Since v3 the site now uses the HTML details tag to selectively hide information to encourage students to think as they read.
-
-This strategy could be expanded to more pages, and more interactive strategies (such as automatically graded quizzes) may be added.
-
-### Organization and Consistency
-
-Linking is somewhat inconsistent.
-
-Vocabulary use is more consistent, but certainly requires some updates.
 
 ### Publicity
 
@@ -47,10 +38,6 @@ The site has not been shared widely.
 ### Videos
 
 I may develop videos to accompany the site and provide more walk-throughs.
-
-### Workshops
-
-I may offer live, pay-what-you-can workshops in the future.
 
 ## Intellectual Property
 
