@@ -72,6 +72,16 @@ nav:
     - 3 Types of Practice: fundamentals/practice.md
     - Study Timeline: fundamentals/schedule.md
     - Selected Skills: fundamentals/skills.md
+    - Resources: fundamentals/resources.md
+    - The problem with all advice about the LSAT: fundamentals/others.md
+    - Pattern recognition: fundamentals/patterns.md
+    - The advantages of curiousity: fundamentals/curious.md
+    - Checklists: fundamentals/checklists.md
+    - How the test confuses you: fundamentals/confuse.md
+    - How to think about your score: fundamentals/scores.md
+    - Test anxiety: fundamentals/anxiety.md
+    - Law School admissions: fundamentals/admissions.md
+    - Further reading: fundamentals/syllabus.md
   - Games: 
     - game/index.md
     - Draw the Game: game/visualize.md
@@ -116,14 +126,3 @@ nav:
     - Sprints: time/sprint.md
     - Slow Down: time/slow_down.md
     - Resets: time/resets.md
-  - Resources and Rants: 
-    - resources/index.md
-    - The Problem with Test Prep: resources/others.md
-    - Pattern Recognition: resources/patterns.md
-    - Be Curious: resources/curious.md
-    - Checklists: resources/checklists.md
-    - How the Test Confuses You: resources/confuse.md
-    - Your Score: resources/scores.md
-    - Test Anxiety: resources/anxiety.md
-    - Law School Admissions: resources/admissions.md
-    - Further Reading: resources/syllabus.md
