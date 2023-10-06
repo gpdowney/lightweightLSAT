@@ -1,93 +1,152 @@
----
-comments: false
----
+# Welcome to the lightweight LSAT
 
-# Welcome to the Lightweight LSAT
+*The lightweight LSAT* is a simple, proven, and completely free guide to the Law School Admissions Test. 
 
-*The Lightweight LSAT* outlines a proven and simple system for mastering the Law School Admissions Test. 
+## Who is this for?
 
-*The Lightweight LSAT* is completely free. I hope you find it useful.
+*The lightweight LSAT* is primarily designed for studiers who feel stuck or frustrated with their current approach.
+But it does not assume you have any knowledge about the test.
 
-## The LSAT is different
+It is meant as a corrective to other test prep systems.
+It corrects those systems by offering a more simple and flexible approach.
 
-Studying for the LSAT can really suck. 
+It is also meant to correct bad study habits.
+Because the LSAT is different than other tests, you have to study for it differently.
 
-One reason it sucks is that the LSAT is unlike most other tests that you've taken. Most other standardized tests and exams in school are *tests of knowledge*. In contrast, the LSAT is a *test of skill*.
+You'll need access to official LSAT questions to practice on.
+I recommend [LawHub][lawhub].
+And you'll need to be self-directed in that practice.
 
-If you study for the LSAT in the same way you studied for those other tests, you're going to have a bad time.
+I generally assume you are aiming for a top score, like over 165.
+That said, my belief is that achieving a top score is a matter of mastering a core set of basic skills.
+So the strategies I suggest here are applicable for students of all levels.
+The main difference will be how quickly, reliably, and flexibly you can implement those strategies.
 
-And, unfortunately, most other guides to the LSAT make things worse by overloading you with knowledge about the test.
+## What are the core skills required for success on the LSAT?
 
-That's why I wrote this guide. *The Lightweight LSAT* offers a different approach to preparing for the LSAT.
-
-*The Lightweight LSAT* provides only the most essential knowledge, so that you can focus instead on building the fundamental skills you need to master the test.
-
-If you're used to studying for knowledge tests, my skill-focused method may feel uncomfortable or incomplete. But I hope you can stick with me, and in practicing this method, find a more productive and even enjoyable way to study for the LSAT.
-
-## The LSAT is learnable
-
-The LSAT tests a specific set of learnable skills.
-
-There are three fundamental skills to mastering the LSAT, one for each of the three sections:
+The are 3 primary tasks the LSAT asks you to do. 
+One for each of the three sections:
 
 Test Section | Primarily tests your ability to...
 -- | --
-Games | *methodically follow a set of rules one-by-one*
+Games | *methodically follow rules one-by-one*
 Reading | *identify what the author of a short passage is for and against*
 Reasoning | *break down arguments by clarifying fact from conclusion*
 
-If you can master these three major tasks, then you can correctly answer every question on the test within the time constraints.
+!!! Tip
 
-Most of remainder of this guide offers a set of minor skills that help you accomplish these major tasks.
+    You could stop reading here.
 
-And, more importantly, *the Lightweight LSAT* offers an iterative and intentional method for effectively practicing skills.
+    If you can reliably achieve these three major tasks, then you can correctly answer most questions on the test within the time constraints.
+    
+    The remainder of this guide is really just an elaboration on how to achieve these 3 major tasks.   
 
-## *The Lightweight LSAT* is minimalist
+## How is the LSAT different than other tests?
 
-This guide focuses on only the essential knowledge.
+Most other standardized tests and college exams are *tests of knowledge*. 
+In contrast, the LSAT is a *test of skill*.
 
-For example, it describes how to...
+If you study for the LSAT in the same way you studied for the SAT or History 101, you're going to have a bad time.
 
-- draw the 8 types of games
-- approach the 3 types of reading questions
-- recognize the 5 types of reasoning flaws
+On a knowledge-based test, each wrong answer teaches you a concrete lesson you can apply on future tests.
 
-Each of these lists is intentionally incomplete. There are certainly more than 5 flaws. The 3 reading question "types" are actually more like a spectrum. And the 8 game types can hybridize, combining into new forms.
+??? example "Example of a knowledge-based lesson"
 
-By keeping things simple, however, *the Lightweight LSAT* gives you a set of knowledge you can *actually use* on test day. 
+    A history exam might ask a question like "When was the US Constitution ratified?"
 
-It trusts you to figure out the complications, additions, nuances, and exceptions as you practice.
+    Suppose you pick answer "(a) 1776".
+    Then you look at the answer key and you see that the correct answer was actually "(b) 1789".
 
-Rather than offering inflexible rules that guide you through every possible situation (which is both impossible and burdensome), *the Lightweight LSAT* offers simple heuristics that can help you adapt to any situation.
+    This correct answer provides an immediate and obvious lesson.
+    You can make a flashcard that says "year Constitution ratified" on one side, and "1789" on the other.
 
-## *The Lightweight LSAT* works
+On a skill-based test, like the LSAT, you have to dig deeper to learn a useful lesson.
 
-Together, the knowledge and skills described in this guide compose a complete system for approaching the LSAT. 
+??? example "Example of a skill-based lesson"
 
-This system reflects my more than 5 years of experience teaching the LSAT for a luxury test prep company. And it describes the actual system I used to score a 180 (a perfect score) on the March 2020 LSAT.
+    The LSAT asks questions like: "Which of the following would most weaken the argument above?"
 
-But your brain is unique. So you should adapt my system for your needs.
+    Suppose you pick answer "(a) Zebras have stripes."
+    But in fact, the correct answer was "(b) Zebras sometimes do not have stripes."
 
-Here are some tips for making the *The Lightweight LSAT* work for you:
+    What do you take-away from this mistake?
+    It is unlikely that the next LSAT will ask you about Zebras.
+    Memorizing knowledge about Zebras is unlikely to help you.
+   
+    Instead, you'll have to go back to the prompt and question to figure out what nuance you missed.
+    You can use the correct answer to help you see what the LSAT thought was important, but it won't immediately teach you what you did wrong.
 
-- Test out my ideas. Experiment with them on real LSAT questions. 
+## What's different about the *the lightweight LSAT* approach?
+
+Most other test prep systems aim to be complete.
+They offer advice for handling every possible situation that has ever happened on an LSAT.
+
+In constrast, *the lightweight LSAT* aims to offer you with knowledge you can *actually use* on test day. 
+It describes the patterns that frequently repeat on the LSAT, so that you can quickly recognize those common patterns and process them with the least brain-power possible.
+And it offers a set of flexible tools that you can adapt to any situation, using your full brain-power.
+
+??? example "Example of a flexible tool offered by this guide"
+
+    [This page][game types] describes how to draw 8 types of game.
+
+    The first thing to do when you encounter a new game is try to figure out which of the 8 types it is.
+    Once you figure out the type, you immediately know how to start drawing it.
+    This pattern recognition is key to speed on the test.
+
+    But there are certianly more than 8 game types.
+    So why not memorize every type of games?
+    Because the weirder types are usually remixes of the 8 most common types.
+    This means you can adapt skills from easy games for the hard ones.
+
+    The reverse isn't true.
+    The lessons from a hard game wont help you on an easier game.
+    In fact, focusing on hard games may hurt your performance and speed by making you overthink the easier stuff.
+    And since every hard game is unique, the specific way you need to approach one hard game is unlikely to help you on other hard games.
+
+## What are my bona fides? Who am I to tell you how to study for the LSAT?
+
+*The lightweight LSAT* reflects the lessons I learned in over 5 years of teaching the LSAT for a luxury test prep company.
+It describes the actual system I used to score a 180 (a perfect score) on the March 2020 LSAT.
+
+## How do you get the most out of *the lightweight LSAT*?
+
+Your brain is unique.
+So you *must* adapt my system for yourself.
+
+Here are some tips for making the *The lightweight LSAT* work for you:
+
+- Test out my ideas. Experiment on real LSAT questions. 
 - Start small. Try out new skills one question at a time and without a timer.
-- Pay attention to what you can control: your *process*, meaning how you approach each question.
-- Don't expect ease or perfect *results* at first. Do expect to get smoother, more confident, and more reliable.
 - Try to make your process perfect on easy questions. Then gradually add in difficulty and time pressure.
+- Don't expect ease or perfect *results* at first. Over time, expect to get smoother, more confident, and more reliable.
+- Pay attention to what you can control: your *process* for approaching each question.
 - Treat your results as information about whether your process is working, rather than making your results into a judgment about your worth as a human being.
 - Jump ahead. Explore the parts of the guide that most interest you.
+- Ignore anything that doesn't help you.
 - Circle back. Revisit pages you already read to see if there's any nuance you missed the first time.
-- Discard anything that doesn't help you.
 
-## This is version 0.6 of the guide.
+## How can you contribute?
 
-In other words, this is the sixth draft. There's plenty of room to improve. 
+This is version 0.6 of *the lightweight LSAT*. 
+In other words, this is still a rough draft. 
 
-And *you* can help improve it!
+There's considerable room for improvement.
+And *your feedback is essential* for improving this for other studiers!
 
-Share your reactions, questions, success stories, or criticisms at the bottom of each page.
+If you find yourself confused by anything here, someone else will probably be confused by it too.
+Please share your confusions and questions in the comments section at the bottom of the page.
 
-!!! note 
+I'd also love to hear about your successes.
+If something here helps you get better at the LSAT or makes studying less unpleasant, share that too!
 
-    You'll need a GitHub account to comment.
+If you're feeling thankful, you can [make a small donation][donate] to help me dedicate time to this project and ensure that it remains free and relevant for future studiers.
+
+!!! note
+
+    You'll need a GitHub account to comment. 
+    
+    As an alternative, you can send an email to <feedback@lightweightlsat.com>.
+
+[lawhub]: https://www.lsac.org/lawhub
+[donate]: /donate/
+[game types]: /game/types/

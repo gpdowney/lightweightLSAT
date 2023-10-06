@@ -12,7 +12,7 @@ The [ANKI manual][4] is very useful.
 
 **More LSAT-specific ANKI resources, coming soon.**
 
-## [LawHub][4]
+## [LawHub][7]
 
 For all of the old tests, and the same interface you'll use on test day.
 
@@ -34,3 +34,4 @@ Complain. They deserve it.
 [4]: https://docs.ankiweb.net/getting-started.html
 [5]: https://www.lsac.org/lsat/lsat-dates-deadlines-score-release-dates/lsat-cas-fees/fee-waivers-lsat-credential-assembly
 [6]: https://www.lsac.org/
+[7]: https://www.lsac.org/lawhub

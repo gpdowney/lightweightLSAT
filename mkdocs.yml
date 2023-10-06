@@ -62,7 +62,10 @@ copyright: >
 site_description: A minimalist guide to the LSAT.
 
 nav:
-  - Home: index.md
+  - Home: 
+    - index.md
+    - Support This Project: donate.md
+    - Contributors: contributors.md
   - Fundamentals: 
     - fundamentals/index.md
     - Pitfalls: fundamentals/pitfalls.md
@@ -124,5 +127,3 @@ nav:
     - Test Anxiety: resources/anxiety.md
     - Law School Admissions: resources/admissions.md
     - Further Reading: resources/syllabus.md
-  - Support This Project: donate.md
-  - Contributors: contributors.md

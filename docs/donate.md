@@ -1,4 +1,4 @@
-# support this project
+# Support this project
 
 The Lightweight LSAT is completely and permanently free. 
 The content is open source, hosted on [GitHub](https://github.com/gpdowney/lightweightLSAT) and licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) so you can freely (non-commerically) reuse it.
