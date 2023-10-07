@@ -37,10 +37,12 @@ markdown_extensions:
   - attr_list
   - admonition
   - toc:
-      permalink: true
+      permalink: '#'
       permalink_title: Link to this section
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.smartsymbols:
       trademark: true
       copyright: false
@@ -64,24 +66,23 @@ site_description: A minimalist guide to the LSAT.
 nav:
   - Home: 
     - index.md
-    - Support This Project: donate.md
-    - Contributors: contributors.md
-  - Fundamentals: 
-    - fundamentals/index.md
-    - Pitfalls: fundamentals/pitfalls.md
-    - 3 Types of Practice: fundamentals/practice.md
-    - Study Timeline: fundamentals/schedule.md
-    - Selected Skills: fundamentals/skills.md
-    - Resources: fundamentals/resources.md
-    - The problem with all advice about the LSAT: fundamentals/others.md
-    - Pattern recognition: fundamentals/patterns.md
-    - The advantages of curiousity: fundamentals/curious.md
-    - Checklists: fundamentals/checklists.md
-    - How the test confuses you: fundamentals/confuse.md
-    - How to think about your score: fundamentals/scores.md
-    - Test anxiety: fundamentals/anxiety.md
-    - Law School admissions: fundamentals/admissions.md
-    - Further reading: fundamentals/syllabus.md
+    - LSAT Basics: home/basics.md
+    - Law School Admissions: home/admissions.md
+    - Preview the Guide: home/preview.md
+    - Contributors: home/contributors.md
+    - Support this Project: home/donate.md
+  - How to Study: 
+    - how-to-study/index.md
+    - Pitfalls: how-to-study/pitfalls.md
+    - Study Schedule: how-to-study/schedule.md
+    - Flash cards: how-to-study/flash-cards.md
+    - Checklists: how-to-study/checklists.md
+    - Pattern recognition: how-to-study/patterns.md
+    - Curiosity: how-to-study/curious.md
+    - Perfectionism: how-to-study/perfection.md
+    - Test anxiety: how-to-study/anxiety.md
+    - How to think about your score: how-to-study/scores.md
+    - Suggesting readings: how-to-study/syllabus.md
   - Games: 
     - game/index.md
     - Draw the Game: game/visualize.md
@@ -117,6 +118,7 @@ nav:
     - Issue Spotting: reason/flaws.md
     - Conditional Logic: reason/conditionals.md
     - Eliminate, Defer, or Select: reason/answers.md
+    - How the LSAT confuses you: reason/confuse.md
     - Move On or Revise: reason/flag.md
   - Timing: 
     - time/index.md

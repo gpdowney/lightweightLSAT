@@ -39,7 +39,7 @@ Questions fall into 3 **families**. Questions will ask you to either:
 3. **Infer** from the argument.
 
 Recognizing a question's family helps you know what to expect from the argument.
-    
+
     For example, when you're in the *Argue* family, you can be confident that the argument has at least one problem. Your job is to find that problem.
 
 [Learn more about each of the question families.][family]
@@ -55,7 +55,7 @@ Question Type | Family
 {% endfor %}
 
 Recognizing the question's type gives you a specific task.
-    
+
     For example, on *Conclusion* questions, the correct answer will paraphrase the argument's conclusion. So your job is to find the argument's conclusion and then figure out which answer means the same thing.
 
 {% capture summary %}
@@ -92,12 +92,12 @@ In the Infer family, the "argument" will not have a conclusion. It will give you
 
 To understand the argument, you will need to...
 
-1. **Break down** the argument into facts and conclusion, and then 
+1. **Break down** the argument into facts and conclusion, and then
 2. **Boil down** the argument to its essential meaning.
 
 ### Break it Down
 
-In contrast to how you argue in real life, on the LSAT you must *accept that the facts are true*. Instead of fighting the facts, you argue by showing that the facts do not support the conclusion. 
+In contrast to how you argue in real life, on the LSAT you must *accept that the facts are true*. Instead of fighting the facts, you argue by showing that the facts do not support the conclusion.
 
 [Learn how to argue without fighting the facts.][validity]
 
@@ -109,9 +109,10 @@ Practice Tip: Memorize the fact and conclusion words.
 {% capture details %}
 Fact and conclusion words are the easiest way to distinguish fact from conclusion.
 
-The fact words are the most reliable and least noticed, so noticing them will give you an edge. 
+The fact words are the most reliable and least noticed, so noticing them will give you an edge.
 
 The 4 most common fact words are:
+
 - For
 - After all
 - Because
@@ -133,7 +134,7 @@ Practice Tip: Find the verb.
 {% capture details %}
 Bad writing often obscures verbs.
 
-You can untangle many a confusing sentence by finding the hidden verb. 
+You can untangle many a confusing sentence by finding the hidden verb.
 
 [Learn how verbs hide.](/reason/verbs.html)
 {% endcapture %}
@@ -154,18 +155,18 @@ Predicting does not usually mean guessing the exact *words* that will appear in 
 There are three levels of prediction you can make:
 
 **Anchor** prediction | grounds you in your understanding
-**Flexible** prediction | identifies the argument's problem <br>(but not its solution)
+**Flexible** prediction | identifies the argument's problem (but not its solution)
 **Specific** prediction | exactly anticipates the correct answer
 
 ### Question Style
 
-The level of prediction you aim for depends on the question's **style**. 
+The level of prediction you aim for depends on the question's **style**.
 
 There are 2 styles:
 
 Style | How to Read | Type of Prediction
-**Mechanical** | *robotically:* <br>pay pedantic attention to each part of the argument | Specific
-**Organic** | *creatively:* <br>pay holistic attention to the whole argument | Flexible
+**Mechanical** | *robotically:* pay pedantic attention to each part of the argument | Specific
+**Organic** | *creatively:* pay holistic attention to the whole argument | Flexible
 
 ### Always Predict
 
@@ -181,7 +182,7 @@ Practice Tip: Write down your predictions.
 {% capture details %}
 When you practice writing down your predictions you force yourself to make predicting into a habit. Although by test day you'll want to predict in your head.
 
-Writing down your predictions also helps improve your review. When you review a written prediction, you can more honestly compare that prediction to both the correct answer and the argument. 
+Writing down your predictions also helps improve your review. When you review a written prediction, you can more honestly compare that prediction to both the correct answer and the argument.
 
 - When your prediction was way off, you can look back to the argument to see if there were any important clues you missed. Then you can make a flashcard that will help you notice similar clues in similar situations.
 - Or your prediction might have been pretty close. That teaches you that you should trust yourself more and not let the answers control your thinking.
@@ -201,8 +202,9 @@ Option | When the answer is... | What to click
 **Select** | The least bad one left, or you love it | The button on the left side, which should turn green.
 
 There are also two non-useful things you can do:
+
 1. *Waffling* back and forth between answers without deciding; and
-2. Endlessly *staring* at the answers. 
+2. Endlessly *staring* at the answers.
 
 Waffling and staring are the two greatest wastes of time on the LSAT. Avoid them by decisively choosing to eliminate, defer, or select each answer after you read it once (or twice).
 

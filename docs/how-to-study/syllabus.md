@@ -1,24 +1,39 @@
-# Further Reading
+# Reading
 
-## On Learning and Thinking...
+The LSAT is a demanding text.
+To get more comfortable with demanding texts, read more.
 
-Dweck, [Mindset](https://bookshop.org/books/mindset-the-new-psychology-of-success/9780345472328)
+This is a list of some demanding books I've enjoyed.
+
+!!! question "What books do you love?"
+
+    Is there an insightful or challenging book that helped make the LSAT feel easier for you?
+
+    Add it it the comments below!
+
+## Books about thinking, writing, and learning
+
+Taleb, [Antifragile](https://bookshop.org/books/antifragile-things-that-gain-from-disorder-9780812979688/9780812979688)
+
+McGilchrist, [The Master and His Emissary](https://bookshop.org/p/books/the-master-and-his-emissary-the-divided-brain-and-the-making-of-the-western-world-expanded-iain-mcgilchrist/8525336)
+
+Hofstadter, [Gödel, Escher, Bach](https://bookshop.org/p/books/godel-escher-bach-an-eternal-golden-braid-douglas-r-hofstadter/12389924)
+
+Klinkenborg, [Several short sentences about writing](https://bookshop.org/books/several-short-sentences-about-writing/9780307279415)
+
+Garner, [Legal Writing in Plain English](https://bookshop.org/books/legal-writing-in-plain-english-a-text-with-exercises/9780226283937)
+
+Alder and Van Doren, [How to Read a Book](https://bookshop.org/p/books/how-to-read-a-book-revised-and-updated-mortimer-j-adler/1408400?ean=9780671212094)
 
 Goleman, [Focus](https://bookshop.org/books/focus-the-hidden-driver-of-excellence/9780062114969)
 
-Taleb, [Black Swan](https://bookshop.org/books/the-black-swan-second-edition-the-impact-of-the-highly-improbable-with-a-new-section-on-robustness-and-fragility/9780812973815) and [Antifragile](https://bookshop.org/books/antifragile-things-that-gain-from-disorder-9780812979688/9780812979688)
-
-Epstein, [Range](https://bookshop.org/books/range-why-generalists-triumph-in-a-specialized-world/9780735214484)
-
-McGilchrist, [The Master and His Emmisary](https://bookshop.org/p/books/the-master-and-his-emissary-the-divided-brain-and-the-making-of-the-western-world-expanded-iain-mcgilchrist/8525336)
-
-## Challenging reads that might make the Reading section feel easier and even give you a philosophical edge in law school...
+## Legal writing and philosophy to give you a conceptual edge in law school
 
 the [Law and Political Economy Project Blog](https://lpeproject.org/blog/)
 
 the Law Journal of whatever school you most want to attend
 
-Graeber and Wengrow, [the Dawn of Everything](https://bookshop.org/books/the-dawn-of-everything-a-new-history-of-humanity-9781250858801/9781250858801)
+Graeber and Wengrow, [the Dawn of Everything](https://bookshop.org/p/books/the-dawn-of-everything-a-new-history-of-humanity-david-graeber/15873078) (or [check out my notes on *Dawn*](https://gpdetc.org/Dawn-of-Somethings/))
 
 Graeber, [Debt](https://bookshop.org/books/debt-the-first-5-000-years-updated-and-expanded/9781612194196)
 
@@ -50,18 +65,18 @@ Lowenhaupt Tsing, [The Mushroom at the End of the World](https://bookshop.org/bo
 
 Wittgenstein, [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
 
-## On Reading and Writing...
+## Science stuff
 
-Klinkenborg, [Several short sentences about writing](https://bookshop.org/books/several-short-sentences-about-writing/9780307279415)
+[Science](https://www.science.org/)
 
-Garner, [Legal Writing in Plain English](https://bookshop.org/books/legal-writing-in-plain-english-a-text-with-exercises/9780226283937)
+[Nature](https://www.nature.com/)
 
-Alder and Van Doren, [How to Read a Book](https://bookshop.org/p/books/how-to-read-a-book-revised-and-updated-mortimer-j-adler/1408400?ean=9780671212094)
+[Quanta](https://www.quantamagazine.org/)
 
-## Suggested by Students...
+## Suggestions from students
 
 Deringer, [Calculated Values](https://bookshop.org/books/calculated-values-finance-politics-and-the-quantitative-age/9780674971875)
 
-???+ note
+!!! note
 
-    Whenever possible, links above go to Bookshop.org because it seems the most ethical option for buying books online. I do not track your clicks or earn any affiliate fees. For works in the public domain, links go to the free ebook at Project Gutenberg.
+    Whenever possible, links above go to <https://bookshop.org> because it seems the most ethical option for buying books online. I do not track your clicks or earn any affiliate fees. For works in the public domain, links go to the free ebook at Project Gutenberg.
