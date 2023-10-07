@@ -89,7 +89,13 @@ Skills only work in certain contexts.
 
 !!! tip
 
-    Keep track of your intentions and iterations in a skill log.
+    Keep track of your intentions and iterations in a skill log:
+
+    intention | date | iteration
+    -- | -- | --
+    predict | yesterday | don't predict on games
+    predict | today | write predict down
+    predict | tomorrow | check written predict against each answer
 
 ## Puzzle Practice
 
@@ -132,11 +138,15 @@ It shows you what you haven't really learned yet.
 
 !!! tip
 
-    Keep track of your errors with a log that includes the question number and why you got it wrong.
+    Keep track of the lessons you learn from errors and difficult questions with an error log:
 
-[skill-log]: https://docs.google.com/spreadsheets/d/17pfaZKuh-WrdRIKbhcuz17VNSAdzCIfxiiJ3pHvW1SU/edit?usp=sharing
-[error-log]: https://docs.google.com/spreadsheets/d/1VBhXPtwHjHgDDWN45Q-tLcxIShE0buY_qryx5V6ioOQ/edit?usp=sharing
-[patterns]: ../resources/patterns.html
-[flashcards]: ../resources.html#anki
-[checklists]: ../resources.html/checklists.html
+    date | question | lesson
+    -- | -- | --
+    yesterday | PT1 S1 Q1 | read the question first
+    yesterday | PT1 S1 Q2 | learn the Reasoning question families
+    yesterday | PT1 S1 Q3 | same
+
+[patterns]: /how-to-study/patterns/
+[flashcards]: /how-to-study/flash-cards
+[checklists]: /how-to-study/checklists/
 [count-up]: /time/laps/
