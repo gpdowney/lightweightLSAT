@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Pattern Recognition
 
 A quick sports aside:

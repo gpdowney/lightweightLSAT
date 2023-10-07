@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Checklists
 
 !!! quote "The value of checklists"

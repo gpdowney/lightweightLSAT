@@ -1,10 +1,10 @@
 ---
-title: Selected Skills
-cat: fundamentals
-permalink: fundamentals/skills
+comments: true
 ---
 
-If you want to preview *the Lightweight LSAT* system, here a few techniques to try out that might help you get an extra point on your next test.
+# Preview of the the lightweight LSAT
+
+If you want to preview *the lightweight LSAT* system, here a few techniques to try out that might help you get an extra point on your next test.
 
 ## Do the IF questions before the WHICH questions in the Games section
 

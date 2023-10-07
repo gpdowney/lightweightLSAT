@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Law School Admissions
 
 !!! warning

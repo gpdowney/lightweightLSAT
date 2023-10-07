@@ -1,12 +1,12 @@
 # thank you, contributors
 
-Huge thanks to 
+Huge thanks to
 
-- Brian, 
-- Aneliese, 
-- Manav, 
+- Brian,
+- Aneliese,
+- Manav,
 - Kelsey, and
-- Jubilee the Dog 
+- Jubilee the Dog
 
 for helping to make and improve this site.
 

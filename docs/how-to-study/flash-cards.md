@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Flash Cards
 
 Make flashcards to capture all of your *knowledge*, aka anything you learn *about the test*.

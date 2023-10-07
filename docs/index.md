@@ -1,6 +1,10 @@
+---
+comments: true
+---
+
 # Welcome to the lightweight LSAT
 
-*The lightweight LSAT* is a simple, proven, and completely free guide to the Law School Admissions Test. 
+*The lightweight LSAT* is a simple, proven, and completely free guide to the Law School Admissions Test.
 
 ## Who is this for?
 
@@ -24,7 +28,7 @@ The main difference will be how quickly, reliably, and flexibly you can implemen
 
 ## What are the core skills required for success on the LSAT?
 
-The are 3 primary tasks the LSAT asks you to do. 
+The are 3 primary tasks the LSAT asks you to do.
 One for each of the three sections:
 
 Test Section | Primarily tests your ability to...
@@ -43,7 +47,7 @@ Reasoning | *break down arguments by clarifying fact from conclusion*
 
 ## How is the LSAT different than other tests?
 
-Most other standardized tests and college exams are *tests of knowledge*. 
+Most other standardized tests and college exams are *tests of knowledge*.
 In contrast, the LSAT is a *test of skill*.
 
 If you study for the LSAT in the same way you studied for the SAT or History 101, you're going to have a bad time.
@@ -81,7 +85,7 @@ On a skill-based test, like the LSAT, you have to dig deeper to learn a useful l
 Most other test prep systems aim to be complete.
 They offer advice for handling every possible situation that has ever happened on an LSAT.
 
-In constrast, *the lightweight LSAT* aims to offer you with knowledge you can *actually use* on test day. 
+In contrast, *the lightweight LSAT* aims to offer you with knowledge you can *actually use* on test day.
 It describes the patterns that frequently repeat on the LSAT, so that you can quickly recognize those common patterns and process them with the least brain-power possible.
 And it offers a set of flexible tools that you can adapt to any situation, using your full brain-power.
 
@@ -93,7 +97,7 @@ And it offers a set of flexible tools that you can adapt to any situation, using
     Once you figure out the type, you immediately know how to start drawing it.
     This pattern recognition is key to speed on the test.
 
-    But there are certianly more than 8 game types.
+    But there are more than 8 game types.
     So why not memorize every type of games?
     Because the weirder types are usually remixes of the 8 most common types.
     This means you can adapt skills from easy games for the hard ones.
@@ -115,7 +119,7 @@ So you *must* adapt my system for yourself.
 
 Here are some tips for making the *The lightweight LSAT* work for you:
 
-- Test out my ideas. Experiment on real LSAT questions. 
+- Test out my ideas. Experiment on real LSAT questions.
 - Start small. Try out new skills one question at a time and without a timer.
 - Try to make your process perfect on easy questions. Then gradually add in difficulty and time pressure.
 - Don't expect ease or perfect *results* at first. Over time, expect to get smoother, more confident, and more reliable.
@@ -127,8 +131,8 @@ Here are some tips for making the *The lightweight LSAT* work for you:
 
 ## How can you contribute?
 
-This is version 0.6 of *the lightweight LSAT*. 
-In other words, this is still a rough draft. 
+This is version 0.6 of *the lightweight LSAT*.
+In other words, this is still a rough draft.
 
 There's considerable room for improvement.
 And *your feedback is essential* for improving this for other studiers!

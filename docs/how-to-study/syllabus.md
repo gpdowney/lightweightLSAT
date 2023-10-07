@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Reading
 
 The LSAT is a demanding text.

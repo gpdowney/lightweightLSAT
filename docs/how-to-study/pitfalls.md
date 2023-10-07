@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Mistakes students make
 
 This page describes mistakes that students often make when studying for the LSAT.

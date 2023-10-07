@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # LSAT Basics
 
 ## The LSAT consists of 3 graded sections
@@ -113,7 +117,7 @@ There is some speculation that schools will check your Writing section against y
 !!! warning
 
     I'm not an admissions officer. 
-    If you are an admissions officer, please let me know if I'm wrong about this.
+    If you are an admissions officer, please let me know if I'm wrong about the unimportance of the Writing section.
 
 For more information, check out [what the LSAC has to say about the writing sample][writing].
 

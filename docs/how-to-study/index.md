@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Skill, Puzzle, and Race Practice
 
 When you study for the LSAT, you should be doing *1 (and only 1)* of these 3 types of practice:
@@ -15,14 +19,14 @@ When you study for the LSAT, you should be doing *1 (and only 1)* of these 3 typ
 
 !!! abstract "Puzzle practice is unhurried and curious"
 
-    **Unhurried** doesn't mean slow or plodding, but rather you take time to deeply understand the question.
+    **Unhurried** doesn't mean slow or plodding, but rather that you take time to deeply understand the question.
 
     **Curious** means that you leave expectations behind and allow the question to show you what matters.
 
 !!! abstract "Race practice is timed and limited"
 
     **Timed** doesn't mean rushed. 
-    It can involve a [count-up timer][/time/laps/] instead of a count-down timer.
+    It can involve a [count-up timer][count-up] instead of a count-down timer.
     
     **Limited** means that you pick a certain number of questions or a certain amount of time, and stop when you reach that limit.
 
@@ -135,3 +139,4 @@ It shows you what you haven't really learned yet.
 [patterns]: ../resources/patterns.html
 [flashcards]: ../resources.html#anki
 [checklists]: ../resources.html/checklists.html
+[count-up]: /time/laps/
