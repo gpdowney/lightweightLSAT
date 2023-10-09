@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Perfection is a risky plan for test day
 
 ## Perfection is fragile and expensive

@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Alternatives to *the lightweight LSAT*
 
 *The lightweight LSAT* isn't for everyone and it doesn't cover everything. Here are some resources you can use to supplement or replace *the lightweight LSAT*:

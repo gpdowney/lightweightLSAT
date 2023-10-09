@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Skill, Puzzle, and Race Practice
 
 When you study for the LSAT, you should be doing *1 (and only 1)* of these 3 types of practice:

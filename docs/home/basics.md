@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # LSAT Basics
 
 ## The LSAT consists of 3 graded sections

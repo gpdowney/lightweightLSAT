@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Study Timeline
 
 This page suggests a general schedule for your studying.

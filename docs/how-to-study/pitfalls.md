@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Pitfalls
 
 This page describes mistakes that students often make when studying for the LSAT.

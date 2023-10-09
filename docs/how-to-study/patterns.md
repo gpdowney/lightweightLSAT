@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Pattern Recognition
 
 !!! quote "A quick sports aside"

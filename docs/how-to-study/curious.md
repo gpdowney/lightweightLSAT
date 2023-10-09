@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Get Curious
 
 The LSAT can feel cold and calculating. It often rewards robotic thinking. But it also rewards curiosity.

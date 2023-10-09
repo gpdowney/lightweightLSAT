@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Scoring the LSAT
 
 ## Don't pay so much attention to your score
