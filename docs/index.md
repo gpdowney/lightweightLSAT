@@ -6,10 +6,6 @@ comments: true
 
 *The lightweight LSAT* is a simple, proven, and completely free guide to the Law School Admissions Test.
 
-!!! info "Disclaimer"
-
-    The LSAC does not approve of this website. And I do not approve of the LSAC.
-
 ## Who is this guide for?
 
 *The lightweight LSAT* is primarily designed for students who feel stuck or frustrated with their current approach.
@@ -116,6 +112,10 @@ And it offers a set of flexible tools that you can adapt to any situation, using
 *The lightweight LSAT* reflects the lessons I learned in over 5 years of teaching the LSAT for a luxury test prep company.
 
 *The lightweight LSAT* describes the actual system I used to score a 180 (a perfect score) on the March 2020 LSAT.
+
+!!! info "Disclaimer"
+
+    The LSAC does not approve of this website. And I do not approve of the LSAC.
 
 ## How do you get the most out of *the lightweight LSAT*?
 
