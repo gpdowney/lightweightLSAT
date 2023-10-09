@@ -44,11 +44,11 @@ You can't go back to the last section or ahead to the next section.
 
 If you qualify for an accommodation you may receive more time per section.
 
-[Request an accommodation directly from the LSAC (external link)][accommodation].
+[Request an accommodation directly from the LSAC (external link)][accommodation]{:target="_blank"}.
 
 ## You will take the test digitally and at home
 
-The LSAC offers several free practice tests on [LawHub (external link)][lawhub] you can try out.
+The LSAC offers several free practice tests on [LawHub (external link)][lawhub]{:target="_blank"} you can try out.
 You can use these to get a baseline score and try out the interface.
 
 !!! tip
@@ -57,7 +57,7 @@ You can use these to get a baseline score and try out the interface.
 
 On test day, you will be subject to a number of security-theater-requirements.
 These include limits on what can be in the room, special software you need to install, the size of your earbuds, your camera angle, how many pieces of paper you can have, etc...
-To protect yourself and prevent disruptions, learn those rules by [reading the official list of requirements (external link)][requirements].
+To protect yourself and prevent disruptions, learn those rules by [reading the official list of requirements (external link)][requirements]{:target="_blank"}.
 
 There will also be a proctor watching you the entire time.
 The proctor will have the power to control your computer.
@@ -71,7 +71,7 @@ The proctor will have the power to control your computer.
     
     [Report problems with proctors or the test experience to the LSAC directly][feedback].
 
-If you have any questions about test logistics, [contact the LSAC directly (external link)][contact].
+If you have any questions about test logistics, [contact the LSAC directly (external link)][contact]{:target="_blank"}.
 Their site is often confusing, but always correct.
 Other students and test prep companies can be helpful translators, but always verify with the LSAC.
 Don't be afraid to hound the LSAC for information you need.
@@ -120,7 +120,7 @@ There is some speculation that schools will check your Writing section against y
     I'm not an admissions officer. 
     If you are an admissions officer, please let me know if I'm wrong about the unimportance of the Writing section.
 
-For more information, [read the LSAC's official advice about the writing sample (external link)][writing].
+For more information, [read the LSAC's official advice about the writing sample (external link)][writing]{:target="_blank"}.
 
 [lawhub]: https://lawhub.lsac.org/
 [timing]: /time/

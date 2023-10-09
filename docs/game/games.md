@@ -119,7 +119,7 @@ Question | Use hypos to...
 
 For most people, this approach will feel unnatural. By default, most people do not use hypos properly.
 
-- If you think you aren't most people, [try this quiz from the New York Times (external link)][nyt].
+- If you think you aren't most people, [try this quiz from the New York Times (external link)][nyt]{:target="_blank"}.
 - If you think you are most people, [this story about swans might help][swan].
 
 ## Timing Suggestions

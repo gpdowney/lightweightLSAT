@@ -10,7 +10,7 @@ This page suggests a general schedule for your studying.
 
 Take a diagnostic test to see where you're at. Do it timed, but without pressure or expectations.
 
-!!! info "[LawHub offers a few free practice tests (external link)][lawhub]"
+!!! info "[LawHub offers a few free practice tests (external link)][lawhub]{:target="_blank"}"
 
 ## Beginning
 
@@ -119,7 +119,7 @@ You may get (relatively) easy gains at first, just by getting familiar with the 
     
     If you get up off your **absolutely dead ass** and do something, then anything you do is going to get the blame for the improvement.
 
-    source: [YouTube (external link)][novice]
+    source: [YouTube (external link)][novice]{:target="_blank"}
 
 You can still celebrate your early gains.
 Those are real points you've earned.

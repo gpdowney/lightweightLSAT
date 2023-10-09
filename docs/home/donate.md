@@ -10,7 +10,7 @@ But if you wish to support this project, you can donate a few dollars.
 
 ## Pay what you can
 
-Buy me some [$5 coffees :coffee: (external link)][coffee] or [$25 pizzas :pizza: (external link)][pizza] to show your love for the site!
+Buy me some [$5 coffees :coffee: (external link)][coffee]{:target="_blank"} or [$25 pizzas :pizza: (external link)][pizza]{:target="_blank"} to show your love for the site!
 
 ## You're a patron, not a customer
 

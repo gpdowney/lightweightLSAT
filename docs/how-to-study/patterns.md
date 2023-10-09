@@ -14,7 +14,7 @@ comments: true
     
     Top baseball players (1) see through the pitcher's attempts at disguise to (2) notice the tiny clues that actually matter, and (3) immediately know what those clues mean about where the ball is going.
 
-    Source: paraphrased from [David Epstein's *the Sports Gene* (external link)][epstein]
+    Source: paraphrased from [David Epstein's *the Sports Gene* (external link)][epstein]{:target="_blank"}
 
 Pattern recognition is the key to speed on the LSAT.
 To recognize patterns you must...

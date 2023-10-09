@@ -20,9 +20,9 @@ I strongly recommend using **Anki**, an open-source program that helps you revie
 
 !!! tip "Anki tips"
 
-    [This comic (external link)][comic] explains how spaced repetition systems like Anki help you learn better.
+    [This comic (external link)][comic]{:target="_blank"} explains how spaced repetition systems like Anki help you learn better.
 
-    [This video (external link)][anki-settings] can help you figure out what the Anki settings do and how you can adjust them. The [official manual (external link)][anki-manual] is also useful.
+    [This video (external link)][anki-settings]{:target="_blank"} can help you figure out what the Anki settings do and how you can adjust them. The [official manual (external link)][anki-manual]{:target="_blank"} is also useful.
 
 ## Memorize everything you can
 
