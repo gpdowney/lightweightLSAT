@@ -1,11 +1,11 @@
 # Games Overview
 
-Each Games section contains 4 little logic puzzles.
-
 !!! note "Terminology note"
 
     The LSAT calls this section "Analytic Reasoning."
     Most others call it "Logic Games" or "LG."
+
+Each Games section contains 4 little logic puzzles.
 
 Some people think that you have to be some kind of logic wizard to solve games.
 They stare at the game, hoping for magical insights to suddenly appear.

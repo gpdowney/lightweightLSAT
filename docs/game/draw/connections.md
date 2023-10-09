@@ -33,7 +33,7 @@ Look for connections if you see
     Rule 2: `B` is before `C` == `B-C`
 
     If you try to connect them, like `(A_B)-C` then you will lose important information.
-    This wrongly makes it seem like `C` can't come in between `A` and `B`
+    `(A_B)-C` wrongly makes it seem like `C` can't come in between `A` and `B`
 
 The benefits of making connections are clear to most students. The additional information gained can help you answer questions more quickly.
 
@@ -41,14 +41,15 @@ The benefits of making connections are clear to most students. The additional in
 
     When you see connections it feels wonderful, but you can't force it.
     
-    [Wizards] can easily waste time starting or become overly dependant on connections.
+    Connections are rarely revealed by staring harder at the game. 
 
-!!! tip "Start making hypos to reveal connections"
+!!! tip "Make hypos to reveal connections"
 
     Personally, I see connections more easily once I start playing the game.
-    As I make a few hypotheticals, just following the rules one-by-one, I can start to notice that some of the rules tend to go together or that some limit the game more than others.
+    
+    As I answer a few questions and make a few hypos, I notice that some of the rules tend to go together or that some rules limit the game more than others.
 
-!!! note "Flashcard Suggestions"
+!!! note "Suggested flashcards"
 
     When you spot a connection, especially if you missed that connection at first, consider making a [flashcard] to help you spot that type of connection more easily next time.
 
