@@ -10,6 +10,15 @@ You'll be asked 4 to 8 questions per text.
 
 These Readings primarily test your ability to discern what the author of the text is arguing for and against.
 
+??? bug "4 myths of Reading"
+
+    Myth | **Reality**
+    -- | --
+    You can't improve at Reading | *You can improve if you read differently*
+    You should speed read | *You should move at your own pace*
+    You need to memorize *what* the text said | *You need to understand **why** the author wrote it*
+    You must take notes | *You must pause and re-read*
+
 The optimal way to approach the Reading section is to...
 
 1. invest in understanding the text, so that you can
