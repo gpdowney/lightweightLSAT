@@ -6,9 +6,9 @@
 
 The site is built with MkDocs using the Material theme to take advantage of built-in features like search, comments, and navigation.
 
-Outside of comments, (via github discussions), and donations (via stripe), the site collects no user data.
+Outside of comments (via github discussions) and donations (via stripe) the site collects no user data.
 
-Here on GitHub, you'll find the actual content of the site in the markdown files under "docs."
+Here on GitHub you'll find the actual content of the site in the markdown files in the "docs" folder.
 
 ## Collaboration invited
 
