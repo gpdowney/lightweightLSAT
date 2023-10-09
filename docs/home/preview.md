@@ -36,7 +36,7 @@ Top scorers are just better at noticing when they lose focus and then bringing t
 
 [Read more about effective resets.][reset]
 
-[qs]: /game/questions/
-[strong]: /read/crush/#extreme-answers
-[boil]: /reason/boil/
-[reset]: /time/resets/
+[qs]: ../game/points/questions.md
+[strong]: ../read/crush.md#extreme-answers
+[boil]: ../reason/boil.md
+[reset]: ../time/slow.md#reset

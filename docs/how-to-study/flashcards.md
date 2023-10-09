@@ -16,13 +16,13 @@ Make flashcards to capture all of your *knowledge*, aka anything you learn *abou
 
 I strongly recommend using **Anki**, an open-source program that helps you review your flashcards efficiently using spaced repetition.
 
-!!! info "[Get Anki (external link)][anki]"
+!!! info "[Get Anki][anki]"
 
 !!! tip "Anki tips"
 
-    [This comic (external link)][comic]{:target="_blank"} explains how spaced repetition systems like Anki help you learn better.
+    [This comic ][comic]{:target="_blank"} explains how spaced repetition systems like Anki help you learn better.
 
-    [This video (external link)][anki-settings]{:target="_blank"} can help you figure out what the Anki settings do and how you can adjust them. The [official manual (external link)][anki-manual]{:target="_blank"} is also useful.
+    [This video ][anki-settings]{:target="_blank"} can help you figure out what the Anki settings do and how you can adjust them. The [official manual ][anki-manual]{:target="_blank"} is also useful.
 
 ## Memorize everything you can
 

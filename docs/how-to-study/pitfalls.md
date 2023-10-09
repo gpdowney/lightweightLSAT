@@ -155,7 +155,7 @@ When you never practice at speed, you can avoid failure, but you also avoid test
 Instead of treating the timer as a judge, try to treat it as a teacher.
 Use the timer to gather information about yourself:
 
-- Use the objectivity of a *count-up* timer to see where you spend time.
+- Use the objectivity of a [*count-up* timer][count-up] to see where you spend time.
 - Use the pressure of a *count-down* timer to reveal what part of your process isn't yet smooth and automatic.
 
 !!! info "[More timing advice][timing]"
@@ -243,3 +243,4 @@ Rest is crucial to success on the LSAT, and not just the night before.
 [timing]: ../time/time.md
 [puzzle]: practice.md#puzzle-practice
 [flashcard]: flashcards.md
+[count-up]: ../time/speed.md#count-up

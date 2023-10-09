@@ -1,41 +1,61 @@
-# Timing Strategy
+# General Timing Strategy
 
-Managing your time is one of the biggest challenges of the LSAT.
+Timing is the biggest challenge of the LSAT.
 
-You only have 35 minutes to complete each of the sections. 
+Many students could get a top score if there wasn't a time limit.
+And then it wouldn't be a top score anymore.
 
-- In the Games section, that gives you about 8:30 for each of the 4 games.
-- In the Reading section, that also gives you about 8:30 for each of the 4 texts.
-- In the Reasoning section, that gives you about 1:20 for each of the ~25 questions.
+To finish the test on time, you need to be able to...
 
-[Find more detailed timing benchmarks here.][1]
+1. [Speed up][speed], and
+2. [Slow down][slow].
 
-Benchmarks can be useful. But they're also somewhat misleading, because difficulty can vary dramatically from question to question.
+Mastering both speeding up and slowing down allows you to remain in the driver's seat as you take the test.
+If you don't drive, the LSAT will, and the LSAT is a terrible driver.
 
-{% capture summary %}
-Note: Difficulty is *subjective*.
-{% endcapture %}
-{% capture details %}
-If you thought something on the LSAT was hard, then it was hard. 
+## Difficulty is subjective
+
+If you thought something on the LSAT was hard, then it was hard.
 
 If you thought it was easy, then it was easy.
-{% endcapture %}
-{% include details.html %}
 
-This variable difficulty means that sometimes you'll need to go much slower and sometimes you'll need to go much faster. So the key to mastering timing is **knowing when to speed up and when to slow down.**
+## Suggested Timing Benchmarks
 
-Often, when we think of timing, we only think of practicing the first aspect, learning how to speed up. But the second aspect, learning how to slow down, can be even more important.
+In general, gain time on easier questions, so that you can take your time on harder questions.
 
-Primary Skills | Secondary Skills | Practice Ideas
--- | --
-[Speed Up][2] | Memorization; <br>Timer as Teacher; <br>Confidence. | Skip Hard Questions; <br>Crush Easy Questions; <br>[Laps]; <br>[Sprints].
-[Slow Down][3] | Invest in Understanding; Trust Your Confusion; Adapt to Silly Mistakes. | [Resets].
+!!! warning
 
-Mastering both skills allows you to remain in the driver's seat as you take the LSAT. This is important because if you don't drive, the LSAT will, and the LSAT is a terrible driver.
+    These benchmarks are what I would use on test day to achieve a top score.
+    *Adapt them to your needs.*
 
-[1]: /time/benchmarks/
-[2]: /time/speed_up/
-[3]: /time/slow_down/
-[Resets]: /time/resets/
-[Laps]: /time/laps/
-[Sprints]: /time/sprints/
+    If you aren't close to your test day score goals, modify these targets by giving yourself more time or doing fewer questions.
+    If you're doing [skill] practice, give yourself much more time to do even fewer questions.
+
+=== "Easiest game"
+    Total: 6:00
+
+    Scan, Draw, Check: 1:00
+
+    Each question: 0:30 +/- 0:15
+
+=== "Hardest game"
+    Total: 12:00
+
+    Scan, Draw, Check: 3:00
+
+    Each question: 1:00
+
+=== "Reading"
+    Text: 3:00 +/- 0:30
+
+    Each question: 0:45 +/- 0:15
+
+=== "Reasoning"
+    First 15 questions: 10:00
+
+    Last 10 questions: 15:00
+
+    Revisit flagged question: 10:00
+
+[speed]: speed.md
+[slow]: slow.md

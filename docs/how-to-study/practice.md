@@ -149,4 +149,4 @@ It shows you what you haven't really learned yet.
 [patterns]: patterns.md
 [flashcards]: flashcards.md
 [checklists]: checklists.md
-[count-up]: ../time/laps.md
+[count-up]: ../time/speed.md#count-up

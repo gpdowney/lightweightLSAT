@@ -19,7 +19,7 @@ Because the LSAT is different than other tests, you have to study for it differe
 
 It does not provide practice questions.
 You'll need access to official LSAT questions to practice on.
-I recommend [LawHub (external link)][lawhub]{:target="_blank"}.
+I recommend [LawHub][lawhub]{:target="_blank"}.
 And you'll need to be self-directed in that practice.
 
 I generally assume you are aiming for a top score, like over 165.
@@ -148,7 +148,7 @@ Please share your confusions and questions in the comments section at the bottom
 I'd also love to hear about your successes.
 If something here helps you get better at the LSAT or makes studying less unpleasant, share that too!
 
-If you're feeling especially thankful, you can buy me a [coffee :coffee: (external link)][coffee]{:target="_blank"}.
+If you're feeling especially thankful, you can buy me a [coffee :coffee:][coffee]{:target="_blank"}.
 
 If you'd like help more substantially, email <volunteer@lightweightlsat.com> with some ideas about how you'd like to get involved.
 

@@ -249,7 +249,7 @@ There's always the chance that you misread an answer, but usually struggling on 
 [break]: reason/break.html
 [boil]: reason/boil.html
 [answers]: reason/answers.html
-[reset]: ../time/resets.html
+[Reset]: ../time/slow.md#reset
 [revise]: reason/flag.html
 [family]: reason/job.html#family
 [predict]: reason/predict.html

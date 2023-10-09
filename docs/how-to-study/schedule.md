@@ -10,32 +10,26 @@ This page suggests a general schedule for your studying.
 
 Take a diagnostic test to see where you're at. Do it timed, but without pressure or expectations.
 
-!!! info "[LawHub offers a few free practice tests (external link)][lawhub]{:target="_blank"}"
+!!! info "[LawHub offers a few free practice tests][lawhub]{:target="_blank"}"
 
 ## Beginning
 
 You need learn how to approach the parts of the test that don't already make intuitive sense to you.
 
-You can discover some of this through puzzle practice. In other words, you can figure out how the test works by figuring out why the wrong answers were wrong and the right answer was right.
-
-!!! info "[Learn about puzzle practice][puzzle]"
+You can discover some of this through [puzzle practice][puzzle]. In other words, you can figure out how the test works by figuring out why the wrong answers were wrong and the right answer was right.
 
 You can also learn from the experience of others. That means reading about the test. When reading about the test, here or elsewhere, you can make that time more valuable by reading actively, meaning:
 
 - Stopping frequently to try to apply what you've learned; and
 - Making your own checklists and flashcards.
 
-Your skill practice, in these early stages, should be slow and deliberate.
+Your [skill practice][skill], in these early stages, should be slow and deliberate.
 
 When you practice new skills, do questions 1 at a time. Doing individual questions will allow you to observe yourself more accurately, and to iterate more frequently.
 
 And don't be afraid to write down instructions to yourself. Referring to instructions as you go will help ensure you build good habits. And having those intentions written down will help you stay accountable to your initial goals.
 
-!!! info "[Learn about skill practice][skill]"
-
-If you do any race practice, try a count-up timer instead of a count-down timer.
-
-!!! info "[Read about using a count-up timer][timer]"
+If you do any race practice, try a [count-up timer][count-up] instead of a count-down timer.
 
 ## Middle
 
@@ -51,9 +45,7 @@ It can be tempting, in this middle phase, to focus exclusively on your weak area
 
 ## End
 
-As you get closer to test day, your practice should become mostly race practice.
-
-!!! info "[Learn more about race practice][race]"
+As you get closer to test day, your practice should become mostly [race practice][race].
 
 As you begin to do full practice tests, you'll need to pick goals that can work on a full test. I like to pick 1 skill and 1 timing benchmark per section. For example:
 
@@ -119,7 +111,7 @@ You may get (relatively) easy gains at first, just by getting familiar with the 
     
     If you get up off your **absolutely dead ass** and do something, then anything you do is going to get the blame for the improvement.
 
-    source: [YouTube (external link)][novice]{:target="_blank"}
+    source: [YouTube][novice]{:target="_blank"}
 
 You can still celebrate your early gains.
 Those are real points you've earned.
@@ -132,7 +124,7 @@ It's easier to improve on a lower base score.
 
 For example, going from a 150 to 151 is easier than going from 160 to 161.
 
-[Learn more about the curve and why every extra point is harder to earn.][curve]
+!!! info "[Learn more about the curve and why every extra point is harder to earn][curve]"
 
 ### 3\. Your background
 
@@ -151,12 +143,12 @@ Your might need more time to rewire your brain if...
 [curve]: scores.md#the-curve
 [novice]: https://www.youtube.com/watch?v=a9-a_8hC17M
 [quantity]: pitfalls.md#pitfall-1-grinding-grind
-[timer]: ../time/laps.md
+[count-up]: ../time/speed.md#count-up
 [lawhub]: https://lawhub.lsac.org/
 [puzzle]: practice.md#puzzle-practice
 [skill]: practice.md#skill-practice
 [race]: practice.md#race-practice
-[sprint]: ../time/sprint.md
+[sprint]: ../time/speed.md#sprint
 [smooth]: ../game/points/prove-it.md#smoothly-make-hypos-by-following-the-overlapping-rules
 [reread]: ../read/pace.md
 [anchors]: ../reason/predict.md#anchor-in-understanding

@@ -38,13 +38,13 @@ Every word was included for a reason.
 Use your understanding of the author's purpose to contextualize the details.
 Use the *why* to understand the *whats*.
 
-## Some useful conflict clues
+## Some useful clues
 
 Clue | How to find it | What it shows
 -- | -- | --
-Thesis sentence | End of paragraph 1 / beginning of paragraph 2. | The author's overall purpose
-Pivots | "but", "yet", "however", "although" | Conflict / Thesis
-Topic sentences | First (or second) sentence in a paragraph | The purpose of that paragraph
+Thesis sentence | End of paragraph 1 / beginning of paragraph 2. | Overall purpose
+Pivots | "but", "yet", "however", "although" | Conflict
+Topic sentences | First (or second) sentence in a paragraph | Purpose of that paragraph
 Strong language | "must," "no," "cannot," "should," "always" | Importance / Opinion
 Repetition | similar words or ideas | Importance
 Questions | "?" | Conflict

@@ -6,7 +6,7 @@ Read all the Answers. But you don't have to read all of every Answer. As soon as
 
 When you find an Answer you like, you can be extra [skeptical][2] of the rest. (Maybe you could be that skeptical always?)
 
-When you get turned around by the Answers (this will happen), take a second to [Reset][3]. Remind yourself of your Job, Understanding, and/or Prediction.
+When you get turned around by the Answers (this will happen), take a second to [reset]. Remind yourself of your Job, Understanding, and/or Prediction.
 
 Generally, on Reasoning, you should Eliminate, Defer, and then Select.
 
@@ -53,4 +53,4 @@ As you practice, try to figure out what it would take to have more 1/2s and 5/6s
 
 [1]: ../resources/confuse.html#ruthless
 [2]: ../resources/confuse.html#skeptical
-[3]: ../time/resets.html
+[reset]: ../time/slow.md#reset

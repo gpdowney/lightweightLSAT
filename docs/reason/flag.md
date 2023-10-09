@@ -49,7 +49,7 @@ During Practice: Flag so you don't get stuck, especially if you're doing RACE pr
 
 Make sure to review all Flagged questions. Even if you got it right there's something you need to learn from it.
 
-## [Reset][2] after Flagging
+## [Reset] after Flagging
 
 If you decide to Move On, Reset so you don't carry this mistake into the next question.
 
@@ -64,5 +64,5 @@ Or it shows that you didn't trust yourself.
 It's better to make 5 eliminations than 3. At least then you're practicing trusting yourself. When you make 5 eliminations, at least you know something: you know that you don't know.
 
 [1]: time.html#subjective
-[2]: ../time/resets.html
+[Reset]: ../time/slow.md#reset
 [3]: ../resources/scores.html#average

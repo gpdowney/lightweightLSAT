@@ -35,6 +35,8 @@ For example, when you're confused, ask yourself:
 - Is this worth trying to understand? (If not, move on.)
 - Should I read the sentence again or should I look for context elsewhere? (Perhaps looking back at the topic sentence of the paragraph will help. Maybe there's a clarifying example or definition coming up next.)
 
+!!! info "[More on trusting your confusion][confuse]"
+
 ## Pause and re-read often, intentionally, and without judgment
 
 In Reading, you cannot merely look at the words on the page. You must also synthesize meaning. You must assess the claims being made.
@@ -61,4 +63,5 @@ If you feel overwhelmed or bewildered, you need more than a pause, you need a re
 
 !!! info "[More on resets][reset]"
 
-[reset]: ../time/resets.md
+[reset]: ../time/slow.md#reset
+[confuse]: ../time.md#trust-your-confusion

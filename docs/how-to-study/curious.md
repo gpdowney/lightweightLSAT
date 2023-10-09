@@ -15,7 +15,7 @@ When you're uncurious, the test becomes something that happens *to* you. When yo
 
 !!! quote "Curiosity is the antidote to confirmation bias"
 
-    [Dan Kahan's research (external link)][kahan] has shown that people tend to use new data to confirm their old beliefs.
+    [Dan Kahan's research ][kahan] has shown that people tend to use new data to confirm their old beliefs.
 
     For example, when you give research that shows humans are causing climate change to a climate change denier they tend to deny climate change more forcefully. 
 

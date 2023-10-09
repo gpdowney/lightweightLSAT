@@ -6,7 +6,7 @@ comments: true
 
 !!! quote "The value of checklists"
 
-    In [*The Checklist Manifesto* (external link)][Gawande]{:target="_blank"}, Atul Gawande relates a story about modern airplanes, which is also true about the LSAT.
+    In [*The Checklist Manifesto* ][Gawande]{:target="_blank"}, Atul Gawande relates a story about modern airplanes, which is also true about the LSAT.
 
     When airplanes were new, their pilots were Cowboys.
     They flew with intuition and guts.

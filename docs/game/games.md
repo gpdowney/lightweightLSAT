@@ -119,7 +119,7 @@ Question | Use hypos to...
 
 For most people, this approach will feel unnatural. By default, most people do not use hypos properly.
 
-- If you think you aren't most people, [try this quiz from the New York Times (external link)][nyt]{:target="_blank"}.
+- If you think you aren't most people, [try this quiz from the New York Times][nyt]{:target="_blank"}.
 - If you think you are most people, [this story about swans might help][swan].
 
 ## Timing Suggestions
@@ -128,13 +128,13 @@ At first don't worry about time.
 Time limits will create too much pressure when you're learning the basics.
 Initially, it's better to practice being methodical rather than fast.
 
-If anything, use a [count-up timer][countup] to get objective information about where you spend your time.
+If anything, use a [count-up timer][count-up] to get objective information about where you spend your time.
 
 On test day, aim to finish the easier two games in under 15:00 total, so you have 10:00 each for the harder two.
 
 !!! Practice Tip "Tip: Sprint!"
 
-    The best way I've found to improve my speed on games is [Sprint practice][sprints].
+    The best way I've found to improve my speed on games is [Sprint practice][sprint].
     In a sprint, I choose an easier game and try to finish in ~4:00 or less.
     If I fail, I try the same game (or an easier one) again.
 
@@ -158,7 +158,7 @@ Secondary Skills | double [checks] and checks-for, noticing [splits], noticing [
 [wiz]: wizards.md
 [question types]: points/questions.md
 [swan]: points/swan.md
-[countup]: ../time/laps.md
+[count-up]: ../time/speed.md#count-up
 [draw]: draw/draw.md
 [points]: points/prove-it.md
 [game types]: draw/types.md
@@ -172,5 +172,5 @@ Secondary Skills | double [checks] and checks-for, noticing [splits], noticing [
 [connections]: draw/connections.md
 [nyt]: https://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving/
 [splits]: draw/splits.md
-[sprints]: ../time/sprint.md
+[sprint]: ../time/speed.md#sprint
 [scan]: draw/draw.md#step-1-scan-scan
