@@ -1,106 +1,109 @@
-# Big, Medium, And Small Questions
+# BIG, MEDIUM, and SMALL Questions
 
-The questions in the Reading section fall on a spectrum from big to small. 
+The questions in the Reading section fall on a spectrum from SMALL to MEDIUM to BIG.
+The size of a question determines how your approach.
 
-How you approach a question depends on its size.
+!!! abstract "[BIG questions](#big)"
 
-[Big questions](#big) are about the whole text. On big questions, ground yourself in your understanding of the text before you look at the answers. This anchor prediction should help you *eliminate* the 4 confused answers.
+    BIGs about the whole text. On BIGs, ground yourself in your overall understanding of the text then ruthlessly eliminate the answers that are inconsistent with that understanding.
 
-[Small questions](#small) are about details. On small questions, quickly scan the answers and then go back to the text to *prove* the 1 correct answer.
+!!! abstract "[SMALL questions](#small)"
 
-[Medium questions](#medium) ask you to go beyond the text. Medium questions are sometimes bigger and sometimes smaller. Approach medium-big questions more like big questions, and medium-small questions more like small questions.
+    SMALLs are about specific points. Go back to the text to find proof for the correct answer.
 
-## Big Questions
+!!! abstract "[MEDIUM questions](#medium)"
 
-Big questions are about the entire text.
+    MEDIUMs ask you to go beyond the text. Combine the strategies from BIGs and SMALLs. Approach MEDIUM-big by predicting first then going back, and MEDIUM-small by going back to generate a prediction.
 
-    "Which of the following most accurately expresses the main point of the text?"
+## BIG Questions {#big}
 
-or
+BIG questions are about the entire text.
 
-    "What is the purpose of the third paragraph?"
-
-You should always have a prediction for big questions. Your prediction should allow you to confidently eliminate the 4 wrong answers.
-
-You may or may not like the correct answer. 
-- If you like one answer, then you can be more skeptical with the rest, but you should still read them. 
-- If you don't like any answer, you can't be picky, choose the **least bad** answer.
-
-{% capture summary %}
-Review Tip...
-{% endcapture %}
-
-{% capture details %}
-If your prediction wasn't useful on a Big question, then you either...
-1. Didn't understand the text's nuanced conflict; or
-1. Didn't approach the answers with enough skepticism/confidence.
-{% endcapture %}
-
-{% include details.html %}
-
-## Small Questions {#small}
-
-Small questions are about specific details. The correct answer will be supported by a quote from the text.
-
-    "According to the text, which of the following is true of Wittgenstein's philosophy?"
+> Which of the following most accurately expresses the main point of the text?
 
 or
 
-    "The text contains information sufficient to answer which of the following questions?"
+> What is the purpose of the third paragraph?
 
-On small questions, scan the answers first. Then go back to the text to find support for the answer you like. 
+On BIG questions...
 
-Once you confirm an answer in the text, choose it and move on.
+1. Make a prediction.
+2. Confidently eliminate wrong answers.
 
-{% capture summary %}
-Review Tip...
-{% endcapture %}
+!!! warning "You may not like the correct answer"
 
-{% capture details %}
-If you didn't know *where* to go back, then your read of the text was too abstract or high-level.
+    - Correct answers on BIGs often rephrase the author's point. You want an "idea match" not a "word match"
+    - If you like an answer, you can be extra skeptical with the rest, but you should still read every answer.
+    - If you don't like any answer, you can't be picky, **choose the least bad answer**.
 
-If you didn't need to go back, you might have been reading the text too much for detail (or you got lucky, or you have a very good memory).
-{% endcapture %}
+!!! tip "Review tip"
 
-{% include details.html %}
+    If your prediction wasn't useful on a BIG question, that could mean you...
 
-## Medium Questions {#medium}
+    1. Didn't understand the text's nuanced conflict; or
+    1. Didn't approach the answers with enough skepticism/confidence.
 
-Medium questions take you beyond the text. Correct answers will include new ideas and words, but they will always be grounded in the text.
+## SMALL Questions {#small}
 
-Medium questions tend to be the hardest questions in the section. You can make them easier by eliminating strong answers. Strong answers are unlikely to be supported by the text.
+SMALL questions are about details.
+The correct answer will be directly supported by a line from the text.
 
-{% capture summary %}
-Practice Ideas...
-{% endcapture %}
-
-{% capture details %}
-1. Deliberately look for strength in the text and answers.
-1. *Only* use strength to make eliminations (maybe don't even read the text).
-{% endcapture %}
-
-{% include details.html %}
-
-### Medium-Big Questions
-
-Medium-big questions go to the author's core belief.
-
-    "Which of the following would the author be least likely to agree with?"
+> According to the text, which of the following is true of Wittgenstein's philosophy?
 
 or
 
-    "Which of the following would most strengthen the author's position?"
+> The text contains information sufficient to answer which of the following questions?
 
-**On medium-large questions...first eliminate based on your overall understanding of the text, then go back to prove the answer you like.**
+On SMALL questions...
 
-### Medium-Small Questions
+1. Scan the answers.
+1. Then go back to the text to find support for the answer you like.
+1. If you find support, pick that answer and move on.
+1. If you don't find support, try another answer.
 
-Medium-small questions might be about the purposes of a detail or make an analogy to a specific example.
+!!! tip "Review tip"
 
-    "Why did the author mention the Teapot Dome Scandal?"
+    If you didn't know *where* to go back, then your read of the text was too abstract.
+    
+    If you didn't need to go back, you might have been reading the text too much for detail (or you got lucky, or you have a very good memory).
+
+## MEDIUM Questions {#medium}
+
+MEDIUM questions take you beyond the text. Correct answers can include new ideas, but they will always be grounded in the text.
+
+MEDIUM questions tend to be the hardest. You can make them easier by eliminating strong answers. Strong answers are unlikely to be supported by nuanced texts.
+
+!!! Tip "Suggestions for skill practice"
+
+    1. Deliberately look for strength in the text and answers.
+    1. *Only* use strength to make eliminations (maybe don't even read the text).
+
+### MEDIUM-big Questions
+
+MEDIUM-big questions go to the author's core belief.
+
+> Which of the following would the author be least likely to agree with?
 
 or
 
-    "Which of the following is most analogous to the relationship between European and African sparrows as described in the text?"
+> Which of the following would most strengthen the author's position?
 
-**On medium-small questions, first go back in order to make a specific prediction, and then eliminate answers that don't match.**
+On MEDIUM-big questions...
+
+1. eliminate based on your overall understanding of the text, then
+2. go back to prove the answer you like.
+
+### MEDIUM-small Questions
+
+MEDIUM-small questions might be about the purposes of a detail or ask you to analogize from an example.
+
+> Why did the author mention the Teapot Dome Scandal?
+
+or
+
+> Which of the following is most analogous to the relationship between European and African sparrows as described in the text?
+
+On MEDIUM-small questions...
+
+1. go back in order to make a specific prediction, and then
+2. eliminate answers that don't match.

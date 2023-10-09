@@ -4,81 +4,88 @@
 
     The LSAT calls this section "Reading Comprehension", which many shorten to "RC."
 
+Each Reading section contains 4 short texts.
+Each text is about 3 paragraphs long.
+You'll be asked 4 to 8 questions per text.
+
+These Readings primarily test your ability to discern what the author of the text is arguing for and against.
+
 The optimal way to approach the Reading section is to...
 
 1. invest in understanding the text, so that you can
 2. crush the questions.
 
-## Invest In The Text
+!!! tip "Timing suggestion"
 
-Investing in the text means moving at the pace of your understanding. 
+    You'll have time to spare if you average 3:00 per text (+/- 0:30) and 0:45 per question (+/- 0:15).
+
+    (3:00 x 4 texts) + (0:45 x 27 questions) = 32:15
+
+## Invest in the text
+
+Investing in the text means moving at the pace of your understanding.
 
 That doesn't mean you need to read slowly. Instead, you should read at an adaptive speed. Slow down when you need to, speed up when you can.
 
-[Learn how to pace yourself adaptively][pace].
+!!! info "[Learn how to pace yourself adaptively][pace]"
 
-You invest time in the text in order to grasp what the author is for and against. This conflict may be summed up in a single thesis sentence, or it may be more subtle. 
+You invest time in the text in order to grasp the central conflict. This conflict may be summed up in a single thesis sentence, or it may be more subtle.
 
 The conflict will be nuanced. It's not enough to see that author is against something; you must also understand **why** they're opposed.
 
-[Learn how to find the nuanced conflict][conflict].
+!!! info "[Learn how to find the nuanced conflict][conflict]"
 
-## Crush The Questions
+## Crush the questions
 
 After investing time to understand the text, you can gain time by crushing the questions.
 
-You crush the questions by
+You crush the questions by...
 
-1. using your understanding and 
+1. trusting your understanding and
 2. moving confidently through the answers.
 
-### Use Your Understanding
+### Trust your understanding
 
-How you use your understanding changes depending on the question's size. 
+How you use your understanding depends on the question.
+Reading questions range in size from **big** to **small**.
 
-In the Reading section, questions range from **big**, which ask about the main conflict, to **small**, which ask about specific points.
-
-Size | Method
--- | --
-[Big][big]: <br>asks about the main conflict. | **Eliminate** answers that are inconsistent with the main point.
-[Small][small]: <br> asks about specific points. | Know where to go back in the text to **prove** the correct answer.
-[Medium][medium]: <br> goes beyond the text. | Do both: predict to eliminate *and* go back to prove.
+Size | Asks about | Method
+-- | -- | --
+[Big][big] | the main conflict | **Eliminate** answers that are inconsistent with the main point.
+[Small][small] | specific points | Know where to go back in the text to **prove** the correct answer.
+[Medium][medium] | goes beyond the text | Do both: predict to eliminate *and* go back to prove.
 
 ### Move Confidently Through The Answers
 
-In order to move quickly, you must trust your understanding. You cannot trust the answers because the answers are designed to [confuse][confuse] you.
+Confidence is key to speed because the answers are designed to [confuse][confuse] you.
+To avoid getting turned around by the answers, be decisive:
 
-To avoid getting turned around by the answers, be decisive. For each answer, decide to either eliminate, defer, or select it.
-
+Decision | How to make it...
+-- | --
 [Eliminate] **poisoned** answers | Find the one poisonous word that makes it wrong.
 [Defer] on **weirdo** answers | Don't spend time on confusing answers or answers you aren't sure about until you need to.
-[Select] the **best** answer | You might love the best answer, or it might just be the least bad option.
-
-## Timing
-
-You will finish with time to spare if you spend:
-
-- 3:00 on the text (+/- 0:30); and
-- 0:45 per question (+/- 0:15).
-- (3:00 x 4 texts) + (0:45 x 27 questions) = 32:15
+[Select] the **best** answer | The best answer might be an answer you love but more often it will be the least bad option.
 
 ## Useful Reading Skills
 
-Primary Skills | Secondary Skills
--- | --
-[Adaptive speed][pace] | Move at your own pace<br> Use feedback loops<br> Trust your confusion<br> Pause<br> Reread
-[Read for the nuanced conflict][conflict] | Find the thesis sentence<br> Notice pivot words<br> Ask "Why?" instead of "What?"<br> Be sensitive to tone
-Predict to eliminate on [big] questions]<br> Go back to prove on [small] questions<br> Do both on [medium] questions | Pause to predict<br> Scan answers before going back<br> Eliminate too strong answers
-Confidently [crush] answers | Find specific poison<br> Extract the essence of the answer<br> Pick the least bad answer<br> Don't agonize<br>  Let easy stuff be easy
+Primary Skills | [Adaptive speed][pace] | [Read for the nuanced conflict][conflict] | Confidently [crush] the questions
+-- | -- |  -- | --
+Secondary Skills | Move at your own pace | Find the thesis sentence | Eliminate for a reason
+-- | Use [feedback loops][feedback] | Notice pivot words | Pause to predict
+-- | Trust your [confusion] | Ask "Why?" instead of "What?" | Scan answers before going back
+-- | Pause and [reread] | Be sensitive to tone | Pick the least bad answer
 
-[pace]: read/pace.html
-[conflict]: read/conflict.html
-[size]: read/size.html
-[crush]: read/crush.html
-[confuse]: read/confuse.html
-[big]: read/size.html#big
-[small]: read/size.html#small
-[medium]: read/size.html#medium
-[Eliminate]: read/crush.html#eliminate
-[Defer]: read/crush.html#defer
-[Select]: read/crush.html#select
+[pace]: pace.md
+[conflict]: conflict.md
+[size]: size.md
+[crush]: crush.md
+[confuse]: confuse.md
+[big]: size.md#big
+[small]: size.md#small
+[medium]: size.md#medium
+[Eliminate]: crush.md#eliminate
+[Defer]: crush.md#defer
+[Select]: crush.md#select
+[feedback]: pace.md#use-feedback-loops
+[confusion]: pace.md#trust-your-confusion
+[reread]: pace.md#pause-and-re-read-often-intentionally-and-without-judgment

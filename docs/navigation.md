@@ -33,7 +33,6 @@
     - [Nuanced Conflict](read/conflict.md)
     - [Big, Medium, and Small Questions](read/size.md)
     - [Crush the Answers](read/crush.md)
-    - [Swipe Left](read/swipe.md)
     - ["I Don't Remember That"](read/remember.md)
 - [Reasoning](reason/reason.md)
     - [Know Your Job](reason/job.md)
