@@ -46,7 +46,7 @@ But these should probably be secondary considerations that help you decide betwe
 
     The top schools have more resources, so they can offer more generous scholarships and loan repayment programs.
 
-    Yale, for example, doesn't offer merit scholarships, but they do have a [loan repayment program][coap] that's based only on your income.
+    Yale, for example, doesn't offer merit scholarships, but they do have a [loan repayment program (external link)][coap] that's based only on your income.
     You could, hypothetically, be a part-time LSAT tutor / yoga instructor after going to YLS and still qualify for loan repayment assistance.
     Other schools condition assistance on being a lawyer, or even a public interest lawyer.
 
@@ -75,9 +75,9 @@ Too many law schools will be happy to take your money even if they can't help yo
 
 !!! note
 
-    The [official rankings come from U.S. News and World Report][usnews].
+    The [official rankings come from U.S. News and World Report (external link)][usnews].
 
-    More data on individual schools, including admits' median LSAT score and the percentage of graduates with jobs, is [available from the American Bar Association][aba].
+    More data on individual schools, including admits' median LSAT score and the percentage of graduates with jobs, is [available from the American Bar Association (external link)][aba].
 
 ## LSAT + GPA are the most important admissions factors, but they aren't the only factors
 

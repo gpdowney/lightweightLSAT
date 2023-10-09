@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# Preview of the the lightweight LSAT
+# Preview of the *the lightweight LSAT*
 
 If you want to preview *the lightweight LSAT* system, here a few techniques to try out that might help you get an extra point on your next test.
 

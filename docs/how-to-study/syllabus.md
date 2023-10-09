@@ -15,6 +15,12 @@ This is a list of some demanding books I've enjoyed.
 
     Add it it the comments below!
 
+??? note "Note on the links below"
+
+    Whenever possible, I've linked to <https://bookshop.org> because it seems the most ethical option for buying books online.
+    I do not track your clicks or earn any affiliate fees.
+    For works in the public domain, links go to the free ebook from Project Gutenberg.
+
 ## Books about thinking, writing, and learning
 
 Taleb, [Antifragile](https://bookshop.org/books/antifragile-things-that-gain-from-disorder-9780812979688/9780812979688)
@@ -69,7 +75,7 @@ Lowenhaupt Tsing, [The Mushroom at the End of the World](https://bookshop.org/bo
 
 Wittgenstein, [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/5740)
 
-## Science stuff
+## Science journals
 
 [Science](https://www.science.org/)
 
@@ -80,7 +86,3 @@ Wittgenstein, [Tractatus Logico-Philosophicus](https://www.gutenberg.org/ebooks/
 ## Suggestions from students
 
 Deringer, [Calculated Values](https://bookshop.org/books/calculated-values-finance-politics-and-the-quantitative-age/9780674971875)
-
-!!! note
-
-    Whenever possible, links above go to <https://bookshop.org> because it seems the most ethical option for buying books online. I do not track your clicks or earn any affiliate fees. For works in the public domain, links go to the free ebook at Project Gutenberg.

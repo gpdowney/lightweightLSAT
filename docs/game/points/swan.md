@@ -12,7 +12,7 @@ Every day, the Duke looks over their estate. When they get to the lagoon they st
 
 This morning, based on their observations, the Duke has formulated a new law of nature:
 
-    Swans must be white.
+> Swans must be white.
 
 The Duke comes to you, their trusty advisor, and asks: "Should I reveal my discovery to the world?"
 
@@ -24,31 +24,23 @@ But if you're going to be *critical* you must also be careful and respectful. Yo
 
 Now, think fast! There is a correct move here.
 
-{% capture summary %}
-Would it be wiser for you to take a *critical* or an *agreeable* stance?
-{% endcapture %}
-{% capture details %}
-Be *critical*!
-{% endcapture %}
-{% include details.html %}
+??? question "Would it be wiser for you to take a *critical* or an *agreeable* stance?"
+
+    Be *critical*!
 
 Consider: what would it take to prove the Duke correct?
 
-To be *agreeable*, you'd need to definitively prove that all swans are white. To do that, you'd have find every single swan that has or will ever exist. On that journey, you might find millions of white swans. But as soon as you find a single black swan, it's all over. One non-white swan and the Duke is proved wrong. So, in this case, being *agreeable* sets you up for hard work that was unlikely to succeed. 
+To be *agreeable*, you'd need to definitively prove that all swans are white. To do that, you'd have find every single swan that has or will ever exist. On that journey, you might find millions of white swans. But as soon as you find a single black swan, it's all over. One non-white swan and the Duke is proved wrong. So, in this case, being *agreeable* sets you up for hard work that was unlikely to succeed.
 
-It would have been more efficient if you'd went looking for a black swan (or a grey or blue or pink swan or any non-white swan). You should have been *critical*. 
+It would have been more efficient if you'd went looking for a black swan (or a grey or blue or pink swan or any non-white swan). You should have been *critical*.
 
 Later that afternoon, chastened by your wise disproof of their absolute claim about swans, the Duke proposes a new law of nature based on their lagoon observations:
-    
-    Ducks can be green.
 
-{% capture summary %}
-Again, think fast! Should you be *critical* or *agreeable*?
-{% endcapture %}
-{% capture details %}
-Be *agreeable*!
-{% endcapture %}
-{% include details.html %}
+> Ducks can be green.
+
+??? question "Again, think fast! Should you be *critical* or *agreeable*?"
+
+    Be *agreeable*!
 
 Perhaps you thought this time the Duke was trying to make a fool out of you, to see if you'd agree to a ridiculous claim. You've seen brown ducks, but green ones?? Being *critical* worked well last time. Why not try again?
 
@@ -68,34 +60,18 @@ When the Duke says something COULD BE the case, it's easier to be *agreeable*.
 
 Quiz yourself. What should you do when...
 
-{% capture summary %}
-*They say it MUST BE TRUE that swans are white?*
-{% endcapture %}
-{% capture details %}
-*Disprove them by finding a non-white swan.*
-{% endcapture %}
-{% include details.html %}
+??? question "They say it MUST BE TRUE that swans are white?"
 
-{% capture summary %}
-*They say it COULD BE FALSE that ducks are brown?*
-{% endcapture %}
-{% capture details %}
-*Find a non-brown duck to prove them correct.*
-{% endcapture %}
-{% include details.html %}
+    *Disprove them by finding a non-white swan.*
 
-{% capture summary %}
-*They say it MUST BE FALSE that swans are black?*
-{% endcapture %}
-{% capture details %}
-*Disprove them by finding a black swan.*
-{% endcapture %}
-{% include details.html %}
+??? question "They say it COULD BE FALSE that ducks are brown?"
 
-{% capture summary %}
-*They say it COULD BE TRUE that ducks are green?*
-{% endcapture %}
-{% capture details %}
-*Find a green duck to prove them correct.*
-{% endcapture %}
-{% include details.html %}
+    *Find a non-brown duck to prove them correct.*
+
+??? question "They say it MUST BE FALSE that swans are black?"
+
+    *Disprove them by finding a black swan.*
+
+??? question "They say it COULD BE TRUE that ducks are green?"
+
+    *Find a green duck to prove them correct.*

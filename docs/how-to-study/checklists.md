@@ -6,7 +6,7 @@ comments: true
 
 !!! quote "The value of checklists"
 
-    In [*The Checklist Manifesto*][Gawande], Atul Gawande relates a story about modern airplanes, which is also true about the LSAT.
+    In [*The Checklist Manifesto* (external link)][Gawande], Atul Gawande relates a story about modern airplanes, which is also true about the LSAT.
 
     When airplanes were new, their pilots were Cowboys.
     They flew with intuition and guts.
@@ -90,7 +90,7 @@ You can make checklists for either of two purposes:
     adapted from [this page on the Reasoning section][reason]
 
 [Gawande]: http://atulgawande.com/book/the-checklist-manifesto/
-[easy-list]: /game/questions/
-[draw]: /game/visualize/
-[read]: /read/size/
-[reason]: /reason/
+[easy-list]: ../game/points/questions.md
+[draw]: ../game/draw/draw.md
+[read]: ../read/size.md
+[reason]: ../reason/reason.md

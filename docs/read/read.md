@@ -1,4 +1,8 @@
-# the Reading Section
+# Reading Overview
+
+!!! note "Terminology note"
+
+    The LSAT calls this section "Reading Comprehension", which many shorten to "RC."
 
 The optimal way to approach the Reading section is to...
 

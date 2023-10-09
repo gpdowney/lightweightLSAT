@@ -12,14 +12,16 @@ comments: true
 
 When you take the LSAT, these sections may appear in any order.
 
-### There will be an ungraded 4th section
+### There will be an 4th "experimental" section that is ungraded
 
-This "experimental section" could be a Games, Reading, or Reasoning section.
+This experimental section could be any of the 3: Games, Reading, or Reasoning.
 
-You will not know which one is ungraded.
+You will not know which section ungraded.
 
-(And don't bother trying to figure out which is which on test day.
-Trying will just psych you out.)
+!!! failure "Don't psych yourself out guessing which is which"
+
+    Don't bother trying to figure out which section is the "experimental" one on test day.
+    Guessing is, at best. a distraction.
 
 ## You have 35:00 to complete each section
 
@@ -29,7 +31,7 @@ For Reasoning, this gives you an average of **1:20** per question.
 
 Do not always aim for the average.
 
-[Read more about timing.][timing]
+!!! info "[More info about timing][timing]"
 
 ### Breaks
 
@@ -42,21 +44,20 @@ You can't go back to the last section or ahead to the next section.
 
 If you qualify for an accommodation you may receive more time per section.
 
-[Request an accommodation directly from the LSAC.][accommodation]
+[Request an accommodation directly from the LSAC (external link)][accommodation].
 
 ## You will take the test digitally and at home
 
-The LSAC offers several free practice tests on LawHub you can try out.
+The LSAC offers several free practice tests on [LawHub (external link)][lawhub] you can try out.
 You can use these to get a baseline score and try out the interface.
-[You can access LawHub here.][lawhub]
 
 !!! tip
 
-    If you can't afford to pay $100 for the full version of LawHub, [you can request free access from the LSAC][https://www.lsac.org/lsat/lsat-dates-deadlines-score-release-dates/lsat-cas-fees/fee-waivers-lsat-credential-assembly].
+    If you can't afford to pay $100 for the full version of LawHub, [you can request free access from the LSAC][waiver].
 
 On test day, you will be subject to a number of security-theater-requirements.
 These include limits on what can be in the room, special software you need to install, the size of your earbuds, your camera angle, how many pieces of paper you can have, etc...
-To protect yourself and prevent disruptions, learn those rules by [reading the official list of requirements on the LSAC's site][requirements].
+To protect yourself and prevent disruptions, learn those rules by [reading the official list of requirements (external link)][requirements].
 
 There will also be a proctor watching you the entire time.
 The proctor will have the power to control your computer.
@@ -68,9 +69,9 @@ The proctor will have the power to control your computer.
 
     Expect something bad to happen so you don't get thrown off on test day.
     
-    [Report problems with proctors or the test experience to the LSAC directly](https://www.lsac.org/lsat/taking-lsat/lsat-test-day-complaints-and-feedback).
+    [Report problems with proctors or the test experience to the LSAC directly][feedback].
 
-If you have any questions about test logistics, [contact the LSAC directly][contact]
+If you have any questions about test logistics, [contact the LSAC directly (external link)][contact].
 Their site is often confusing, but always correct.
 Other students and test prep companies can be helpful translators, but always verify with the LSAC.
 Don't be afraid to hound the LSAC for information you need.
@@ -89,7 +90,7 @@ Your scaled score can range from 120 to 180.
 - A 150 means you did better than 50% of test takers and worse than 50%.
 - A 180 means you did *better than* 99.9% of test takers.
 
-[I wrote more here about the curve and your score.][score]
+!!! info "[More info about the curve and how to think about your score][score]"
 
 ## The LSAT Writing
 
@@ -119,7 +120,7 @@ There is some speculation that schools will check your Writing section against y
     I'm not an admissions officer. 
     If you are an admissions officer, please let me know if I'm wrong about the unimportance of the Writing section.
 
-For more information, check out [what the LSAC has to say about the writing sample][writing].
+For more information, [read the LSAC's official advice about the writing sample (external link)][writing].
 
 [lawhub]: https://lawhub.lsac.org/
 [timing]: /time/
@@ -128,3 +129,5 @@ For more information, check out [what the LSAC has to say about the writing samp
 [contact]: https://www.lsac.org/contact
 [writing]: https://www.lsac.org/lsat/taking-lsat/about-lsat-writing
 [score]: /fundamentals/scores/
+[waiver]: https://www.lsac.org/lsat/lsat-dates-deadlines-score-release-dates/lsat-cas-fees/fee-waivers-lsat-credential-assembly
+[feedback]: https://www.lsac.org/lsat/taking-lsat/lsat-test-day-complaints-and-feedback

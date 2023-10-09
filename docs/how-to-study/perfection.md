@@ -42,5 +42,5 @@ If you don't know what your job is then either...
 
     Option 2: Think about what's similar. Maybe this reminds you of the [infer family from the Reasoning section][infer]. Try to adapt that approach for this different context. It will work, imperfectly.
 
-[qs]: (/read/size/)
-[infer]: (/reason/infer/)
+[qs]: ../read/size.md
+[infer]: ../reason/infer.md

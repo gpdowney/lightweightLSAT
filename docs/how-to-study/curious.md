@@ -15,7 +15,7 @@ When you're uncurious, the test becomes something that happens *to* you. When yo
 
 !!! quote "Curiosity is the antidote to confirmation bias"
 
-    [Dan Kahan's research][kahan] has shown that people tend to use new data to confirm their old beliefs.
+    [Dan Kahan's research (external link)][kahan] has shown that people tend to use new data to confirm their old beliefs.
 
     For example, when you give research that shows humans are causing climate change to a climate change denier they tend to deny climate change more forcefully. 
 
@@ -60,5 +60,5 @@ Being curious means...
 - spotting all the problems within an Reasoning argument, rather than getting wrapped up in a single solution.
 - trying to get something out of a boring Reading passage, which can help you stay engaged.
 
-[mustbe]: /game/use/
+[mustbe]: ../game/points/prove-it.md#use-hypos-effectively
 [kahan]: https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12396

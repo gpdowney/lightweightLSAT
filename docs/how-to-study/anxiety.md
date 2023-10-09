@@ -57,4 +57,4 @@ Try again when you can approach each question with confidence and integrity.
 
 Therapy helped me.
 
-[reset]: resets.html
+[reset]: ../time/resets.md

@@ -37,7 +37,7 @@ A 165 is supposed to mean you outperformed 90% of all Test-Takers, whether they 
 
 But the Tests are inconsistent. Some are easier and some are harder. So the LSAC uses a very complicated formula to transform Raw Scores into Scaled Scores.
 
-To convert your Raw Score into a Scaled Score, you must use a score conversion chart specific to that Test. Most of the [conversion charts are available from the LSAC directly][1].
+To convert your Raw Score into a Scaled Score, you must use a score conversion chart specific to that Test. Most of the [conversion charts are available from the LSAC (external link)][conversions].
 
 ## The Test Serves the Curve
 
@@ -78,4 +78,4 @@ This means:
 - You can celebrate a 1 point increase (your range went up to 159.5 to 164.5).
 - But don't sweat small swings (they might be meaningless).
 
-[1]: https://lsac.zendesk.com/hc/en-us/sections/360008008073-PrepTest-Conversion-Charts-
+[conversions]: https://lsac.zendesk.com/hc/en-us/sections/360008008073-PrepTest-Conversion-Charts-

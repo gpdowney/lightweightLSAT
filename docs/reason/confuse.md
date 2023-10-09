@@ -122,4 +122,4 @@ If there's 1 answer left, pick it and move on. If there are 2 answers left, pick
 [pace]: /read/pace/
 [predict]: /reason/predict/
 [flag]: /reason/flag/
-[games]: /game/points/
+[games]: /game/prove-it/

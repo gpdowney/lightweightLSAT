@@ -104,7 +104,7 @@ It's a chance to dig into all the nuances of the test.
 To notice all the tiny clues it gave you.
 To figure out what everything means.
 
-Puzzle practice is the best way to learn the test's [patterns].
+!!! info "Puzzle practice is the best way to learn the test's [patterns]"
 
 !!! example "Two variations on puzzle practice"
 
@@ -146,7 +146,7 @@ It shows you what you haven't really learned yet.
     yesterday | PT1 S1 Q2 | learn the Reasoning question families
     yesterday | PT1 S1 Q3 | same
 
-[patterns]: /how-to-study/patterns/
-[flashcards]: /how-to-study/flash-cards
-[checklists]: /how-to-study/checklists/
-[count-up]: /time/laps/
+[patterns]: patterns.md
+[flashcards]: flashcards.md
+[checklists]: checklists.md
+[count-up]: ../time/laps.md

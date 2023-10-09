@@ -2,7 +2,7 @@
 
 This page outlines a set of timing benchmarks you could use on test day. Some alternatives are suggested based on your score goals or the difficulty of the question.
 
-As with everything in *the Lightweight LSAT*, adapt this based on your current needs and capacity.
+As with everything in *the lightweight LSAT*, adapt this based on your current needs and capacity.
 
 And remember, "easier" and "hardier" is always subjective--what matters is what you think.
 

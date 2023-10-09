@@ -10,4 +10,6 @@ Huge thanks to
 
 for helping to make and improve this site.
 
-*Want to join this list? Send a note to <volunteer@lightweightlsat.com>*
+!!! question "Want to join this list?"
+
+    Send a note to <volunteer@lightweightlsat.com>

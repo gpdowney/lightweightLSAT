@@ -1,4 +1,8 @@
-# the Reasoning Section
+# Reasoning Overview
+
+!!! note "Terminology note"
+
+    The LSAT calls this section "Logical Reasoning," which many shorten to "LR."
 
 In the Reasoning section, each question is about a short argument.
 

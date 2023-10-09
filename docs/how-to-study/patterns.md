@@ -4,9 +4,7 @@ comments: true
 
 # Pattern Recognition
 
-A quick sports aside:
-
-!!! quote "paraphrased from [David Epstein's *the Sports Gene*][epstein]"
+!!! quote "A quick sports aside"
 
     It turns out that professional baseball players don't have faster than average reaction times. In fact, no human being has reflexes fast enough to respond to a 90 mph fastball. 
     
@@ -14,7 +12,9 @@ A quick sports aside:
     
     **Better hitters make better guesses.**
     
-    Top baseball players (1) see through the pitcher's attempts at disguise to (2) notice the tiny clues that actually matter, and (3) immediately know what those clues mean about where the ball is going. 
+    Top baseball players (1) see through the pitcher's attempts at disguise to (2) notice the tiny clues that actually matter, and (3) immediately know what those clues mean about where the ball is going.
+
+    Source: paraphrased from [David Epstein's *the Sports Gene* (external link)][epstein]
 
 Pattern recognition is the key to speed on the LSAT.
 To recognize patterns you must...
@@ -86,9 +86,9 @@ Open up space for curiosity by being generous with yourself.
 - Give yourself time. If you redo a question immediately, you'll probably do it the same (wrong) way again.
 - Give yourself credit. You can figure this test out. There's always one right answer and four wrong answers; and you're allowed to know which is which before you start puzzling.
 
-### Flash cards make pattern recognition automatic
+### flashcards make pattern recognition automatic
 
-[Flash cards] are the key to quickly recognizing those patterns in the future.
+[flashcards] are the key to quickly recognizing those patterns in the future.
 
 To be useful, pattern recognition needs to become automatic. It's not enough to learn the material, you also need to internalize it.
 
@@ -97,8 +97,8 @@ To be useful, pattern recognition needs to become automatic. It's not enough to 
     You cannot afford to waste time on test day half-remembering and re-discovering how to do everything.
 
 [epstein]: https://davidepstein.com/david-epstein-the-sports-gene/
-[puzzle]: /how-to-study/practice/#puzzle-mode
-[curious]: /how-to-study/curious/
-[Flash cards]: /how-to-study/flash-cards/
-[mprep]: (https://www.manhattanprep.com/lsat/forums/)
-[hacks]: (https://lsathacks.com/explanations/)
+[puzzle]: practice.md#puzzle-practice
+[curious]: curious.md
+[flashcards]: flashcards.md
+[mprep]: https://www.manhattanprep.com/lsat/forums/
+[hacks]: https://lsathacks.com/explanations/

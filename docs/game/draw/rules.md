@@ -20,7 +20,7 @@ Try to draw rules in a way that *makes visual sense* to **you** and *creates vis
 
 Generally, "visual sense" means:
 
-- Draw rules like they'll look on board. 
+- Draw rules like they'll look on board.
 - Draw a board that makes it easy to write the rules.
 - Put the rules and elements into the board whenever possible.
 
@@ -230,19 +230,19 @@ There are an equal number of Zebras and Yaks.
 
 ![Compared Numeric Drawing][15]
 
-[1]: ../assets/images/rules/placements.png
-[2]: ../assets/images/rules/equality.png
-[3]: ../assets/images/rules/chip.png
-[4]: ../assets/images/rules/sammie.png
-[5]: ../assets/images/rules/clouds.png
-[6]: ../assets/images/rules/variables.png
-[7]: ../assets/images/rules/conditional.png
-[8]: ../assets/images/rules/biconditional.png
-[9]: ../assets/images/rules/chains.png
-[10]: ../assets/images/rules/stacks.png
-[11]: ../assets/images/rules/push.png
-[12]: ../assets/images/rules/emptystack.png
-[13]: ../assets/images/rules/exact.png
-[14]: ../assets/images/rules/minmax.png
-[15]: ../assets/images/rules/moreless.png
-[16]: ../assets/images/rules/relative.png
+[1]: ../../assets/images/rules/placements.png
+[2]: ../../assets/images/rules/equality.png
+[3]: ../../assets/images/rules/chip.png
+[4]: ../../assets/images/rules/sammie.png
+[5]: ../../assets/images/rules/clouds.png
+[6]: ../../assets/images/rules/variables.png
+[7]: ../../assets/images/rules/conditional.png
+[8]: ../../assets/images/rules/biconditional.png
+[9]: ../../assets/images/rules/chains.png
+[10]: ../../assets/images/rules/stacks.png
+[11]: ../../assets/images/rules/push.png
+[12]: ../../assets/images/rules/emptystack.png
+[13]: ../../assets/images/rules/exact.png
+[14]: ../../assets/images/rules/minmax.png
+[15]: ../../assets/images/rules/moreless.png
+[16]: ../../assets/images/rules/relative.png

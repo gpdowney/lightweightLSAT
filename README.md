@@ -1,33 +1,19 @@
-# lightweight-lsat
+# lightweight-lsat v0.6
 
-The Complete Lightweight LSAT in HTML form.
+*The lightweight LSAT* is a simple, proven, and completely free guide to the LSAT.
 
-## This is Version 0.6
+## About the website
 
-Currently, the Lightweight LSAT provides a basic System for mastering the LSAT.
-
-It reflects my experience achieving a perfect score and 4 years of teaching the Test.
-
-Since the LSAT is not a knowledge test, but a skills test, the Lightweight System emphasizes intentional and iterative skill-building.
-
-The site purposefully leaves out many details and nuances in order to (a) focus on the essentials and (b) encourage users to teach themselves.
-
-Users are expected to revise, adapt, expand, and simplify the Lightweight LSAT system based on their experience on actual questions. Actual questions are not provided, as they are available from the LSAC directly.
-
-## Design
-
-The site's design is intentionally minimal. 
-It is built using MkDocs using the Material theme to take advatange of built-in features like search, comments, and navigation.
+The site is built with MkDocs using the Material theme to take advantage of built-in features like search, comments, and navigation.
 
 Outside of comments, (via github discussions), and donations (via stripe), the site collects no user data.
 
 Here on GitHub, you'll find the actual content of the site in the markdown files under "docs."
 
-## Collaboration
+## Collaboration invited
 
-Email feedback@lightweightlsat.com to share ideas or volunteer@lightweightlsat.com to offer to help. 
-
-Or use GitHub's discussions to note mistakes, confusing language, or other areas for improvement.
+Make comment on a page, a pull request, or email <feedback@lightweightlsat.com> to share ideas.
+Or email <volunteer@lightweightlsat.com> to offer more help.
 
 ## Areas for Future Growth
 
@@ -37,7 +23,7 @@ The site has not been shared widely.
 
 ### Videos
 
-I may develop videos to accompany the site and provide more walk-throughs.
+Videos could provide more in-depth walk-throughs for some of the concepts.
 
 ## Intellectual Property
 

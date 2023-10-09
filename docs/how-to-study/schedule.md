@@ -10,7 +10,7 @@ This page suggests a general schedule for your studying.
 
 Take a diagnostic test to see where you're at. Do it timed, but without pressure or expectations.
 
-[You can find a few free, official practice tests on LawHub.][lawhub]
+!!! info "[LawHub offers a few free practice tests (external link)][lawhub]"
 
 ## Beginning
 
@@ -18,7 +18,7 @@ You need learn how to approach the parts of the test that don't already make int
 
 You can discover some of this through puzzle practice. In other words, you can figure out how the test works by figuring out why the wrong answers were wrong and the right answer was right.
 
-[Learn about puzzle practice.][puzzle]
+!!! info "[Learn about puzzle practice][puzzle]"
 
 You can also learn from the experience of others. That means reading about the test. When reading about the test, here or elsewhere, you can make that time more valuable by reading actively, meaning:
 
@@ -31,11 +31,11 @@ When you practice new skills, do questions 1 at a time. Doing individual questio
 
 And don't be afraid to write down instructions to yourself. Referring to instructions as you go will help ensure you build good habits. And having those intentions written down will help you stay accountable to your initial goals.
 
-[Learn about skill practice.][skill]
+!!! info "[Learn about skill practice][skill]"
 
 If you do any race practice, try a count-up timer instead of a count-down timer.
 
-[Read about using a count-up timer.][timer]
+!!! info "[Read about using a count-up timer][timer]"
 
 ## Middle
 
@@ -53,15 +53,15 @@ It can be tempting, in this middle phase, to focus exclusively on your weak area
 
 As you get closer to test day, your practice should become mostly race practice.
 
-[Learn more about race practice.][race]
+!!! info "[Learn more about race practice][race]"
 
 As you begin to do full practice tests, you'll need to pick goals that can work on a full test. I like to pick 1 skill and 1 timing benchmark per section. For example:
 
 Section | Skill Goal | Timing Goal
 -- | -- | --
-Games | [Keep pencil moving](/game/points.html#be-smooth) | First 2 games in 15:00
-Reading | [Re-read when needed](/read/pace.html) | ~3:00 per Read
-Reasoning | [Anchor predictions for hard questions](/reason/predict.html#anchor) | First 12 questions in 10:00
+Games | [Keep pencil moving][smooth] | First 2 games in 15:00
+Reading | [Re-read when needed][reread] | ~3:00 per Read
+Reasoning | [Anchor predictions for hard questions][anchors] | First 12 questions in 10:00
 
 It can also be useful, to do **resistance training**. That is, make your practice harder than the actual test. Try, for example...
 
@@ -92,20 +92,20 @@ Adjust this to your needs, but generally follow the pattern of peak intensity in
 
     Don't take more tests than you can review. 
 
-## How Long To Study For The LSAT
+## How long to study for the LSAT
 
 How long you need to study will depend on how much growth you want.
 This chart gives very rough estimates:
 
 Score Growth | Estimated Time
 --|--
-+1 to +3 | 6 weeks
++1 to +3 | 6 weeks or less
 +4 to +6 | 12 weeks
-+7 or more | 16+ weeks
++7 or more | 16 weeks or more
 
-## Factors That Can Effect How Long It Will Take To Reach Your Goals
+## Factors that can effect how long it will take to reach your goals
 
-### 1. The Novice Effect
+### 1\. the novice effect
 
 You may get (relatively) easy gains at first, just by getting familiar with the test.
 
@@ -119,12 +119,14 @@ You may get (relatively) easy gains at first, just by getting familiar with the 
     
     If you get up off your **absolutely dead ass** and do something, then anything you do is going to get the blame for the improvement.
 
+    source: [YouTube (external link)][novice]
+
 You can still celebrate your early gains.
 Those are real points you've earned.
 
 But be mindful, just because some method works at first doesn't mean it's the best method.
 
-### 2. The Curve
+### 2\. The curve
 
 It's easier to improve on a lower base score.
 
@@ -132,7 +134,7 @@ For example, going from a 150 to 151 is easier than going from 160 to 161.
 
 [Learn more about the curve and why every extra point is harder to earn.][curve]
 
-### 3. Your Background
+### 3\. Your background
 
 You might be able to achieve your goals more quickly with small tweaks if you...
 
@@ -146,13 +148,15 @@ Your might need more time to rewire your brain if...
 - after you check the answer, you can't tell why the wrong answers are wrong; or
 - you want a big, 7+ score increase.
 
-[curve]: ../resources/scores.html#the-curve
+[curve]: scores.md#the-curve
 [novice]: https://www.youtube.com/watch?v=a9-a_8hC17M
-[quantity]: pitfalls.html#grind
+[quantity]: pitfalls.md#pitfall-1-grinding-grind
 [timer]: ../time/laps.md
-[error-log]: https://docs.google.com/spreadsheets/d/1VBhXPtwHjHgDDWN45Q-tLcxIShE0buY_qryx5V6ioOQ/edit?usp=sharing
 [lawhub]: https://lawhub.lsac.org/
-[puzzle]: practice.html#puzzle-practice
-[skill]: practice.html#skill-practice
-[race]: practice.html#race-practice
-[sprint]: /time/sprint/
+[puzzle]: practice.md#puzzle-practice
+[skill]: practice.md#skill-practice
+[race]: practice.md#race-practice
+[sprint]: ../time/sprint.md
+[smooth]: ../game/points/prove-it.md#smoothly-make-hypos-by-following-the-overlapping-rules
+[reread]: ../read/pace.md
+[anchors]: ../reason/predict.md#anchor-in-understanding
