@@ -64,4 +64,4 @@ If you feel overwhelmed or bewildered, you need more than a pause, you need a re
 !!! info "[More on resets][reset]"
 
 [reset]: ../time/slow.md#reset
-[confuse]: ../time.md#trust-your-confusion
+[confuse]: ../time/slow.md#trust-your-confusion

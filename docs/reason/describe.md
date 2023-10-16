@@ -60,7 +60,7 @@ Tricks:
 1. If the argument is bad (they may or may not tell you in advance), you only need to find an argument that is bad in the same way.
 
 [keywords]: break.md#3-structural-words
-[boil]: boil.html
-[conditional]: conditionals.html
-[mechanical]: predict.html
+[boil]: boil.md
+[conditional]: conditionals.md
+[mechanical]: predict.md
 [Count Count]: https://www.youtube.com/watch?v=fMrr6s8CSDo

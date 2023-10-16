@@ -88,7 +88,7 @@ Secondary Skills | Move at your own pace | Find the thesis sentence | Eliminate 
 [conflict]: conflict.md
 [size]: size.md
 [crush]: crush.md
-[confuse]: confuse.md
+[confuse]: ../reason/confuse.md
 [big]: size.md#big
 [small]: size.md#small
 [medium]: size.md#medium

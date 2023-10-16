@@ -281,7 +281,7 @@ Or if that all that text feels a bit bewildering, here's a more visual way to th
     - Tell yourself (or write down) what you want to (dis)prove on each question and each answer.
 
 [couldmust]: ../../assets/images/couldmust.png
-[questions]: questions.html
+[questions]: questions.md
 [swans]: swan.md
 [skill]: ../../how-to-study/practice.md#skill-practice
 [walkthru]: walkthrough.md

@@ -56,7 +56,7 @@ Here are the steps of skill practice:
 
     If I were working on the Reasoning section, I might...
 
-    1. Resolve to make [predictions](/reason/predict/).
+    1. Resolve to make [predictions][predict].
     1. Try an easy question.
     1. Maybe I get it right, but I didn't pause to make a prediction, I just rushed right to the answers. Drat!
     1. I revise my intention: to force me to make a prediction, I'll write it down before looking at the answers.
@@ -74,7 +74,7 @@ If you run into persistent difficulty, you might need to work on a different ski
 !!! example "Going back to basics"
 
     It's hard to make predictions when you're struggling just to understand the argument. 
-    If your predictions are way off, you might need to go back to [breaking down arguments](/reason/break/).
+    If your predictions are way off, you might need to go back to [breaking down arguments][break].
 
 Or you may be struggling to apply a skill on a question because that skill doesn't help on that type of question.
 Skills only work in certain contexts.
@@ -146,3 +146,5 @@ It shows you what you haven't really learned yet.
 [flashcards]: flashcards.md
 [checklists]: checklists.md
 [count-up]: ../time/speed.md#count-up
+[predict]: ../reason/predict.md
+[break]: ../reason/break.md
