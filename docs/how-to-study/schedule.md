@@ -140,7 +140,7 @@ Your might need more time to rewire your brain if...
 [novice]: https://www.youtube.com/watch?v=a9-a_8hC17M
 [quantity]: pitfalls.md#pitfall-1-grinding-grind
 [count-up]: ../time/speed.md#count-up
-[lawhub]: https://lawhub.lsac.org/
+[lawhub]: https://app.lawhub.org/library
 [puzzle]: practice.md#puzzle-practice
 [skill]: practice.md#skill-practice
 [race]: practice.md#race-practice

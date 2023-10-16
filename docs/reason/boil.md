@@ -1,165 +1,235 @@
 # Boil Down the Content of an Argument
 
-In addition to breaking an argument down into its structural components, you also need to boil down the content of an argument so you can understand it.
-
 When you boil down an argument you attempt to simplify it without changing the meaning. Simplifying has two advantages:
 
 1. The *act* of simplifying forces you to critically engage with the argument, and thus deepens your understanding.
 2. The *product* of simplifying, your simplification, will be easier to remember after you start reading the confusing answers.
 
-There are 3 main skills required to successfully boil down an argument. Each main skill is made up of several minors skills.
+To boil down an argument you...
 
-Main Skill | Minor Skills
--- | -- 
-[Translate bad writing](#translate-bad-writing) | [Find the verb][verbs]; <br> [Fill in pronouns](#fill-in-pronouns); <br> [Resolve negatives into positives](#resolve-negatives-into-positives).
-[Reduce to the essentials](#find-the-essential-terms) | Memorize important words; <br>Get rid of fluff; <br>Let the conclusion guide you.
-[Don't change meaning](#preserve-the-meaning) | Don't do it.
+1. [Find the verbs](#verbs)
+2. [Fill in pronouns](#pronouns)
+3. [Combine synonyms](#synonyms)
+4. [Turn negatives into positives](#synonyms)
 
-This page provides some advice for learning these skills.
+## Don't change the meaning
 
-## Translate bad writing
+When you boil down an argument, you risk *changing the meaning*.
+Avoiding changing meaning is easier said than done.
 
-The LSAT is full of bad writing. It's bad on purpose, in order to confuse you.
+!!! tip "Extracting > paraphrasing"
 
-Thankfully, the LSAT tends to reuse the same 3 bad writing tricks. You can learn to spot these tricks and see through them.
+    Try to keep the argument's own words whenever possible.
 
-### Find the Verb
+As you practice, you may notice there are some types of words that are important to not leave out.
+Here are some categories of words that matter to the LSAT:
 
-The LSAT hides verbs to obscure who is doing what. Rephrasing sentences so that they include a clear subject and verb is the single most important skill for making sense of the LSAT.
-
-[Learn how to find verbs.](verbs)
-
-### Fill in Pronouns
-
-You have to build up the argument before you boil it down.
-
-Slow down when you see pronouns. Get clear about what words like "it" and "this" and "their argument" refer to.
-
-### Resolve Negatives Into Positives
-
-Positives are easier to handle than negatives.
-
-Never don't resolve a double negative.
-
-## Find the Essential Terms
-
-It is difficult to describe, in the abstract, what's likely to be essential about an argument. Developing a sense of what matters to arguments on the LSAT is largely a matter of practice.
-
-{% capture summary %}
-Review Tip: Use the answers to teach you what's essential.
-{% endcapture %}
-{% capture details %}
-After you've checked the answer, you can use the right and wrong answers to teach you about what the LSAT thought was most important in the argument.
-
-The right answers *will always* provide clues about what mattered in the argument. (But they don't always address *everything* that matters.)
-
-The wrong answers *might* emphasize aspects of the argument that were meant to be distractions.
-{% endcapture %}
-{% include details.html %}
-
-### Important Words
-
-Category | Examples
+Category of important word | Examples
 -- | --
-Conditional logic | *if, all, none, only, unless*
-Normative claims | *should*
-Modifiers | *some, most, can, may, not*
-Causation clues | *causes, effects, leads to, contributes, benefits from*
-Conjunctions | *and, or, nor*
+Modifiers | `not`, `some`, `most`, `can`, `may`, `must`
+Normative claims | `should`
+Conditional logic | `if`, `all`, `none`, `only`, `unless`
+Causation clues | `effects`, `leads to`, `contributes to`, `benefits from`
+Conjunctions | `and`, `nor`, `or`
 
-### Fluff
+!!! tip "How to know if you changed the meaning?"
 
-Definitions
+    If the correct answer included ideas that you left out, then those ideas were likely important.
 
-Asides (aka parentheticals) 
+    Note 1: the words don't have to be the same, the ideas do.
 
-### Let the Conclusion Guide You
+    Note 2: the incorrect answers are not a useful guide.
+    Wrong answers are likely to mix up ideas and emphasize unimportant points.
 
-You can (sometimes) use the conclusion as a kind of filter.
+## Verbs
 
-For every other statement in the argument, you can ask: is this relevant to the conclusion. If it's irrelevant, then it might be unimportant.
+Verbs are crucial. Verbs are, literally, the action of a sentence.
 
-For example:
+??? quote "Annie Dillard ([as repeated by Alexander Chee](https://themorningnews.org/article/annie-dillard-and-the-writing-life)) on verbs"
 
-    You should vote for me. My opponent has bad ideas, and I'm qualified. Plus, the sky is blue.
+    You want vivid writing. How do we get vivid writing? Verbs, first. Precise verbs. All of the action on the page, everything that happens, happens in the verbs. The passive voice needs gerunds to make anything happen. But too many gerunds together on the page makes for tinnitus: Running, sitting, speaking, laughing, inginginginging. No. Don’t do it. The verbs tell a reader whether something happened once or continually, what is in motion, what is at rest. Gerunds are lazy, you don’t have to make a decision and soon, everything is happening at the same time, pell-mell, chaos. Don’t do that. Also, bad verb choices mean adverbs. More often than not, you don’t need them. Did he run quickly or did he sprint? Did he walk slowly or did he stroll or saunter?
 
-The conclusion `vote for me` shows us that 
+The LSAT hides verbs to obscure who is doing what.
+When you rephrase sentences so that they include a clear subject and verb, you help yourself make sense of the LSAT.
 
-## Preserve Meaning
+!!! info "Law School Relevance"
 
-In boiling down arguments, you'll need to find a delicate balance between simplicity and fidelity.
+    It's not just the LSAT, judges and legal academics also love to hide verbs.
+    Learning to spot verbs will help you see through legal writing.
+    And learning to use verbs will improve your own writing, which is how you'll be graded in law school.
 
-Imbalance | Risk
--- | --
-Over-simplifying | erasing distinctions; <br>missing details; <br>wasting time re-reading.
-Under-simplifying | getting lost in the answers; <br>memorizing words rather than struggling with meaning.
+Verbs hide in two related ways:
 
-Tips for finding the balance:
-- Steal key terms instead of paraphrasing them.
-- Don't add new ideas.
+1. passive voice and
+2. nominalizations.
 
-*Heuristics:* 
-1. You can tell you changed it too much, if the wrong answers appealed to you.
-2. You can tell you simplified too little, if the right answer didn't appeal to you.
+### Passive Voice
 
-## Examples
+You may have heard of the evils of passive voice.
+In a passive sentence, the subject and object of a sentence are switched.
 
-### Speeding
+!!! example
 
-    Speeding is against the law, but no one doesn't do it. Still, it's not safe. They shouldn't expect to not get pulled over when they're doing it.
+    > Y is loved by X.
 
-{% capture summary %}
-Translate (but don't simplify it yet):
-{% endcapture %}
-{% capture details %}
-    Speeding is illegal, but everyone speeds. Speeding is dangerous. So speeders should expect to get pulled over.
-{% endcapture %}
-{% include details.html %}
+    This is passive. 
+    Y, the object of X's love, is made into the subject of the sentence.
+    The sentence uses `is` to make `Y` into the subject of the sentence.
+    But `Y` is the object of the real verb, `love`.
 
-{% capture summary %}
-What would be an oversimplification?
-{% endcapture %}
-{% capture details %}
-Here's one example: `Don't speed.`
-{% endcapture %}
-{% include details.html %}
+    Notice, in the passive construction, the subject `X` could be left out, hiding/erasing them entirely:
 
-{% capture summary %}
-Can you reduce it without losing meaning?
-{% endcapture %}
-{% capture details %}
-Here's one option:
+    > Y is loved.
 
-    Speeding is dangerous, so expect to get pulled over.
-{% endcapture %}
-{% include details.html %}
+    Contrast with this active sentence, in which `X` acts on, `loves`, the object `Y`:
 
-### Breakfast
+    > X loves Y
 
-    Breakfast, compared to dinner and lunch, isn't likely to possess a considerable degree of nutritional value. It is worse to consume something without nutritional value than it is to not consume it. Ergo, most people would be no worse off if they failed to consume breakfast.
+Passive voice obscures who does what.
 
-{% capture summary %}
-Translate and simplify. Then compare your version to mine:
-{% endcapture %}
-{% capture details %}
-One way to translate and simplify:
+!!! example
 
-    Breakfast is less nutritious than dinner or lunch. It's better to eat nothing than to eat something with 0 nutrition. Therefore, you can skip breakfast.
-{% endcapture %}
-{% include details.html %}
+    Compare this passive sentence:
 
-### The Doctrine of Standing
+    > Verbs are often hidden on the LSAT.
 
-    There is a moral imperative for the establishment of a juridical equality that encompasses non-human beings' legal rights. Yet their ability to bring cases before the court, in the storied tradition of American jurisprudence, are never not denied under the doctrine of standing. It is obvious, then, that reforms to the doctrine of standing must be undertaken without delay.
+    Versus this active sentence:
 
-{% capture summary %}
-Translate and simplify. Then compare your version to mine:
-{% endcapture %}
-{% capture details %}
-One way to translate and simplify:
+    > The LSAT hides verbs.
 
-    We should grant non-human beings equal legal rights. Non-humans cannot bring cases because of standing. Therefore, we should reform standing.
-{% endcapture %}
-{% include details.html %}
+    Notice how the first (passive) version minimizes the LSAT's responsibility.
 
-[verbs]: verbs.html
+??? note "Passive voice isn't always bad"
+
+    Passive voice can be justified when it moves familiar ideas to the beginning of a sentence. 
+    When sentences begin with familiar ideas, readers don't need to work as hard. 
+    So sometimes it is kind to use the passive voice.
+
+### Nominalizations
+
+Of lawyers' many bad writing habits, nominalizations are the worst.
+
+!!! info "Acronyms are a close 2nd. Latin is 3rd."
+
+A nominalization is a verb that has been turned into a noun.
+Nominalizations often end in "-ion" or "-ing."
+Nominalization are typically replaced by "to be" or another empty verb.
+
+!!! example
+
+    > Obtain a view of Spot while they are performing the activity of running.
+
+    vs.
+
+    > See Spot run.
+
+Defeat nominalizations by rewriting the sentence with a meaningful verb.
+
+??? tip "Practice Tip: Revise some academic writing"
+
+    Find an academic article or book chapter.
+    Rewrite the first page so that every sentence begins with a clear subject and a precise verb.
+
+    - Level 1: start with a book or article you've already read and understood.
+    - Level 2: pick something new or challenging in your field of study.
+    - Level 3: translate something outside your expertise.
+    - Level 4: fix your own writing.
+
+## Pronouns
+
+You may need to build up an argument before you boil it down.
+
+Pronouns refer to something else.
+To understand what a pronoun means, you must find that reference.
+Words like "it", "this" and "their argument" are blanks that you need to fill in.
+
+!!! example
+
+    > She was going to go see it, but then Lee heard the movie was bad.
+
+    Pronouns: `she`, `it`
+
+    Filled in:
+    
+    > Lee was going to go see the movie, but then Lee heard the movie was bad.
+
+Try it yourself:
+
+??? question "A group of running coaches claim that it degrades muscle strength. This claim must be incorrect. They fail to point to any empirical data that shows such degradation after extended periods of Zone 2 training."
+
+    Pronouns: `it`, `this claim`, `such degradation`
+
+    Boiled version:
+
+    > Some coaches incorrectly claim that Zone 2 training degrades muscle strength.
+    > These coaches have no empirical data showing muscle degradation after Zone 2 training.
+
+## Synonyms
+
+Figuring out what phrases mean the same thing is a critical skill on the LSAT.
+
+Combining synonyms can be risky.
+When you assume two different words have the same meaning, you risk closing a gap in a bad argument.
+
+But not combining synonyms will prevent you from seeing the connections between sentences.
+And looking for the same exact words may blind you to a correct answer.
+
+Try to find all the synonyms here:
+
+??? question "Section 7(b)(2) of the insurance policy pertains to collisions of the covered vehicle that do not involve another driver. The policy-holder shall be presumed at fault for all damages to the insured vehicle under this clause. The agreement states that at-fault drivers shall be responsible for any such expenses as may arise from said incidents."
+
+    Synonyms:
+
+    - `Section 7(b)(2)` \ `this clause`
+    - `The insurance policy` \ `The agreement`
+    - `said incidents` \ `collisions that do not involve another driver`
+    - `policy-holder` \ `at-fault driver` (unless someone else was driving your car?!)
+    - `covered vehicle` \ `insured vehicle`
+    - `all damages` \ `any expenses`
+
+    Boiled version:
+
+    > If you crash your car, and no one else was involved, then we will presume you were at fault.
+    > If you're at fault, you'll have to pay for the damages.
+
+## Negatives
+
+Positives are easier to think about than negatives.
+
+!!! example
+
+    > Never don't resolve a double negative.
+
+    vs.
+
+    > Always resolve double negatives
+
+Try to turn these negatives into positives:
+
+??? question "One would not be well advised to avoid not failing to attend one's lectures."
+
+    Boiled version:
+    
+    > Go to class.
+
+## More Examples
+
+Try boiling down these arguments:
+
+??? question "Speeding is against the law, but no one doesn't do it. Still, it's not safe. They shouldn't expect to not get pulled over when they're doing it."
+
+    Boiled version:
+
+    > Speeding is illegal, but everyone speeds. Speeding is dangerous. So speeders should expect to get pulled over.
+
+??? question "Breakfast, compared to dinner and lunch, isn't likely to possess a considerable degree of nutritional value. It is worse to consume something without nutritional value than it is to not consume it. Ergo, most people would be no worse off if they failed to consume breakfast."
+
+    Boiled version:
+    
+    > Breakfast is less nutritious than dinner or lunch. It's better to eat nothing than to eat something with 0 nutrition. Therefore, you can skip breakfast.
+
+??? question "There is a moral imperative for the establishment of a juridical equality that encompasses non-human beings' legal rights. Yet their ability to bring cases before the court, in the storied tradition of American jurisprudence, are never not denied under the doctrine of standing. It is obvious, then, that reforms to the doctrine of standing must be undertaken without delay."
+
+    Boiled version:
+    
+    > We should grant non-human beings equal legal rights. Non-humans cannot bring cases because of standing. Therefore, we should reform standing.

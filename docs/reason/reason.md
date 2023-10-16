@@ -4,200 +4,150 @@
 
     The LSAT calls this section "Logical Reasoning," which many shorten to "LR."
 
-In the Reasoning section, each question is about a short argument.
+In the Reasoning section you'll be given about 25 short arguments and asked one question about each.
 
-To answer each question, you'll do 5 basic steps:
+To answer these Reasoning questions, you'll do the same 5 basic steps every time:
 
-1. [Know Your Job](#step-1-know-your-job)
-1. [Understand the Argument](#step-2-understand-the-argument)
-1. [Pause to Predict](#step-3-pause-to-predict)
-1. [Eliminate, Defer, or Select each Answer](#step-4-eliminate-defer-or-select)
-1. [Move On or Revise](#step-5-move-on-or-revise)
+1. [Get a job](#step-1-get-a-job)
+1. [Understand the argument](#step-2-understand-the-argument)
+1. [Predict](#step-3-predict)
+1. [Eliminate, defer, or select the answers](#step-4-eliminate-defer-or-select)
+1. [Move on or revise](#step-5-move-on-or-revise)
 
-Here's an example of what that looks like:
+Here's where those 5 steps happen in an example Reasoning question:
 
-[![example of a Reasoning question][1]][1]
+![example of a Reasoning question][1]
 
-This page provides an overview of each step, with some ideas for practice and links to further reading.
+## [Step 1: Get a job][job]
 
-## Step 1: Know Your Job
+Your first step is to read the question, meaning the line that ends with a "?"
 
-Read the question first. (That's the part that ends in a "?"). The question gives you a job to do. And it's useful to know what your job is, before you start doing it.
+The question gives you a job to do.
+(It's useful to know what your job is before you start trying to do it.)
 
-Every question fits into one of 3 **families**. Most questions also have a specific **type**. The family tells you generally how to read the argument. The type provides more specifics about what you can expect from the argument and answers.
+There are a limited number of jobs the LSAT will ask you to do.
 
-{% capture summary %}
-Practice Tip: Memorize the families and types.
-{% endcapture %}
-{% capture details %}
-Save time and energy on test day by memorizing how to (1) recognize and (2) approach each family and type.
-{% endcapture %}
-{% include details.html %}
+Every question fits into one of three **families**: DESCRIBE, ARGUE, or INFER.
+The family tells you what to do with the argument.
 
-### Question Family
+Every question also has one of two **styles**: MECHANICAL or ORGANIC.
+The style tells you how to pay attention to the argument and what kind of prediction you can make.
 
-Questions fall into 3 **families**. Questions will ask you to either:
+!!! example
 
-1. **Describe** the argument
-2. **Argue** with the argument, or
-3. **Infer** from the argument.
+    > Which of the following most accurately describes the main point of the argument above?
 
-Recognizing a question's family helps you know what to expect from the argument.
+    This question is in the DESCRIBE family.
+    You can tell because it says "describe."
+    Your job on all DESCRIBE questions is to distinguish the argument's facts from it's conclusion.
+    You won't have to argue with the argument.
 
-    For example, when you're in the *Argue* family, you can be confident that the argument has at least one problem. Your job is to find that problem.
+    All DESCRIBE questions are MECHANICAL in style because you can reliably make a specific prediction about what the answer will be.
+    In this case, once you find the conclusion of the argument, you'll have a strong sense of what ideas you need to see in the correct answer.
 
-[Learn more about each of the question families.][family]
+    Other guides might call this a "conclusion" question. 
+    But other than the specific instruction to find the conclusion, which you can read in the question, there's not much that distinguishes this from the rest of the DESCRIBE family.
+    So I don't think it needs a special name.
 
-### Question Type
+??? abstract "What to expect from the DESCRIBE family"
 
-Most Reasoning questions also have a **type**. There are 12 common types:
+    The argument has a conclusion and supporting facts.
+    Your job is to break down the *structure* of the argument.
+    You don't need to argue.
 
-Question Type | Family
--- | --
-{% for item in site.data.LRType -%}
-[{{item.type}}](reason/{{item.family}}.html#{{item.type | slugify}}) | {{item.family}}
-{% endfor %}
+??? abstract "What to expect from the ARGUE family"
 
-Recognizing the question's type gives you a specific task.
+    The argument has at least one problem.
+    Your job is to find that problem.
 
-    For example, on *Conclusion* questions, the correct answer will paraphrase the argument's conclusion. So your job is to find the argument's conclusion and then figure out which answer means the same thing.
+??? abstract "What to expect from the INFER family"
 
-{% capture summary %}
-Caution: Every question has a family, but some questions lack a type.
-{% endcapture %}
-{% capture details %}
-Other guides attempt to give you a complete list of every possible question type. And they give you much more to memorize about each question type.
+    The argument isn't actually an argument.
+    They only give you facts.
 
-Instead, I offer the families to simplify your learning. Knowing each family's general tendencies helps simplify in two ways:
+??? abstract "How to approach the MECHANICAL style"
 
-1. By memorizing the family's shared patterns, you don't have to re-memorize that information for each type within the family.
-2. Instead of memorizing all the unusual question types, you can use the general approach for the family.
+    Pay pedantic attention to every word of the argument.
+    The argument may feature [conditional logic].
 
-If you think a question type repeats often enough to be worth the brain space, go ahead and memorize it.
-{% endcapture %}
-{% include details.html %}
+    Answers will follow closely from the argument.
+    You can (and should) make a specific prediction.
 
-## Step 2: Understand the Argument
+??? abstract "How to approach the ORGANIC style"
 
-Every argument on the LSAT has two essential parts:
+    Pay holistic attention to the entire argument.
+    To spot problems, it may be useful to ask yourself "What if?"
 
-- one or more **facts**, which are the basis of the argument; and
-- the **conclusion**, which is the point of the argument.
+    Answers can include new and surprising information.
+    Your prediction needs to be flexible.
 
-{% capture summary %}
-Exception: Infer family questions only give you facts.
-{% endcapture %}
-{% capture details %}
-In the Infer family, the "argument" will not have a conclusion. It will give you a series of facts, and your job is to find the allowable conclusion.
+Some questions also have a specific **type**.
+Knowing the type gives you an even more specific job description.
 
-[Learn about the Infer family.](reason/infer.html)
-{% endcapture %}
-{% include details.html %}
+!!! tip "Practice Tip: Memorize the families, styles, and types."
+
+    Save time and energy on test day by memorizing how to recognize and approach each family, style, and type of question.
+
+    [Flash cards][flash-card] are a great tool for memorizing information about common questions.
+
+??? warning "Not all types are worth learning."
+
+    Other guides attempt to give you a complete list of every possible question type. 
+    And they give you much more to memorize about each question type.
+    
+    In contrast, I offer the families and styles to simplify your knowledge. 
+    Knowing the family and style helps simplify in three ways:
+
+    1. You don't have to memorize/track as much knowledge. Knowing family + style will be enough to guide you though most questions.
+    1. You'll remain sensitive to the specific question that's being asked.
+    1. You'll make more connections across question types, giving you more flexible tools. 
+
+## [Step 2: Understand the argument][understand]
+
+Understanding the argument is the *most important* step.
+If you do not have a strong understanding of the argument, you will not be able to make a useful prediction and the answers will bamboozle you.
 
 To understand the argument, you will need to...
 
-1. **Break down** the argument into facts and conclusion, and then
-2. **Boil down** the argument to its essential meaning.
+1. [Break down][break] the argument to separate the facts from the conclusion, and then
+2. [Boil down][boil] the argument to its essential meaning.
 
-### Break it Down
+!!! note "Accept the facts"
 
-In contrast to how you argue in real life, on the LSAT you must *accept that the facts are true*. Instead of fighting the facts, you argue by showing that the facts do not support the conclusion.
+    In contrast to how you argue in real life, on the LSAT you must *accept that the facts are true*. 
+    Instead of fighting the facts, you argue by showing that the facts do not support the conclusion.
+    In other words you don't care about the real-world truth of the argument, you want to show that the argument is [logically invalid][valid].
 
-[Learn how to argue without fighting the facts.][validity]
+## [Step 3: Predict][predict]
 
-Breaking down the argument's structure clarifies what you must accept (the facts) and what you can challenge (the connection between the facts and conclusion).
+Pausing to make predictions is one of the best ways to gain speed and accuracy in the Reasoning section.
+Predictions help you stay grounded in your understanding so you can move confidently through the answers.
 
-{% capture summary %}
-Practice Tip: Memorize the fact and conclusion words.
-{% endcapture %}
-{% capture details %}
-Fact and conclusion words are the easiest way to distinguish fact from conclusion.
+The type of prediction you should attempt to make depends on the question style:
 
-The fact words are the most reliable and least noticed, so noticing them will give you an edge.
+type of prediction | what you do | question style
+-- | -- | --
+1\. **Anchor** | paraphrase the argument | ALL (especially very easy and very hard questions)
+2\. **Flexible** | identify the argument's problem (but not a specific solution to that problem) | ORGANIC
+3\. **Specific** | anticipate the ideas that will be in the correct answer | MECHANICAL
 
-The 4 most common fact words are:
+On ORGANIC questions the answers often include new information.
+To be prepared for these surprising answers, it's best to have a **flexible prediction**.
 
-- For
-- After all
-- Because
-- Since
-{% endcapture %}
-{% include details.html %}
+On MECHANICAL questions, answers won't include new information.
+In fact, the answers may look eerily similar.
+To avoid getting tangled up in the confusing answers, make **specific predictions** on MECHANICAL questions.
 
-[Learn how to break down arguments.][break]
+Sometimes the best prediction is a summary of what the argument said.
+These **anchor predictions** may be all you need for an easy question.
+Or they may be all you can reasonably expect of yourself on a hard question.
+At minimum, always make an anchor prediction.
 
-### Boil it Down
-
-The second step of understanding is to boil the argument down to its essential meaning.
-
-LSAT arguments are often poorly written. When you boil it down, you attempt to translate and simplify the argument without changing the meaning.
-
-{% capture summary %}
-Practice Tip: Find the verb.
-{% endcapture %}
-{% capture details %}
-Bad writing often obscures verbs.
-
-You can untangle many a confusing sentence by finding the hidden verb.
-
-[Learn how verbs hide.](/reason/verbs.html)
-{% endcapture %}
-{% include details.html %}
-
-[Learn how to boil down arguments.][boil]
-
-## Step 3: Pause to Predict
-
-After reading the argument and before looking at the answers, pause to attempt to predict the answer.
-
-[Learn how to predict][predict]
-
-Predicting does not usually mean guessing the exact *words* that will appear in the argument. Rather, predicting is an opportunity to check and reinforce your *understanding* of the argument so that you don't get turned around by the answers.
-
-### Levels of Prediction
-
-There are three levels of prediction you can make:
-
-**Anchor** prediction | grounds you in your understanding
-**Flexible** prediction | identifies the argument's problem (but not its solution)
-**Specific** prediction | exactly anticipates the correct answer
-
-### Question Style
-
-The level of prediction you aim for depends on the question's **style**.
-
-There are 2 styles:
-
-Style | How to Read | Type of Prediction
-**Mechanical** | *robotically:* pay pedantic attention to each part of the argument | Specific
-**Organic** | *creatively:* pay holistic attention to the whole argument | Flexible
-
-### Always Predict
-
-When all else fails on a hard question, or you want to save time on an easy question, you should still pause for a second to make an Anchor prediction.
-
-Making a prediction is the best way to defeat the LSAT's most devious trick: confusing answer choices.
-
-[More on how the answers are designed to confuse you.](resources/confuse.html)
-
-{% capture summary %}
-Practice Tip: Write down your predictions.
-{% endcapture %}
-{% capture details %}
-When you practice writing down your predictions you force yourself to make predicting into a habit. Although by test day you'll want to predict in your head.
-
-Writing down your predictions also helps improve your review. When you review a written prediction, you can more honestly compare that prediction to both the correct answer and the argument.
-
-- When your prediction was way off, you can look back to the argument to see if there were any important clues you missed. Then you can make a flashcard that will help you notice similar clues in similar situations.
-- Or your prediction might have been pretty close. That teaches you that you should trust yourself more and not let the answers control your thinking.
-{% endcapture %}
-{% include details.html %}
-
-## Step 4: Eliminate, Defer, or Select
+## [Step 4: Eliminate, defer, or select][answers]
 
 Once you have a prediction, you're ready for the answers.
 
-On the digital LSAT, you can do one of 3 (useful) things to any given answer:
+On the digital LSAT, you can do one of three (useful) things to any given answer:
 
 Option | When the answer is... | What to click
 -- | -- | --
@@ -205,52 +155,56 @@ Option | When the answer is... | What to click
 **Defer** | Weird, aka you aren't sure | Nothing.
 **Select** | The least bad one left, or you love it | The button on the left side, which should turn green.
 
-There are also two non-useful things you can do:
+!!! danger "Waffling :waffle:"
 
-1. *Waffling* back and forth between answers without deciding; and
-2. Endlessly *staring* at the answers.
+    Deferring is not "waffling."
+    Waffling is a waste of time.
+    When you waffle, you avoid deciding.
+    When you defer, you decisively choose to make a decision later.
 
-Waffling and staring are the two greatest wastes of time on the LSAT. Avoid them by decisively choosing to eliminate, defer, or select each answer after you read it once (or twice).
-
-[Learn more about how to eliminate, defer, or select answers.][answers]
-
-## Step 5: Move On or Revise
+## [Step 5: Move on or revise][revise]
 
 Ideally, you don't need this 5th step.
+But let's be realistic.
+You won't always be able to make 4 confident eliminations.
+Sometimes you'll make 5 eliminations.
+And sometimes you'll only be able to eliminate 2 or 3 answers.
+You need a plan for these moments.
 
-But you can't always make 4 eliminations or 1 selection. Sometimes you'll make 5 eliminations. And sometimes you'll only make 3, or even fewer, eliminations.
+To start, click the little *flag* button in the top right.
+You just proved that this is a hard question that you could review later.
 
-When you reach this point, the first steps are...
+Then [reset].
+Take a quick breath to get your head back in the game.
 
-- **Flag** the question for later review, and
-- [Reset].
+From there, you have options.
+You can either:
 
-Then, you can make a decision about what to do next:
+1. **Move on** to the next question.
+1. **Revise** your understanding of the argument.
 
-1. **Move on** to the next question; or
-1. **Revise** your analysis of the argument or the answers.
+Moving on may feel lame, but it's one of the best ways to save time in the Reasoning section.
+And with those time savings you can potentially come back later when you have a fresh perspective.
 
-Moving on may feel lame, but it's one of the best ways to save time in the Reasoning section. And with those time savings you can potentially come back later, with fresh perspective.
+If you do choose to *revise*, then you need to look back at the argument with fresh eyes.
+Something about the way you understood the argument the first time was wrong.
 
-If you do choose to *revise* then you must truly change your approach. Whatever you did the first time didn't work. If you're going to stick with this question, do something different.
+!!! note "You're more likely to be confused about the argument than the answers"
 
-{% capture summary %}
-Note: Generally it's better to revisit the argument, rather than the answers.
-{% endcapture %}
-{% capture details %}
-There's always the chance that you misread an answer, but usually struggling on a question means you haven't properly understood the argument OR you made the wrong level of prediction.
-{% endcapture %}
-{% include details.html %}
-
-[Learn more about moving on and revising.][revise]
+    There's always the chance that you misread an answer.
+    Usually, however, struggling on a question means you missed something in argument.
+    When you have a strong understanding and the correct level of prediction, the answers will typically feel easier.
 
 [1]: ../assets/images/LRanatomy.png
 [2]: https://forms.gle/guG7HsDZXvEaydJ36
-[break]: reason/break.html
-[boil]: reason/boil.html
-[answers]: reason/answers.html
-[Reset]: ../time/slow.md#reset
-[revise]: reason/flag.html
-[family]: reason/job.html#family
-[predict]: reason/predict.html
-[validity]: reason/flaws.html
+[job]: job.md
+[understand]: understand.md
+[break]: break.md
+[boil]: boil.md
+[answers]: answers.md
+[reset]: ../time/slow.md#reset
+[revise]: flag.md
+[predict]: predict.md
+[valid]: flaws.md
+[conditional logic]: conditionals.md
+[flash-card]: ../how-to-study/flashcards.md

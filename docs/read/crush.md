@@ -16,12 +16,6 @@ Moving decisively through the answers it the best way to gain speed on the LSAT.
 - Select when you *know* it's right.
 - Defer when you *don't know*.
 
-!!! warning
-
-    There are other options. 
-    
-    You can also agonize, complain, or panic about an answer, but these are less useful options.
-
 ## Eliminate Poisoned Answers {#eliminate}
 
 Each of the wrong answers is wrong for a reason--there is always a word or phrase that poisons the answer.

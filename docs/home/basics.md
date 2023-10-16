@@ -118,7 +118,7 @@ There is some speculation that schools will check your Writing section against y
 
 For more information, [read the LSAC's official advice about the writing sample][writing]{:target="_blank"}.
 
-[lawhub]: https://lawhub.lsac.org/
+[lawhub]: https://app.lawhub.org/library
 [timing]: ../time.md
 [accommodation]: https://www.lsac.org/lsat/lsac-policy-accommodations-test-takers-disabilities
 [requirements]: https://www.lsac.org/lsat/taking-lsat/getting-ready-your-lsat-exam

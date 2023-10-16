@@ -1,6 +1,6 @@
-# How they Confuse You
+# How the LSAT Confuses You
 
-There are 3 parts to every Reading question.
+There are 3 parts to every Reasoning question.
 Since every question is self-contained, they only have 3 opportunities to confuse you.
 
 1. the question (the part that ends in "?"),
@@ -13,6 +13,7 @@ Since every question is self-contained, they only have 3 opportunities to confus
     Just replace "argument" with "passage" below.
 
     It does **not** apply to the Games section.
+    On the Games, the answers are your friends.
 
 ## The LSAT never asks ambiguous questions
 
@@ -21,14 +22,14 @@ If the question had any ambiguity, then multiple answers might be correct.
 !!! note
 
     The primary virtue of the LSAT is that there is always exactly one correct answer.
-    answers are never better or worse.
+    Answers are never better or worse.
     They're either right or wrong.
 
 To be fair, a question can be complicated.
 But a complicated question actually gives you more specific instructions.
-If you follow those instructions carefully, the question could actually be easier.
+If you pay attention to those instructions, they might make the question easier.
 
-## Arguments and passages confuse you with bad writing
+## Arguments confuse you with bad writing
 
 Here are some of the LSAT's bad writing tricks:
 
@@ -64,14 +65,8 @@ And there's 4 wrong answers on every question.
     Wrong answer choices are carefully crafted in a high tech laboratory to confuse you.
 
 Other standardized tests are less ruthless.
-On some other tests, if you know the tricks, you can skip the prompt and make a solid guess just by looking at the answers.
-This is a very bad strategy for the Reading (and Reasoning) sections of the LSAT.
-
-!!! info "Exception"
-
-    In the Games section, you **can** use the answers to hack the questions.
-
-    [See this page for more information about how to use the answers in Games.][games]
+On some other tests, if you know a few tricks, you can skip the prompt and make a solid guess just by looking at the answers.
+This is a very bad strategy for the Reasoning (and Reading) sections of the LSAT.
 
 ### Make predictions to prepare for the answers
 
@@ -86,7 +81,7 @@ The answers do not deserve your time or the benefit of the doubt.
 
 As soon as you know they're wrong, cross them out.
 
-!!! Tip "You wear your raincoat when there's an 80% chance of rain."
+!!! tip "You wear your raincoat when there's an 80% chance of rain."
 
     There are 4 wrong answers, and 1 correct one.
     So each answer has a 80% chance of being wrong.
@@ -118,8 +113,8 @@ When you clear away the wrong answers, you might be left with something
 
 If there's 1 answer left, pick it and move on. If there are 2 answers left, pick the better one. In either case, flag the question for review and move on.
 
-[understand]: /reason/understand/
-[pace]: /read/pace/
-[predict]: /reason/predict/
-[flag]: /reason/flag/
-[games]: /game/prove-it/
+[understand]: understand.md
+[pace]: ../read/pace.md
+[predict]: predict.md
+[flag]: flag.md
+[games]: ../game/points/prove-it.md

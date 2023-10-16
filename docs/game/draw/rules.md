@@ -138,15 +138,13 @@ When E is included, it is before G.
 
 ### Bi-Conditional
 
-If A is not a Zebra then B must be a Yak. If B is a Yak then A is not a Zebra.
-
 A is not a Zebra if and only if B is a Yak.
 
 ![Bi-Conditionals Drawing][8]
 
 ### Chain
 
-If C is a Walrus, then D must be a Yak. If D is a Yak then, E must be a Zebra.
+If C is a Walrus, then D must be a Yak. If D is a Yak, then E must be a Zebra.
 
 ![Chain Drawing][9]
 

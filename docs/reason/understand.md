@@ -1,10 +1,6 @@
----
-title: Understand the Argument
-cat: reason
-permalink: reason/understand
----
+# Step 2: Understand the Argument
 
-This page outlines the second Reasoning step and most important skill: *understanding the argument.*
+This page outlines the 2nd step of solving Reasoning questions: understanding the argument.
 
 There are two aspects to understanding:
 
@@ -13,104 +9,133 @@ There are two aspects to understanding:
 
 Breaking down an argument reveals its fundamental structure, then boiling it down helps you grasp what it actually means.
 
-## Break it Down
+## Break it down
 
-Every argument has two fundamental parts: 
+Every argument on the LSAT has two essential parts:
 
-1. the **facts**, and
-2. the **conclusion**
+- some **facts**, aka the basis/support; and
+- one **conclusion**, aka the point/claim.
 
-The facts are the support, and the conclusion is the claim. There may be several facts, but there will only be one conclusion.
+??? bug "Exception: INFER family questions only give you facts"
 
-{% capture summary %}
-Note: There might also be **context** or an **antithesis**.
-{% endcapture %}
-{% capture details %}
-The context and antithesis are not essential to understanding, but they provide useful clues.
+    In the Infer family, the "argument" will not have a conclusion. 
+    The "argument" will only include facts.
+    Often your job is to fill in an allowable conclusion.
 
-The context defines the argument's terms and scope.
+You break down the argument by distinguishing the facts from the conclusion.
+Breaking down the argument is crucial because, on the LSAT, you must accept that the facts are true.
+You do not, however, have to accept that the facts support the conclusion.
 
-The antithesis is what the argument is *against*. Knowing what the argument is against can help you anticipate what it will argue *for*.
-{% endcapture %}
-{% include details.html %}
+!!! info "[Learn how to dispute validity instead of truth][truth]"
 
-You need to separate the facts from the conclusion because **you must accept the facts.** The LSAT does not care whether an argument is objectively *true* in the real world, but only whether it is a ***valid*** argument, aka whether it has a solid logical structure.
+??? note "Context and Antithesis"
 
-[Learn to dispute validity instead of truth.][truth]
+    In addition to the facts and conclusion, an argument might contain other statements, most often **context** or an **antithesis**.
+    
+    The context and antithesis are not essential to understanding, but they provide useful clues.
 
-There are three ways to distinguish the facts from the conclusion.
+    Context statements defines the argument's terms and scope.
 
+    An antithesis is what the argument is *against*. 
+    Knowing what the argument is against can help you anticipate what it will argue *for*.
+
+    !!! example
+
+        > Dr. Martin Luther King often preached about agape -- a greek word meaning love.
+        > In contrast to eros, romantic love, or philia, brotherly love, 
+        > Dr. King argued that agape was a higher form of love 
+        > because it demands that we love our enemies who we cannot expect to love us back.
+    
+        Conclusion: Agape is a higher form of love.
+
+        Fact: Agape demands that we love our enemies.
+        
+        Fact: Loving your enemies means loving someone who wont love you back.
+
+        Context: Agape means love. Eros means romantic love. Philia means brotherly love.
+
+        Antithesis: Eros and philia are different and lesser than agape.
+
+There are three methods you can use to distinguish the facts from the conclusion:
+
+Method | How it works
+-- | --
 Feeling | Facts may *feel* more objective or modest. Conclusions may *feel* bigger or more subjective.
-Flow | Facts lead to the conclusion.
-Structural words | Fact words point to facts and conclusion words point to the conclusion. <br>(And pivot words point to the antithesis.)
+Flow | Facts logically lead to the conclusion.
+Structure words | Conclusion words ("so", "thus", "therefore") point to the conclusion. Fact words ("for", "because", "since") point to facts. Pivot words ("but") point to the antithesis. And context clues (double commas, em-dashes, or parentheses) point to context.
 
-Of these three, structural words are the most efficient and reliable strategy. Using your feelings or the flow of the argument may feel more intuitive, at first, but feelings and flow both require more mental energy and are frequently subverted by the LSAT.
+Of these three methods, structure words are the most efficient and reliable strategy. Using your feelings or the flow of the argument may feel more intuitive, at first, but feelings and flow require more mental energy and give the LSAT more opportunities to trick you.
 
-Consider, for example, this argument:
+Try using each of these three methods to separate fact from conclusion in this short argument:
 
-    Read my book for I am the greatest writer of all time.
+??? question "Read my book for I am the greatest writer of all time."
 
-{% capture summary %}
-Which part is the fact and which part is the conclusion?
-{% endcapture %}
-{% capture details %}
-The fact is: `I am the greatest writer of all time.`
+    Fact: `I am the greatest writer of all time`
 
-The conclusion is: `Read my book.`
+    Conclusion: `Read my book`
 
-Feeling is unreliable here because `greatest of all time` is a huge claim, while `read` is a modest ask. There's no guarantee on the LSAT that facts will feel fact-y and conclusions will feel conclusion-y.
+    Disadvantage of using feeling: "greatest of all time" is a big claim, that makes the second half of the sentence feel like a conclusion.
 
-Flow is unreliable here because the conclusion comes first. The LSAT often reorders words to disrupt the flow of an argument.
+    Disadvantage of using flow: In the order of the words, the conclusion comes first.
 
-If you were able to see past those confusions using feel or flow, congrats! Perhaps you can rely on your intuition to break down arguments on test day. But notice how much energy it took and if you were able to be 100% confident.
+    Structure word: `for`, as a fact word it indicates that the second half is the fact.
 
-The fastest, most reliable, and lowest-brain-power method is to spot the *fact word* `for`. `For` introduces the idea `greatest writer...` which means that's the fact, and the remaining part `read my book` must be the conclusion.
-{% endcapture %}
-{% include details.html %}
+!!! info "[More on how to break down arguments][break]"
 
-[Learn how to break down arguments.][break]
+## Boil it down
 
-## Boil it Down
+The LSAT uses bad writing to confuse you.
+To understand this bad writing, you may need to both translate and simplify the LSAT's sentences.
 
-To boil down an argument is to *simplify* it. Simplifying the argument has several advantages:
+You boil down arguments to clarify their essential meaning.
 
-- The act of simplifying deepens your understanding by forcing you to think critically about the words on the page.
-- A simple understanding will be easier to hold on to as you move through the confusing answers.
+!!! info "Law school relevance"
 
-There are 3 keys to simplifying arguments:
+    In general, lawyers, judges, and legal academics are bad writers. Learning to boil down arguments will be useful for law school.
 
-1. Translate bad writing.
-1. Identify the essential terms.
-1. Don't change the meaning.
+Boiling down an argument has two advantages:
 
-> Bonus: Lawyers, judges, and legal academics are, in general, bad writers. So this skill is relevant to law school and the practice of law.
+1. The *act* of boiling down an argument forces you to think critically about the words on the page.
+1. The *result*, the boiled-down argument, will be easier to remember after you start reading the confusing answers.
 
-[Learn how to boil down arguments.][boil]
+!!! danger "Boiling down arguments is risky"
+
+    While boiling, you can easily *change the meaning* of the argument.
+
+4 useful techniques for translating bad writing:
+
+- Find the verb
+- Fill in pronouns
+- Combine synonyms
+- Turn negatives into positives
+
+??? example "Translating a bad sentence"
+
+    Original (from Foucault):
+
+    > Basically, it has to intervene on society so that competitive mechanisms can play a regulatory role at every moment and every point in society and by intervening in this way the neo-liberal government's objective will become possible, that is to say, a general regulation of society by the market.
+
+    Verbs: `intervene on`, `play a regulatory role`, `intervening in`, `will become possible`, `a general regulation of`
+
+    Pronouns: `it`, `in this way`
+
+    Synonyms: `competitive mechanisms` / `the market`, `objective` / `a general regulation of society by the market`, `every moment` / `every point in society` / `general society`
+
+    Negatives: n/a
+
+    Simplification: 
+    
+    > Neo-liberal governments want competitive market mechanisms to regulate every aspect of society. To achieve this objective, neo-liberal government must intervene in every aspect of society.
+
+!!! info "[More on how to boil down arguments][boil]"
 
 ## Summary
 
-You break down an argument in order to reveal its structure.
-Learning how to break down an argument is relatively straightforward application of knowledge.
-
-You must:
-
-1. Memorize the fact, conclusion, and pivot words; then
-1. Practice spotting those words on real LSAT questions.
-
-You boil down an argument in order to grasp its meaning.
-Learning how to boil down an argument involves a more difficult process of calibrating skills.
-
-You must:
-
-1. Revise bad writing; 
-1. Calibrate your sense of what's essential; and 
-1. Find the balance between over- and under-simplifying.
-
 Primary Skill | Secondary Skills
 -- | --
-[Break down arguments][break] | Spot fact, conclusion, and pivot words. <br>Extract clues from the context and antithesis. <br>Don't fight the facts.
-[Boil down arguments][boil] | Translate bad writing. <br>Reduce to essentials. <br>Preserve meaning.
+[Break down arguments][break] | Spot fact, conclusion, and pivot words. Extract clues from the context and antithesis. Don't fight the facts.
+[Boil down arguments][boil] | Translate bad writing. Reduce to essentials. Preserve meaning.
 
-[truth]: flaws.html#truth
-[boil]: boil.html
-[break]: break.html
+[truth]: flaws.md#truth-vs-validity
+[boil]: boil.md
+[break]: break.md

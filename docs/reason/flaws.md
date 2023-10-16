@@ -1,95 +1,100 @@
 # How to Argue (on the LSAT)
 
-All ARGUE Family Arguments have at least one Problem. Just knowing that they have a Problem is not enough. To make a Flexible (ORGANIC) or Specific (MECHANICAL) Prediction, you must be able to say what the Problem is. 
+All ARGUE family arguments have at least one problem.
+Just knowing that they have a problem is not enough.
+To make a useful prediction, you must be able to say what the problem is.
 
-## Truth vs. Validity {#truth}
+DESCRIBE family questions might have an error, but generally you shouldn't care.
 
-The LSAT doesn't care about Truth; it only cares about Validity. A Valid Argument follows the rules of logic.
+On INFER family questions, the argument is just facts, so it wont have an error.
+That said, the answers on INFER questions are often proposed conclusions.
+On those questions, wrong answers may commit one of the errors described below.
 
-This means that you don't try to prove the Argument is false, you try to prove that it was badly made. To challenge the Argument's Validity, you accept the Facts, but question whether they support the Conclusion.
+!!! danger
 
-In real life, you (hopefully) evaluate arguments based on their Truth.
+    These argumentative tools are useful on the LSAT.
 
-If Chicken Little says to you:
+    And they're useful as reflection tools to help you internally navigate an argument.
 
-    Run! The sky is falling.
+    But typically it isn't wise to use these techniques directly on other humans, especially on loved ones or on social media.
 
-You're likely to question their Fact. You'll say:
+## Truth vs. Validity
 
-    It doesn't seem like the sky is falling to me.
+The LSAT doesn't care about truth; it only cares about logical validity.
+An argument is valid when it follows the rules of logic and the facts are logically connected to the conclusion.
 
-But on the LSAT, you can't raise this objection. You must accept the Truth of Chicken Little's Fact.
+In real life, hopefully you evaluate arguments based on their truth.
+But the LSAT is meant to be a closed universe that doesn't require any outside knowledge.
+On the LSAT, it doesn't matter what's true or false in the real world.
 
-Instead, you must challenge the connection between their Fact and their Conclusion:
+This means that you don't try to prove that the argument is wrong, you try to prove that it was badly made.
 
-    Okay, the sky is falling. But how will running help us?
+To challenge an argument's validity, you first accept the facts as given.
+Then you question whether those facts adequately support the conclusion.
 
-## Problems vs. Solutions. {#solutions}
+??? example "Chicken Little"
 
-When someone tells you a story about their rotten day, it's rude to immediately solve their problem. More than rude, that solution will often be inappropriate because you've rushed to a judgment before understanding the whole picture.
+    In the real world, if Chicken Little :chicken: says to you:
 
-Better to listen carefully until the real problem is revealed.
+    > Run! The sky is falling.
 
-Even better to let them propose some solutions. Then, you can weed out the solutions that don't actually address the problem.
+    You're likely to question their fact. 
+    You'll say:
 
-This is also how you should approach ORGANIC questions: find the real Problem, don't get tied to one solution, and then Eliminate Answers that are IRRELEVANT to the Problem.
+    > It doesn't seem like the sky is falling to me.
 
-## 3 Types of Problems
+    On the LSAT, however, you have to accept the truth of Chicken Little's fact.
 
-Warning: Spotting Flaws and Gaps and What Ifs may be useful in law school, but you must promise not to use these argumentative skills on loved ones or the social medias. (I say this not to protect others, but for your benefit.)
+    > Okay, the sky is falling.
 
-1. GAPs: the Facts are not completely connected to the Conclusion.
-1. WHAT IFs: there's an alternative explanation for the Facts or the Conclusion.
-1. FLAWs: the Argument committed a common error.
+    What you *can do* is challenge the connection between their fact and their conclusion:
 
-These types overlap. 
-- Some Flaws, like [Fresh Ideas in the Conclusion][1] and [Conditional Errors][2] feel more like Gaps. 
-- Other Flaws, like the [Causation][3], [Sampling][4] and [Comparison][5] Flaws are more likely to raise What Ifs.
+    > If the sky is falling, how will running help us?
 
-Gaps tend to be most useful on JUSTIFY questions. What If thinking helps on ORGANIC questions. Both help on DEPENDS questions.
+## 3 types of logical error
 
-Consider this argument:
+1. Gaps: the facts are not completely connected to the conclusion.
+1. Flaws: the argument committed a specific type of common error.
+1. What ifs: there's an alternative explanation for the facts or the conclusion.
+
+!!! note "overlap between flaws, gaps, and what ifs"
+
+    Some flaws, like [fresh ideas in the conclusion][1] and [conditional errors][2] are just another way of describing a logical gap.
+
+    Other flaws, like the [causation][3], [sampling][4] and [comparison][5] flaws may be what underlies your what ifs.
+
+MECHANICAL ARGUE questions usually have a gap.
+What ifs usually only help on ORGANIC ARGUE questions.
+
+!!! example
+
+    Argument:
+
+    > The t-shirt is on sale. So you should buy it.
+
+    ??? question "Do you see a gap?"
+
+        One gap: `On sale` is not connected to `should buy`
     
-    The t-shirt is on sale. So you should buy it.
+    ??? question "Do you see a flaw?"
 
-{% capture summary %}
-Do you see a gap?
-{% endcapture %}
-{% capture details %}
-Here's one (not the only one):
+        One flaw: `Should` is a *fresh idea* in the conclusion.
     
-    `On sale` is not connected to `should buy`?
-{% endcapture %}
-{% include details.html %}
+    ??? question "Any what ifs come to mind?"
 
-{% capture summary %}
-How about a flaw?
-{% endcapture %}
-{% capture details %}
-Here's one (not the only one):
-    
-    `Should` is a *fresh idea* in the conclusion.
-{% endcapture %}
-{% include details.html %}
+        Some what ifs:
 
-{% capture summary %}
-Any *what-ifs* come to mind?
-{% endcapture %}
-{% capture details %}
-Here's some:
-    
-- `You don't like t-shirts.`
-- `They're sold out.`
-- `You're a freegan who never buys anything.`
-- `It's a cotton t-shirt and you're a carnivore who only wears leather and wool.`
-{% endcapture %}
-{% include details.html %}
+        - You don't like t-shirts.
+        - They're sold out in your size.
+        - You're a freegan who never buys anything.
+        - It's a cotton t-shirt and you're a carnivore who only wears leather and wool.
 
-> Notice: What are the chances your exact *what if* appears in the correct answer? Theres a vast range of possible objections; that's why you need to stay flexible on Organic questions.
+        Notice: What are the chances your exact what if appears in the correct answer? 
+        There's a vast range of possible objections; that's why you need to stay flexible on ORGANIC questions.
 
 ## The Common Flaws {#flaws}
 
-Lists of all known logical errors and their Latin names are available elsewhere. Here are the 5 errors worth memorizing:
+Here are the 5 logical flaws worth learning and memorizing:
 
 1. [Fresh ideas in the conclusion][1]
 1. [Conditional errors][2]
@@ -97,120 +102,166 @@ Lists of all known logical errors and their Latin names are available elsewhere.
 1. [Bad samples][4]
 1. [Bad comparisons][5]
 
-### Fresh Ideas in the Conclusion {#poptart}
+??? note "there are many other flaws"
 
-Charlatans love this move: They begin with obvious facts to make themselves seem commonsensical, then they leap to their grand, unsupported conclusions.
+    There are dozens of other logical errors, some even have fancy Latin names.
+    
+    If you notice another flaw commonly repeat on the LSAT *and* you don't intuitively spot that flaw, then you can memorize it, too.
 
-To spot this error in the wild: Look for big or shiny words in the conclusion.
+    But if the flaw isn't common, or you're able to see it easily, then why does it need a name?
 
-See if you can spot the *fresh ideas in the conclusion* of these three bad arguments:
+### Fresh ideas in the conclusion {#poptart}
 
-{% capture summary %}
-`We all want to be rich. So we need to shrink big government.`
-{% endcapture %}
-{% capture details %}
-Where did `big government` come from? Why is `shrink` the solution?
-{% endcapture %}
-{% include details.html %}
+Charlatans love to begin with obvious facts to make themselves seem commonsensical, then they leap to their grand, unsupported conclusions.
 
-{% capture summary %}
-`Only 5 employees voted yes. Therefore a majority opposed the measure.`
-{% endcapture %}
-{% capture details %}
-`5` is an absolute number. `Majority` is a relative number, so `Majority` is a new idea.
-{% endcapture %}
-{% include details.html %}
+!!! tip "Spot fresh ideas errors in the wild"
 
-{% capture summary %}
-`We all liked the movie trailer. So we must go see the movie right now.`
-{% endcapture %}
-{% capture details %}
-Woah, `right now`? That's very strong. So `right now` and `must` are suspect.
-{% endcapture %}
-{% include details.html %}
+    Look for big, shiny, or strong words in the conclusion.
 
-### Conditional Errors {#conditionalerror}
+Spot the fresh ideas in each these three bad arguments:
 
-Conditional errors read the arrow backwards, or flip the direction of the arrow.
+??? question "We all want to be rich. So we need to shrink big government."
 
-To spot these errors in the wild: Look for conditional logic words (especially "only if").
+    New ideas: Where did `big government` come from? Why is `shrink` the solution?
 
-Consider this true conditional:
+??? question "Only 5 employees voted yes. Therefore a majority opposed the measure."
 
-    All squares are rectangles.
+    New ideas: `5` is an absolute number. `majority` is a relative number, so `majority` is a new idea.
 
-It is legal to flip it and negate it; that gives us the contrapositive:
+??? question "We all liked the movie trailer. So we must go see the movie right now."
 
-    If it's not rectangle, then it can't be square.
+    New ideas: Woah, `right now` and `must`? Those are much stronger words than `liked`.
 
-But it is illegal to just negate it:
+### Conditional errors {#conditional}
 
-    If it's not a square, then it can't be a rectangle.
+!!! info "[If you aren't familiar with the basics of conditional logic, check out this page.][conditionals]"
 
-And it is illegal to just flip it:
+Conditional errors read the arrow backwards.
 
-    If it's a rectangle, it must be a square.
+The LSAT often describes conditional logic errors as "confusing a necessary for a sufficient condition."
 
-> Note: the LSAT describes these two illegal moves as "confusing a necessary for a sufficient condition."
+??? example "Example 1: :frog:"
 
-### Association isn't Causation {#cause}
+    All frogs are amphibians. Newts are amphibians, therefore newts are frogs.
 
-Causation is not always an error. We know that smoking causes cancer. But causation is very hard to prove. Think of how long it took to prove that smoking causes cancer.
+    Fact 1: `Frog --> Amphibian`
+    
+    Fact 2: `Newt --> Amphibian`
 
-To spot this error in the wild: Look for association words in the Facts and causation words (or active verbs) in the Conclusion.
+    Conclusion: `Newt --> Frog`
 
-Humans brains like the neatness of causation too much. We rush to conclude causation from association.
+    Error: Turning one of those arrows backwards to connect `Newt --> Amphibian --> Frog`
 
-    Whenever we see Ash at a party, we also see Bee. Obviously, we conclude, Ash has asked Bee out.
+??? example "Example 2: :red_square:"
 
-This `obvious` is vulnerable to three objections:
-1. random chance, 
-2. a 3rd cause, and
-3. reversed causation.
+    True statement: All squares are rectangles.
 
-1. `We haven't been invited to that many parties. Maybe someone else often spots Ash at parties without Bee, or Bee without Ash.`
-2. `Sia independently invites both Ash and Bee.`
-3. `Bee asked out Ash.`
+    True statement (contrapositive): If a shape is not rectangular, then it cannot be a square.
+
+    False statement (illegal reversal): All rectangles are squares.
+
+    False statement (illegal negation): This shape is not a square, so it cannot be a rectangle.
+
+!!! tip "Spot conditional errors in the wild"
+
+    If you see conditional logic words like "if" "all" "unless" and especially "only" in an ARGUE argument, there's a good chance it made a conditional error.
+
+### Association isn't causation {#cause}
+
+Legally and philosophically, it's hard to prove that something *caused* something else.
+
+!!! example "Consider how long it took to prove that smoking causes cancer."
+
+You've probably a pedantic person say "correlation isn't causation."
+What's that mean?
+
+"Correlation" simply means two things are associated.
+Things can be associated in *time* (one happens, then the other happens) or *space* (wherever we see the one thing, we also see that other thing).
+
+??? example "Correlation examples"
+
+    1: In cities where a larger percentage of cyclists wear helmets, more cyclists suffer brain injuries.
+
+    2: As student confidence increases, so does speed.
+
+    3: Corporate mergers are typically followed by an increase in the price of goods.
+
+Humans brains like the neatness of causation too much.
+We're wired to rush to conclude causation from association.
+
+!!! tip "Spot Causation in the wild"
+
+    Look for association words in the facts and causation words in the conclusion.
+
+    Association words: tends to, more/less likely; increases/decreases with; before/after.
+
+    Causation words: caused by; effected by; impacts; leads to; (or any active verb).
+
+Association is evidence in favor of causation, but it isn't enough to prove causation.
+Association is vulnerable to 3 criticisms:
+
+    1. random chance, 
+    2. a 3rd cause, or
+    3. reversed causation.
+
+??? example "Example: why we can't conclude causation from correlation."
+
+    > Whenever we see Ash at a party, we also see Bee. Obviously, we can conclude that Ash has asked Bee out.
+
+    Three objections:
+
+    1. We haven't been invited to that many parties. Maybe someone else often spots Ash at parties without Bee, or Bee without Ash.
+    2. Sia independently invites both Ash and Bee.
+    3. Bee asked out Ash.
 
 ### Bad Samples {#sample}
 
-To spot this error in the wild: look for studies and numbers.
+!!! tip "Spot Sampling errors in the wild"
 
-The more the LSAT describes a study, the more suspicious you should be. Unlike real life, if the LSAT says "Research shows that Dogs are smarter than Cats" that's a Fact you should accept.
+    To spot this error in the wild: look for studies and numbers.
+
+    The more the LSAT describes the methodology of a study, the more suspicious you should be. 
+    If the LSAT says "Research shows...." that's probably just a fact you should accept.
 
 Bad samples are (1) small, (2) unrepresentative, and/or are studied with (3) suspect methods.
 
-Consider these three:
+??? question "Observations of 10,000 children revealed that people rarely wear deodorant."
 
-1. `Observations of 30 Americans revealed that Americans rarely wear deodorant.`
-1. `Observations of 10,000 children revealed that people rarely wear deodorant.`
-1. `A telephone survey of 10,000 Americans revealed that Americans rarely wear deodorant.`
+    `Children` might not act like adults. 
+    Maybe children sweat less, so they have another reason for not wearing deodorant.
 
-{% capture summary %}
-What's the problem with each?
-{% endcapture %}
-{% capture details %}
-1. `30` people is too small a group to conclude anything about hundreds of millions of people.
-1. `Children` might not act like adults. Maybe they have another reason for not wearing deodorant.
-1. The sample seems OK, but maybe people lie on the phone.
-{% endcapture %}
-{% include details.html %}
+    This study relies on an unrepresentative sample.
+
+??? question "A telephone survey of 10,000 Americans revealed that Americans rarely wear deodorant."
+
+    The sample size is large and it's comparing Americans to Americans, so it's representative.
+    
+    But maybe people lie on the phone?
+
+    This study relies on suspect methods.
+
+??? Observations of 30 Americans revealed that Americans rarely wear deodorant.
+
+    `30` people is too small a group to conclude anything about millions of people.
+
+    This study relies on a too small sample.
 
 ### Bad Comparisons {#compare}
 
 The comparison error takes two forms:
 
-- These things are alike in one way, so they must be alike in another way.
-- These things are different in one way, so they must be different in this other way.
+- *Same Same*: These things are alike in one way, so they must be alike in another way.
+- *Different Different*: These things are different in one way, so they must be different in this other way.
 
-For example:
+!!! example
 
-    Elephants and Mice are both grey mammals. Elephants are large. So mice are also large.
+    *Same Same*: Elephants and Mice are both grey mammals. Elephants are large. So mice must also be large.
     
-    This apple is red and sweet. That fruit is green and tart, so it is not an apple.
+    *Different Different*: That apple is red and sweet. But this fruit is green and tart, so this fruit must not be an apple.
 
 [1]: #poptart
-[2]: #conditionalerror
+[2]: #conditional
 [3]: #cause
 [4]: #sample
 [5]: #compare
+[conditionals]: conditionals.md

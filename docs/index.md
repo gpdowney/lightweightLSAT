@@ -1,7 +1,3 @@
----
-comments: true
----
-
 # Welcome to *the lightweight LSAT*
 
 *The lightweight LSAT* is a simple, proven, and completely free guide to the Law School Admissions Test.
@@ -158,7 +154,7 @@ If you'd like help more substantially, email <volunteer@lightweightlsat.com> wit
     
     As an alternative to the comments, you can send your thoughts by email to <feedback@lightweightlsat.com>.
 
-[lawhub]: https://www.lsac.org/lawhub
+[lawhub]: https://app.lawhub.org/library
 [game types]: game/draw/types.md
 [pizza]: https://buy.stripe.com/14k4hf7lXexNcak5kl
 [coffee]: https://buy.stripe.com/28oaFD6hT75l7U4144

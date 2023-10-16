@@ -1,58 +1,66 @@
-# The Describe Family
+# the DESCRIBE Family
 
-This page describes...
+DESCRIBE is one of the three families of questions in the Reasoning section.
+On DESCRIBE questions your job is to understand the *structure* of the argument.
 
-1. the [general patterns of all Describe family questions](#general-patterns-of-describe-family-questions), and then 
-2. how to recognize and approach the three common types, including
-    - [Conclusion](#conclusion),
-    - [Role](#role), and
-    - [Parallel](#parallel) questions.
+!!! tip
 
-## General Patterns of Describe Family Questions
+    DESCRIBE questions are sometimes easy.
+    If they feel easy, let them be easy.
 
-On Describe family questions your job is to understand the *structure* of the argument. 
+You can recognize DESCRIBE questions because they don't ask you to attack, extend, or add to the argument.
+Instead, the question uses language like "describes" or "expresses."
 
-When Describe questions feel easy, let them be easy.
+> The argument proceeds by
 
-When Describe questions feel hard, look for objective indicators of structure like **conditional logic** or **fact, conclusion, and pivot words**.
+or
 
-{% capture summary %}
-Caution: Conclusion words are sometimes untrustworthy.
-{% endcapture %}
-{% capture details %}
-In the Argue family, conclusion words reliably point to the conclusion.
+> Which of the following most accurately expresses the conclusion of the argument?
 
-But in the Describe family, particularly when your only job is to find the conclusion, the LSAT maybe use a conclusion word for a **sub-conclusion**. Sub-conclusions look like a conclusion, walk like a conclusion, even quack like a conclusion, but they actually support another, final conclusion.
-{% endcapture %}
-{% include details.html %}
-
-[Learn the fact, conclusion and pivot words.][words]
-
-[Learn conditional logic.][conditionals]
-
-Describe questions may also attempt to confuse you with **pronouns, double negatives, or commas**.
-
-[Learn how to see through these language tricks.][boil]
-
-Describe questions are Mechanical in style because you can make specific predictions. But since your job is only to understand the argument, within the Describe family, there isn't much of a difference between an anchor prediction and a specific prediction.
+All DESCRIBE questions are MECHANICAL because you can make a specific prediction.
+That said, a specific prediction on a DESCRIBE question is really just an anchor prediction.
 
 Expect the correct answer to include the exact same ideas or structure, but not necessarily the same words or content.
 
-[Learn more about Mechanical questions and predictions.][mechanical]
+Tricky DESCRIBE questions use complex structures and bad writing to confuse you.
+The arguments are likely to feature sub-conclusions, anti-theses, pronouns, and double negatives.
+To mix up the flow, the conclusion is likely to be in the middle or at the start of the argument.
 
-{% assign whatfam = "describe" %}
-{% include ApproachLR.html %}
+Navigate trickier DESCRIBE questions using structure [keywords], especially fact and pivot words, and [conditional logic][conditional].
 
-## 3 Flavors of Parallel Questions
+## ROLE
 
-Parallel questions come in 3 flavors. The question looks similar for each, so you can only tell them apart by their arguments.
+> *Blah blah blah* plays which one of the following roles/functions in the argument?
 
-Flavor | How You Can Tell | How to Approach Them
-Conditional | The argument features conditional words <br>(if, only, all, etc...) | Diagram the argument
-Flawed | The argument is bad | Choose the answer that commits the same error
-Non-Condition + <br>Non-Flawed | The argument seems solid, but doesn't use conditional logic | Match structural words <br>(like: and, or, but, so, because)
+Job description: Define the relationship between the conclusion and the "blah."
 
-[words]: break.html#distinguishing-fact-from-conclusion
+Tricks:
+
+1. Ignore the "blah," at first. Find the conclusion and then figure out how they're related.
+2. Wrong answers are typically mistaken about either (a) the conclusion or (b) their relationship.
+
+## PARALLEL
+
+> Which one of the following arguments is most similar in its pattern of reasoning to the argument above?
+
+or
+
+> The flawed pattern of reasoning exhibited by which of the following is most similar to that exhibited by the argument above?
+
+!!! note "Terminology Note"
+
+    You may have heard these called "matching" questions elsewhere.
+
+Job description: Map the argument's abstract structure.
+
+Tricks:
+
+1. If you see conditional logic, write down the structure from the start.
+1. :bat: [Count Count]{:target="_blank"}: the correct answer usually has the same number and type of facts and the same type of conclusion. Imagine yourself saying "1 conditional fact, 2 conditional facts, a conditional conclusion... Ha Ha Ha"
+1. If the argument is bad (they may or may not tell you in advance), you only need to find an argument that is bad in the same way.
+
+[keywords]: break.md#3-structural-words
 [boil]: boil.html
-[conditionals]: conditionals.html
+[conditional]: conditionals.html
 [mechanical]: predict.html
+[Count Count]: https://www.youtube.com/watch?v=fMrr6s8CSDo
