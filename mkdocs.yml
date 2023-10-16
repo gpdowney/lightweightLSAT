@@ -37,12 +37,16 @@ plugins:
       nav_file: navigation.md
 
 markdown_extensions:
+  - abbr
   - attr_list
   - admonition
   - toc:
       title: on this page
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.snippets:
+      auto_append:
+        - includes/glossary.md
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.smartsymbols:
