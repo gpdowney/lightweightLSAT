@@ -8,7 +8,9 @@ Which you aim to do first will depend on the size of the question.
 - On BIG and MEDIUM-big: Aim to **eliminate** the confused answers.
 - On SMALL and MEDIUM-small: Aim to **select** the proven answer.
 
-!!! info "[Learn about question size][size]"
+!!! info ""
+
+    Learn more: [about question size][size]
 
 Moving decisively through the answers it the best way to gain speed on the LSAT.
 
@@ -60,7 +62,9 @@ Confused answers might...
 
 Be careful of eliminating answers because you don't remember it.
 
-!!! info "[Learn about the risks of "I don't remember that"][remember]".
+!!! info ""
+
+    Learn more: [about the risks of "I don't remember that"][remember].
 
 ### Extreme Answers
 

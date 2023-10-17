@@ -6,7 +6,9 @@ This page suggests a general schedule for your studying.
 
 Take a diagnostic test to see where you're at. Do it timed, but without pressure or expectations.
 
-!!! info "[LawHub offers a few free practice tests][lawhub]{:target="_blank"}"
+!!! info ""
+
+    Find a few free practice tests on [LawHub][lawhub]{:target="_blank"}
 
 ## Beginning
 
@@ -120,7 +122,9 @@ It's easier to improve on a lower base score.
 
 For example, going from a 150 to 151 is easier than going from 160 to 161.
 
-!!! info "[Learn more about the curve and why every extra point is harder to earn][curve]"
+!!! info ""
+
+    Learn more: [about the curve and why every extra point is harder to earn][curve]
 
 ### 3\. Your background
 

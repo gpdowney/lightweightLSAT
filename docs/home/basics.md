@@ -27,7 +27,9 @@ For Reasoning, this gives you an average of **1:20** per question.
 
 Do not always aim for the average.
 
-!!! info "[More info about timing][timing]"
+!!! info ""
+
+    Learn more: [how to work on timing][timing]
 
 ### Breaks
 
@@ -86,7 +88,9 @@ Your scaled score can range from 120 to 180.
 - A 150 means you did better than 50% of test takers and worse than 50%.
 - A 180 means you did *better than* 99.9% of test takers.
 
-!!! info "[More info about the curve and how to think about your score][score]"
+!!! info ""
+
+    Learn more: [how to think about your score][score]
 
 ## The LSAT Writing
 

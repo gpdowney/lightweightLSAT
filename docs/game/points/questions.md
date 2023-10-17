@@ -300,6 +300,6 @@ If you can follow the new rule while breaking the old rule then they aren't the 
     *Sometimes* you can wizard a SUBSTITUTION question because one of the answers is a sneaky re-wording of the old rule.
     But watch out for answers that are just slightly mis-worded.
 
-[scan]: ../draw/draw.md#scan
+[scan]: ../draw/draw.md#step-1-scan
 [splits]: ../draw/splits.md
 [connections]: ../draw/connections.md

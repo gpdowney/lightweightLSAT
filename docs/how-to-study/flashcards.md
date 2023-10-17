@@ -12,7 +12,9 @@ Make flashcards to capture all of your *knowledge*, aka anything you learn *abou
 
 I strongly recommend using **Anki**, an open-source program that helps you review your flashcards efficiently using spaced repetition.
 
-!!! info "[Get Anki][anki]"
+!!! info ""
+
+    Go here to download [Anki][anki]
 
 !!! tip "Anki tips"
 

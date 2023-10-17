@@ -36,7 +36,9 @@ Problems generally fall into one of these 3 buckets:
 - gaps: a missing link between the facts and conclusion; or
 - what ifs: new facts that make the conclusion more or less probable.
 
-!!! info "[Learn how to spot flaws, gaps, and what ifs.][flaws]"
+!!! info ""
+
+    Learn more: [how to spot flaws, gaps, and what ifs][flaws]
 
 ## Solving the problem
 

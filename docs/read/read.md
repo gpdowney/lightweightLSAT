@@ -36,13 +36,17 @@ Investing in the text means moving at the pace of your understanding.
 
 That doesn't mean you need to read slowly. Instead, you should read at an adaptive speed. Slow down when you need to, speed up when you can.
 
-!!! info "[Learn how to pace yourself adaptively][pace]"
+!!! info ""
+
+    Learn more: [how to pace yourself adaptively][pace]
 
 You invest time in the text in order to grasp the central conflict. This conflict may be summed up in a single thesis sentence, or it may be more subtle.
 
 The conflict will be nuanced. It's not enough to see that author is against something; you must also understand **why** they're opposed.
 
-!!! info "[Learn how to find the nuanced conflict][conflict]"
+!!! info ""
+
+    Learn more: [how to find the nuanced conflict][conflict]
 
 ## Crush the questions
 

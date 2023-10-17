@@ -130,5 +130,5 @@ Splits are generally worth drawing out when...
 [hardIF]: ../points/questions.md#hard-if
 [option rule]: ../points/questions.md#option
 [Biconditional rule]: ../points/questions.md#iconditional
-[scan]: draw.md#step-1-scan-scan
+[scan]: draw.md#step-1-scan
 [check-for]: draw.md#step-3-check-check

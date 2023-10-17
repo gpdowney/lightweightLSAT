@@ -52,7 +52,7 @@ Verbs are crucial. Verbs are, literally, the action of a sentence.
 The LSAT hides verbs to obscure who is doing what.
 When you rephrase sentences so that they include a clear subject and verb, you help yourself make sense of the LSAT.
 
-!!! info "Law School Relevance"
+!!! note "Law School Relevance"
 
     It's not just the LSAT, judges and legal academics also love to hide verbs.
     Learning to spot verbs will help you see through legal writing.
@@ -109,7 +109,7 @@ Passive voice obscures who does what.
 
 Of lawyers' many bad writing habits, nominalizations are the worst.
 
-!!! info "Acronyms are a close 2nd. Latin is 3rd."
+!!! note "Acronyms are a close 2nd. Latin is 3rd."
 
 A nominalization is a verb that has been turned into a noun.
 Nominalizations often end in "-ion" or "-ing."

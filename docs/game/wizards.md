@@ -95,6 +95,6 @@ If you insist on being a wizard on test day. Take time to practice being a robot
 - Being a robot might improve the rigor of your thought, which will make you a better wizard.
 
 [taleb]: https://fooledbyrandomness.com/
-[scan]: draw/draw.md#scan
-[check]: draw/draw.md#check
+[scan]: draw/draw.md#step-1-scan
+[check]: draw/draw.md#step-3-check
 [pitfalls]: ../how-to-study/pitfalls.md#system

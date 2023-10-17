@@ -42,7 +42,7 @@ You'll also want to find some way to visualize all of the rules, so that you don
 
 ![example of a order game drawing][drawing]
 
-!!! Info
+!!! note
 
     Drawing is important because it allows you to put everything you know about the game on paper.
     Recording your thoughts on paper frees your brain to think about how it all fits together.
@@ -144,7 +144,7 @@ On test day, aim to finish the easier two games in under 15:00 total, so you hav
     If I let my ego drive, then I spend a lot of time just staring at the game, trying to beautiful mind it.
     
     Sprinting also reveals that I can't be purely robotic.
-    I have to make space for insights by taking small, intentional pauses like the [scan] and [check].
+    I have to make space for insights by taking small, intentional pauses like the [scan] and [checks].
 
 ## Summary of useful Games skills and knowledge
 
@@ -166,11 +166,11 @@ Secondary Skills | double [checks] and checks-for, noticing [splits], noticing [
 [make]: points/prove-it.md#make-hypos-to-answer-the-questions
 [use]: points/prove-it.md#use-hypos-effectively
 [swan]: points/swan.md
-[checks]: draw/draw.md#step-3-check-check
+[checks]: draw/draw.md#step-3-check
 [questions]: points/questions.md
 [overlap]: points/prove-it.md#smoothly-make-hypos-by-following-the-overlapping-rules
 [connections]: draw/connections.md
 [nyt]: https://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving/
 [splits]: draw/splits.md
 [sprint]: ../time/speed.md#sprint
-[scan]: draw/draw.md#step-1-scan-scan
+[scan]: draw/draw.md#step-1-scan

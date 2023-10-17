@@ -105,7 +105,9 @@ By diagramming those conditional statements, you can come up with a specific pre
 - On MECHANICAL INFER questions, diagram the facts to combine them.
 - On RULE questions, diagram the rule to see what answer follows it.
 
-!!! info "[More on conditional logic][conditional]"
+!!! info ""
+
+    Learn more: [how to use conditional logic][conditional]
 
 ??? tip "Suggested skill practice"
 

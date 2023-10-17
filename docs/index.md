@@ -109,7 +109,7 @@ And it offers a set of flexible tools that you can adapt to any situation, using
 
 *The lightweight LSAT* describes the actual system I used to score a 180 (a perfect score) on the March 2020 LSAT.
 
-!!! info "Disclaimer"
+!!! note "Disclaimer"
 
     The LSAC does not approve of this website. And I do not approve of the LSAC.
 

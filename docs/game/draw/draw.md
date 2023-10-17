@@ -4,11 +4,11 @@ Drawing games is a three-step process:
 
 Step | Goal | Recommended Time
 -- | -- | --
-1\. [Scan](#scan) | Determine the game type | 0:15-0:30
-2\. [Draw](#draw) | Put everything you know on paper | 0:45 to 1:30
-3\. [Check](#check) | Prevent errors | 0:15-0:30
+1\. [Scan](#step-1-scan) | Determine the game type | 0:15-0:30
+2\. [Draw](#step-2-draw) | Put everything you know on paper | 0:45 to 1:30
+3\. [Check](#step-3-check) | Prevent errors | 0:15-0:30
 
-## Step 1: Scan {#scan}
+## Step 1: Scan
 
 Before you start drawing, quickly scan the game to get a sense of the overall shape of the game.
 
@@ -21,7 +21,7 @@ Game Family | How to Recognize | Name of Board | Example drawing
 Order | one element at a time - more 2D - elements are ranked or ordered - first question says "acceptable order" | number line | ![order drawing][order]
 Group | multiple elements go with or in each group - more 3D - rules put elements together or keep them apart - *it's not ordered* | buckets | ![group drawing][group]
 
-!!! Note
+!!! note
 
     Your scan will become more productive when you memorize the 8 common [types].
 
@@ -41,7 +41,7 @@ Group | multiple elements go with or in each group - more 3D - rules put element
     [connections] | the same element shows up in 2 or more rules | consider combining those rules
     weirdos | something you haven't seen before | either make it the starting point for your drawing, or leave it out and just write it on the side
 
-## Step 2: Draw {#draw}
+## Step 2: Draw
 
 Once you know the general shape of the game, it's time to put pencil to paper.
 
@@ -72,11 +72,15 @@ Name | What it looks like
 2\. Index | list of all of the elements
 3\. Rules | the restrictions on the elements, using simplified symbols
 
-!!! info "[Learn how to draw boards and indexes for common game types][types]"
+!!! info ""
 
-!!! info "[Learn how to draw common rules][rules]"
+    Learn more: [how to draw boards and indexes for common game types][types]
 
-## Step 3: Check {#check}
+!!! info ""
+
+    Learn more: [how to draw common rules][rules]
+
+## Step 3: Check
 
 At minimum, the check is a chance to take a breath and collect yourself.
 

@@ -154,7 +154,9 @@ Use the timer to gather information about yourself:
 - Use the objectivity of a [*count-up* timer][count-up] to see where you spend time.
 - Use the pressure of a *count-down* timer to reveal what part of your process isn't yet smooth and automatic.
 
-!!! info "[More timing advice][timing]"
+!!! info ""
+
+    Learn more: [how to improve your timing][timing]
 
 ## Pitfall #5: Deferring to Experts {#experts}
 
@@ -175,7 +177,9 @@ Only the failures of *your* practice can reveal what *you* need to look out for.
 When you immediately look up the explanation, mostly what you learn is how to look up explanations.
 When you force yourself to struggle with difficult problems, you learn how to overcome difficulty.
 
-!!! info "[Learn about puzzle practice, the practice of sticking with problems][puzzle]"
+!!! info ""
+
+    Learn more: [How to do puzzle practice, the practice of sticking with problems][puzzle]
 
 Worst of all, when you practice deferring to experts, you're learning to not trust yourself.
 

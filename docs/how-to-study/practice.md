@@ -100,7 +100,7 @@ It's a chance to dig into all the nuances of the test.
 To notice all the tiny clues it gave you.
 To figure out what everything means.
 
-!!! info "Puzzle practice is the best way to learn the test's [patterns]"
+!!! note "Puzzle practice is the best way to learn the test's [patterns]"
 
 !!! example "Two variations on puzzle practice"
 

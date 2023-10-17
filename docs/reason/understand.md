@@ -26,7 +26,9 @@ You break down the argument by distinguishing the facts from the conclusion.
 Breaking down the argument is crucial because, on the LSAT, you must accept that the facts are true.
 You do not, however, have to accept that the facts support the conclusion.
 
-!!! info "[Learn how to dispute validity instead of truth][truth]"
+!!! info ""
+
+    Learn more: [how to dispute validity instead of truth][truth]
 
 ??? note "Context and Antithesis"
 
@@ -80,7 +82,9 @@ Try using each of these three methods to separate fact from conclusion in this s
 
     Structure word: `for`, as a fact word it indicates that the second half is the fact.
 
-!!! info "[More on how to break down arguments][break]"
+!!! info ""
+
+    Learn more: [how to break down arguments][break]
 
 ## Boil it down
 
@@ -89,7 +93,7 @@ To understand this bad writing, you may need to both translate and simplify the 
 
 You boil down arguments to clarify their essential meaning.
 
-!!! info "Law school relevance"
+!!! note "Law school relevance"
 
     In general, lawyers, judges, and legal academics are bad writers. Learning to boil down arguments will be useful for law school.
 
@@ -127,7 +131,9 @@ Boiling down an argument has two advantages:
     
     > Neo-liberal governments want competitive market mechanisms to regulate every aspect of society. To achieve this objective, neo-liberal government must intervene in every aspect of society.
 
-!!! info "[More on how to boil down arguments][boil]"
+!!! info ""
+
+    Learn more: [how to boil down arguments][boil]
 
 ## Summary
 

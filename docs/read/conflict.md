@@ -50,6 +50,8 @@ Repetition | similar words or ideas | Importance
 Questions | "?" | Conflict
 Roadmap sentences | "first we will show X, second we prove Y..." | Structure
 
-!!! info [Learn how pivots can also help in the Reasoning section][pivot]
+!!! info ""
+
+    Learn more: [how pivot words can also help in the Reasoning section][pivot]
 
 [pivot]: ../reason/break.md#pivot-words

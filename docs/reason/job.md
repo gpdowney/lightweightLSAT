@@ -56,7 +56,9 @@ Style | Type of Attention | Type of Prediction
 MECHANICAL | Pedantic. Robotic. No new ideas. | Specific
 ORGANIC | Holistic. Creative. "What if"s are welcome. | Flexible
 
-!!! info "[Learn how style shapes predictions][predict]"
+!!! info ""
+
+    Learn more: [how style shapes predictions][predict]
 
 ## 11 types
 
