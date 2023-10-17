@@ -46,5 +46,5 @@
 *[flaw]: a error in reasoning so common that it has a name.
 *[gap]: a missing link between the facts and the conclusion.
 *[what if]: an alternative possibility that makes the argument more or less likely.
-*[relevant]: an answer that address the problem in an argument.
+*[relevant]: an answer that addresses the problem in an argument.
 *[irrelevant]: an answer that doesn't address the problem in an argument.
