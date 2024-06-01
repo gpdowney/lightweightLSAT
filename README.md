@@ -6,14 +6,13 @@
 
 The site is built with MkDocs using the Material theme to take advantage of built-in features like search, comments, and navigation.
 
-Outside of comments (via github discussions) and donations (via stripe) the site collects no user data.
+Outside donations (via stripe) the site collects no user data.
 
 Here on GitHub you'll find the actual content of the site in the markdown files in the "docs" folder.
 
 ## Collaboration invited
 
-Make comment on a page, a pull request, or email <feedback@lightweightlsat.com> to share ideas.
-Or email <volunteer@lightweightlsat.com> to offer more help.
+Make a comment on a page, a pull request, or email <feedback@lightweightlsat.com> to share ideas.
 
 ## Areas for Future Growth
 
