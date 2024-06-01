@@ -47,25 +47,7 @@ You can make checklists for either of two purposes:
 1. To capture what you already do well; and/or
 1. To give yourself exact instructions for improvement.
 
-??? example "example checklist #1: approach for easy IF questions"
-
-    1. Draw a new Board with the new info.
-    1. Follow the Overlapping Rules.
-    1. Add new information to the Board.
-    1. Repeat Steps 2 + 3 to exhaustion.
-    1. Ask: Who's Left?
-
-    adapted from [this page on Games questions][easy-list].
-
-??? example "example checklist #2: how to draw all Games"
-
-    1. Scan.
-    1. Draw.
-    1. Check.
-
-    adapted from [this page on visualizing Games][draw].
-
-??? example "example checklist #3: approach for medium Reading questions"
+??? example "example checklist #1: approach for medium Reading questions"
 
     1. Anchor yourself in the author's claim.
     1. Eliminate confused answers.
@@ -75,7 +57,7 @@ You can make checklists for either of two purposes:
     
     adapted from [this page on Reading question types][read].
 
-??? example "example checklist #4: approach for all Reasoning questions"
+??? example "example checklist #2: approach for all Reasoning questions"
 
     1. Identify question type + family + style.
     1. Understand the argument.
@@ -86,7 +68,5 @@ You can make checklists for either of two purposes:
     adapted from [this page on the Reasoning section][reason]
 
 [Gawande]: http://atulgawande.com/book/the-checklist-manifesto/
-[easy-list]: ../game/points/questions.md
-[draw]: ../game/draw/draw.md
 [read]: ../read/size.md
 [reason]: ../reason/reason.md

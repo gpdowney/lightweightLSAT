@@ -2,17 +2,17 @@
 
 ## The LSAT consists of 3 graded sections
 
-1. Games
-2. Reading
-3. Reasoning
+There will be 1 section of Reading and 2 sections of Reasoning.
 
-When you take the LSAT, these sections may appear in any order.
+!!! warning "Logic Games"
+
+    Until August of 2024, there was also a "Games" section (the LSAC called it Analytic Reasoning).
+    Now you don't need to worry about them.
 
 ### There will be an 4th "experimental" section that is ungraded
 
-This experimental section could be any of the 3: Games, Reading, or Reasoning.
-
-You will not know which section ungraded.
+This experimental section could be Reading or Reasoning.
+You will not know which section is ungraded.
 
 !!! failure "Don't psych yourself out guessing which is which"
 
@@ -21,11 +21,10 @@ You will not know which section ungraded.
 
 ## You have 35:00 to complete each section
 
-For Games and Reading, this gives you an average of **8:30** for each of the 4 games/texts.
+- For Reading, this gives you an average of **8:30** for each of the 4 games/texts.
+- For Reasoning, this gives you an average of **1:20** per question.
 
-For Reasoning, this gives you an average of **1:20** per question.
-
-Do not always aim for the average.
+!!! tip "Do not always aim for the average."
 
 !!! info ""
 
@@ -41,24 +40,28 @@ If you finish a section early, you can review flagged questions within that sect
 You can't go back to the last section or ahead to the next section.
 
 If you qualify for an accommodation you may receive more time per section.
+[You can request an accommodation directly from the LSAC][accommodation]{:target="_blank"}.
 
-[Request an accommodation directly from the LSAC][accommodation]{:target="_blank"}.
-
-## You will take the test digitally and at home
+## Practice tests are available on LawHub
 
 The LSAC offers several free practice tests on [LawHub][lawhub]{:target="_blank"} you can try out.
-You can use these to get a baseline score and try out the interface.
+You can use these to get a baseline score and try out the interface you'll use on test day.
+
+For an additional $115, LawHub offers access to many more practice tests.
+This is the easiest way to access official test questions.
 
 !!! tip
 
-    If you can't afford to pay $100 for the full version of LawHub, [you can request free access from the LSAC][waiver].
+    If you can't afford to pay $115 for the full version of LawHub, [you can request a waiver from the LSAC][waiver].
+
+## You can take the test online or in-person
 
 On test day, you will be subject to a number of security-theater-requirements.
 These include limits on what can be in the room, special software you need to install, the size of your earbuds, your camera angle, how many pieces of paper you can have, etc...
 To protect yourself and prevent disruptions, learn those rules by [reading the official list of requirements][requirements]{:target="_blank"}.
 
 There will also be a proctor watching you the entire time.
-The proctor will have the power to control your computer.
+If you take the test online, the proctor will have the power to control your computer.
 
 !!! danger
 
@@ -72,6 +75,7 @@ The proctor will have the power to control your computer.
 If you have any questions about test logistics, [contact the LSAC directly][contact]{:target="_blank"}.
 Their site is often confusing, but always correct.
 Other students and test prep companies can be helpful translators, but always verify with the LSAC.
+
 Don't be afraid to hound the LSAC for information you need.
 If they don't give you what you want, ask again.
 

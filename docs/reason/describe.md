@@ -59,7 +59,7 @@ Tricks:
 1. :bat: [Count Count]{:target="_blank"}: the correct answer usually has the same number and type of facts and the same type of conclusion. Imagine yourself saying "1 conditional fact, 2 conditional facts, a conditional conclusion... Ha Ha Ha"
 1. If the argument is bad (they may or may not tell you in advance), you only need to find an argument that is bad in the same way.
 
-[keywords]: break.md#3-structural-words
+[keywords]: break.md
 [boil]: boil.md
 [conditional]: conditionals.md
 [mechanical]: predict.md

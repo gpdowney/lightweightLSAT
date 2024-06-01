@@ -12,4 +12,4 @@ for helping to make and improve this site.
 
 !!! question "Want to join this list?"
 
-    Send a note to <volunteer@lightweightlsat.com>
+    Send a note to <feedback@lightweightlsat.com>

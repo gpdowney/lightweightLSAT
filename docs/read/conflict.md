@@ -54,4 +54,4 @@ Roadmap sentences | "first we will show X, second we prove Y..." | Structure
 
     Learn more: [how pivot words can also help in the Reasoning section][pivot]
 
-[pivot]: ../reason/break.md#pivot-words
+[pivot]: ../reason/break.md

@@ -11,7 +11,7 @@ When you're uncurious, the test becomes something that happens *to* you. When yo
 
 !!! quote "Curiosity is the antidote to confirmation bias"
 
-    [Dan Kahan's research ][kahan] has shown that people tend to use new data to confirm their old beliefs.
+    [Dan Kahan's research][kahan]{:target="_blank"} has shown that people tend to use new data to confirm their old beliefs.
 
     For example, when you give research that shows humans are causing climate change to a climate change denier they tend to deny climate change more forcefully. 
 
@@ -26,10 +26,6 @@ When you're uncurious, the test becomes something that happens *to* you. When yo
 ## Beat confirmation bias on the LSAT by trying to disprove things
 
 The LSAT loves to take advantage of confirmation bias.
-
-Confirmation bias shows up, most clearly in Games on *must be true* questions.
-On must be true questions, the LSAT wants you to waste your time proving the answers could be true.
-The better approach is to try [to prove that the answers could be false][mustbe].
 
 Across the LSAT, being curious often means trying to *disprove* things.
 

@@ -19,7 +19,7 @@ There are several good reasons to go to law school, but you should have *a reaso
 
 !!! Tip
 
-    Taking a year off to backpack around the world requires *far less debt* than a single year of law school.
+    Taking a year off to backpack around the world would likely put you in *less debt* than a single year of law school.
 
 ## Law school rankings matter
 
@@ -29,7 +29,7 @@ Generally, students at higher ranked schools will have better job opportunities.
 This is especially true for public interest jobs, which tend to be the *most* competitive and scarce opportunities.
 
 There's plenty of good reasons to choose a school besides ranking.
-Important secondary factors include:
+Some important secondary factors include:
 
 - money (including scholarships and loan repayment programs),
 - location,
@@ -53,13 +53,13 @@ Yale and Stanford are consistently the top ranked schools.
 
 Top 14 schools are considered the elite.
 
-- The average admit at NYU (#5) scored a 172.
-- The average admit at UCLA (#14) scored a 171.
+- The average admit at NYU (#9) scored a 172.
+- The average admit at UCLA (#13) scored a 170.
 
 Top 40 schools are reliably excellent.
 
-- The average admit at BYU (#22) scored a 168.
-- The average admit at Wisconsin (#40) scored a 165.
+- The average admit at BYU (#28) scored a 168.
+- The average admit at Wisconsin (#36) scored a 165.
 
 Schools ranked lower can be great, but investigate them.
 Too many law schools will be happy to take your money even if they can't help you get the job you want.
@@ -67,7 +67,7 @@ Too many law schools will be happy to take your money even if they can't help yo
 !!! danger
 
     Do not go to an unaccredited law school. 
-    An unaccredited school is almost certainly a scams.
+    An unaccredited school is almost certainly a scam.
 
 !!! note
 

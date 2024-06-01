@@ -81,7 +81,7 @@ Skills only work in certain contexts.
 
 !!! example "An unhelpful skill"
 
-    Predictions are less useful in the Games section.
+    Predictions work differently on SMALL Reading questions.
 
 !!! tip
 
@@ -89,9 +89,9 @@ Skills only work in certain contexts.
 
     intention | date | iteration
     -- | -- | --
-    predict | yesterday | don't predict on games
-    predict | today | write predict down
-    predict | tomorrow | check written predict against each answer
+    predict | yesterday | don't predict on SMALL questions
+    predict | today | write predictions down
+    predict | tomorrow | check written prediction against each answer
 
 ## Puzzle Practice
 

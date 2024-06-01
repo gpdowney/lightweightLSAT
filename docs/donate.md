@@ -12,9 +12,11 @@ But if you wish to support this project, you can donate a few dollars.
 
 Buy me some [$5 coffees :coffee:][coffee]{:target="_blank"} or [$25 pizzas :pizza:][pizza]{:target="_blank"} to show your love for the site!
 
-## You're a patron, not a customer
+## Consider yourself a patron, not a customer
 
-Patrons support projects that benefit their community.
+Customers buy things they want. But you don't have to buy this. It's free.
+
+Patrons, in contrast, support projects that benefit their community.
 
 Your donation will help to keep this guide free for everyone, forever.
 Or at least until the LSAT hopefully, finally becomes irrelevant.

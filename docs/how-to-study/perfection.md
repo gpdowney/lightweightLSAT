@@ -2,16 +2,16 @@
 
 ## Perfection is fragile and expensive
 
-Perfectionism...
-
-- Makes you doubt yourself even when you're right.
-- Spends time you don't have.
-
 The test will not go perfectly...
 
 - There will be something you haven't seen before.
 - There will be something you don't understand.
 - Time will seem to pass faster (or slower).
+
+Perfectionism...
+
+- Makes you doubt yourself even when you're right.
+- Wastes time you don't have.
 
 You will not perfectly understand everything on test day or in practice. That's OK. I don't either.
 
@@ -34,9 +34,9 @@ If you don't know what your job is then either...
 
     You have no idea what type of question it is.
 
-    Option 1: Go read about the [reading question types][qs]. You'll learn how to approach a medium questions like this.
+    Option 1: Go read about the [reading question types][qs]. You'll learn how to approach a MEDIUM questions like this.
 
-    Option 2: Think about what's similar. Maybe this reminds you of the [infer family from the Reasoning section][infer]. Try to adapt that approach for this different context. It will work, imperfectly.
+    Option 2: Think about what's similar. Maybe this reminds you of the [infer question family from the Reasoning section][infer]. Try to adapt that approach for this different context. It will work, imperfectly.
 
 [qs]: ../read/size.md
 [infer]: ../reason/infer.md

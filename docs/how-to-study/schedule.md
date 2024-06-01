@@ -49,7 +49,6 @@ As you begin to do full practice tests, you'll need to pick goals that can work 
 
 Section | Skill Goal | Timing Goal
 -- | -- | --
-Games | [Keep pencil moving][smooth] | First 2 games in 15:00
 Reading | [Re-read when needed][reread] | ~3:00 per Read
 Reasoning | [Anchor predictions for hard questions][anchors] | First 12 questions in 10:00
 
@@ -134,7 +133,7 @@ You might be able to achieve your goals more quickly with small tweaks if you...
 - have a brain that works like the LSAT works; or
 - already studied formal logic.
 
-Your might need more time to rewire your brain if...
+Your might need more time to rewire your brain (or help from a teacher) if...
 
 - the LSAT seems to be speaking a foreign language;
 - after you check the answer, you can't tell why the wrong answers are wrong; or
@@ -151,4 +150,4 @@ Your might need more time to rewire your brain if...
 [sprint]: ../time/speed.md#sprint
 [smooth]: ../game/points/prove-it.md#smoothly-make-hypos-by-following-the-overlapping-rules
 [reread]: ../read/pace.md
-[anchors]: ../reason/predict.md#anchor-in-understanding
+[anchors]: ../reason/predict.md#anchor-in-your-understanding

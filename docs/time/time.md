@@ -3,7 +3,7 @@
 Timing is the biggest challenge of the LSAT.
 
 Many students could get a top score if there wasn't a time limit.
-And then it wouldn't be a top score anymore.
+(And then, because the test is curved, that wouldn't be a top score anymore.)
 
 To finish the test on time, you need to be able to...
 
@@ -30,20 +30,6 @@ In general, gain time on easier questions, so that you can take your time on har
 
     If you aren't close to your test day score goals, modify these targets by giving yourself more time or doing fewer questions.
     If you're doing [skill] practice, give yourself much more time to do even fewer questions.
-
-=== "Easiest game"
-    Total: 6:00
-
-    Scan, Draw, Check: 1:00
-
-    Each question: 0:30 +/- 0:15
-
-=== "Hardest game"
-    Total: 12:00
-
-    Scan, Draw, Check: 3:00
-
-    Each question: 1:00
 
 === "Reading"
     Text: 3:00 +/- 0:30

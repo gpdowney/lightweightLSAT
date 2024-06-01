@@ -118,6 +118,6 @@ Knowing a question's specific type gives you even more detailed instructions abo
 [ohelp]: argue.md#organic-help-questions
 [mhelp]: argue.md#mechanical-help-questions
 [depends]: argue.md#depends-questions
-[agree]: infer.md#agree
+[agree]: infer.md#disagree
 [mbf]: infer.md#must-be-false
 [rule]: infer.md#rule

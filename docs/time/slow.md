@@ -40,12 +40,6 @@ At minimum take a breath, then remind yourself what you need to do next.
 
 When you ignore your confusion in order to rush ahead, you risk compounding errors.
 
-??? example "When a rule doesn't make sense..."
-
-    While playing a game, if a rule seems to have an ambiguous meaning, you probably misread it.
-
-    If you play that game without stopping to clarify your understanding, you're likely to get many questions wrong.
-
 Confusion is not always your fault.
 Your confusion can also reveal the LSAT's traps and secrets.
 
@@ -73,11 +67,11 @@ Rushing can lead to "silly" mistakes, like missing a "not."
 You may be tempted to slow down uniformly in order to prevent these small errors.
 But the better solution is to recognize which "silly" mistakes your personal brain makes, and then make a plan for preventing those specific errors.
 
-??? example "Answering the wrong question in Games"
+??? example "Answering the wrong question"
 
-    I often forget that I'm doing a "must be" question.
-    I get distracted looking for "could be"s to disprove the answer. 
-    Then I select an answer that I just disproved.
+    I often try to attack the argument on "Help" questions.
+    I get so distracted trying to find the problem that I eliminate the correct answer. 
+    Then I select an answer that does exactly the opposite of what the question asked me to do.
 
     This happens often enough that I've added a redundancy to my Games process: I quickly re-read questions after I select an answer.
 

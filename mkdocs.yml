@@ -1,12 +1,8 @@
 site_name: the lightweight LSAT
 site_url: https://lightweightlsat.com
-repo_url: https://github.com/gpdowney/lightweightLSAT
-repo_name: lightweightLSAT
-edit_uri: edit/main/docs/
 
 theme:
   name: material
-  custom_dir: overrides
   font: 
     text: 'B612'
   icon:
@@ -23,15 +19,8 @@ theme:
     - navigation.tabs
     - navigation.footer
     - navigation.expand
-    - content.action.view
-    - content.action.edit
 
 plugins:
-  - git-revision-date-localized:
-      type: date
-      fallback_to_build_date: true
-      enable_creation_date: false
-      enabled: false
   - search
   - literate-nav:
       nav_file: navigation.md

@@ -1,7 +1,8 @@
 # Reading
 
 The LSAT is a demanding text.
-To get more comfortable with demanding texts, read more.
+
+To get more comfortable with it's demanding language, try reading more.
 
 This is a list of some demanding books I've enjoyed.
 
@@ -9,7 +10,7 @@ This is a list of some demanding books I've enjoyed.
 
     Is there an insightful or challenging book that helped make the LSAT feel easier for you?
 
-    Add it it the comments below!
+    Send me a note at feedback@lightweightlsat.com
 
 ??? note "Note on the links below"
 
@@ -33,7 +34,7 @@ Alder and Van Doren, [How to Read a Book](https://bookshop.org/p/books/how-to-re
 
 Goleman, [Focus](https://bookshop.org/books/focus-the-hidden-driver-of-excellence/9780062114969)
 
-## Legal writing and philosophy to give you a conceptual edge in law school
+## Legal writing and philosophy that might also give you a conceptual edge in law school
 
 the [Law and Political Economy Project Blog](https://lpeproject.org/blog/)
 

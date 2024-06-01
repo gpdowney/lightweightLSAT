@@ -11,7 +11,7 @@ Get faster by...
 
 ??? question "Is your sense of time reliable?"
 
-    I often feel like I'm speeding through games because my brain is working like crazy to figure them out.
+    I often feel like I'm speeding through a hard Reading passage because my brain is working like crazy to figure it out.
     But in fact, my stopwatch reveals that I've been staring at the page for 5 minutes.
 
     I sometimes rush through hard Reasoning questions because I feel like I'm going too slowly.
@@ -29,7 +29,6 @@ The advantage of a count-up timer is that (1) there's less pressure and (2) you 
 
     When you hit the lap button | What it tells you
     -- | --
-    After each game | How much time each game took. How much time you left for the last game.
     After each question | Which questions are hard for you.
     After each step in the process within a single question | Where your process isn't smooth. If you're actually doing every step.
 
@@ -65,11 +64,11 @@ Spotting these [patterns], and knowing what to do about them, will save you prec
 
 ## Appropriate confidence
 
-confidence level | acts like every question is | wastes time by | tries to be a | cure
+confidence level | acts like every question is | wastes time by | tries to be | cure
 -- | -- | -- | -- | --
-under-confidence | hard | waffling / overthinking | [knight] | fake it till you make it
-over-confidence | easy | staring / reinventing the wheel | [wizard] / cowboy | [checklists]
-appropriate-confidence | easy until proven otherwise | [puzzling][puzzle] | robot | taking the test
+under-confidence | hard | waffling / overthinking | a [knight] | fake it till you make it
+over-confidence | easy | staring / reinventing the wheel | a cowboy | [checklists]
+appropriate-confidence | easy until proven otherwise | [puzzling][puzzle] | a [curious] robot | taking the test
 
 Appropriate confidence basically means trusting your subjective feeling of difficulty.
 
@@ -88,7 +87,6 @@ Appropriate confidence basically means trusting your subjective feeling of diffi
 
 !!! example
 
-    - Games: 1 game in 4:00
     - Reading: normal read (~3:00) then 0:20 per question
     - Reasoning: 6 questions in 3:00
 
@@ -110,5 +108,5 @@ In this way, the pressure may reveal that some parts of your process are unneces
 [race]: ../how-to-study/practice.md#race-practice
 [checklists]: ../how-to-study/checklists.md
 [flash-cards]: ../how-to-study/flashcards.md
-[wizard]: ../game/wizards.md
 [knight]: ../how-to-study/pitfalls.md#system
+[curious]: ../how-to-study/curious.md
