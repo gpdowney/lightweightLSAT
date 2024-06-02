@@ -17,7 +17,7 @@ But the LSAT **tests your skills**.
 
 Knowledge-based tests are easier to study for.
 On a knowledge-based test, each wrong answer teaches you a concrete lesson you can apply on future tests.
-The more question you do, the more you learn.
+The more questions you do, the more you learn.
 
 ??? example "Example of a knowledge-based lesson"
 

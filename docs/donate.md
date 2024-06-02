@@ -4,7 +4,7 @@
 The content is open source, hosted on [GitHub] and licensed under [Creative Commons BY-SA 4.0][license] so you can freely reuse it.
 
 There's no catch, no upsell, no paywalls, no ads, no data collection.
-And, I can't take your money for tutoring because I'm retired from LSAT teaching.
+And I can't take your money for tutoring because I'm retired from LSAT teaching.
 
 But if you wish to support this project, you can donate a few dollars.
 
