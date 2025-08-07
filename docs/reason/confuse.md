@@ -58,7 +58,7 @@ And there's 4 wrong answers on every question.
     The science of making tests like the LSAT is called "psychometrics." 
     The test-makers are psychometricians.
 
-    They how your brain works better than you do.
+    They know how your brain works better than you do.
     And every time they offer a test, they learn more.
     They have experimented on millions of students like you.
 
