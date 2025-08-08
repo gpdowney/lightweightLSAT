@@ -18,7 +18,7 @@ Make a comment on a page, a pull request, or email <feedback@lightweightlsat.com
 
 ### Publicity
 
-The site has not been shared widely.
+The site has not been shared widely. Except in August 2025 someone shared it on HackerNews and it made the front page.
 
 ### Videos
 
