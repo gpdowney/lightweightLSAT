@@ -21,13 +21,15 @@ The more questions you do, the more you learn.
 
 ??? example "Example of a knowledge-based lesson"
 
-    A history exam might ask a question like "When was the US Constitution ratified?"
+    A history exam might ask a question like "When was the US Constitution become ratified?"
 
     Suppose you pick answer "(a) 1776".
-    Then you look at the answer key and you see that the correct answer was actually "(b) 1789".
+    Then you look at the answer key and you see that the correct answer was actually "(b) 1788".
 
     This correct answer provides an immediate and obvious lesson.
-    You can make a flashcard that says "year Constitution ratified" on one side, and "1789" on the other.
+    You can make a flashcard that says "year Constitution effective" on one side, and "1788" on the other.
+
+    (P.S. Thanks to the smart readers who noticed I initially had the wrong year down, and who also noticed that "ratified" is somewhat indeterminate when it comes to the Constitution. But the real LSAT is unlikely to make those kinds of mistakes. On the real LSAT, there's only 1 correct answer, and it's definitely correct.)
 
 Skills-based tests don't repeat themselves; at least not so obviously.
 On a skill-based test, like the LSAT, you have to dig deeper to learn a useful lesson.
@@ -124,4 +126,5 @@ If you're feeling thankful, you can buy me a $5 [coffee :coffee:][coffee]{:targe
 [pizza]: https://buy.stripe.com/14k4hf7lXexNcak5kl
 [coffee]: https://buy.stripe.com/28oaFD6hT75l7U4144
 [patterns]: how-to-study/patterns.md
+
 [skills]: how-to-study/practice.md#skill-practice
