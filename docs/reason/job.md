@@ -64,7 +64,7 @@ ORGANIC | Holistic. Creative. "What if"s are welcome. | Flexible
 
 Many questions can be answered by knowing the question's family and style.
 
-There 9 special Reasoning question *types* that are worth memorizing:
+There are 9 special Reasoning question *types* that are worth memorizing:
 
 Type | Example | Family | Style
 -- | -- | -- | --
@@ -74,7 +74,7 @@ Type | Example | Family | Style
 [ORGANIC-HELP][ohelp] | "Which of the following, if true, most supports the conclusion?" | ARGUE | ORGANIC
 [MECHANICAL-HELP][mhelp] | "Which of the following principles, if valid, would justify the argument above?" | ARGUE | MECHANICAL
 [DEPENDS][depends] | "Which one of the following is an assumption the argument requires?" | ARGUE | BOTH
-[(DIS)AGREE][agree] | "Which of the following is the the economist most likely to agree with" | INFER | ORGANIC
+[(DIS)AGREE][agree] | "Which of the following is the economist most likely to agree with" | INFER | ORGANIC
 [MUST BE FALSE][mbf] | "Which of the following must be false based on the above?" | INFER | MECHANICAL
 [RULE][rule] | "Which of the following examples conforms to the principles stated above?" | INFER | MECHANICAL
 
