@@ -24,7 +24,7 @@
 *[flexible prediction]: A sense of the argument's problem so you can be open to different solutions (or attacks).
 *[anti-thesis]: The view the argument is against. Often signaled by pivot words.
 *[sub-conclusion]: Walks like a conclusion, talks like a conclusion, quacks like a conclusion, but it's actually a fact.
-*[flaw]: a error in reasoning so common that it has a name.
+*[flaw]: an error in reasoning so common that it has a name.
 *[gap]: a missing link between the facts and the conclusion.
 *[what if]: an alternative possibility that makes the argument more or less likely.
 *[relevant]: an answer that addresses the problem in an argument.
