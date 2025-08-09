@@ -55,7 +55,7 @@ Most other test prep systems aim to be complete.
 They teach you how to handle every possible situation that has ever happened on the LSAT.
 But when you go to actually take the test, all this knowledge gets in your way.
 
-In contrast, *the lightweight LSAT* aims to offer you with flexible tools you can *actually use* on test day.
+In contrast, *the lightweight LSAT* aims to offer you flexible tools you can *actually use* on test day.
 These flexible tools are:
 
 1. **Patterns** - memorizing common [patterns] helps you navigate the test more efficiently.
@@ -95,7 +95,7 @@ This website describes a system that works for my brain.
 Your brain is different.
 So you *must* adapt my system for yourself.
 
-Here are some practical tips for making the *the lightweight LSAT* work for you:
+Here are some practical tips for making *the lightweight LSAT* work for you:
 
 - **Test out ideas.** Try to apply my suggestions one at a time. Use practice questions to run mini-experiments to test whether my recommendations work for you.
 - **Start small and slow.** Try out new skills on easier questions and without a timer. Gradually add in difficulty and time pressure.
@@ -118,7 +118,7 @@ This is version 0.7 of *the lightweight LSAT*.
 In other words, it's still a rough draft.
 There's considerable room for improvement.
 
-Please share your confusions, questions, and successes by emailing <feedback@lightweightlast.com>.
+Please share your confusions, questions, and successes by emailing <feedback@lightweightlsat.com>.
 
 If you're feeling thankful, you can buy me a $5 [coffee :coffee:][coffee]{:target="_blank"} or $25 [pizza :pizza:][pizza]{:target="_blank"}.
 
@@ -128,3 +128,4 @@ If you're feeling thankful, you can buy me a $5 [coffee :coffee:][coffee]{:targe
 [patterns]: how-to-study/patterns.md
 
 [skills]: how-to-study/practice.md#skill-practice
+
