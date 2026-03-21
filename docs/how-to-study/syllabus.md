@@ -10,7 +10,7 @@ This is a list of some demanding books I've enjoyed.
 
     Is there an insightful or challenging book that helped make the LSAT feel easier for you?
 
-    Send me a note at feedback@lightweightlsat.com
+    Add your recommendations to this page [on github](https://github.com/gpdowney/lightweightLSAT/blob/main/docs/how-to-study/syllabus.md)
 
 ??? note "Note on the links below"
 
@@ -40,7 +40,7 @@ the [Law and Political Economy Project Blog](https://lpeproject.org/blog/)
 
 the Law Journal of whatever school you most want to attend
 
-Graeber and Wengrow, [the Dawn of Everything](https://bookshop.org/p/books/the-dawn-of-everything-a-new-history-of-humanity-david-graeber/15873078) (or [check out my notes on *Dawn*](https://gpdetc.org/Dawn-of-Somethings/))
+Graeber and Wengrow, [the Dawn of Everything](https://bookshop.org/p/books/the-dawn-of-everything-a-new-history-of-humanity-david-graeber/15873078) (or [check out my notes on *Dawn*](https://dawn.gpdetc.org/))
 
 Graeber, [Debt](https://bookshop.org/books/debt-the-first-5-000-years-updated-and-expanded/9781612194196)
 
