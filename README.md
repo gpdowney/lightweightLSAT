@@ -10,20 +10,6 @@ Outside donations (via stripe) the site collects no user data.
 
 Here on GitHub you'll find the actual content of the site in the markdown files in the "docs" folder.
 
-## Collaboration invited
-
-Make a comment on a page, a pull request, or email <feedback@lightweightlsat.com> to share ideas.
-
-## Areas for Future Growth
-
-### Publicity
-
-The site has not been shared widely. Except in August 2025 someone shared it on HackerNews and it made the front page.
-
-### Videos
-
-Videos could provide more in-depth walk-throughs for some of the concepts.
-
 ## Intellectual Property
 
 All original content is protected by Creative Commons Attribution-ShareAlike 4.0. This means you may adapt and share it for any purpose, as long as you both (1) give appropriate credit and (2) share under similarly open terms. See [the License](LICENSE.txt) for more information.
