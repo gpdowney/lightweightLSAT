@@ -118,9 +118,9 @@ This is version 0.7 of *the lightweight LSAT*.
 In other words, it's still a rough draft.
 There's considerable room for improvement.
 
-Please share your confusions, questions, and successes by emailing <feedback@lightweightlsat.com>.
+You can [share feedback on github](https://github.com/gpdowney/lightweightLSAT/).
 
-If you're feeling thankful, you can buy me a $5 [coffee :coffee:][coffee]{:target="_blank"} or $25 [pizza :pizza:][pizza]{:target="_blank"}.
+If you're feeling thankful, you can buy me a [coffee :coffee:][coffee]{:target="_blank"} or [pizza :pizza:][pizza]{:target="_blank"}.
 
 [lawhub]: https://app.lawhub.org/library
 [pizza]: https://buy.stripe.com/14k4hf7lXexNcak5kl
