@@ -210,7 +210,7 @@ Try to diagram and combine this:
 
 Your job is to extract the argument's structure and find the same structure in the answers.
 
-Generally, you'll should diagram the argument.
+Generally, you should diagram the argument.
 You may need to also diagram answer choices that seem close until you find an exact match.
 
 !!! example
