@@ -7,9 +7,9 @@ There will be 1 section of Reading and 2 sections of Reasoning.
 !!! warning "Logic Games"
 
     Until August of 2024, there was also a "Games" section (the LSAC called it Analytic Reasoning).
-    Now you don't need to worry about them.
+    Now you don't need to worry about it.
 
-### There will be an 4th "experimental" section that is ungraded
+### There will be a 4th "experimental" section that is ungraded
 
 This experimental section could be Reading or Reasoning.
 You will not know which section is ungraded.
@@ -17,11 +17,11 @@ You will not know which section is ungraded.
 !!! failure "Don't psych yourself out guessing which is which"
 
     Don't bother trying to figure out which section is the "experimental" one on test day.
-    Guessing is, at best. a distraction.
+    Guessing is, at best, a distraction.
 
 ## You have 35:00 to complete each section
 
-- For Reading, this gives you an average of **8:30** for each of the 4 games/texts.
+- For Reading, this gives you an average of **8:45** for each of the 4 texts.
 - For Reasoning, this gives you an average of **1:20** per question.
 
 !!! tip "Do not always aim for the average."
@@ -47,26 +47,28 @@ If you qualify for an accommodation you may receive more time per section.
 The LSAC offers several free practice tests on [LawHub][lawhub]{:target="_blank"} you can try out.
 You can use these to get a baseline score and try out the interface you'll use on test day.
 
-For an additional $115, LawHub offers access to many more practice tests.
+For an additional $120 a year, LawHub offers access to many more practice tests.
 This is the easiest way to access official test questions.
 
 !!! tip
 
-    If you can't afford to pay $115 for the full version of LawHub, [you can request a waiver from the LSAC][waiver].
+    If you can't afford to pay $120 for the full version of LawHub, [you can request a waiver from the LSAC][waiver].
 
-## You can take the test online or in-person
+## You take the test in person
 
-On test day, you will be subject to a number of security-theater-requirements.
-These include limits on what can be in the room, special software you need to install, the size of your earbuds, your camera angle, how many pieces of paper you can have, etc...
+Since August 2026, nearly everyone takes the LSAT in person at a Prometric test center.
+Remote testing is only available as a limited exception, for certain medical accommodations or extreme hardship.
+
+On test day, you will be subject to a number of security-theater requirements.
+These include ID checks, limits on what you can bring into the room, how many pieces of paper you can have, etc.
 To protect yourself and prevent disruptions, learn those rules by [reading the official list of requirements][requirements]{:target="_blank"}.
 
 There will also be a proctor watching you the entire time.
-If you take the test online, the proctor will have the power to control your computer.
 
 !!! danger
 
     The proctors are unreliable.
-    Students frequent report that their proctors made a mistake.
+    Students frequently report that their proctors made a mistake.
 
     Expect something bad to happen so you don't get thrown off on test day.
     
@@ -83,26 +85,28 @@ If they don't give you what you want, ask again.
 
 The LSAT is graded on a curve.
 
-That means your score consists of both a "raw" score, which is the total number of questions you got right.
-As well as a scaled score, which indicates how many people you did better than.
+That means your score consists of both a "raw" score, which is the total number of questions you got right, and a scaled score, which indicates how many people you did better than.
 
 Your scaled score can range from 120 to 180.
 
 - A 120 means that you did *worse than* 99.9% of test takers.
-- A 150 means you did better than 50% of test takers and worse than 50%.
+- A 150 means you did better than about 37% of test takers.
+- A score around 153 or 154 puts you in the middle of the pack.
 - A 180 means you did *better than* 99.9% of test takers.
 
 !!! info ""
 
     Learn more: [how to think about your score][score]
 
-## The LSAT Writing
+## LSAT Argumentative Writing
 
-In addition to the 4 multiple choice sections, you'll need to write a short essay in 35 minutes.
+In addition to the 4 multiple choice sections, you'll need to write a short argumentative essay.
+You get 50 minutes in one sitting: 15 minutes of prewriting, then 35 minutes to write.
 You'll do this Writing section at a different time.
 
-My suggestion would be to do it about 3 days after your test day.
-That gives you a day or two to prepare, which is all you need.
+Your score won't be released until you have a completed writing sample on file.
+So my suggestion would be to do it shortly before or right after your test day.
+A day or two of preparation is all you need.
 Practice once or twice before you do it for real.
 Otherwise, don't worry about it much.
 
@@ -129,9 +133,9 @@ For more information, [read the LSAC's official advice about the writing sample]
 [lawhub]: https://app.lawhub.org/library
 [timing]: ../time/time.md
 [accommodation]: https://www.lsac.org/lsat/lsac-policy-accommodations-test-takers-disabilities
-[requirements]: https://www.lsac.org/lsat/taking-lsat/getting-ready-your-lsat-exam
+[requirements]: https://www.lsac.org/lsat/taking-lsat/in-person-checklist
 [contact]: https://www.lsac.org/contact
-[writing]: https://www.lsac.org/lsat/taking-lsat/about-lsat-writing
+[writing]: https://www.lsac.org/lsat/about/lsat-argumentative-writing
 [score]: ../how-to-study/scores.md
 [waiver]: https://www.lsac.org/lsat/lsat-dates-deadlines-score-release-dates/lsat-cas-fees/fee-waivers-lsat-credential-assembly
 [feedback]: https://www.lsac.org/lsat/taking-lsat/lsat-test-day-complaints-and-feedback

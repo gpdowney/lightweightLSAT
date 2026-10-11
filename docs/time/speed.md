@@ -4,14 +4,14 @@ Get faster by...
 
 1. using the timer as a teacher rather than a judge,
 1. recognizing common patterns,
-1. appropriate confidence, and
+1. building appropriate confidence, and
 1. sprinting.
 
 ## Timer as teacher, not a judge {#count-up}
 
 ??? question "Is your sense of time reliable?"
 
-    I often feel like I'm speeding through a hard Reading passage because my brain is working like crazy to figure it out.
+    I often feel like I'm speeding through a hard Reading text because my brain is working like crazy to figure it out.
     But in fact, my stopwatch reveals that I've been staring at the page for 5 minutes.
 
     I sometimes rush through hard Reasoning questions because I feel like I'm going too slowly.
@@ -20,7 +20,7 @@ Get faster by...
 When timing yourself you don't always need to use a *count-down* timer.
 You can also use a *count-up* timer, like a stopwatch.
 
-Count-up timers provide a more objective perspective on how you spend you time.
+Count-up timers provide a more objective perspective on how you spend your time.
 You can then use this more objective information to identify problem areas and make an informed plan about where you actually want to invest your time.
 
 The advantage of a count-up timer is that (1) there's less pressure and (2) you can track in detail how much time you spend on each part of your process.
@@ -42,23 +42,23 @@ But it often repeats itself in form.
 Spotting these [patterns], and knowing what to do about them, will save you precious time and brainpower.
 
 - Learn the common patterns by reading about the test and through [puzzle] practice.
-- Use [flash cards][flash-cards] and [checklists] to memorize the patterns and your job when you spot them so you don't clutter your mind with half-remembered strategies.
+- Use [flashcards][flash-cards] and [checklists] to memorize the patterns and your job when you spot them so you don't clutter your mind with half-remembered strategies.
 - Deliberate [skill] practice will help you recognize those patterns in the wild. Then [race] practice will test whether you've truly made those skills automatic.
 
 ??? tip "Practice suggestion: rapid fire recognition"
 
-    Try to name the types of 5 question in less than 0:10 seconds.
+    Try to name the types of 5 questions in less than 0:10.
     Then do 10 in 0:15.
     An entire section in 0:30.
 
-    Go back with time, to see if you were right.
+    Go back, with time, to see if you were right.
     When in doubt, try to solve the question and see if the strategies from the type you identified help solve it.
 
-    Deeply review every questions that you hesitated on.
+    Deeply review every question that you hesitated on.
     Try to find the keywords that tell you what question it is.
     Make a flashcard: "keyword a, keyword b" / "question type"
 
-    Use this for questions in every section, as well as Game types and Game rules.
+    Use this for questions in every section.
 
     Add challenge (and some time) by also articulating what your strategy should be for that question.
 
@@ -66,8 +66,8 @@ Spotting these [patterns], and knowing what to do about them, will save you prec
 
 confidence level | acts like every question is | wastes time by | tries to be | cure
 -- | -- | -- | -- | --
-under-confidence | hard | waffling / overthinking | a [knight] | fake it till you make it
-over-confidence | easy | staring / reinventing the wheel | a cowboy | [checklists]
+under-confidence | hard | waffling / overthinking | a [Knight][knight] | fake it till you make it
+over-confidence | easy | staring / reinventing the wheel | a Cowboy | [checklists]
 appropriate-confidence | easy until proven otherwise | [puzzling][puzzle] | a [curious] robot | taking the test
 
 Appropriate confidence basically means trusting your subjective feeling of difficulty.

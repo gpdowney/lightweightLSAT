@@ -8,62 +8,64 @@ Which means you cannot directly change your score.
 
 You can only change your behavior.
 
-When you pay attention to your score, you allow yourself to be emotionally controlled by the Test.
+When you pay attention to your score, you allow yourself to be emotionally controlled by the test.
 
 When you pay attention to your behavior you put yourself in control.
 
-## The Curve
+## The curve
 
-Your Raw Score is the number of questions you got correct. Each question is worth 1 point. There's no penalty for getting a question wrong.
+Your raw score is the number of questions you got correct. Each question is worth 1 point. There's no penalty for getting a question wrong.
 
-Your Scaled Score is the measure of how well you did compared to other Test-Takers.
+Your scaled score is the measure of how well you did compared to other test-takers.
 
-The Scaled Score ranges from 120 (worst) to 180 (best).
+The scaled score ranges from 120 (worst) to 180 (best).
 
-- 150 is just below average.
-- 155 means you did better than about 60% of Test-Takers.
-- 160 = better than 80%
-- 165 = better than 90%
-- 170 = better than 97.5%
-- 173 = better than 99%
+- 150 means you did better than about 37% of test-takers.
+- 155 = better than 54%
+- 160 = better than 71%
+- 165 = better than 85%
+- 170 = better than 94%
+- 173 = better than 98%
 
-This Scaled Score is meant to be consistent over time.
+(These percentiles come from the LSAC's data for the 2023-2026 testing years.)
 
-A 165 is supposed to mean you outperformed 90% of all Test-Takers, whether they took the Test in February or August, 2002 or 2022.
+This scaled score is meant to be consistent over time.
 
-But the Tests are inconsistent. Some are easier and some are harder. So the LSAC uses a very complicated formula to transform Raw Scores into Scaled Scores.
+A 165 is supposed to mean you outperformed 85% of all test-takers, whether they took the test in February or August, 2002 or 2022.
 
-To convert your Raw Score into a Scaled Score, you must use a score conversion chart specific to that Test. Most of the [conversion charts are available from the LSAC][conversions]{:target="_blank"}.
+But the tests are inconsistent. Some are easier and some are harder. So the LSAC uses a very complicated formula to transform raw scores into scaled scores.
 
-## The Test Serves the Curve
+To convert your raw score into a scaled score, you must use a score conversion chart specific to that test. Most of the [conversion charts are available from the LSAC][conversions]{:target="_blank"}.
 
-Every question is meant to sort Test-Takers along the Curve.
+## The test serves the curve
+
+Every question is meant to sort test-takers along the curve.
 
 That easy question might have been designed to separate the 134 scorer from the 135 scorer. If that's not you, let it be easy.
 
-Conversely, that crazy question might be been designed to distinguish a 180 scorer from a 179 scorer. If that's not you, you don't need that point.
+Conversely, that crazy question might have been designed to distinguish a 180 scorer from a 179 scorer. If that's not you, you don't need that point.
 
-## Easier Tests are Actually Harder
+## Easier tests are actually harder
 
-When more Test-Takers do better, the Curve must be harsher.
+When more test-takers do better, the curve must be harsher.
 
-A harsh Curve means you cannot afford as many mistakes. To get the same Scaled Score, you'll need a higher Raw Score.
+A harsh curve means you cannot afford as many mistakes. To get the same scaled score, you'll need a higher raw score.
 
-So when a Test feels hard that might actually be a good thing. A hard Test gives you more breathing room. A hard Test gives you a chance to pass the smart Test-Takers who are freaking out.
+So when a test feels hard that might actually be a good thing. A hard test gives you more breathing room. A hard test gives you a chance to pass the smart test-takers who are freaking out.
 
-## Most Test-Takers are Average {#average}
+## Most test-takers are average {#average}
 
-Did you notice how many Test-Takers will score between 150 and 160? Fully 33% of Test-Takers will score in the 150s. To pass this herd, you must act and study differently.
+Did you notice how many test-takers will score between 150 and 160? Roughly a third of test-takers will score in the 150s. To pass this herd, you must act and study differently.
 
-To go from a 155 to a 165, you'll have to pass 30% of all Test-Takers. And not any 30%, but the 60th-90th percentile; these are very capable Test-Takers.
+To go from a 155 to a 165, you'll have to pass about 31% of all test-takers. And not any 31%, but the 54th-85th percentile; these are very capable test-takers.
 
-To go from a 165 to a 170, you have to pass another 7.5%. This 7.5% is the best of the best.
+To go from a 165 to a 170, you have to pass another 9%. This 9% is the best of the best.
 
 ## Not all points are equal
 
 Every point you gain makes the next increase more difficult. The better you do, the harder your competition. It's like a video game where each level gets progressively more challenging.
 
-## The Margin of Error
+## The margin of error
 
 The LSAT is a reliable test. Even the margin of error is consistent at about 2.5 scaled points.
 

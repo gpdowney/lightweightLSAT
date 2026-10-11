@@ -19,7 +19,7 @@ If you thought something on the LSAT was hard, then it was hard.
 
 If you thought it was easy, then it was easy.
 
-## Suggested Timing Benchmarks
+## Suggested timing benchmarks
 
 In general, gain time on easier questions, so that you can take your time on harder questions.
 
@@ -41,7 +41,8 @@ In general, gain time on easier questions, so that you can take your time on har
 
     Last 10 questions: 15:00
 
-    Revisit flagged question: 10:00
+    Revisit flagged questions: 10:00
 
 [speed]: speed.md
 [slow]: slow.md
+[skill]: ../how-to-study/practice.md#skill-practice

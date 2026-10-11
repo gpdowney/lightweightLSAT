@@ -10,7 +10,7 @@
     
     Top baseball players (1) see through the pitcher's attempts at disguise to (2) notice the tiny clues that actually matter, and (3) immediately know what those clues mean about where the ball is going.
 
-    Source: paraphrased from [David Epstein's *the Sports Gene* ][epstein]{:target="_blank"}
+    Source: paraphrased from [David Epstein's *The Sports Gene* ][epstein]{:target="_blank"}
 
 Pattern recognition is the key to speed on the LSAT.
 To recognize patterns you must...
@@ -19,7 +19,7 @@ To recognize patterns you must...
 1. Notice small clues, and
 1. Know automatically what those clues indicate.
 
-There are three methods to improving your capacity to recognize the LSAT's pattern.
+There are three methods for improving your capacity to recognize the LSAT's patterns.
 
 Ranked from *worst to best* they are:
 
@@ -27,7 +27,7 @@ Ranked from *worst to best* they are:
 1. Reading about the test
 1. Curiosity + Flashcards
 
-## Brute Force
+## Brute force
 
 This is the hard way.
 It involves doing every question you can get your hands on and hoping to absorb the LSAT's lessons as if by osmosis.
@@ -40,7 +40,7 @@ But volume itself is not enough.
 Without introspection and reflection, you're unlikely to learn from your practice.
 In fact, you're more likely to build bad habits.
 
-## Reading About the Test
+## Reading about the test
 
 The lowest level of reflection is looking up how an expert solved the problems you got wrong.
 
@@ -63,7 +63,7 @@ There's no shame in asking for help. But seeking out an expert should be your la
     This means that we are intellectually stimulated by the hard stuff. 
     Which means we're easily tempted into spending *your* time and energy on the rarest and trickiest problems.
 
-## Puzzling with Curiosity + Flashcards
+## Puzzling with curiosity + flashcards
 
 Struggling through problems, aka [puzzle practice][puzzle], is
 
@@ -74,7 +74,7 @@ Struggling through problems, aka [puzzle practice][puzzle], is
 ### Curiosity allows you to see your mistakes
 
 It's hard to notice what you didn't notice.
-The key to identifying patterns while puzzling is by getting [curious].
+The key to identifying patterns while puzzling is getting [curious].
 Curiosity helps you get past the cognitive and emotional barriers that prevent your brain from recognizing your errors.
 
 Open up space for curiosity by being generous with yourself.
@@ -82,9 +82,9 @@ Open up space for curiosity by being generous with yourself.
 - Give yourself time. If you redo a question immediately, you'll probably do it the same (wrong) way again.
 - Give yourself credit. You can figure this test out. There's always one right answer and four wrong answers; and you're allowed to know which is which before you start puzzling.
 
-### flashcards make pattern recognition automatic
+### Flashcards make pattern recognition automatic
 
-[flashcards] are the key to quickly recognizing those patterns in the future.
+[Flashcards][flashcards] are the key to quickly recognizing those patterns in the future.
 
 To be useful, pattern recognition needs to become automatic. It's not enough to learn the material, you also need to internalize it.
 

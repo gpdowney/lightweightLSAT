@@ -6,9 +6,15 @@ This page describes how to break down the structure of arguments in the Reasonin
 
 Arguments have two essential parts: the **facts** and the **conclusion**. Every argument on the LSAT includes some statements that are facts and a single conclusion. The facts are intended to support the conclusion.
 
+??? bug "Exception: INFER family questions only give you facts"
+
+    In the Infer family, the "argument" will not have a conclusion. 
+    The "argument" will only include facts.
+    Often your job is to fill in an allowable conclusion.
+
 But arguments don't only consist of facts and a conclusion. Some statements in an argument may be **context** and/or an **antithesis**, which aren't strictly necessary to understand but can provide useful clues about the argument.
-An anti-thesis is a point the argument is against.
-Or, rather, an anti-thesis is a point of departure for a nuanced distinction.
+An antithesis is a point the argument is against.
+Or, rather, an antithesis is a point of departure for a nuanced distinction.
 Context may help define terms used by the facts or conclusion, or it may limit the argument to a specific situation.
 
 name | function | synonym(s)
@@ -17,6 +23,23 @@ fact | basis of the argument | premise, support
 conclusion | claim of the argument | opinion, holding, point
 context | defines the argument's terms or scope | background
 antithesis | what the argument is against | opposing point
+
+??? example "Example: context and antithesis"
+
+    > Dr. Martin Luther King often preached about agape -- a Greek word meaning love.
+    > In contrast to eros, romantic love, or philia, brotherly love, 
+    > Dr. King argued that agape was a higher form of love 
+    > because it demands that we love our enemies who we cannot expect to love us back.
+
+    Conclusion: Agape is a higher form of love.
+
+    Fact: Agape demands that we love our enemies.
+
+    Fact: Loving your enemies means loving someone who won't love you back.
+
+    Context: Agape means love. Eros means romantic love. Philia means brotherly love.
+
+    Antithesis: Eros and philia are different and lesser than agape.
 
 And there are also two types of implicit statements, aka statements missing from the argument: **assumptions**, which are missing facts, and **inferences**, which are missing conclusions.
 
@@ -31,6 +54,20 @@ Flow | All arguments have a logical direction: the facts support the conclusion.
 Structure words| Key words that indicate whether something is a fact, conclusion, pivot, or context | Using conclusion keywords to introduce a "sub-conclusion", which is really just a fact.
 
 Looking for structural words may feel less intuitive, at first. But ultimately structure words require the least brain-power and are the most reliable way to distinguish fact from conclusion.
+
+Try using each of these three methods to separate fact from conclusion in this short argument:
+
+??? question "Read my book for I am the greatest writer of all time."
+
+    Fact: `I am the greatest writer of all time`
+
+    Conclusion: `Read my book`
+
+    Disadvantage of using feeling: "greatest of all time" is a big claim, that makes the second half of the sentence feel like a conclusion.
+
+    Disadvantage of using flow: In the order of the words, the conclusion comes first.
+
+    Structure word: `for`, as a fact word it indicates that the second half is the fact.
 
 Structure word | top examples
 -- | --
@@ -49,7 +86,7 @@ Common structures:
 
 ??? tip "Study tip"
 
-    Make flashcards to memorize these common structure words and structures
+    Make flashcards to memorize these common structure words and structures.
 
     Then practice spotting structure words in the wild, either on the LSAT itself or the real world.
     
@@ -76,15 +113,15 @@ Use structure words to break down the following examples:
 
     Conclusion: `We don't need patent or copyright for software.`
 
-    Reading for flow, you might also also notice that the second sentence supports the last.
+    Reading for flow, you might also notice that the second sentence supports the last.
 
 ??? question "Although my client is a convicted thief, they didn't kill anyone."
 
-    The pivot word `although` typically comes before the antithesis. In this case, the antithesis is less of an argument than an inconvenient fact. The lawyer is using the word `although` to shift our attention away from that fact that their client has stolen in the past, and towards what they care about proving, that their client isn't a murderer.
+    The pivot word `although` typically comes before the antithesis. In this case, the antithesis is less of an argument than an inconvenient fact. The lawyer is using the word `although` to shift our attention away from the fact that their client has stolen in the past, and towards what they care about proving, that their client isn't a murderer.
 
     Conclusion: `They didn't kill anyone.`
 
-    Note: This isn't really an argument because there's no facts. It's more like an assertion.
+    Note: This isn't really an argument because there are no facts. It's more like an assertion.
 
 ??? question "If you spend $100 at our store, we'll give you a $20 gift card."
 

@@ -28,7 +28,7 @@
 To put it slightly differently, there are:
 
 1. Errors of *ignorance*: Mistakes we make because we don't know enough.
-1. And errors of *ineptitude*: Mistakes we made because we don't make proper use of what we know.
+1. And errors of *ineptitude*: Mistakes we make because we don't make proper use of what we know.
 
 ## Cowboys
 
@@ -63,7 +63,7 @@ You can make checklists for either of two purposes:
     1. Understand the argument.
     1. Pause to predict.
     1. Eliminate bad answers. Defer on weirdo answers. Select good answers.
-    1. If >3 or 5 eliminations, then revise or move on.
+    1. If 5 eliminations, or 3 or fewer, then revise or move on.
 
     adapted from [this page on the Reasoning section][reason]
 

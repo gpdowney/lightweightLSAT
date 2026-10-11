@@ -23,7 +23,7 @@ That said, a specific prediction on a DESCRIBE question is really just an anchor
 Expect the correct answer to include the exact same ideas or structure, but not necessarily the same words or content.
 
 Tricky DESCRIBE questions use complex structures and bad writing to confuse you.
-The arguments are likely to feature sub-conclusions, anti-theses, pronouns, and double negatives.
+The arguments are likely to feature sub-conclusions, antitheses, pronouns, and double negatives.
 To mix up the flow, the conclusion is likely to be in the middle or at the start of the argument.
 
 Navigate trickier DESCRIBE questions using structure [keywords], especially fact and pivot words, and [conditional logic][conditional].
@@ -60,7 +60,5 @@ Tricks:
 1. If the argument is bad (they may or may not tell you in advance), you only need to find an argument that is bad in the same way.
 
 [keywords]: break.md
-[boil]: boil.md
 [conditional]: conditionals.md
-[mechanical]: predict.md
 [Count Count]: https://www.youtube.com/watch?v=fMrr6s8CSDo

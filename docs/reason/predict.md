@@ -1,7 +1,7 @@
 # Step 3: Predict
 
 At the most basic, predicting means pausing for a second between reading the argument and looking at the answers.
-During that pause, you reminder yourself in your understanding of the argument.
+During that pause, you remind yourself of your understanding of the argument.
 
 A prediction anchors you in your understanding as you move through the confusing answer choices.
 
@@ -15,14 +15,14 @@ Predictions save you time by allowing you to move confidently through the answer
 
     If you are confused about the argument, then you will only get more confused by the answers.
 
-    More: [How the LSAT confuses you][confuse]
+    Learn more: [how the LSAT confuses you][confuse]
 
 There are 3 levels of prediction.
 The level of prediction you can expect to make depends largely on the style of the question.
 
 level | meaning | when to use it
 -- | -- | --
-anchor | know what the argument said | any question, especially very hard and easy questions
+anchor | know what the argument said | any question, especially very hard and very easy questions
 specific | know exactly what you want from the correct answer | MECHANICAL style questions
 flexible | know the problem with the argument | ORGANIC style questions
 
@@ -37,7 +37,7 @@ An anchor prediction is a minimal prediction that you can always do.
 Basically, an anchor prediction is just a [boiled down understanding][boil] of the argument.
 Anchoring means knowing what you know.
 
-On a harder questions, an anchor prediction might be the best you can do.
+On a harder question, an anchor prediction might be the best you can do.
 On an easier question, an anchor prediction might be all you need.
 
 On DESCRIBE questions, your anchor prediction is basically a specific prediction.
@@ -79,7 +79,7 @@ A diagnosis of the problem will better prepare you to see which of the answers a
 
     What would weaken this argument?
 
-    > Sunscreen contains many chemicals that have been correlated with with elevated cancer rates.
+    > Sunscreen contains many chemicals that have been correlated with elevated cancer rates.
     > Therefore, rather than preventing skin cancer, wearing sunscreen actually increases your risk of cancer.
 
     Not a good prediction: "That's a bad argument."
@@ -87,7 +87,7 @@ A diagnosis of the problem will better prepare you to see which of the answers a
     Useful, flexible predictions:
 
     - `increases` is a [fresh idea in the conclusion][fresh]: how do we know the risk from the chemicals is *greater than* the risk from the sun?
-    - There's an association in the facts (`correlated with`) and causation in the conclusion `increases your risk` so there might be a [causation flaw][cause] to exploit?
+    - There's an association in the facts (`correlated with`) and causation in the conclusion (`increases your risk`), so there might be a [causation flaw][cause] to exploit.
     - It contains the chemicals, but how much of them?
 
 ## Be specific on MECHANICAL questions

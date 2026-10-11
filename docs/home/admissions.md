@@ -28,7 +28,7 @@ Rankings matter more for law school than for other types of graduate programs.
 Generally, students at higher ranked schools will have better job opportunities.
 This is especially true for public interest jobs, which tend to be the *most* competitive and scarce opportunities.
 
-There's plenty of good reasons to choose a school besides ranking.
+There are plenty of good reasons to choose a school besides ranking.
 Some important secondary factors include:
 
 - money (including scholarships and loan repayment programs),
@@ -42,24 +42,25 @@ But these should probably be secondary considerations that help you decide betwe
 
     The top schools have more resources, so they can offer more generous scholarships and loan repayment programs.
 
-    Yale, for example, doesn't offer merit scholarships, but they do have a [loan repayment program ][coap]{:target="_blank"} that's based only on your income.
+    Yale, for example, doesn't offer merit scholarships, but they do have a [loan repayment program][coap]{:target="_blank"} that's based only on your income.
     You could, hypothetically, be a part-time LSAT tutor / yoga instructor after going to YLS and still qualify for loan repayment assistance.
     Other schools condition assistance on being a lawyer, or even a public interest lawyer.
 
-Yale and Stanford are consistently the top ranked schools.
+Stanford and Yale are consistently the top ranked schools.
+(The ranks below come from the 2026 U.S. News list. The scores are medians for the class that started in fall 2025.)
 
-- The average admit at Yale (#1, forever) scored a 175.
-- The average admit at Standard (also #1, a recent and dramatic change) scored a 173.
+- The median admit at Stanford (#1, a recent and dramatic change) scored a 173.
+- The median admit at Yale (#2, after decades at #1) scored a 174.
 
 Top 14 schools are considered the elite.
 
-- The average admit at NYU (#9) scored a 172.
-- The average admit at UCLA (#13) scored a 170.
+- The median admit at NYU (#7) scored a 172.
+- The median admit at UCLA (#13) scored a 171.
 
 Top 40 schools are reliably excellent.
 
-- The average admit at BYU (#28) scored a 168.
-- The average admit at Wisconsin (#36) scored a 165.
+- The median admit at BYU (#24) scored a 170.
+- The median admit at Wisconsin (#26) scored a 167.
 
 Schools ranked lower can be great, but investigate them.
 Too many law schools will be happy to take your money even if they can't help you get the job you want.
@@ -71,9 +72,9 @@ Too many law schools will be happy to take your money even if they can't help yo
 
 !!! note
 
-    The [official rankings come from U.S. News and World Report ][usnews]{:target="_blank"}.
+    The [official rankings come from U.S. News and World Report][usnews]{:target="_blank"}.
 
-    More data on individual schools, including admits' median LSAT score and the percentage of graduates with jobs, is [available from the American Bar Association ][aba]{:target="_blank"}.
+    More data on individual schools, including admits' median LSAT score and the percentage of graduates with jobs, is [available from the American Bar Association][aba]{:target="_blank"}.
 
 ## LSAT + GPA are the most important admissions factors, but they aren't the only factors
 
@@ -91,7 +92,7 @@ Consider answering these questions:
 - Why law school?
 - Why do you want to go to this law school in particular?
 - What will you bring to the classroom?
-- What will use your law degree to do?
+- What will you use your law degree to do?
 
 ## Don't underestimate your recommenders
 

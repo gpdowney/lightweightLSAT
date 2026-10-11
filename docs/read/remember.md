@@ -1,6 +1,6 @@
 # "I Don't Remember That" Isn't Poison
 
-If you rely on your memory to make eliminations, you'll have to memorize the passage.
+If you rely on your memory to make eliminations, you'll have to memorize the text.
 
 Memorizing is time intensive and unreliable.
 

@@ -1,10 +1,10 @@
-# Preview of the *the lightweight LSAT*
+# Preview of *the lightweight LSAT*
 
-If you want to preview *the lightweight LSAT* system, here a few techniques to try out that might help you get an extra point on your next test.
+If you want to preview *the lightweight LSAT* system, here are a few techniques to try out that might help you get an extra point on your next test.
 
 ## Eliminate strong answers in the Reading section
 
-*Why it works:* passages tend to be nuanced, so strong answers tend to be unprovable.
+*Why it works:* texts tend to be nuanced, so strong answers tend to be unprovable.
 
 [Learn what "strong" means.][strong]
 
@@ -24,7 +24,6 @@ Top scorers are just better at noticing when they lose focus and then bringing t
 
 [Read more about effective resets.][reset]
 
-[qs]: ../game/points/questions.md
-[strong]: ../read/crush.md#extreme-answers
+[strong]: ../read/crush.md#strong-answers
 [boil]: ../reason/boil.md
 [reset]: ../time/slow.md#reset

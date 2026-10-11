@@ -21,15 +21,13 @@ The more questions you do, the more you learn.
 
 ??? example "Example of a knowledge-based lesson"
 
-    A history exam might ask a question like "When was the US Constitution become ratified?"
+    A history exam might ask a question like "When was the US Constitution ratified?"
 
     Suppose you pick answer "(a) 1776".
     Then you look at the answer key and you see that the correct answer was actually "(b) 1788".
 
     This correct answer provides an immediate and obvious lesson.
-    You can make a flashcard that says "year Constitution effective" on one side, and "1788" on the other.
-
-    (P.S. Thanks to the smart readers who noticed I initially had the wrong year down, and who also noticed that "ratified" is somewhat indeterminate when it comes to the Constitution. But the real LSAT is unlikely to make those kinds of mistakes. On the real LSAT, there's only 1 correct answer, and it's definitely correct.)
+    You can make a flashcard that says "year Constitution ratified" on one side, and "1788" on the other.
 
 Skills-based tests don't repeat themselves; at least not so obviously.
 On a skill-based test, like the LSAT, you have to dig deeper to learn a useful lesson.
@@ -42,12 +40,12 @@ On a skill-based test, like the LSAT, you have to dig deeper to learn a useful l
     But in fact, the correct answer was "(b) Zebras sometimes do not have stripes."
 
     What can you learn from this mistake?
-    It is unlikely that the next LSAT will ask you about Zebras.
+    It is unlikely that the next LSAT will ask you about zebras.
     Instead, you'll need to revisit the argument to puzzle out why "sometimes not" weakened it.
 
 Ironically, on a skills test, doing more questions can lead to worse results.
 When you practice in volume, you're likely to practice sloppily, entrenching bad habits.
-To study well for the LSAT you have to study smarter not harder.
+To study well for the LSAT you have to study smarter, not harder.
 
 ## What's different about *the lightweight LSAT* approach?
 
@@ -67,8 +65,8 @@ These flexible tools are:
 
     Section | Primarily tests your ability to...
     -- | --
-    Reading | *identify what the author of a short passage is for and against*
-    Reasoning | *break down arguments by clarifying the facts from the conclusion*
+    Reading | *identify what the author of a short text is for and against*
+    Reasoning | *break down arguments by separating the facts from the conclusion*
 
 ## Who am I to tell you how to study for the LSAT?
 
@@ -114,7 +112,7 @@ Here are some practical tips for making *the lightweight LSAT* work for you:
 
 *Your feedback is essential for improving this guide for other students!*
 
-This is version 0.7 of *the lightweight LSAT*.
+This is version 0.8 of *the lightweight LSAT*.
 In other words, it's still a rough draft.
 There's considerable room for improvement.
 

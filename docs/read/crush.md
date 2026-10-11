@@ -12,13 +12,13 @@ Which you aim to do first will depend on the size of the question.
 
     Learn more: [about question size][size]
 
-Moving decisively through the answers it the best way to gain speed on the LSAT.
+Moving decisively through the answers is the best way to gain speed on the LSAT.
 
 - Eliminate when you *know* it's wrong.
 - Select when you *know* it's right.
 - Defer when you *don't know*.
 
-## Eliminate Poisoned Answers {#eliminate}
+## Eliminate poisoned answers {#eliminate}
 
 Each of the wrong answers is wrong for a reason--there is always a word or phrase that poisons the answer.
 
@@ -48,7 +48,7 @@ In the Reading section, wrong answers tend to be wrong because of either
 1. content or
 2. strength.
 
-### Confused Answers
+### Confused answers
 
 Answers are wrong when they're confused about what the text said.
 
@@ -60,13 +60,13 @@ Confused answers might...
 - Use words from the text to express new ideas.
 - Say something the author wouldn't have said.
 
-Be careful of eliminating answers because you don't remember it.
+Be careful of eliminating answers because you don't remember them.
 
 !!! info ""
 
     Learn more: [about the risks of "I don't remember that"][remember].
 
-### Extreme Answers
+### Strong answers
 
 Answers are also wrong when they're too strong.
 
@@ -78,7 +78,7 @@ Must | All | Should | Most | Best
 Only | No | Ought | More than | Better than
 If | Never | Ideally | Same as | Obviously
 
-Weak words create wiggle room. Weak language makes answers easier to prove.
+Modest words create wiggle room. Modest language makes answers easier to prove.
 
 - May
 - Could
@@ -88,9 +88,9 @@ Weak words create wiggle room. Weak language makes answers easier to prove.
 
 Strong language doesn't automatically make an answer wrong. It's just that most Reading section texts are nuanced, so strong statements tend to be unsupported.
 
-The real key is to *match* the strength of the answer to the strength of the passage.
+The real key is to *match* the strength of the answer to the strength of the text.
 
-## Defer On Weirdos {#defer}
+## Defer on weirdos {#defer}
 
 Weirdos are answers that you
 
@@ -99,7 +99,7 @@ Weirdos are answers that you
 
 Don't spend too much time on the weirdos. Don't try to understand them, yet. There's a good chance that the weirdo has confused you because it's confused about the text.
 
-Once you evaluate all 5 answers, there's two possibilities for the weirdos:
+Once you evaluate all 5 answers, there are two possibilities for the weirdos:
 
 1. If you found another answer you like, you don't need to explain why the weirdos are wrong.
 2. If you got rid of every other answer, then you can pick the least bad weirdo and move on.
@@ -109,7 +109,7 @@ Once you evaluate all 5 answers, there's two possibilities for the weirdos:
     During race or skill practice, you don't always need to explain why each answer is right or wrong. 
     But when you don't have clear reasons, flag the question so you can come back during puzzle practice to figure it out.
 
-## Select Answers You Love {#select}
+## Select answers you love {#select}
 
 On bigger questions, when you fall in love, you should still scan all the other answers to make sure they're wrong.
 

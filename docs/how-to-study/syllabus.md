@@ -2,7 +2,7 @@
 
 The LSAT is a demanding text.
 
-To get more comfortable with it's demanding language, try reading more.
+To get more comfortable with its demanding language, try reading more.
 
 This is a list of some demanding books I've enjoyed.
 
@@ -30,7 +30,7 @@ Klinkenborg, [Several short sentences about writing](https://bookshop.org/books/
 
 Garner, [Legal Writing in Plain English](https://bookshop.org/books/legal-writing-in-plain-english-a-text-with-exercises/9780226283937)
 
-Alder and Van Doren, [How to Read a Book](https://bookshop.org/p/books/how-to-read-a-book-revised-and-updated-mortimer-j-adler/1408400?ean=9780671212094)
+Adler and Van Doren, [How to Read a Book](https://bookshop.org/p/books/how-to-read-a-book-revised-and-updated-mortimer-j-adler/1408400?ean=9780671212094)
 
 Goleman, [Focus](https://bookshop.org/books/focus-the-hidden-driver-of-excellence/9780062114969)
 

@@ -1,4 +1,4 @@
-# Step 4: Eliminate, defer, or Select
+# Step 4: Eliminate, Defer, or Select
 
 Read exactly what the answer says. Don't add or subtract anything. Understand what it means.
 
@@ -8,19 +8,34 @@ When you find an answer you like, you can be extra [skeptical][skeptic] of the r
 
 When you get turned around by the answers (this will happen), take a second to [reset]. Remind yourself of your job and your prediction.
 
-Generally, on Reasoning, you should eliminate first, then defer, and select.
+Generally, on Reasoning, you should eliminate first, then defer, then select.
+
+On the digital LSAT, you can do one of three (useful) things to any given answer:
+
+Option | When the answer is... | What to click
+-- | -- | --
+**Eliminate** | Poisoned, aka you know why it's bad | The button on the right side to cross it out.
+**Defer** | Weird, aka you aren't sure | Nothing.
+**Select** | The least bad one left, or you love it | The button on the left side, which should turn green.
+
+!!! danger "Waffling :waffle:"
+
+    Deferring is not "waffling."
+    Waffling is a waste of time.
+    When you waffle, you avoid deciding.
+    When you defer, you decisively choose to make a decision later.
 
 ## Eliminate answers you know are wrong
 
-In puzzle practice you have time to explain what makes the bad answers wrong. Avoid giving vague reasons like “it feels out of scope.” Find a specific word or phrase that poisons the answer. Articulating reasons will help improve your intuitions and speed.
+In puzzle practice you have time to explain what makes the bad answers wrong. Avoid giving vague reasons like "it feels out of scope." Find a specific word or phrase that poisons the answer. Articulating reasons will help improve your intuitions and speed.
 
-During race practice, you will not always take the time articulate a clear reason.
+During race practice, you will not always take the time to articulate a clear reason.
 
 ## Defer on weirdos
 
 You defer in order to not get stuck.
 
-“Huh” and “Maybe” are both great reasons to defer on an answer.
+"Huh" and "Maybe" are both great reasons to defer on an answer.
 
 A confusing answer might be confused. It's not worth figuring out.
 

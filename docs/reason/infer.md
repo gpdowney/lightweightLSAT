@@ -1,4 +1,4 @@
-# the Infer Family
+# the INFER Family
 
 INFER is one of the three families of questions in the Reasoning section.
 
@@ -9,7 +9,7 @@ INFER questions only give you facts.
 
 ??? note "inferences vs. assumptions"
 
-    In the ARGUE family, correct answers are **assumption**. 
+    In the ARGUE family, correct answers are **assumptions**. 
     An assumption is a fact that's missing from the argument.
 
     In the INFER family, correct answers are **inferences**.
@@ -124,19 +124,19 @@ Tricks:
 
 > Which of the following must be false based on the above?
 
-Job Description: Find an absolute fact that can be contradicted. Pick the answer that contracts it.
+Job Description: Find an absolute fact that can be contradicted. Pick the answer that contradicts it.
 
-Tricks: Ignore the interesting bits. Focus only on the absolutes.
+Trick: Ignore the interesting bits. Focus only on the absolutes.
 
 ??? example
 
-    > As every experienced gardner knows, daily watering can actually harm your houseplants. 
+    > As every experienced gardener knows, daily watering can actually harm your houseplants. 
 
     Absolute word: `every`
 
     Non-absolute word: `can`
 
-    Prediction: X is an an experienced gardener and X does *not* know...
+    Prediction: X is an experienced gardener and X does *not* know...
 
 ## RULE
 

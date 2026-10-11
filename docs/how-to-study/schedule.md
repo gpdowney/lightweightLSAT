@@ -2,7 +2,7 @@
 
 This page suggests a general schedule for your studying.
 
-## Before You Begin
+## Before you begin
 
 Take a diagnostic test to see where you're at. Do it timed, but without pressure or expectations.
 
@@ -12,7 +12,7 @@ Take a diagnostic test to see where you're at. Do it timed, but without pressure
 
 ## Beginning
 
-You need learn how to approach the parts of the test that don't already make intuitive sense to you.
+You need to learn how to approach the parts of the test that don't already make intuitive sense to you.
 
 You can discover some of this through [puzzle practice][puzzle]. In other words, you can figure out how the test works by figuring out why the wrong answers were wrong and the right answer was right.
 
@@ -34,12 +34,12 @@ If you do any race practice, try a [count-up timer][count-up] instead of a count
 In the middle stages, you can begin to do exercises of gradually increasing difficulty, such as...
 
 - skill practice on larger sets of questions
-- race practice on easier questions (like Game 1 in 9 minutes, or the first 5 Reasoning questions in 6 minutes)
+- race practice on easier questions (like the first 5 Reasoning questions in 6 minutes)
 - puzzle practice on increasingly hard questions
 
-At this stage, it may also be useful to start an error log to record the results of your race practice. This log should include all the questions you got wrong, struggled with, or invested too much time in. As well as what you learned from that mistake/struggle.
+At this stage, it may also be useful to start an error log to record the results of your race practice. This log should include all the questions you got wrong, struggled with, or invested too much time in, as well as what you learned from that mistake/struggle.
 
-It can be tempting, in this middle phase, to focus exclusively on your weak areas. And it's OK to spend more time where you can get more points, but make sure you do at least something from every section (Games, Reading, Reasoning) every day.
+It can be tempting, in this middle phase, to focus exclusively on your weak areas. And it's OK to spend more time where you can get more points, but make sure you do at least something from both sections (Reading and Reasoning) every day.
 
 ## End
 
@@ -52,7 +52,7 @@ Section | Skill Goal | Timing Goal
 Reading | [Re-read when needed][reread] | ~3:00 per Read
 Reasoning | [Anchor predictions for hard questions][anchors] | First 12 questions in 10:00
 
-It can also be useful, to do **resistance training**. That is, make your practice harder than the actual test. Try, for example...
+It can also be useful to do **resistance training**. That is, make your practice harder than the actual test. Try, for example...
 
 - 30 minute sections (or even 25 minutes)
 - 5 section practice tests (or even 6 sections)
@@ -60,7 +60,7 @@ It can also be useful, to do **resistance training**. That is, make your practic
 
 But the most useful way to gain points, especially as you get within 3 weeks of test day, will be to solidify your *strengths*. The closer you get to the test, the less you should worry about what you're bad at. Focus instead on your strengths to ensure you get the points you've earned.
 
-## Sample Schedule For Practice Tests
+## Sample schedule for practice tests
 
 Weeks Until Test Day | Number of Tests Per Week
 -- | --
@@ -92,9 +92,9 @@ Score Growth | Estimated Time
 +4 to +6 | 12 weeks
 +7 or more | 16 weeks or more
 
-## Factors that can effect how long it will take to reach your goals
+## Factors that can affect how long it will take to reach your goals
 
-### 1\. the novice effect
+### 1\. The novice effect
 
 You may get (relatively) easy gains at first, just by getting familiar with the test.
 
@@ -133,7 +133,7 @@ You might be able to achieve your goals more quickly with small tweaks if you...
 - have a brain that works like the LSAT works; or
 - already studied formal logic.
 
-Your might need more time to rewire your brain (or help from a teacher) if...
+You might need more time to rewire your brain (or help from a teacher) if...
 
 - the LSAT seems to be speaking a foreign language;
 - after you check the answer, you can't tell why the wrong answers are wrong; or
@@ -141,13 +141,11 @@ Your might need more time to rewire your brain (or help from a teacher) if...
 
 [curve]: scores.md#the-curve
 [novice]: https://www.youtube.com/watch?v=a9-a_8hC17M
-[quantity]: pitfalls.md#pitfall-1-grinding-grind
 [count-up]: ../time/speed.md#count-up
 [lawhub]: https://app.lawhub.org/library
 [puzzle]: practice.md#puzzle-practice
 [skill]: practice.md#skill-practice
 [race]: practice.md#race-practice
 [sprint]: ../time/speed.md#sprint
-[smooth]: ../game/points/prove-it.md#smoothly-make-hypos-by-following-the-overlapping-rules
 [reread]: ../read/pace.md
 [anchors]: ../reason/predict.md#anchor-in-your-understanding

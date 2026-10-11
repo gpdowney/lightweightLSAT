@@ -10,10 +10,8 @@ Since every question is self-contained, they only have 3 opportunities to confus
 !!! note
 
     All of this applies equally to the Reading section.
-    Just replace "argument" with "passage" below.
+    Just replace "argument" with "text" below.
 
-    It does **not** apply to the Games section.
-    On the Games, the answers are your friends.
 
 ## The LSAT never asks ambiguous questions
 
@@ -22,8 +20,8 @@ If the question had any ambiguity, then multiple answers might be correct.
 !!! note
 
     The primary virtue of the LSAT is that there is always exactly one correct answer.
-    Answers are never better or worse.
-    They're either right or wrong.
+    Answers are never partly right.
+    Each one is either right or wrong.
 
 To be fair, a question can be complicated.
 But a complicated question actually gives you more specific instructions.
@@ -45,8 +43,8 @@ Rushing in the argument makes you vulnerable.
 Don't underestimate the value of [investing in understanding][understand] and [reading at the pace of your understanding][pace].
 
 Still, there are limits to how confusing the argument can get.
-A too ambiguous argument might also make one than one answer correct.
-And again, that would be a diaster for the test.
+A too ambiguous argument might also make more than one answer correct.
+And again, that would be a disaster for the test.
 
 ## Answer choices are the primary tool the LSAT has to confuse you
 
@@ -84,14 +82,14 @@ As soon as you know they're wrong, cross them out.
 !!! tip "You wear your raincoat when there's an 80% chance of rain."
 
     There are 4 wrong answers, and 1 correct one.
-    So each answer has a 80% chance of being wrong.
+    So each answer has an 80% chance of being wrong.
 
 ### Approach the answers *skeptically* {#skeptical}
 
 Rather than looking for the correct answer, get rid of all the distracting garbage first.
 Then you can focus on what remains without being biased by the clearly wrong answers.
 
-A skeptical approach will help you avoid the trap of trying working to make answers correct.
+A skeptical approach will help you avoid the trap of trying to make answers correct.
 
 The LSAT wants you to look for the correct answer.
 Looking for the correct answer causes several mistakes...
@@ -117,4 +115,3 @@ If there's 1 answer left, pick it and move on. If there are 2 answers left, pick
 [pace]: ../read/pace.md
 [predict]: predict.md
 [flag]: flag.md
-[games]: ../game/points/prove-it.md

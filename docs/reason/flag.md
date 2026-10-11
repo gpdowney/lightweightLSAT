@@ -10,11 +10,11 @@ Moving on is usually the best option.
 
 When you make 5 eliminations or can only make 3 eliminations, you have revealed that this is a [hard question][subjective]. Investing time here could come at the expense of easier points later.
 
-It might be out of your reach entirely. Or maybe it will be more obvious when you come back later. In either case, you should Move On for now.
+It might be out of your reach entirely. Or maybe it will be more obvious when you come back later. In either case, you should move on for now.
 
 ## Option 2: revise
 
-If have the time, or think it will be a quick fix, you can stick with a hard question. If you stay, however, you must change your approach. Whatever you did the first time didn't work.
+If you have the time, or think it will be a quick fix, you can stick with a hard question. If you stay, however, you must change your approach. Whatever you did the first time didn't work.
 
 Generally, one of two things has happened: you misread an answer, or you inadequately predicted.
 
@@ -22,14 +22,20 @@ So you can revise your assessment of either (1) the argument or (2) the answers.
 
 Most people will agonize over the answers. Beat the [curve] by acting differently.
 
+!!! note "You're more likely to be confused about the argument than the answers"
+
+    There's always the chance that you misread an answer.
+    Usually, however, struggling on a question means you missed something in the argument.
+    When you have a strong understanding and the correct level of prediction, the answers will typically feel easier.
+
 ### Option 2A: revise your prediction
 
 Try to re-read the argument with fresh eyes.
 
-- Forget how you Understood it last time (because that didn't help.)
+- Forget how you understood it last time (because that didn't help).
 - Don't skim (this is a difficult question), instead read more carefully.
 
-Often, re-Anchoring yourself in the Conclusion will be enough. (Then eliminate Irrelevant answers.)
+Often, re-anchoring yourself in the conclusion will be enough. (Then eliminate irrelevant answers.)
 
 ### Option 2B: revise your eliminations
 
@@ -43,7 +49,7 @@ Apply the same level of skepticism to all the answers. Don't be overly harsh on 
 
 ## Flag hard questions
 
-During Practice: Flag so you don't get stuck, especially if you're doing race practice. And flag to let yourself know what you want to review.
+During practice: Flag so you don't get stuck, especially if you're doing race practice. And flag to let yourself know what you want to review.
 
 During the test: these are the questions to revisit if you have extra time.
 
@@ -57,7 +63,7 @@ If you decide to revise, reset to give yourself fresh eyes and let go of whateve
 
 ## Are you often down to 2 answers?
 
-That doesn't mean you had an OK Understanding. It shows you had an incomplete understanding and/or an unhelpful prediction.
+That doesn't mean you had an OK understanding. It shows you had an incomplete understanding and/or an unhelpful prediction.
 
 Or it shows that you didn't trust yourself.
 

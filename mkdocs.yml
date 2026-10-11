@@ -1,5 +1,9 @@
 site_name: the lightweight LSAT
 site_url: https://lightweightlsat.com
+repo_url: https://github.com/gpdowney/lightweightLSAT
+edit_uri: edit/main/docs/
+exclude_docs: |
+  navigation.md
 
 theme:
   name: material
@@ -19,6 +23,7 @@ theme:
     - navigation.tabs
     - navigation.footer
     - navigation.expand
+    - content.action.edit
 
 plugins:
   - search
@@ -26,16 +31,12 @@ plugins:
       nav_file: navigation.md
 
 markdown_extensions:
-  - abbr
   - attr_list
   - admonition
   - toc:
       title: on this page
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.snippets:
-      auto_append:
-        - includes/glossary.md
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.smartsymbols:

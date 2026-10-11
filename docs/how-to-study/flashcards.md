@@ -43,7 +43,7 @@ Memorizing will save you precious time and brain-power on test day.
 
 As a general rule, stick to one idea per card.
 
-Simpler cards makes it easier to test your knowledge.
+Simpler cards make it easier to test your knowledge.
 When you review, it will be more obvious when you get it wrong.
 Meaning, simple flashcards make it easier to be honest with yourself.
 

@@ -1,4 +1,4 @@
-# the Argue Family
+# the ARGUE Family
 
 ARGUE is one of the three families of questions in the Reasoning section.
 On ARGUE questions your job is to find the *problem* with the argument.
@@ -72,7 +72,7 @@ In fact, you should *not* try to solve the problem, at least not at first.
 
     Your friend complains about all the dirty dishes in their sink.
 
-    You respond: "oh that horrible roommate, stand up to them, make them to clean their dishes."
+    You respond: "oh that horrible roommate, stand up to them, make them clean their dishes."
 
     Now your friend is mad at you, because that snap judgment wasn't helpful.
     For one, your friend didn't ask you for a solution.
@@ -90,7 +90,7 @@ In fact, you should *not* try to solve the problem, at least not at first.
 
     A better move is to ask your friend to suggest solutions.
     Then you can tell them whether their solution solves their problem.
-    You friend suggests: "Maybe I'll just get out of the house and walk my dog."
+    Your friend suggests: "Maybe I'll just get out of the house and walk my dog."
     You say: "A walk doesn't solve your dishwasher problem."
 
     Then they say: "Well, my parent is a dishwasher repair technician, I could ask them for help?"
@@ -114,7 +114,7 @@ In fact, you should *not* try to solve the problem, at least not at first.
     But then the kid is like: My ankle hurts.
     So the good doctor shifts gears, now they look out for hurt-ankle patterns.
     
-    Similarly, a lawyers' fundamental task is to listen to a client's story, and then translate that story into a legal claim.
+    Similarly, a lawyer's fundamental task is to listen to a client's story, and then translate that story into a legal claim.
 
     A good lawyer uses their knowledge of the law and experience to spot issues.
     They hear "my neighbor is so annoying, they keep parking in front of my house, and they even ran over my cat."
@@ -141,8 +141,8 @@ On the ORGANIC questions, correct answers often introduce or rule out alternativ
 This is why you cannot make a specific prediction.
 
 Correct answers on ORGANIC ARGUE questions only need to be *relevant* to the problem.
-They don't need to be completely devastate or solve the problem.
-It only needs to have some effect.
+They don't need to completely devastate or solve the problem.
+They only need to have some effect.
 This is why you want to make a flexible prediction.
 
 ??? example
@@ -157,7 +157,7 @@ This is why you want to make a flexible prediction.
 
     This is relevant because it means that highways won't help 25% of residents move around the city quickly.
 
-    An irrelevant fact.
+    An irrelevant fact:
 
     > Residents believe public transportation is slow.
 
@@ -207,18 +207,18 @@ Job description: Close the gap. Completely connect the facts to the conclusion.
 
     But just because these questions can be hard, doesn't mean that the correct approach to these questions is the best approach for all Reasoning questions.
 
-Trick:
+Tricks:
 
 - Use conditional logic to [find the gap][gap].
-- If the conclusion contains a new idea, then the correct answer must define that idea.
+- If the conclusion contains a fresh idea, then the correct answer must define that idea.
 
-??? example "New idea in the conclusion"
+??? example "Fresh idea in the conclusion"
 
     Argument:
 
     > I told you to get off my lawn therefore you are guilty of trespass.
 
-    New idea: "trespass."
+    Fresh idea: "trespass."
 
     No matter how many additional points I make about your behavior, no judge will convict you unless I define the legal meaning of trespass and show that you met that definition.
 
@@ -240,7 +240,7 @@ Trick:
 >
 > "Which of the following statements does the argument *require*?"
 >
-> "Which of the following is an assumption *necessary* for the argument to be valid?
+> "Which of the following is an assumption *necessary* for the argument to be valid?"
 
 Job description: It depends. Do you see a clear gap in the argument?
 
@@ -258,7 +258,7 @@ The argument does not depend on the wrong answers, so negating them won't do any
 
     If a wall is load-bearing, then the house depends on it. 
     
-    There's a easy way to tell if a wall is load-bearing: knock it down.
+    There's an easy way to tell if a wall is load-bearing: knock it down.
     [If the roof falls on you, then it was load-bearing][1]{:target="_blank"}.
 
 ??? note "A negation is not an "opposite""
@@ -289,7 +289,7 @@ The argument does not depend on the wrong answers, so negating them won't do any
     All | Some not
     None | Some
     Some | None
-    Most | Most not
+    Most | Not most (half or fewer)
 
 [1]: https://www.youtube.com/watch?v=doeQ4yA3BO8
 [flaws]: flaws.md

@@ -42,7 +42,7 @@ Keep your practice interesting by switching up your pace and objectives.
 
     Don't credit yourself for a correct answer, if you failed to use the skill you had intended to work on.
 
-## Skill Practice
+## Skill practice
 
 Here are the steps of skill practice:
 
@@ -65,7 +65,7 @@ Here are the steps of skill practice:
     1. I revise my intention, again: this time I'll compare each answer to my written prediction.
     1. I do another question...
 
-As your skill improves, you can attempt multiple questions at one go, or try harder questions.
+As your skill improves, you can attempt multiple questions in one go, or try harder questions.
 As your habits improve, you might find that some parts of the practice, like writing down your intentions, are no longer necessary.
 And eventually the skill should become so automatic that you don't need to practice it intentionally and can shift into race practice.
 
@@ -93,7 +93,7 @@ Skills only work in certain contexts.
     predict | today | write predictions down
     predict | tomorrow | check written prediction against each answer
 
-## Puzzle Practice
+## Puzzle practice
 
 Puzzle practice is luxurious.
 It's a chance to dig into all the nuances of the test.
@@ -104,7 +104,7 @@ To figure out what everything means.
 
 !!! example "Two variations on puzzle practice"
 
-    1. Once you know what the correct answer is, use it as a lens to see what words and ideas mattered in the prompt. The correct answers shows you how the LSAT thinks.
+    1. Once you know what the correct answer is, use it as a lens to see what words and ideas mattered in the prompt. The correct answer shows you how the LSAT thinks.
 
     2. Do it wrong. Approach a question the wrong way. No one's going to get hurt. Maybe you'll find a better way to do it. At least, you'll get out of a rut.
 
@@ -112,7 +112,7 @@ To figure out what everything means.
 
     Keep track of the lessons you learn in puzzle practice by making [flashcards] and [checklists].
 
-## Race Practice
+## Race practice
 
 Race practice is an attempt to practice like you want to play.
 

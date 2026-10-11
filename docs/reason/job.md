@@ -15,7 +15,7 @@ Learning the tendencies of the common families, styles, and types will save you 
 
 ## 3 families
 
-Family tells what to look for in the argument.
+Family tells you what to look for in the argument.
 
 Question Family | Example | Read For...
 -- | -- | --
@@ -44,6 +44,22 @@ Question Family | Example | Read For...
     There's no conclusion.
     They only give you facts.
 
+!!! example
+
+    > Which of the following most accurately describes the main point of the argument above?
+
+    This question is in the DESCRIBE family.
+    You can tell because it says "describe."
+    Your job on all DESCRIBE questions is to distinguish the argument's facts from its conclusion.
+    You won't have to argue with the argument.
+
+    All DESCRIBE questions are MECHANICAL in style because you can reliably make a specific prediction about what the answer will be.
+    In this case, once you find the conclusion of the argument, you'll have a strong sense of what ideas you need to see in the correct answer.
+
+    Other guides might call this a "conclusion" question. 
+    But other than the specific instruction to find the conclusion, which you can read in the question, there's not much that distinguishes this from the rest of the DESCRIBE family.
+    So I don't think it needs a special name.
+
 ## 2 styles
 
 Style determines the type of *attention* you need to pay to the argument and what kind of *prediction* you can expect to make before seeing the answers.
@@ -51,16 +67,32 @@ Style determines the type of *attention* you need to pay to the argument and wha
 MECHANICAL and ORGANIC questions use different parts of your brain.
 If you don't know the difference, the Reasoning section can feel bewildering, exhausting, and even unfair.
 
-Style | Type of Attention | Type of Prediction
--- | --
+Style | Type of Attention | Level of Prediction
+-- | -- | --
 MECHANICAL | Pedantic. Robotic. No new ideas. | Specific
 ORGANIC | Holistic. Creative. "What if"s are welcome. | Flexible
+
+??? abstract "How to approach the MECHANICAL style"
+
+    Pay pedantic attention to every word of the argument.
+    The argument may feature [conditional logic].
+
+    Answers will follow closely from the argument.
+    You can (and should) make a specific prediction.
+
+??? abstract "How to approach the ORGANIC style"
+
+    Pay holistic attention to the entire argument.
+    To spot problems, it may be useful to ask yourself "What if?"
+
+    Answers can include new and surprising information.
+    Your prediction needs to be flexible.
 
 !!! info ""
 
     Learn more: [how style shapes predictions][predict]
 
-## 11 types
+## 9 types
 
 Many questions can be answered by knowing the question's family and style.
 
@@ -73,19 +105,37 @@ Type | Example | Family | Style
 [HURT][hurt] | "Which of the following is a flaw in the argument?" | ARGUE | ORGANIC
 [ORGANIC-HELP][ohelp] | "Which of the following, if true, most supports the conclusion?" | ARGUE | ORGANIC
 [MECHANICAL-HELP][mhelp] | "Which of the following principles, if valid, would justify the argument above?" | ARGUE | MECHANICAL
-[DEPENDS][depends] | "Which one of the following is an assumption the argument requires?" | ARGUE | BOTH
-[(DIS)AGREE][agree] | "Which of the following is the economist most likely to agree with" | INFER | ORGANIC
+[DEPENDS][depends] | "Which one of the following is an assumption the argument requires?" | ARGUE | EITHER
+[(DIS)AGREE][agree] | "Which of the following is the economist most likely to agree with?" | INFER | ORGANIC
 [MUST BE FALSE][mbf] | "Which of the following must be false based on the above?" | INFER | MECHANICAL
 [RULE][rule] | "Which of the following examples conforms to the principles stated above?" | INFER | MECHANICAL
 
 Each type inherits the general tendencies of its family and style.
 Knowing a question's specific type gives you even more detailed instructions about what to look out for in the argument and answers.
 
+!!! tip "Practice Tip: Memorize the families, styles, and types."
+
+    Save time and energy on test day by memorizing how to recognize and approach each family, style, and type of question.
+
+    [Flashcards][flashcards] are a great tool for memorizing information about common questions.
+
+??? warning "Not all types are worth learning."
+
+    Other guides attempt to give you a complete list of every possible question type. 
+    And they give you much more to memorize about each question type.
+    
+    In contrast, I offer the families and styles to simplify your knowledge. 
+    Knowing the family and style helps simplify in three ways:
+
+    1. You don't have to memorize/track as much knowledge. Knowing family + style will be enough to guide you through most questions.
+    1. You'll remain sensitive to the specific question that's being asked.
+    1. You'll make more connections across question types, giving you more flexible tools.
+
 ??? example "Example: [MECHANICAL-HELP][mhelp] questions"
 
     > The conclusion can be properly drawn if which one of the following is assumed?
 
-    As a member of the ARGUE family, your primary job on MECHANICAL-HELP questions is figure out what's wrong with the argument.
+    As a member of the ARGUE family, your primary job on MECHANICAL-HELP questions is to figure out what's wrong with the argument.
 
     On all HELP questions, you want to solve the problem.
     On MECHANICAL-HELP questions, you can expect to come up with that solution before you see the answers.
@@ -112,6 +162,7 @@ Knowing a question's specific type gives you even more detailed instructions abo
 [infer]: infer.md
 [predict]: predict.md
 [conditional logic]: conditionals.md
+[flashcards]: ../how-to-study/flashcards.md
 [role]: describe.md#role
 [parallel]: describe.md#parallel
 [hurt]: argue.md#hurt-questions

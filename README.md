@@ -1,10 +1,10 @@
-# lightweight-lsat v0.6
+# lightweight-lsat v0.8
 
 *The lightweight LSAT* is a simple, proven, and completely free guide to the LSAT.
 
 ## About the website
 
-The site is built with MkDocs using the Material theme to take advantage of built-in features like search, comments, and navigation.
+The site is built with MkDocs using the Material theme to take advantage of built-in features like search and navigation.
 
 Outside donations (via stripe) the site collects no user data.
 

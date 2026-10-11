@@ -16,7 +16,7 @@ For example, you could...
 
 ## Use feedback loops
 
-Ask yourself questions as you read in order to both check and enhance your understand. Questions like...
+Ask yourself questions as you read in order to both check and enhance your understanding. Questions like...
 
 - "How does that idea fit with the thesis?"
 - "Who is the author arguing with?"
@@ -27,7 +27,7 @@ Remember, the author, no matter how bad of a writer, included every word for som
 
 ## Trust your confusion
 
-You may be tempted to run away from your confusion, because confusion feels unpleasant. Instead stick with it, make your confusion into a question. Let that question guide how you read.
+You may be tempted to run away from your confusion, because confusion feels unpleasant. Instead, stick with it: make your confusion into a question. Let that question guide how you read.
 
 For example, when you're confused, ask yourself:
 
@@ -45,7 +45,7 @@ In Reading, you cannot merely look at the words on the page. You must also synth
 
 But your brain cannot do all of this at the same time. You can't multitask. You can't read and synthesize and assess simultaneously. You need to stop from time to time to reflect and digest.
 
-Don't judge yourself for re-reading or pausing. That judgement isn't helping you; self-judgement is just another distraction. Know that everyone, especially top scorers, need to pause and re-read.
+Don't judge yourself for re-reading or pausing. That judgment isn't helping you; self-judgment is just another distraction. Know that everyone, especially top scorers, needs to pause and re-read.
 
 If you don't slow down intentionally, then you will slow down unintentionally. You'll miss the meaning of a paragraph because you're still thinking about the last one. When you ignore your confusion, it will only multiply as you keep reading.
 

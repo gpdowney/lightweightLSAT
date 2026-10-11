@@ -6,7 +6,7 @@ To make a useful prediction, you must be able to say what the problem is.
 
 DESCRIBE family questions might have an error, but generally you shouldn't care.
 
-On INFER family questions, the argument is just facts, so it wont have an error.
+On INFER family questions, the argument is just facts, so it won't have an error.
 That said, the answers on INFER questions are often proposed conclusions.
 On those questions, wrong answers may commit one of the errors described below.
 
@@ -18,7 +18,7 @@ On those questions, wrong answers may commit one of the errors described below.
 
     But typically it isn't wise to use these techniques directly on other humans, especially on loved ones or on social media.
 
-## Truth vs. Validity
+## Truth vs. validity
 
 The LSAT doesn't care about truth; it only cares about logical validity.
 An argument is valid when it follows the rules of logic and the facts are logically connected to the conclusion.
@@ -92,7 +92,7 @@ What ifs usually only help on ORGANIC ARGUE questions.
         Notice: What are the chances your exact what if appears in the correct answer? 
         There's a vast range of possible objections; that's why you need to stay flexible on ORGANIC questions.
 
-## The Common Flaws {#flaws}
+## The common flaws {#flaws}
 
 Here are the 5 logical flaws worth learning and memorizing:
 
@@ -118,19 +118,19 @@ Charlatans love to begin with obvious facts to make themselves seem commonsensic
 
     Look for big, shiny, or strong words in the conclusion.
 
-Spot the fresh ideas in each these three bad arguments:
+Spot the fresh ideas in each of these three bad arguments:
 
 ??? question "We all want to be rich. So we need to shrink big government."
 
-    New ideas: Where did `big government` come from? Why is `shrink` the solution?
+    Fresh ideas: Where did `big government` come from? Why is `shrink` the solution?
 
 ??? question "Only 5 employees voted yes. Therefore a majority opposed the measure."
 
-    New ideas: `5` is an absolute number. `majority` is a relative number, so `majority` is a new idea.
+    Fresh ideas: `5` is an absolute number. `majority` is a relative number, so `majority` is a fresh idea.
 
 ??? question "We all liked the movie trailer. So we must go see the movie right now."
 
-    New ideas: Woah, `right now` and `must`? Those are much stronger words than `liked`.
+    Fresh ideas: Woah, `right now` and `must`? Those are much stronger words than `liked`.
 
 ### Conditional errors {#conditional}
 
@@ -172,7 +172,7 @@ Legally and philosophically, it's hard to prove that something *caused* somethin
 
 !!! example "Consider how long it took to prove that smoking causes cancer."
 
-You've probably a pedantic person say "correlation isn't causation."
+You've probably heard a pedantic person say "correlation isn't causation."
 What's that mean?
 
 "Correlation" simply means two things are associated.
@@ -186,7 +186,7 @@ Things can be associated in *time* (one happens, then the other happens) or *spa
 
     3: Corporate mergers are typically followed by an increase in the price of goods.
 
-Humans brains like the neatness of causation too much.
+Human brains like the neatness of causation too much.
 We're wired to rush to conclude causation from association.
 
 !!! tip "Spot Causation in the wild"
@@ -195,14 +195,14 @@ We're wired to rush to conclude causation from association.
 
     Association words: tends to, more/less likely; increases/decreases with; before/after.
 
-    Causation words: caused by; effected by; impacts; leads to; (or any active verb).
+    Causation words: caused by; affected by; impacts; leads to; (or any active verb).
 
 Association is evidence in favor of causation, but it isn't enough to prove causation.
 Association is vulnerable to 3 criticisms:
 
-    1. random chance, 
-    2. a 3rd cause, or
-    3. reversed causation.
+1. random chance,
+2. a 3rd cause, or
+3. reversed causation.
 
 ??? example "Example: why we can't conclude causation from correlation."
 
@@ -214,7 +214,7 @@ Association is vulnerable to 3 criticisms:
     2. Sia independently invites both Ash and Bee.
     3. Bee asked out Ash.
 
-### Bad Samples {#sample}
+### Bad samples {#sample}
 
 !!! tip "Spot Sampling errors in the wild"
 
@@ -240,13 +240,13 @@ Bad samples are (1) small, (2) unrepresentative, and/or are studied with (3) sus
 
     This study relies on suspect methods.
 
-??? Observations of 30 Americans revealed that Americans rarely wear deodorant.
+??? question "Observations of 30 Americans revealed that Americans rarely wear deodorant."
 
     `30` people is too small a group to conclude anything about millions of people.
 
     This study relies on a too small sample.
 
-### Bad Comparisons {#compare}
+### Bad comparisons {#compare}
 
 The comparison error takes two forms:
 

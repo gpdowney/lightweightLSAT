@@ -10,7 +10,7 @@ To boil down an argument you...
 1. [Find the verbs](#verbs)
 2. [Fill in pronouns](#pronouns)
 3. [Combine synonyms](#synonyms)
-4. [Turn negatives into positives](#synonyms)
+4. [Turn negatives into positives](#negatives)
 
 ## Don't change the meaning
 
@@ -63,7 +63,7 @@ Verbs hide in two related ways:
 1. passive voice and
 2. nominalizations.
 
-### Passive Voice
+### Passive voice
 
 You may have heard of the evils of passive voice.
 In a passive sentence, the subject and object of a sentence are switched.
@@ -113,7 +113,7 @@ Of lawyers' many bad writing habits, nominalizations are the worst.
 
 A nominalization is a verb that has been turned into a noun.
 Nominalizations often end in "-ion" or "-ing."
-Nominalization are typically replaced by "to be" or another empty verb.
+Nominalizations usually come with "to be" or another empty verb standing in for the real one.
 
 !!! example
 
@@ -212,7 +212,25 @@ Try to turn these negatives into positives:
     
     > Go to class.
 
-## More Examples
+## More examples
+
+??? example "Translating a bad sentence"
+
+    Original (from Foucault):
+
+    > Basically, it has to intervene on society so that competitive mechanisms can play a regulatory role at every moment and every point in society and by intervening in this way the neo-liberal government's objective will become possible, that is to say, a general regulation of society by the market.
+
+    Verbs: `intervene on`, `play a regulatory role`, `intervening in`, `will become possible`, `a general regulation of`
+
+    Pronouns: `it`, `in this way`
+
+    Synonyms: `competitive mechanisms` / `the market`, `objective` / `a general regulation of society by the market`, `every moment` / `every point in society` / `general society`
+
+    Negatives: n/a
+
+    Simplification: 
+    
+    > Neo-liberal governments want competitive market mechanisms to regulate every aspect of society. To achieve this objective, neo-liberal government must intervene in every aspect of society.
 
 Try boiling down these arguments:
 

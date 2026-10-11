@@ -13,9 +13,9 @@ When you're uncurious, the test becomes something that happens *to* you. When yo
 
     [Dan Kahan's research][kahan]{:target="_blank"} has shown that people tend to use new data to confirm their old beliefs.
 
-    For example, when you give research that shows humans are causing climate change to a climate change denier they tend to deny climate change more forcefully. 
+    For example, when you give research that shows humans are causing climate change to climate change deniers, they tend to deny climate change more forcefully. 
 
-    And the smarter you are, the more you're able you to twist the data to fit your narrative. The tendency to seek out confirmation is correlated with scientific literacy. 
+    And the smarter you are, the more you're able to twist the data to fit your narrative. The tendency to seek out confirmation is correlated with scientific literacy. 
     
     This effect, called "politically biased information processing," is one aspect of our brain's broader tendency towards confirmation bias -- we tend to see what we look for.
     
@@ -29,7 +29,7 @@ The LSAT loves to take advantage of confirmation bias.
 
 Across the LSAT, being curious often means trying to *disprove* things.
 
-## Curious Studying
+## Curious studying
 
 When you get a question wrong, it's easy to get frustrated.
 My first reaction is often: "That question was unfair."
@@ -41,16 +41,15 @@ And there is only ever one right answer.
 If you get curious about your mistakes, you can turn your failures into specific and productive information for the future.
 If you get curious, maybe you can find the poison in the wrong answer; or the clue in the text that could have helped you make a better prediction.
 
-## Curious Test Taking
+## Curious test taking
 
-The best way to see through the LSAT isn't to have preexisting ideas or formula, it's to be curious about what's on the page in front of you.
+The best way to see through the LSAT isn't to have preexisting ideas or formulas, it's to be curious about what's on the page in front of you.
 
 Being curious means...
 
-- applying the same level of skepticism to each answer, instead of looking for the right answer
+- applying the same level of skepticism to each answer, instead of looking for the right answer.
 - being open to strangely worded answers, rather than chasing the false security of matching words.
-- spotting all the problems within an Reasoning argument, rather than getting wrapped up in a single solution.
-- trying to get something out of a boring Reading passage, which can help you stay engaged.
+- spotting all the problems within a Reasoning argument, rather than getting wrapped up in a single solution.
+- trying to get something out of a boring Reading text, which can help you stay engaged.
 
-[mustbe]: ../game/points/prove-it.md#use-hypos-effectively
 [kahan]: https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12396

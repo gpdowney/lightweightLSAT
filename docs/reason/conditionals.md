@@ -1,6 +1,6 @@
 # Conditional Logic
 
-Conditional logic was invented in the 20th Century by mathematician-philosophers who wanted to be able to say things so precisely that they couldn't be rebutted. These philosophers didn't succeed in finding *the truth of the universe*. But they did invent a language game that the LSAT loves to play.
+Modern conditional logic was formalized in the late 19th and early 20th centuries by mathematician-philosophers who wanted to be able to say things so precisely that they couldn't be rebutted. These philosophers didn't succeed in finding *the truth of the universe*. But they did invent a language game that the LSAT loves to play.
 
 Conditional logic typically indicates that a question is MECHANICAL in style.
 
@@ -42,7 +42,7 @@ The machine activates when the input is true. When the input is true, we know th
 
 !!! example
 
-    When we see Emm take a bite of kale. We 100% know they're healthy
+    When we see Emm take a bite of kale, we 100% know they're healthy.
 
     Note: The bite of kale doesn't *cause* Emm to be healthy, but we still *know* Emm is healthy because our rule tells us that *everyone* who eats kale is healthy.
 
@@ -78,7 +78,7 @@ So absolute words like `all`, `none`, `always`, `never`, and `whenever` are all 
 
 The other important conditional words are `only` and `unless` / `without`.
 
-In addition, `and` and `or` play a special role in conditional statement.
+In addition, `and` and `or` play a special role in conditional statements.
 When you contrapose `and` it becomes `or` and vice versa.
 
 ??? example
@@ -101,7 +101,7 @@ When you contrapose `and` it becomes `or` and vice versa.
 
 ## Drawing conditional diagrams
 
-It can be useful to draw abstract versions conditional statements.
+It can be useful to draw abstract versions of conditional statements.
 These conditional diagrams help you keep track of the direction of the arrows and combine conditional statements.
 
 !!! tips "Diagramming tips"
@@ -136,7 +136,7 @@ Diagram:
 
     Y --> X
 
-(Caution: "Only" isn't the same as "Only If". "Only" tends to mean "All.")
+(Caution: "only" on its own works like "only if": it introduces the right side. "Only A are B" means `B --> A`, the same as "All B are A.")
 
 ### G without F
 
@@ -237,11 +237,11 @@ You may need to also diagram answer choices that seem close until you find an ex
     >
     > therefore, not-U
 
-### RULE Questions
+### RULE questions
 
 On RULE questions, you diagram the rule(s) given in the facts.
 
-Diagraming the rule(s) lets you know what you can prove and how you can prove it.
+Diagramming the rule(s) lets you know what you can prove and how you can prove it.
 
 1. We can only prove the idea on the right side (the output).
 1. We can prove it when the left side (the input) happens.

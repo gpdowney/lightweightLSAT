@@ -26,7 +26,7 @@ At minimum take a breath, then remind yourself what you need to do next.
 !!! example "A longer, 3-part reset"
 
     1. Breathe squarely: 4 seconds in, 4 seconds hold, 4 seconds out, 4 seconds hold.
-    2. Do something physical, like touch each finger tip to your thumb.
+    2. Do something physical, like touch each fingertip to your thumb.
     3. Say an affirmation, like "I got this!"
 
 !!! tip "Resets are a skill, practice them deliberately"
@@ -73,9 +73,9 @@ But the better solution is to recognize which "silly" mistakes your personal bra
     I get so distracted trying to find the problem that I eliminate the correct answer. 
     Then I select an answer that does exactly the opposite of what the question asked me to do.
 
-    This happens often enough that I've added a redundancy to my Games process: I quickly re-read questions after I select an answer.
+    This happens often enough that I've added a redundancy to my Reasoning process: I quickly re-read the question after I select an answer.
 
-    I don't do this for Reading or Reasoning because I don't make the same mistake there.
+    I don't do this for Reading because I don't make the same mistake there.
 
 !!! tip "Keep a list of your small mistakes"
 
@@ -89,6 +89,5 @@ But the better solution is to recognize which "silly" mistakes your personal bra
     As you get more skilled, these strategies/redundancies may become unnecessary crutches.
     Practice without them from time to time to see if you still need them.
 
-[understand]: ../read/pace.md
 [sprinting]: speed.md#sprint
 [confuse]: ../reason/confuse.md

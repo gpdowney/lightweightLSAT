@@ -42,7 +42,7 @@ That doesn't mean you need to read slowly. Instead, you should read at an adapti
 
 You invest time in the text in order to grasp the central conflict. This conflict may be summed up in a single thesis sentence, or it may be more subtle.
 
-The conflict will be nuanced. It's not enough to see that author is against something; you must also understand **why** they're opposed.
+The conflict will be nuanced. It's not enough to see that the author is against something; you must also understand **why** they're opposed.
 
 !!! info ""
 
@@ -68,7 +68,7 @@ Size | Asks about | Method
 [Small][small] | specific points | Know where to go back in the text to **prove** the correct answer.
 [Medium][medium] | goes beyond the text | Do both: predict to eliminate *and* go back to prove.
 
-### Move Confidently Through The Answers
+### Move confidently through the answers
 
 Confidence is key to speed because the answers are designed to [confuse][confuse] you.
 To avoid getting turned around by the answers, be decisive:
@@ -79,18 +79,17 @@ Decision | How to make it...
 [Defer] on **weirdo** answers | Don't spend time on confusing answers or answers you aren't sure about until you need to.
 [Select] the **best** answer | The best answer might be an answer you love but more often it will be the least bad option.
 
-## Useful Reading Skills
+## Useful Reading skills
 
 Primary Skills | [Adaptive speed][pace] | [Read for the nuanced conflict][conflict] | Confidently [crush] the questions
 -- | -- |  -- | --
 Secondary Skills | Move at your own pace | Find the thesis sentence | Eliminate for a reason
--- | Use [feedback loops][feedback] | Notice pivot words | Pause to predict
--- | Trust your [confusion] | Ask "Why?" instead of "What?" | Scan answers before going back
--- | Pause and [reread] | Be sensitive to tone | Pick the least bad answer
+&nbsp; | Use [feedback loops][feedback] | Notice pivot words | Pause to predict
+&nbsp; | Trust your [confusion] | Ask "Why?" instead of "What?" | Scan answers before going back
+&nbsp; | Pause and [reread] | Be sensitive to tone | Pick the least bad answer
 
 [pace]: pace.md
 [conflict]: conflict.md
-[size]: size.md
 [crush]: crush.md
 [confuse]: ../reason/confuse.md
 [big]: size.md#big

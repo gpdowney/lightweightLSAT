@@ -4,7 +4,7 @@
 
     I'm not a mental health professional.
 
-Anxiety is different than stress
+## Anxiety is different than stress
 
 Everyone is stressed by the LSAT. The LSAT is a challenging, high stakes test.
 

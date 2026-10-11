@@ -34,7 +34,7 @@ If you don't know what your job is then either...
 
     You have no idea what type of question it is.
 
-    Option 1: Go read about the [reading question types][qs]. You'll learn how to approach a MEDIUM questions like this.
+    Option 1: Go read about the [reading question types][qs]. You'll learn how to approach MEDIUM questions like this.
 
     Option 2: Think about what's similar. Maybe this reminds you of the [infer question family from the Reasoning section][infer]. Try to adapt that approach for this different context. It will work, imperfectly.
 
