@@ -37,8 +37,6 @@ markdown_extensions:
       title: on this page
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
   - pymdownx.smartsymbols:
       trademark: true
       copyright: false

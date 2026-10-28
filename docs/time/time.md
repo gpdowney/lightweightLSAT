@@ -31,17 +31,13 @@ In general, gain time on easier questions, so that you can take your time on har
     If you aren't close to your test day score goals, modify these targets by giving yourself more time or doing fewer questions.
     If you're doing [skill] practice, give yourself much more time to do even fewer questions.
 
-=== "Reading"
-    Text: 3:00 +/- 0:30
-
-    Each question: 0:45 +/- 0:15
-
-=== "Reasoning"
-    First 15 questions: 10:00
-
-    Last 10 questions: 15:00
-
-    Revisit flagged questions: 10:00
+| Section   | Part                      | Target        |
+|-----------|---------------------------|---------------|
+| Reading   | Text                      | 3:00 +/- 0:30 |
+| Reading   | Each question             | 0:45 +/- 0:15 |
+| Reasoning | First 15 questions        | 10:00         |
+| Reasoning | Last 10 questions         | 15:00         |
+| Reasoning | Revisit flagged questions | 10:00         |
 
 [speed]: speed.md
 [slow]: slow.md

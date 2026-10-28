@@ -73,7 +73,7 @@ There are two ways to make lazy takeaways:
 
 !!! example "more example takeaways"
 
-    === "too specific"
+    !!! failure "too specific"
         > On questions that deal with electromagnetism, make sure to not confuse alternating and direct current.
 
         Too specific takeaways are unhelpful because the content of the LSAT doesn't repeat.
@@ -81,7 +81,7 @@ There are two ways to make lazy takeaways:
 
         This too specific takeaway is *lazy* because it allows you to avoid the work of figuring out *why* the distinction mattered.
     
-    === "too general"
+    !!! failure "too general"
         > Watch out for science questions.
 
         This too general takeaway will only make you scared of future science questions, which is not only unhelpful but actually harmful.
@@ -89,7 +89,7 @@ There are two ways to make lazy takeaways:
         Too general takeaways are often *unkind*.
         If you wouldn't tell it to a friend, then it's probably a lazy takeaway.
 
-    === "just right"
+    !!! success "just right"
         >  When a noun is given with different adjectives in front, decide whether they are two different ideas or just one idea.
         >
         > For example, "alternating" and "direct" current are different ideas.

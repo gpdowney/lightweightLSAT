@@ -16,19 +16,12 @@ Conditional logic typically indicates that a question is MECHANICAL in style.
 
     `Kale --> Healthy`
 
-    === "What do we know from this statement?"
-        The rule means that everyone who `eats kale` must be `healthy`.
+    - **What do we know?** Everyone who `eats kale` must be `healthy`.
+    - **You see Jay `eating kale`, do you know that they're `healthy`?** Yes!
+    - **You know Kay is `healthy`, does that mean they `eat kale`?** No! `kale` might not be the only way to be `healthy`.
+    - **Does anyone actually eat `kale`?** Dunno! We just know what happens *if* someone eats kale.
 
-    === "Suppose we see Jay `eating kale`, do we know that they're `healthy`?"
-        Yes!
-
-    === "Suppose we know that Kay is `healthy`, do we know that they `eat kale`?"
-        No! We don't know that `kale` is the only way to be `healthy`.
-    
-    === "Do we know that anyone eats `kale`?"
-        Nope! We just know what happens *if* someone eats kale.
-
-Conditional logic is absolute, but also limited. There's lots we don't know.
+Conditional logic is absolute, but also limited.
 
 ## Conditionals are rules
 
@@ -169,7 +162,7 @@ In a MECHANICAL-HELP question, you diagram to find the gap.
 
 There are two types of gaps.
 
-=== "Gap type 1"
+!!! example "Gap type 1"
     Fact: A --> B
 
     Fact: B --> C
@@ -180,7 +173,7 @@ There are two types of gaps.
 
         C --> D
 
-=== "Gap type 2"
+!!! example "Gap type 2"
     Fact: X --> Y
 
     Fact: W --> Z
