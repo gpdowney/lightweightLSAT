@@ -4,3 +4,4 @@ site/
 node_modules/
 .DS_Store
 ._*
+.wrangler/

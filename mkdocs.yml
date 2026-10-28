@@ -25,6 +25,9 @@ theme:
     - navigation.expand
     - content.action.edit
 
+extra_css:
+  - assets/extra.css
+
 plugins:
   - search
   - literate-nav:
@@ -52,6 +55,7 @@ markdown_extensions:
         emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: >
+  Like the site? Buy me a <a href="https://buy.stripe.com/28oaFD6hT75l7U4144" target="_blank">coffee ☕</a> or <a href="https://buy.stripe.com/14k4hf7lXexNcak5kl" target="_blank">pizza 🍕</a>.<br>
   All original material licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0.</a><br>
   The LSAC does not approve of this website. And I do not approve of the LSAC.
 

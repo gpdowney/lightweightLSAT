@@ -1,0 +1,22 @@
+/* Mobile menu: show the whole navigation tree at once instead of one section at a time */
+@media screen and (max-width: 76.2344em) {
+  .md-nav--primary .md-nav__item--nested > .md-nav {
+    position: static;
+    height: auto;
+    opacity: 1;
+    transform: none;
+    background-color: transparent;
+  }
+
+  .md-nav--primary .md-nav__item--nested > .md-nav > .md-nav__title,
+  .md-nav--primary .md-nav__item--nested > .md-nav__link .md-nav__icon,
+  .md-nav--primary .md-nav__item--nested > .md-nav__container > .md-nav__link .md-nav__icon {
+    display: none;
+  }
+
+  .md-nav--primary .md-nav__item--nested > .md-nav > .md-nav__list {
+    box-shadow: none;
+    overflow: visible;
+    margin-left: 0.8rem;
+  }
+}
