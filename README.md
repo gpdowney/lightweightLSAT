@@ -10,7 +10,7 @@ Here on GitHub you'll find the actual content of the site in the markdown files 
 
 ## Support this project
 
-The site is free and always will be. If you're feeling thankful, you can buy me a [$5 coffee ☕](https://buy.stripe.com/28oaFD6hT75l7U4144) or a [$25 pizza 🍕](https://buy.stripe.com/14k4hf7lXexNcak5kl).
+The site is free and always will be. But you can buy me a [$5 coffee ☕](https://buy.stripe.com/28oaFD6hT75l7U4144) or a [$25 pizza 🍕](https://buy.stripe.com/14k4hf7lXexNcak5kl).
 
 ## Intellectual Property
 
